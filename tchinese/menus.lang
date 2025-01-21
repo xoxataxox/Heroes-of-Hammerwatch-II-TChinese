@@ -1,8 +1,8 @@
 <lang>
 
 	<!-- Game -->
-	<string name="option.g_virtual_res_scale.title">遊戲(畫面)縮放</string>
-	<string name="option.ui_scale.title">介面比例</string>
+	<string name="option.g_virtual_res_scale.title">遊戲畫面縮放</string>
+	<string name="option.ui_scale.title">UI比例</string>
 
 	<string name="option.ui_minimap.title">小地圖</string>
 	<string name="option.ui_minimap_alpha.title">小地圖透明度</string>
