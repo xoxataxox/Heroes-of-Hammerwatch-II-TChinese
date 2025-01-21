@@ -10,6 +10,7 @@ Heroes of Hammerwatch II 繁體中文翻譯
 >Thyraxx.void：Devs are working on it, but currently no ETA when it will be completely implemented/done. 
 
 目前翻譯進度：
+❌未完成、⏳翻譯中、✔️已完成
 <table>
     <tr>
         <td>additional.lang</td>
@@ -29,7 +30,7 @@ Heroes of Hammerwatch II 繁體中文翻譯
     </tr>
     <tr>
         <td>items.lang</td>
-        <td>⏳翻譯中</td>
+        <td>✔️已完成</td>
     </tr>
     <tr>
         <td>menus.lang</td>
