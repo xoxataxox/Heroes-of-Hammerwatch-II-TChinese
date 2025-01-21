@@ -1,0 +1,101 @@
+<lang>
+
+	<!-- Trinkets -->
+
+
+
+
+	<!-- Tavern Meals -->
+	<string name="tavern.meal.simple_broth.name">簡單肉湯</string>
+	<string name="tavern.meal.simple_broth.desc">生命與魔力回復 +0.5</string>
+	<string name="tavern.meal.hearty_meal.name">豐盛大餐</string>
+	<string name="tavern.meal.hearty_meal.desc">生命與魔力回復 +1</string>
+	<string name="tavern.meal.elemental_breakfast.name">元素早餐</string>
+	<string name="tavern.meal.elemental_breakfast.desc">火焰、冰冷、雷電抗性 +50</string>
+	<string name="tavern.meal.hunters_travel_rations.name">獵人旅行口糧</string>
+	<string name="tavern.meal.hunters_travel_rations.desc">對野獸傷害 +20%\n衝刺恢復時間 -25%</string>
+	<string name="tavern.meal.foragers_feast.name">採集者的盛宴</string>
+	<string name="tavern.meal.foragers_feast.desc">木材、石材和鐵的獲取量 +25%</string>
+	<string name="tavern.meal.bishops_blessed_bread.name">主教的祝福麵包/string>
+	<string name="tavern.meal.bishops_blessed_bread.desc">對不死生物傷害 +20%\n-暗影詛咒獲取 -10%</string>
+	<string name="tavern.meal.sweet_pancakes.name">甜煎餅</string>
+	<string name="tavern.meal.sweet_pancakes.desc">移動速度 +5%\n經驗獲取 +20%</string>
+
+
+	<!-- Tavern Drinks -->
+	<string name="tavern.drink.stinging_curse.name">Stinging Curse</string>
+	<string name="tavern.drink.stinging_curse.desc">50% chance to neautralize an incoming shadow curse and take 35 pure damage instead.</string>
+	<string name="tavern.drink.hair_of_the_goblin.name">Hair of the Goblin</string>
+	<string name="tavern.drink.hair_of_the_goblin.desc">+10% Weapon Crit Chance.\n+25% Dash Recovery Time.</string>
+	<string name="tavern.drink.the_impetuous_apprentice.name">The Impetuous Apprentice</string>
+	<string name="tavern.drink.the_impetuous_apprentice.desc">+25% Cast Speed and -25% Reduced Spell Cooldowns.\n+10% Spell Mana Cost.</string>
+	<string name="tavern.drink.slow_and_steady.name">Slow and Steady</string>
+	<string name="tavern.drink.slow_and_steady.desc">-10% Damage Taken.\n-25% Experience Gain.</string>
+	<string name="tavern.drink.sawdust.name">Sawdust</string>
+	<string name="tavern.drink.sawdust.desc">+50% Wood Gain.\n-25% Gold Gain.</string>
+	<string name="tavern.drink.crooked_back.name">Crooked Back</string>
+	<string name="tavern.drink.crooked_back.desc">+50% Stone Gain.\n-5% Health.</string>
+	<string name="tavern.drink.prospectors_pride.name">Prospector's Pride</string>
+	<string name="tavern.drink.prospectors_pride.desc">+50% Iron Gain.\n-10% Armor.</string>
+	<string name="tavern.drink.barking_mad.name">Barking Mad</string>
+	<string name="tavern.drink.barking_mad.desc">+25% Weapon Speed.\n+10% Damage Taken.</string>
+	<string name="tavern.drink.enduring_light.name">Enduring Light</string>
+	<string name="tavern.drink.enduring_light.desc">-25% Shadow Curse Gain.\n-25% Mana Regen.</string>
+	<string name="tavern.drink.fair_play.name">Fair Play</string>
+	<string name="tavern.drink.fair_play.desc">You gain \cb0dfffTrue Strike\d.\nEvasion set to 0.</string>
+	<string name="tavern.drink.the_ambitious_adept.name">The Ambitious Adept</string>
+	<string name="tavern.drink.the_ambitious_adept.desc">+25% Spell Crit Chance.\n+20% Spell Mana Cost.</string>
+	<string name="tavern.drink.dark_desire.name">Dark Desire</string>
+	<string name="tavern.drink.dark_desire.desc">+20% Damage.\n+25% Shadow Curse Gain.</string>
+	<string name="tavern.drink.thrill_seeker.name">Thrill-Seeker</string>
+	<string name="tavern.drink.thrill_seeker.desc">+200% Health Regen when below Half Health.\nHealth Regen set to 0 when above Half Health.</string>
+
+	<string name="tavern.drink.sudden_death.name">Sudden Death</string>
+	<string name="tavern.drink.sudden_death.desc">+50% Spell damage.\nYou lose 50% of the Mana cost as Health when casting spells.</string>
+	<string name="tavern.drink.double_edged.name">Double-Edged</string>
+	<string name="tavern.drink.double_edged.desc">25% Weapon Crit Chance.\nYou lose 2.5% of your current Health when scoring Weapon Crits.</string>
+	<string name="tavern.drink.soul_anguish.name">Soul Anguish</string>
+	<string name="tavern.drink.soul_anguish.desc">1.5% Weapon Mana Leech.\nMana Regen set to 0.</string>
+	<string name="tavern.drink.crimson_feast.name">Crimson Feast</string>
+	<string name="tavern.drink.crimson_feast.desc">10% chance to inflict stacks of \cb0dfffBleeding\d with Weapons and Spells.\n10% chance to be inflicted by a stack of \cb0dfffBleeding\d when taking damage.</string>
+	<string name="tavern.drink.the_happy_hydra.name">The Happy Hydra</string>
+	<string name="tavern.drink.the_happy_hydra.desc">+100% Mana Regen at Full Health.\n-50% Mana Regen when below Full Health.</string>
+	<string name="tavern.drink.gulch_burner.name">Gulch Burner</string>
+	<string name="tavern.drink.gulch_burner.desc">+25% Fire Damage.\n-25% Ice Resistance.</string>
+	<string name="tavern.drink.chilly_fingers.name">Chilly Fingers</string>
+	<string name="tavern.drink.chilly_fingers.desc">+25% Ice Damage.\n-25% Fire Resistance.</string>
+	<string name="tavern.drink.shocking_zinger.name">Shocking Zinger</string>
+	<string name="tavern.drink.shocking_zinger.desc">+25% Lightning Damage\n-20% Armor.</string>
+	<string name="tavern.drink.toxic_twist.name">Toxic Twist</string>
+	<string name="tavern.drink.toxic_twist.desc">+25% Poison Damage\n-10% Health.</string>
+
+	<!-- Valuables -->
+
+	<string name="item.scale_green">Beetle Scale</string>
+	<string name="item.wolf_fur">Wolf Fur</string>
+	<string name="item.chalice_bronze">Bronze Chalice</string>
+	<string name="item.copper_tankard">Copper Tankard</string>
+	<string name="item.brass_statuette">Brass Statuette</string>
+	<string name="item.fine_painting">Fine Painting</string>
+	<string name="item.ceramic_vase">Ceramic Vase</string>
+	<string name="item.silver_goblet">Silver Goblet</string>
+	<string name="item.chalice_silver">Silver Chalice</string>
+	<string name="item.silver_mirror">Silver Mirror</string>
+	<string name="item.silver_plate">Silver Plate</string>
+	<string name="item.ivory_figurine">Ivory Figurine</string>
+	<string name="item.crystal_pitcher">Crystal Pitcher</string>
+	<string name="item.silk_handkerchief">Silk Handkerchief</string>
+	<string name="item.chalice_gold">Gold Chalice</string>
+	<string name="item.gold_statuette">Gold Statuette</string>
+	<string name="item.embroidered_tapestry">Embroidered Tapestry</string>
+	<string name="item.jade_game_board">Jade Game Board</string>
+	<string name="item.jewelry_box">Jewelry Box</string>
+	<string name="item.emerald">Emerald</string>
+	<string name="item.diamond">Diamond</string>
+	<string name="item.ruby">Ruby</string>
+	<string name="item.sapphire">Sapphire</string>
+	<string name="item.gold_music_box">Gold Music Box</string>
+	<string name="item.masterpiece_painting">Masterpiece Painting</string>
+	<string name="item.adamant_statuette">Adamant Statuette</string>
+
+</lang>

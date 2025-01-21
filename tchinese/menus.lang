@@ -1,0 +1,71 @@
+<lang>
+
+	<!-- Game -->
+	<string name="option.g_virtual_res_scale.title">遊戲(畫面)縮放</string>
+	<string name="option.ui_scale.title">介面比例</string>
+
+	<string name="option.ui_minimap.title">小地圖</string>
+	<string name="option.ui_minimap_alpha.title">小地圖透明度</string>
+	<string name="option.ui_minimap_scale.title">小地圖比例</string>
+	<string name="option.ui_minimap_size.title">小地圖大小</string>
+
+	<string name="option.g_real_names.title">真實名稱</string>
+	<string name="option.g_show_pings.title">顯示多人遊戲 Ping</string>
+	<string name="option.g_emotes.title">多人遊戲表情</string>
+
+
+	<string name="option.ui_cursor_fat.title">更大的準心</string>
+	<string name="option.ui_cursor_alpha.title">滑鼠游標透明度</string>
+	<string name="option.ui_overlay_minimap_alpha.title">覆蓋地圖透明度</string>
+	<string name="option.ui_hud_hpbars_enemy.title">敵人血條</string>
+	<string name="option.ui_hud_hpbars_plr.title">盟友血條</string>
+	<string name="option.ui_hud_dashbar.title">玩家衝刺條</string>
+	<string name="option.ui_cursor_health.title">游標狀態</string>
+	<string name="option.g_laser_sight.title">瞄準輔助線</string>
+	<string name="option.g_quickcast.title">快速施法</string>
+
+	<string name="option.g_movedir_snap.title">移動方向自動校正</string>
+	<string name="option.g_aimdir_snap.title">瞄準方向自動校正</string>
+	<string name="option.g_charge_movedir.title">移動方向衝刺</string>
+	<string name="option.g_controller_move_dir.title">瞄準方向移動</string>
+
+	<string name="option.ui_txt.title">浮動文字</string>
+	<string name="option.ui_txt_enemy_hurt_husk.title">遠端傷害數字</string>
+	<string name="option.ui_txt_enemy_hurt_local.title">本地傷害數字</string>
+
+	<string name="option.ui_hud_overlay_always_visible.title">始終顯示HUD</string>
+
+	<string name="option.g_item_pickup_tooltip_trinket.title">飾品拾取預覽</string>
+	<string name="option.g_item_pickup_tooltip_equipment.title">裝備拾取預覽</string>
+
+
+	<!-- Graphics -->
+	<string name="option.v_fullscreen.title">全螢幕</string>
+	<string name="option.v_vsync.title">垂直同步</string>
+	<string name="option.v_fps_limit.title">幀數限制</string>
+	<string name="option.rg_pixel_perfect.title">像素精準</string>
+	<string name="option.r_hdr.title">改進光照效果</string>
+	<string name="option.r_light_decal_proj.title">光線投影</string>
+	<string name="option.r_shadows.title">陰影</string>
+	<string name="option.r_draw_glow.title">發光效果</string>
+	<string name="option.r_draw_bloom.title">泛光效果</string>
+	<string name="option.r_draw_xray.title">透視效果</string>
+	<string name="option.r_environmental_detail.title">環境細節</string>
+	<string name="option.r_wind_sprite_animations.title">植被風動效果</string>
+	<string name="option.rg_brightness.title">亮度</string>
+	<string name="option.rg_gamma.title">伽馬值</string>
+	<string name="option.rg_contrast.title">對比度</string>
+	<string name="option.rg_crt_curve.title">CRT 曲面效果</string>
+	<string name="option.rg_post_phosphor.title">後期處理磷光效果</string>
+	<string name="option.rg_post_bloom.title">後期處理點光與光暈</string>
+
+
+	<!-- Sound -->
+	<string name="option.snd_volume.title">主音量</string>
+	<string name="option.snd_volume_music.title">音樂</string>
+	<string name="option.snd_volume_sfx.title">音效</string>
+	<string name="option.snd_volume_voice.title">語音</string>
+	<string name="option.snd_volume_env.title">環境音效</string>
+	<string name="option.snd_volume_ui.title">介面音效</string>
+
+</lang>

@@ -1,0 +1,223 @@
+<lang>
+	<string name="building.guild_hall.name">Guild Hall</string>
+	<string name="building.training_grounds.name">Training Grounds</string>
+	<string name="building.general_store.name">General Store</string>
+	<string name="building.blacksmith.name">Blacksmith</string>
+	<string name="building.magic_shop.name">Magic Shop</string>	
+	<string name="building.apothecary.name">Apothecary</string>
+	<string name="building.enchanter.name">Enchanter</string>
+	<string name="building.tavern.name">Tavern</string>
+	<string name="building.chapel.name">Chapel</string>
+	<string name="building.pyre.name">Pyre</string>
+	<string name="building.architect.name">Architect</string>
+	<string name="building.hunters_cabin.name">Hunters Cabin</string>
+	<string name="building.library.name">Library</string>
+	<string name="building.trading_post.name">Trading Post</string>
+	<string name="building.tailor.name">Tailor</string>
+
+	<string name="building.tier">Tier %tier%</string>
+	<string name="building.build.new">Build new</string>
+	<string name="building.build.upgrade">Upgrade to tier %num%</string>
+
+
+
+	<string name="tutorial.intro.move1">Try moving around:</string>
+	<string name="tutorial.intro.move2">You can also dash forward with %DashBind%.</string>
+	<string name="tutorial.intro.attack">To get through this barrier you will need to attack with your weapon or use a skill.</string>
+	<string name="tutorial.intro.interact1">To interact with an NPC stand next to them and press %UseBind%.</string>
+	<string name="tutorial.intro.interact2">To go to the next area move to an exit and press %UseBind%.</string>
+	<string name="tutorial.intro.combat">There are some enemy beetles coming up, use your movement to avoid taking damage and use your attacks to defeat them.</string>
+	<string name="tutorial.player_stash">Your player stash is meant for storing equipment you find and also moving it between your characters.</string>
+	<string name="tutorial.player_training1">Every time you level up, you gain \"icn-skillpt" skill points, and \"icn-attrpt" attribute points.</string>
+	<string name="tutorial.player_training2">\"icn-skillpt" skill points can be used to unlock new skills and upgrade them.</string>
+	<string name="tutorial.player_training3">\"icn-attrpt" attribute points are used for increasing your base attributes, which provide bonuses and are required to use equipment.</string>
+	<string name="tutorial.forest.start1">Welcome to the forest!\nYou can always find your way through the forest by just following the road, but you will miss out on a lot of rewards if you do.</string>
+	<string name="tutorial.forest.start2">For help in navigation you can open up the overlay map, or enable a permanent minimap in the options.</string>
+	<string name="tutorial.forest.end1">You can take a look in your inventory to see what you've collected in your run so far.</string>
+	<string name="tutorial.forest.end2">Many things, like trinkets, skill upgrades, and buffs are temporary and lost when the mission ends.\nOthers, like equipment, experience, money, and materials are permanent and not lost.</string>
+	<string name="tutorial.forest.potion1">The apothecary gives you a potion which you can use to restore your health and mana in the middle of combat.</string>
+	<string name="tutorial.forest.potion2">%PotionBind% to use your potion.</string>
+	<string name="tutorial.forest.potion3">You only have a single charge of your potion, but it can refilled by wells.</string>
+	<string name="tutorial.forest.finish">Make sure you talk to NPCs, sometimes they have more than one thing to say, so keep pressing %UseBind% to see everything they want.</string>
+	<string name="tutorial.intro.guild_hall1">Make sure you look at your guild menu to see things shared between your heroes. Accomplishments and Titles give passive bonuses to all your characters, even new ones.</string>
+	<string name="tutorial.intro.guild_hall2">Classes excel at different tasks, each one giving bonuses to your entire guild. If you feel like you're too weak to progress, creating a new character and leveling a different class will help.</string>
+
+
+
+	<string name="dialogue.mercenary.join1">We'll join you on this quest!</string>
+	<string name="dialogue.mercenary.join2">We'll answer your call to arms!</string>
+	<string name="dialogue.mercenary.archon.join1">Lead the way!</string>
+	<string name="dialogue.mercenary.archon.join2">You go, we follow!</string>
+
+	<string name="dialogue.player.dark_citadel.locked">This must be the Dark Citadel. I wonder how to get in.</string>
+
+
+	<string name="npc.shop.armorer">Armorer</string>
+	<string name="upgrades.armor.name">Armor %num%</string>
+	<string name="upgrades.armor.desc">+%gain% armor</string>
+	<string name="upgrades.attack_power.name">Weapon %num%</string>
+	<string name="upgrades.attack_power.desc">+%gain% weapon power</string>
+	<string name="upgrades.attack_speed.name">Weapon Speed %num%</string>
+	<string name="upgrades.attack_speed.desc">+%gain%% weapon speed</string>
+	
+	<string name="npc.shop.apothecary">Apothecary</string>
+	<string name="upgrades.potion_charges.name">Potion Charges %num%</string>
+	<string name="upgrades.potion_charges.desc">+%gain% potion charge</string>
+	<string name="upgrades.potion_health.name">Health Potion %num%</string>
+	<string name="upgrades.potion_health.desc">Potion heals for %to% instead of %from%</string>
+	<string name="upgrades.potion_mana.name">Mana Potion %num%</string>
+	<string name="upgrades.potion_mana.desc">Potion gives %to% mana instead of %from%</string>
+	<string name="upgrades.poison_res.name">Poison Resistance %num%</string>
+	<string name="upgrades.poison_res.desc">+%gain% Poison resistance</string>
+	
+	<string name="npc.shop.athlete">Athlete</string>
+	<string name="upgrades.dash_charges.name">Dash Charges %num%</string>
+	<string name="upgrades.dash_charges.desc">+%gain% dash charge</string>
+	<string name="upgrades.dash_recharge.name">Dash Recharge %num%</string>
+	<string name="upgrades.dash_recharge.desc">-%gain%% Dash recharge time</string>
+	<string name="upgrades.move_speed.name">Move Speed %num%</string>
+	<string name="upgrades.move_speed.desc">+%gain%% move speed</string>
+	<string name="upgrades.health_pickups.name">Health Pickups %num%</string>
+	<string name="upgrades.health_pickups.desc">+%gain%% health pickup gain</string>
+	
+	<string name="npc.shop.mystic">Mystic</string>
+	<string name="upgrades.ele_res.name">Elemental Resistance %num%</string>
+	<string name="upgrades.ele_res.desc">+%gain% Fire, Ice, and Lightning resistance</string>
+	<string name="upgrades.mana_pickups.name">Mana Pickups %num%</string>
+	<string name="upgrades.mana_pickups.desc">+%gain%% mana pickup gain</string>
+	<string name="upgrades.spell_power.name">Spell Power %num%</string>
+	<string name="upgrades.spell_power.desc">+%gain% spell power</string>
+
+	<string name="npc.shop.attribute_assigner">Assign Attributes</string>
+	<string name="npc.shop.material_trader">Trade Material</string>
+	<string name="npc.shop.library_skill">Assign Skill</string>
+	<string name="npc.shop.skill_trainer">Skill Trainer</string>
+	<string name="npc.shop.equipment_upgrade">Upgrade Equipment</string>
+	<string name="npc.shop.equipment_enchant">Enchant Equipment</string>
+	<string name="npc.shop.weapon_mastery">Weapon Mastery</string>
+	<string name="npc.shop.trinket_attune">Attune Trinkets</string>
+
+
+	<string name="npc.shop.builder">Build Building</string>
+	<string name="npc.shop.builder.empty.demo">The full game has more buildings and upgrades!</string>
+
+	<string name="npc.shop.upgrades.empty">You already know everything.</string>
+	<string name="npc.shop.upgrades.empty.shoplvl">Upgrade this shop for more upgrades.</string>
+
+	<string name="npc.shop.equip.sell">Sell your equipment</string>
+	<string name="npc.shop.equip.buy">Buy new equipment</string>
+	<string name="npc.shop.trinket.buy">Buy Trinkets</string>
+	<string name="npc.shop.trinket.left">Can buy: %num%</string>
+	<string name="npc.shop.equip.take">Pick a piece of equipment</string>
+	<string name="npc.shop.trinket.picker">Pick a trinket</string>
+
+	<string name="npc.shop.equip.take.prompt">My wagon is completely full! Would you like a piece of equipment?</string>
+
+
+
+	<string name="dialogue.adam.intro.shout">Help!</string>
+	<string name="dialogue.adam.intro.prompt1">The cult found our camp and attacked!</string>
+	<string name="dialogue.player.intro.response1">What's going on?</string>
+	<string name="dialogue.adam.intro.prompt2">Will you please help, we're not soldiers, they'll kill everyone!</string>
+	<string name="dialogue.player.intro.response2">Of course!</string>
+	<string name="dialogue.adam.intro.prompt3">Thank you! Usually it's just the goblins who are a threat, but they've been managable.</string>
+	<string name="dialogue.adam.intro.prompt4">Recently cultists have been more active and ventured out of their temple.</string>
+	<string name="dialogue.adam.intro.prompt5">But please, hurry, I don't know for how long they'll be able to hold on!</string>
+
+
+	<string name="dialogue.adam.prompt1.1">We'll never be able to repay you.</string>
+	<string name="dialogue.adam.prompt1.2">Not only is the cult getting aggressive, the goblins seem to be up to something too!</string>
+	<string name="dialogue.adam.prompt2.1">Things are really starting to come together around here.</string>
+	<string name="dialogue.adam.prompt2.2">I hope the cult doesn't find us again.</string>
+	<string name="dialogue.adam.prompt3">Building like this would never have been possible without you, thank you so much.</string>
+
+	<string name="dialogue.kevin.prompt1.1">These are some great drinks! You should always drink something when going out into the forest, it's much more fun!</string>
+	<string name="dialogue.kevin.prompt1.2">There are recipes out there for both food and drinks.</string>
+
+	<string name="dialogue.kelly.prompt1.1">It's such a pet friendly town, my cats love exploring.</string>
+	<string name="dialogue.kelly.prompt1.2">This place is cozy, but I'd love to move to one of the bigger houses.</string>
+	<string name="dialogue.kelly.prompt1.3">Nice to meet you, you can call me Kelly.</string>
+
+
+	<string name="dialogue.traveling_monk.prompt1.1">Hey, have we met before?</string>
+	<string name="dialogue.traveling_monk.prompt1.2">I am often on the road, traveling to new places where the light has not yet reached.</string>
+
+	<string name="dialogue.elin.prompt1.1">Did you read any of these?</string>
+	<string name="dialogue.elin.prompt1.2">There's some great stuff here.</string>
+	<string name="dialogue.elin.prompt1.3">Maybe I should bring this to the tavern and read it there.</string>
+
+	<string name="dialogue.grandma.prompt1">I sure hope my grandson drops by soon. I miss him.</string>
+
+	<string name="dialogue.guard_exit.prompt1">Be careful out there!</string>
+
+
+	<string name="dialogue.librarian.found">Oh hello! I've been looking for a while now, but there's nothing here. Not a single book.</string>
+	<string name="dialogue.librarian.prompt1.1">Books are truly something special, they can take you to a different world, a different kind of thought.</string>
+	<string name="dialogue.librarian.prompt1.2">You should look in to building a library, it would take this town to the next level.</string>
+	
+	<string name="dialogue.enchanter.found.1">There are so many enchantments and spells in these books and scrolls.</string>
+	<string name="dialogue.enchanter.found.2">This is all very unique, but I need to get out of here. There are threats everywhere here!</string>
+	
+	<string name="dialogue.architect.found.1">Thank you for saving me, but I fear it might be too late.</string>
+	<string name="dialogue.architect.found.2">I never helped them get through the main entrance, but I think they managed to get to the citadel through this crypt.</string>
+	<string name="dialogue.architect.prompt1">I'll meet you out in the forest by the citadel.</string>
+	<string name="dialogue.architect.prompt2">I'll open this for you.</string>
+
+
+
+	<string name="dialogue.rogue.found.1">Hello there! You're also out here looking for treasure?</string>
+	<string name="dialogue.rogue.found.2">You have a camp set up? If you have space for me I'll show you some tricks.</string>
+	<string name="dialogue.rogue.is_same">Hm. Not sure I trust you.</string>
+	<string name="dialogue.rogue.is_other">Consider training someone in the arts, getting some help with gold can be useful.</string>
+
+	<string name="dialogue.warlock.found.1">Be careful! The door is trapped, and besides, the crypts below are very dangerous.</string>
+	<string name="dialogue.warlock.found.2">Something is awakening down there, I'm getting out of here and you should do the same.</string>
+	<string name="dialogue.warlock.is_same">Good to see you acolyte.</string>
+	<string name="dialogue.warlock.is_other">Us at the darker side of magic have more insight than many, this shadow magic is something special.</string>
+
+	<string name="dialogue.sorcerer.found.1">Oh hey! You figured out that door too? It gets harder now.</string>
+	<string name="dialogue.sorcerer.found.2">The more candles I light before I continue, the harder the fight. I've not managed to get past the shades yet though, so I'm not sure about what's after.</string>
+	<string name="dialogue.sorcerer.is_same">Another student of the elements? Good, they unlock the secrets of the universe.</string>
+	<string name="dialogue.sorcerer.is_other">There is magic all around us, all you need to do is channel it.</string>
+
+
+
+	<string name="dialogue.hunter.intro1">Oh, has the road collapsed?</string>
+	<string name="dialogue.hunter.intro2">You can probably go around by crossing the stream to the west, then heading deeper into the forest to the north.</string>
+	<string name="dialogue.hunter.intro3">But be careful, the forests here are dangerous and the road may well have been blocked deliberately.</string>
+
+	<string name="dialogue.hunter.prompt1">Oh, you're setting up a camp? If you can get me the tools I'll teach you how to get the most from the beasts you slay.</string>
+	<string name="dialogue.hunter.prompt2.1">I need some better shelter than this tent.</string>
+	<string name="dialogue.hunter.prompt2.2">What's going on with these robed idiots running around the forest, do you know anything about that?</string>
+	<string name="dialogue.hunter.prompt3">How's it going out there?</string>
+
+
+	<string name="dialogue.builder.intro.prompt1">Everybody prepare, this is our last stand!</string>
+	<string name="dialogue.builder.intro.prompt2.1">Wow, you're a real hero! Thank you so much, we wouldn't have survived without you.</string>
+	<string name="dialogue.builder.intro.prompt2.2">Those cultists will never stop coming now that they found us, they've been very aggressive recently.</string>
+
+
+	<string name="dialogue.apothecary.intro.prompt1.1">Thank you for your help! They tore down my lab, so I'm limited in what I can do for you, but here, have a potion.</string>
+	<string name="dialogue.apothecary.intro.prompt1.2">I need a proper apothecary lab to help you further, but I will be able to improve your potion.</string>
+
+
+
+	<string name="dialogue.chaplain.intro.prompt1.1">That was so scary, you really arrived like a blessing from above.</string>
+	<string name="dialogue.chaplain.intro.prompt1.2">I can take us somewhere safer.</string>
+	<string name="dialogue.chaplain.prompt1.1">Those cultists have been trying to enter the Dark Citadel for some time now, but they have been much more aggressive lately. They might be getting close now.</string>
+	<string name="dialogue.chaplain.prompt1.2">The Citadel has been closed for centuries; no one knows what happened.</string>
+	<string name="dialogue.chaplain.prompt1.3">It would be a big help if you could head north into the forest and investigate this issue.</string>
+
+
+	<string name="dialogue.subclass.lowlvl">I can't help you yet,\ncome back when you're level 10.</string>
+
+
+	<string name="dialogue.armorer.rescue">Hey! You know the way to the others?</string>
+	<string name="dialogue.armorer.prompt1">Thank you for finding us and getting us here, we'll do what we can to help out.</string>
+
+	<string name="dialogue.blacksmith.rescue">Oh nice, if it was up to my brother here we would be still lost!</string>
+	<string name="dialogue.blacksmith.prompt1">This is a nice spot you have here! If you can help us build a smithy I can help with upgrading your equipment.</string>
+	<string name="dialogue.blacksmith.prompt2.1">My brother can teach you how to use your armor and weapons more efficiently, if you can get us resources for a proper forge I'll also be able to upgrade your equipment.</string>
+	<string name="dialogue.blacksmith.prompt2.2">We also have weapons in the back for sale, they are simple pieces, but of high quality.</string>
+
+</lang>
