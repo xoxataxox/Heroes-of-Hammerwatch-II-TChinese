@@ -45,4 +45,6 @@ Heroes of Hammerwatch II 繁體中文翻譯
     </tr>
 </table>
 
+使用方式：將Github內tchinese資料夾的"所有"檔案放置於steam\steamapps\common\Heroes of Hammerwatch 2\res\language\tchinese內，若language內無tchinese就自行建立資料夾後放入。
+
 
