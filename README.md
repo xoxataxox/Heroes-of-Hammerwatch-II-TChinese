@@ -7,35 +7,35 @@ Heroes of Hammerwatch II 繁體中文翻譯
 <table>
     <tr>
         <td>additional.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
     <tr>
         <td>dialogue.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
     <tr>
         <td>equipment.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
     <tr>
         <td>input.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
     <tr>
         <td>items.lang</td>
-        <td>未完成</td>
+        <td>⏳翻譯中</td>
     </tr>
     <tr>
         <td>menus.lang</td>
-        <td>已完成</td>
+        <td>✔️已完成</td>
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
     <tr>
         <td>system.lang</td>
-        <td>未完成</td>
+        <td>❌未完成</td>
     </tr>
 </table>
 
