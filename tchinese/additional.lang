@@ -260,57 +260,57 @@
 	<string name="misc.dmg.evade">閃避！</string>
 	<string name="misc.dmg.parry">格擋！</string>
 
-	<string name="menu.player.stats.currpoints">Points to spend: %points%\"icn-attrpt"</string>
-	<string name="menu.player.stats.mainhand">Mainhand</string>
-	<string name="menu.player.stats.offhand">Offhand</string>
-	<string name="menu.player.stats.damage">Damage</string>
+	<string name="menu.player.stats.currpoints">可分配點數： %points%\"icn-attrpt"</string>
+	<string name="menu.player.stats.mainhand">主手</string>
+	<string name="menu.player.stats.offhand">副手</string>
+	<string name="menu.player.stats.damage">傷害</string>
 
-	<string name="character.stat.tooltip.evasion.title">Evasion</string>
-	<string name="character.stat.tooltip.evasion.text">Chance to evade attacks.</string>
-	<string name="character.stat.tooltip.parry.title">Parry</string>
-	<string name="character.stat.tooltip.parry.text">Chance to parry frontal melee attacks.</string>
+	<string name="character.stat.tooltip.evasion.title">閃避</string>
+	<string name="character.stat.tooltip.evasion.text">閃避攻擊的機率</string>
+	<string name="character.stat.tooltip.parry.title">招架</string>
+	<string name="character.stat.tooltip.parry.text">招架正面近戰攻擊的機率</string>
 
-	<string name="character.stat.tooltip.castspeed.title">Cast Speed</string>
-	<string name="character.stat.tooltip.castspeed.text">This is how fast you cast spells.</string>
-	<string name="character.stat.tooltip.spellcooldown.title">Spell Cooldown</string>
-	<string name="character.stat.tooltip.spellcooldown.text">This is how long you need to wait before casting a spell again.</string>
-	<string name="character.stat.tooltip.spellcritdmg.title">Spell Critical Hit Damage</string>
-	<string name="character.stat.tooltip.spellcritdmg.text">This is how much damage critical hits of spells do.</string>
-	<string name="character.stat.tooltip.spellcritchance.title">Spell Critical Hit Chance</string>
-	<string name="character.stat.tooltip.spellcritchance.text">Chance to score critical hits with spells.</string>
+	<string name="character.stat.tooltip.castspeed.title">施法速度</string>
+	<string name="character.stat.tooltip.castspeed.text">決定施法的速度</string>
+	<string name="character.stat.tooltip.spellcooldown.title">法術冷卻時間</string>
+	<string name="character.stat.tooltip.spellcooldown.text">法術再次施放所需的冷卻時間</string>
+	<string name="character.stat.tooltip.spellcritdmg.title">法術暴擊傷害</string>
+	<string name="character.stat.tooltip.spellcritdmg.text">法術暴擊造成的額外傷害</string>
+	<string name="character.stat.tooltip.spellcritchance.title">法術暴擊率</string>
+	<string name="character.stat.tooltip.spellcritchance.text">法術造成暴擊的機率</string>
 
 	<string name="character.stat.tooltip.attackspeed.title">攻擊速度</string>
-	<string name="character.stat.tooltip.attackspeed.text">This is how fast you perform attacks.</string>
-	<string name="character.stat.tooltip.attackcritdmg.title">Attack Critical Hit Damage</string>
-	<string name="character.stat.tooltip.attackcritdmg.text">This is how much damage critical hits of attacks do.</string>
-	<string name="character.stat.tooltip.attackcritchance.title">Attack Critical Hit Chance</string>
-	<string name="character.stat.tooltip.attackcritchance.text">Chance to score critical hits with attacks.</string>
+	<string name="character.stat.tooltip.attackspeed.text">決定攻擊的速度</string>
+	<string name="character.stat.tooltip.attackcritdmg.title">攻擊暴擊傷害</string>
+	<string name="character.stat.tooltip.attackcritdmg.text">攻擊暴擊造成的額外傷害</string>
+	<string name="character.stat.tooltip.attackcritchance.title">攻擊暴擊率</string>
+	<string name="character.stat.tooltip.attackcritchance.text">攻擊造成暴擊的機率</string>
 
-	<string name="character.stat.tooltip.armorbreak.title">Armor Penetration</string>
-	<string name="character.stat.tooltip.armorbreak.text">Reduces the Armor of your target.</string>
-	<string name="character.stat.tooltip.resistancefirebreak.title">Fire Resistance Penetration</string>
-	<string name="character.stat.tooltip.resistancefirebreak.text">Reduces the Fire Resistance of your target.</string>
-	<string name="character.stat.tooltip.resistanceicebreak.title">Ice Resistance Penetration</string>
-	<string name="character.stat.tooltip.resistanceicebreak.text">Reduces the Ice Resistance of your target.</string>
-	<string name="character.stat.tooltip.resistancelightningbreak.title">Lightning Resistance Penetration</string>
-	<string name="character.stat.tooltip.resistancelightningbreak.text">Reduces the Lightning Resistance of your target.</string>
-	<string name="character.stat.tooltip.resistancepoisonbreak.title">Poison Resistance Penetration</string>
-	<string name="character.stat.tooltip.resistancepoisonbreak.text">Reduces the Poison Resistance of your target.</string>
+	<string name="character.stat.tooltip.armorbreak.title">護甲穿透</string>
+	<string name="character.stat.tooltip.armorbreak.text">降低目標的護甲值</string>
+	<string name="character.stat.tooltip.resistancefirebreak.title">火焰抗性穿透</string>
+	<string name="character.stat.tooltip.resistancefirebreak.text">降低目標的火焰抗性</string>
+	<string name="character.stat.tooltip.resistanceicebreak.title">冰冷抗性穿透</string>
+	<string name="character.stat.tooltip.resistanceicebreak.text">降低目標的冰冷抗性</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.title">閃電抗性穿透</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.text">降低目標的閃電抗性</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.title">毒素抗性穿透</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.text">降低目標的毒素抗性</string>
 
-	<string name="skills.equipment.archon_nova.name">Essence Nova</string>
-	<string name="skills.equipment.archon_nova.desc">Discharges several swirling projectiles dealing %dmg% Fire and Pure damage. %cd% cooldown.</string>
-	<string name="skills.equipment.thunderbird_lightning.name">Call Lightning</string>
-	<string name="skills.equipment.thunderbird_lightning.desc">Summons a series of lightning strikes in a forward direction dealing %dmg% Lightning damage. %cd% cooldown.</string>
-	<string name="modifiers.class.warlock.fiends_add.desc">You can summon %value% additional %c-highlight%Fiends\d.</string>
-	<string name="modifiers.class.wizard.duplicate_add.desc">You can summon %value% additional %c-highlight%Duplicate\d.</string>
+	<string name="skills.equipment.archon_nova.name">本源新星</string>
+	<string name="skills.equipment.archon_nova.desc">釋放多個旋轉投射物，造成 %dmg% 火焰和純粹傷害。冷卻時間：%cd%</string>
+	<string name="skills.equipment.thunderbird_lightning.name">召喚閃電</string>
+	<string name="skills.equipment.thunderbird_lightning.desc">召喚一連串閃電攻擊前方，造成 %dmg% 閃電傷害。冷卻時間：%cd%</string>
+	<string name="modifiers.class.warlock.fiends_add.desc">你可以額外召喚 %value% 名 %c-highlight%惡魔\d</string>
+	<string name="modifiers.class.wizard.duplicate_add.desc">你可以額外召喚 %value% 個 %c-highlight%分身\d。</string>
 
-	<string name="skills.desc.params.projectile.dmg">投射物傷害:</string>
-	<string name="modifiers.misc.attack_hit_health_chance.desc">%chance%% to restore %value% Health on Attack Hit.</string>
-	<string name="modifiers.misc.attack_hit_stamina_chance.desc">%chance%% to restore %value% Stamina on Attack Hit.</string>
-	<string name="modifiers.misc.attack_hit_mana_chance.desc">%chance%% to restore %value% Mana on Attack Hit.</string>
-	<string name="modifiers.enchant.blackheart.prefix">Blackheart</string>
-	<string name="modifiers.enchant.blackheart.suffix">of Corruption</string>
-	<string name="modifiers.damage_taken.desc">%desc%% more damage taken.</string>
+	<string name="skills.desc.params.projectile.dmg">投射物傷害：</string>
+	<string name="modifiers.misc.attack_hit_health_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 生命</string>
+	<string name="modifiers.misc.attack_hit_stamina_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 耐力</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 法力值。</string>
+	<string name="modifiers.enchant.blackheart.prefix">黑心</string>
+	<string name="modifiers.enchant.blackheart.suffix">腐化之</string>
+	<string name="modifiers.damage_taken.desc">額外受到 %desc%% 傷害</string>
 
 
 	<string name="menu.player.stats.mainhand">主手</string>
@@ -318,9 +318,9 @@
 	<string name="menu.player.stats.damage">傷害</string>
 
 
-	<string name="dialogue.player_door_locked_generic">It's locked!</string>
+	<string name="dialogue.player_door_locked_generic">已上鎖！</string>
 
-	<string name="enemy.ghost_priest.name">Priest Ghost</string>
+	<string name="enemy.ghost_priest.name">幽靈祭司</string>
 
 	<!-- Missing Added 0911 -->
 	<!-- Missing Added 0911 -->
@@ -332,12 +332,12 @@
 	<string name="menu.pick_character.createnew">創建新角色</string>
 	<string name="menu.pick_character.localsave">本地存檔</string>
 
-	<string name="o.press.specific.key">Press %key%</string>
+	<string name="o.press.specific.key">按 %key%</string>
 
-	<string name="o.press.specific.key.to.join">Press %key% to join session.</string>
+	<string name="o.press.specific.key.to.join">按 %key% 加入遊戲</string>
 
-	<string name="menu.options.legacy.control.title">Legacy Controls</string>
-	<string name="menu.options.legacy.control.desc">Emulates original controls and handling from Hammerwatch, released 2013.</string>
+	<string name="menu.options.legacy.control.title">經典控制方式</string>
+	<string name="menu.options.legacy.control.desc">模擬 2013 年發行的《Hammerwatch》中的原版控制方式</string>
 	<string name="menu.controls.hold">HOLD POSITION</string>
 
 
