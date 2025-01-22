@@ -197,68 +197,68 @@
 	<string name="text.saving">儲存中...</string>
 
 	<string name="menu.playerlist.profile.title">個人檔案</string>
-	<string name="menu.playerlist.profile.tooltip">Open this player's profile.</string>
-	<string name="menu.playerlist.kick.title">Kick</string>
-	<string name="menu.playerlist.kick.tooltip">Kick this player.</string>
-	<string name="menu.playerlist.kick.prompt">Are you sure you want to kick %name%?</string>
-	<string name="menu.playerlist.ping">%value% ms</string>
-	<string name="menu.playerlist.host">Host</string>
+	<string name="menu.playerlist.profile.tooltip">打開該玩家的個人檔案</string>
+	<string name="menu.playerlist.kick.title">踢出</string>
+	<string name="menu.playerlist.kick.tooltip">踢出該玩家</string>
+	<string name="menu.playerlist.kick.prompt">確定要踢出 %name% 嗎？</string>
+	<string name="menu.playerlist.ping">%value% 毫秒</string>
+	<string name="menu.playerlist.host">主機</string>
 
 
 
-	<string name="item.torch.name">Torch</string>
-	<string name="item.torch.desc">Makes it a little brighter around you.</string>
+	<string name="item.torch.name">火炬</string>
+	<string name="item.torch.desc">使周圍稍微變亮</string>
 
 
-	<string name="menu.controls.menuaccept">Menu Accept</string>
-	<string name="rope.tied">Rope tied!</string>
-	<string name="cred.title.engine2">Powered by the A000FF engine, that also runs Serious Sam's Bogus Detour,\nHeroes of Hammerwatch and Hammerwatch II.</string>
-	<string name="menu.lobby.chat.minplayers">You need at least %min% players to start.</string>
-	<string name="menu.lobby.chat.maxplayers">You can have at most %max% players in this scenario.</string>
-	<string name="menu.controls.layout.ds41">DualShock 4 1</string>
-	<string name="menu.controls.layout.ds42">DualShock 4 2</string>
-	<string name="menu.controls.layout.ds43">DualShock 4 3</string>
-	<string name="menu.controls.layout.ds44">DualShock 4 4</string>
-	<string name="menu.loadgame.failed">加載存檔失敗</string>
+	<string name="menu.controls.menuaccept">選單確定</string>
+	<string name="rope.tied">繩子已綁好！</string>
+	<string name="cred.title.engine2">由 A000FF 引擎提供支持，同樣用於《Serious Sam's Bogus Detour》\n《Heroes of Hammerwatch》和《Hammerwatch II》</string>
+	<string name="menu.lobby.chat.minplayers">需要至少 %min% 名玩家才能開始</string>
+	<string name="menu.lobby.chat.maxplayers">此場景最多可容納 %max% 名玩家</string>
+	<string name="menu.controls.layout.ds41">控制器 4 1</string>
+	<string name="menu.controls.layout.ds42">控制器 4 2</string>
+	<string name="menu.controls.layout.ds43">控制器 4 3</string>
+	<string name="menu.controls.layout.ds44">控制器 4 4</string>
+	<string name="menu.loadgame.failed">載入存檔失敗</string>
 
-	<string name="button.skip">Skip</string>
+	<string name="button.skip">跳過</string>
 
-	<string name="g_autoequip">Autoequip</string>
-	<string name="g_autoequip.help">Automatically equips new equipment if there is not already something in that slot.</string>
+	<string name="g_autoequip">自動裝備</string>
+	<string name="g_autoequip.help">若該裝備欄位尚未有裝備，則自動裝備新裝備</string>
 
-	<string name="g_quickcast">Quickcast</string>
-	<string name="g_quickcast.help">Casts skills immediately on use, ignoring the aim step.</string>
+	<string name="g_quickcast">快速施法</string>
+	<string name="g_quickcast.help">立即施放技能，忽略瞄準步驟</string>
 
-	<string name="ui_show_controlbinds">Control Bindings</string>
-	<string name="ui_show_controlbinds.help">Show button prompts in UI.</string>
+	<string name="ui_show_controlbinds">控制鍵綁定</string>
+	<string name="ui_show_controlbinds.help">在介面中顯示按鍵提示</string>
 
-	<string name="g_movedir_snap">Movement Direction Snap</string>
-	<string name="g_movedir_snap.help">Restricts the number of different directions that you can move.</string>
+	<string name="g_movedir_snap">移動方向鎖定</string>
+	<string name="g_movedir_snap.help">限制可移動的方向數量</string>
 
-	<string name="g_aimdir_snap">Aim Direction Snap</string>
-	<string name="g_aimdir_snap.help">Restricts the number of different directions that you can aim.</string>
+	<string name="g_aimdir_snap">瞄準方向鎖定</string>
+	<string name="g_aimdir_snap.help">限制可瞄準的方向數量</string>
 
-	<string name="g_charge_movedir">Movement Direction Dash</string>
-	<string name="g_charge_movedir.help">While walking, use the movement direction to dash.</string>
+	<string name="g_charge_movedir">移動方向衝刺</string>
+	<string name="g_charge_movedir.help">行走時可根據移動方向進行衝刺</string>
 
-	<string name="ui_hud_hpbars_plr">Ally Health Bars</string>
-	<string name="ui_hud_hpbars_plr.help">Display health of allies.</string>
+	<string name="ui_hud_hpbars_plr">隊友血條</string>
+	<string name="ui_hud_hpbars_plr.help">顯示隊友的血量</string>
 
 	<string name="menu.controls.actionmenuforward">ACTION MENU FORWARD</string>
 
-	<string name="menu.loadgame.ren">Rename</string>
-	<string name="menu.loadgame.del">Delete</string>
-	<string name="menu.loadgame.load">Load</string>
-	<string name="button.save">Save</string>
+	<string name="menu.loadgame.ren">重新命名</string>
+	<string name="menu.loadgame.del">刪除</string>
+	<string name="menu.loadgame.load">載入存檔</string>
+	<string name="button.save">存檔</string>
 
-	<string name="item.error.empty_potion">Potion is empty! Needs to be refilled!</string>
+	<string name="item.error.empty_potion">藥水已空！需要重新補充！!</string>
 
 	<string name="menu.notifier.joinfailed.join">加入大廳失敗</string>
 	<string name="menu.notifier.joinfailed.host">創建大廳失敗</string>
 
-	<string name="misc.dmg.miss">Miss!</string>
-	<string name="misc.dmg.evade">閃避!</string>
-	<string name="misc.dmg.parry">Parry!</string>
+	<string name="misc.dmg.miss">未命中！</string>
+	<string name="misc.dmg.evade">閃避！</string>
+	<string name="misc.dmg.parry">格擋！</string>
 
 	<string name="menu.player.stats.currpoints">Points to spend: %points%\"icn-attrpt"</string>
 	<string name="menu.player.stats.mainhand">Mainhand</string>
