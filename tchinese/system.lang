@@ -1,182 +1,182 @@
 <lang name="TChinese">
 
-	<string name="skill.tag.weapon">\cffdfb0Weapon\d</string>
-	<string name="skill.tag.spell">\cffdfb0Spell\d</string>
-	<string name="skill.tag.passive">\cffdfb0Passive\d</string>
-	<string name="skill.tag.ranged">\cffdfb0Ranged\d</string>
-	<string name="skill.tag.melee">\cffdfb0Melee\d</string>
-	<string name="skill.tag.physical">\cffdfb0Physical\d</string>
-	<string name="skill.tag.arcane">\cffdfb0Arcane\d</string>
-	<string name="skill.tag.bow">\cffdfb0Bow\d</string>
-	<string name="skill.tag.fire">\cffdfb0Fire\d</string>
-	<string name="skill.tag.ice">\cffdfb0Ice\d</string>
-	<string name="skill.tag.lightning">\cffdfb0Lightning\d</string>
-	<string name="skill.tag.poison">\cffdfb0Poison\d</string>
+	<string name="skill.tag.weapon">\cffdfb0武器\d</string>
+	<string name="skill.tag.spell">\cffdfb0法術\d</string>
+	<string name="skill.tag.passive">\cffdfb0被動\d</string>
+	<string name="skill.tag.ranged">\cffdfb0遠程\d</string>
+	<string name="skill.tag.melee">\cffdfb0近戰\d</string>
+	<string name="skill.tag.physical">\cffdfb0物理\d</string>
+	<string name="skill.tag.arcane">\cffdfb0秘法\d</string>
+	<string name="skill.tag.bow">\cffdfb0弓\d</string>
+	<string name="skill.tag.fire">\cffdfb0火焰\d</string>
+	<string name="skill.tag.ice">\cffdfb0冰冷\d</string>
+	<string name="skill.tag.lightning">\cffdfb0閃電\d</string>
+	<string name="skill.tag.poison">\cffdfb0毒素\d</string>
 
 
 	<!-- Menu -->
-	<string name="menu.accept">Accept</string>
-	<string name="menu.yes">Yes</string>
-	<string name="menu.no">No</string>
-	<string name="menu.ok">Ok</string>
-	<string name="menu.cancel">Cancel</string>
+	<string name="menu.accept">接受</string>
+	<string name="menu.yes">是</string>
+	<string name="menu.no">否</string>
+	<string name="menu.ok">確定</string>
+	<string name="menu.cancel">取消</string>
 	<string name="menu.cost">\"icn-money" %amount%</string>
 
-	<string name="misc.timeletters.hours">h</string>
-	<string name="misc.timeletters.minutes">m</string>
-	<string name="misc.timeletters.seconds">s</string>
+	<string name="misc.timeletters.hours">時</string>
+	<string name="misc.timeletters.minutes">分</string>
+	<string name="misc.timeletters.seconds">秒</string>
 
-	<string name="misc.unknown">Unknown</string>
-	<string name="misc.locked">Locked</string>
-	<string name="misc.hold">Hold</string>
+	<string name="misc.unknown">未知</string>
+	<string name="misc.locked">鎖定</string>
+	<string name="misc.hold">按住</string>
 
-	<string name="menu.dead.died_title">You died!</string>
-	<string name="menu.dead.died_text">Go back to town?</string>
+	<string name="menu.dead.died_title">你死了！</string>
+	<string name="menu.dead.died_text">返回城鎮？</string>
 
-	<string name="menu.class.paladin">Paladin</string>
-	<string name="menu.class.ranger">Ranger</string>
-	<string name="menu.class.rogue">Rogue</string>
-	<string name="menu.class.wizard">Wizard</string>
-	<string name="menu.class.warlock">Warlock</string>
-	<string name="menu.class.sorcerer">Sorcerer</string>
-	<string name="menu.class.warrior">Warrior</string>
+	<string name="menu.class.paladin">聖騎士</string>
+	<string name="menu.class.ranger">遊俠</string>
+	<string name="menu.class.rogue">盜賊</string>
+	<string name="menu.class.wizard">巫師</string>
+	<string name="menu.class.warlock">術士</string>
+	<string name="menu.class.sorcerer">魔導士</string>
+	<string name="menu.class.warrior">戰士</string>
 
-	<string name="menu.class.paladin.description">A righteous champion that upholds law and order through sheer force and firm belief.</string>
-	<string name="menu.class.ranger.description">A natural born hunter in tune with the woods that can harness the powers of nature.</string>
-	<string name="menu.class.rogue.description">A swashbuckling scoundrel that utilize innate agility and cunning tactics to overcome their foes.</string>
-	<string name="menu.class.wizard.description">A skilled wielder of the arcane that can devastate their opponents with their magical powers.</string>
-	<string name="menu.class.warlock.description">A practitioner of the dark arts that specializes in manipulating the souls of their adversaries.</string>
-	<string name="menu.class.sorcerer.description">A master of arts that can devastate their opponents with elemental forces.</string>
-	<string name="menu.class.warrior.description">A fighter comfortable with a wide variety of weaponry who can stand their ground against most foes.</string>
-
-
-
-	<string name="menu.colorslot.skin">Skin</string>
-	<string name="menu.colorslot.hair">Hair</string>
-	<string name="menu.colorslot.shield_face">Shield Face</string>
-	<string name="menu.colorslot.shield_trim">Shield Trim</string>
-	<string name="menu.colorslot.mace">Mace</string>
-	<string name="menu.colorslot.helmet">Helmet</string>
-	<string name="menu.colorslot.helmet_trim">Helmet Trim</string>
-	<string name="menu.colorslot.breastplate">Breastplate</string>
-	<string name="menu.colorslot.shoulder_trim">Shoulder Trim</string>
-	<string name="menu.colorslot.cape">Cape</string>
-	<string name="menu.colorslot.cape_trim">Cape Trim</string>
-	<string name="menu.colorslot.hood">Hood</string>
-	<string name="menu.colorslot.coat">Coat</string>
-	<string name="menu.colorslot.scarf">Scarf</string>
-	<string name="menu.colorslot.bow">Bow</string>
-	<string name="menu.colorslot.vambrace">Vambrace</string>
-	<string name="menu.colorslot.bandana">Bandana</string>
-	<string name="menu.colorslot.shirt">Shirt</string>
-	<string name="menu.colorslot.shoulder">Shoulder</string>
-	<string name="menu.colorslot.hat">Hat</string>
-	<string name="menu.colorslot.robe">Robe</string>
-	<string name="menu.colorslot.book">Book</string>
-	<string name="menu.colorslot.crystal">Crystal</string>
-	<string name="menu.colorslot.staff">Staff</string>
-	<string name="menu.colorslot.dagger">Dagger</string>
-	<string name="menu.colorslot.dagger_hilt">Dagger Hilt</string>
-	<string name="menu.colorslot.orb">Orb</string>
+	<string name="menu.class.paladin.description">一位正義的擁護者，以強大的力量和堅定的信念維護法紀</string>
+	<string name="menu.class.ranger.description">天生的獵人，與自然融為一體，可利用自然的力量</string>
+	<string name="menu.class.rogue.description">靈巧且狡猾的劍客，運用機智戰術擊敗敵人</string>
+	<string name="menu.class.wizard.description">精通秘法的施法者，能以魔法摧毀對手</string>
+	<string name="menu.class.warlock.description">黑暗魔法的操控者，擅長操弄敵人的靈魂</string>
+	<string name="menu.class.sorcerer.description">元素力量的大師，以自然災害壓制敵人</string>
+	<string name="menu.class.warrior.description">熟悉多種武器的鬥士，能抵擋絕大多數的敵人</string>
 
 
 
-	<string name="menu.charcreate.class">Class</string>
-	<string name="menu.charcreate.class.skills">Skills</string>
-	<string name="menu.charcreate.class.gear">Starting equipment</string>
-	<string name="menu.charcreate.custom">Customize</string>
+	<string name="menu.colorslot.skin">膚色</string>
+	<string name="menu.colorslot.hair">頭髮</string>
+	<string name="menu.colorslot.shield_face">盾面</string>
+	<string name="menu.colorslot.shield_trim">盾邊</string>
+	<string name="menu.colorslot.mace">錘</string>
+	<string name="menu.colorslot.helmet">頭盔</string>
+	<string name="menu.colorslot.helmet_trim">頭盔飾邊</string>
+	<string name="menu.colorslot.breastplate">胸甲</string>
+	<string name="menu.colorslot.shoulder_trim">肩甲飾邊</string>
+	<string name="menu.colorslot.cape">披風</string>
+	<string name="menu.colorslot.cape_trim">披風飾邊</string>
+	<string name="menu.colorslot.hood">兜帽</string>
+	<string name="menu.colorslot.coat">外套</string>
+	<string name="menu.colorslot.scarf">圍巾</string>
+	<string name="menu.colorslot.bow">弓</string>
+	<string name="menu.colorslot.vambrace">臂甲</string>
+	<string name="menu.colorslot.bandana">頭巾</string>
+	<string name="menu.colorslot.shirt">襯衫</string>
+	<string name="menu.colorslot.shoulder">肩甲</string>
+	<string name="menu.colorslot.hat">帽子</string>
+	<string name="menu.colorslot.robe">長袍</string>
+	<string name="menu.colorslot.book">書本</string>
+	<string name="menu.colorslot.crystal">水晶</string>
+	<string name="menu.colorslot.staff">法杖</string>
+	<string name="menu.colorslot.dagger">匕首</string>
+	<string name="menu.colorslot.dagger_hilt">匕首柄</string>
+	<string name="menu.colorslot.orb">法球</string>
 
-	<string name="menu.charcreate.custom.features">Features</string>
-	<string name="menu.charcreate.custom.color">Color</string>
-	<string name="menu.charcreate.custom.voice">Voice</string>
-	<string name="menu.charcreate.custom.hair">Hair</string>
-	<string name="menu.charcreate.custom.eyes">Eyes</string>
-	<string name="menu.charcreate.custom.nose">Nose</string>
-	<string name="menu.charcreate.custom.mouth">Mouth</string>
-	<string name="menu.charcreate.custom.skin">Skin</string>
-	<string name="menu.charcreate.custom.hair">Hair</string>
 
 
-	<string name="menu.loadgame.charlevel">Level %level%</string>
+	<string name="menu.charcreate.class">職業</string>
+	<string name="menu.charcreate.class.skills">技能</string>
+	<string name="menu.charcreate.class.gear">起始裝備</string>
+	<string name="menu.charcreate.custom">自定義</string>
+
+	<string name="menu.charcreate.custom.features">特徵</string>
+	<string name="menu.charcreate.custom.color">顏色</string>
+	<string name="menu.charcreate.custom.voice">聲音</string>
+	<string name="menu.charcreate.custom.hair">頭髮</string>
+	<string name="menu.charcreate.custom.eyes">眼睛</string>
+	<string name="menu.charcreate.custom.nose">鼻子</string>
+	<string name="menu.charcreate.custom.mouth">嘴巴</string>
+	<string name="menu.charcreate.custom.skin">膚色</string>
+	<string name="menu.charcreate.custom.hair">頭髮</string>
+
+
+	<string name="menu.loadgame.charlevel">等級 %level%</string>
 	<string name="menu.loadgame.charlevel_short">Lvl %level%</string>
 	<string name="menu.loadgame.ngplevel">ng+%ngp%</string>
-	<string name="menu.loadgame.run_resume">Would you like to resume your run at '%name%'?</string>
-	<string name="menu.loadgame.run_noresume">You can't resume your current run at '%name%' now. Abandon?</string>
-	<string name="menu.loadgame.delete">Are you sure you want to delete your level %level% %class%, '%name%'?</string>
+	<string name="menu.loadgame.run_resume">您想在 '%name%' 恢復您的進度嗎？</string>
+	<string name="menu.loadgame.run_noresume">您目前無法在 '%name%' 恢復進度。是否放棄？</string>
+	<string name="menu.loadgame.delete">確定要刪除您的等級 %level% %class%, '%name%'？</string>
 
 
-	<string name="menu.guild.statistics">Statistics</string>
-	<string name="menu.guild.statistics.run">This run</string>
-	<string name="menu.guild.statistics.char">Character</string>
-	<string name="menu.guild.statistics.total">Total</string>
-	<string name="menu.guild.accomplishments">Accomplishments</string>
-	<string name="menu.guild.accomplishments.info">Reward bonuses are given to all your characters.</string>
-	<string name="menu.guild.accomplishments.awarded">Awarded:</string>
-	<string name="menu.guild.itemiary">Trinkets</string>
-	<string name="menu.guild.itemiary.empty">Find trinkets to fill this list.</string>
-	<string name="menu.guild.titles">Titles</string>
-	<string name="menu.guild.titles.info">Title bonuses are given to all your characters.</string>
+	<string name="menu.guild.statistics">統計數據</string>
+	<string name="menu.guild.statistics.run">本次進度</string>
+	<string name="menu.guild.statistics.char">角色</string>
+	<string name="menu.guild.statistics.total">總計</string>
+	<string name="menu.guild.accomplishments">成就</string>
+	<string name="menu.guild.accomplishments.info">獎勵加成會適用於所有角色</string>
+	<string name="menu.guild.accomplishments.awarded">已獲得：</string>
+	<string name="menu.guild.itemiary">飾品</string>
+	<string name="menu.guild.itemiary.empty">找到飾品以填滿此清單</string>
+	<string name="menu.guild.titles">稱號</string>
+	<string name="menu.guild.titles.info">稱號加成會適用於所有角色</string>
 	
 	
-	<string name="menu.enchanter.no_equipment">You have nothing equipped that can be enchanted.</string>
-	<string name="menu.enchanter.no_modifiers">You have no enchantsments to apply, find more blueprints.</string>
-	<string name="menu.enchanter.upgrade">Upgrade to %quality%</string>
-	<string name="menu.enchanter.enchant">Enchant</string>
+	<string name="menu.enchanter.no_equipment">您沒有可附魔的裝備</string>
+	<string name="menu.enchanter.no_modifiers">您沒有可用的附魔，請尋找更多藍圖</string>
+	<string name="menu.enchanter.upgrade">升級至 %quality%</string>
+	<string name="menu.enchanter.enchant">附魔</string>
 
-	<string name="menu.library.no_attunement">You have no trinkets to attune, find more blueprints.</string>
+	<string name="menu.library.no_attunement">您沒有飾品可調整，請尋找更多藍圖</string>
 
 
 
 	<!-- Player Menu -->
-	<string name="menu.player.map">Map</string>
-	<string name="menu.player.char">Character</string>
-	<string name="menu.player.char.experience">Experience: %exp%/%expmax% (%prog%%)</string>
-	<string name="menu.player.char.level">Level %lvl%</string>
-	<string name="menu.player.char.level_cap">Level cap: %lvl%</string>
-	<string name="menu.player.char.inventory">Inventory</string>
-	<string name="menu.player.char.trinkets">Trinkets</string>
-	<string name="menu.player.char.equipment">Equipment</string>
-	<string name="menu.player.char.materials">Materials</string>
-	<string name="menu.player.char.materials.run">This run</string>
-	<string name="menu.player.char.materials.town">Town</string>
-	<string name="menu.player.mods">Info</string>
-	<string name="menu.player.mods.skills">Skills</string>
-	<string name="menu.player.mods.stats">Stats</string>
-	<string name="menu.player.mods.effects">Effects</string>
-	<string name="menu.player.mods.stats.attributes">Attributes</string>
-	<string name="menu.player.mods.stats.pools">Pools</string>
-	<string name="menu.player.mods.stats.protection">Defense</string>
-	<string name="menu.player.mods.stats.utility">Misc</string>
-	<string name="menu.player.mods.stats.attack">Weapons</string>
-	<string name="menu.player.mods.stats.spell">Spells</string>
-	<string name="menu.player.mods.stats.penetration">Penetration</string>
-	<string name="menu.player.mods.stats.multiplier">Multipliers</string>
-	<string name="menu.player.mods.stats.resources">Resources</string>
+	<string name="menu.player.map">地圖</string>
+	<string name="menu.player.char">角色</string>
+	<string name="menu.player.char.experience">經驗值： %exp%/%expmax% (%prog%%)</string>
+	<string name="menu.player.char.level">等級  %lvl%</string>
+	<string name="menu.player.char.level_cap">等級上限： %lvl%</string>
+	<string name="menu.player.char.inventory">背包</string>
+	<string name="menu.player.char.trinkets">飾品</string>
+	<string name="menu.player.char.equipment">裝備</string>
+	<string name="menu.player.char.materials">材料</string>
+	<string name="menu.player.char.materials.run">本次進度</string>
+	<string name="menu.player.char.materials.town">城鎮</string>
+	<string name="menu.player.mods">資訊</string>
+	<string name="menu.player.mods.skills">技能</string>
+	<string name="menu.player.mods.stats">屬性</string>
+	<string name="menu.player.mods.effects">效果</string>
+	<string name="menu.player.mods.stats.attributes">屬性點</string>
+	<string name="menu.player.mods.stats.pools">點數池</string>
+	<string name="menu.player.mods.stats.protection">防禦</string>
+	<string name="menu.player.mods.stats.utility">其他</string>
+	<string name="menu.player.mods.stats.attack">武器</string>
+	<string name="menu.player.mods.stats.spell">法術</string>
+	<string name="menu.player.mods.stats.penetration">穿透</string>
+	<string name="menu.player.mods.stats.multiplier">倍率</string>
+	<string name="menu.player.mods.stats.resources">資源</string>
 
-	<string name="menu.player.mods.effects.shadow_curse.name">Shadow Curse</string>
-	<string name="menu.player.mods.effects.shadow_curse.desc">Reduces armor and resistances by %amnt-total%. %amnt-stack% per stack.</string>
+	<string name="menu.player.mods.effects.shadow_curse.name">暗影詛咒</string>
+	<string name="menu.player.mods.effects.shadow_curse.desc">降低護甲與抗性 %amnt-total%，每層 %amnt-stack%</string>
 
 
-	<string name="menu.player.skills.currpoints">Points to spend:  %points%\"icn-skillpt"</string>
+	<string name="menu.player.skills.currpoints">可分配點數： %points%\"icn-skillpt"</string>
 	<string name="menu.player.skills.upgrade">Upgrade: %cost%\"icn-skillpt"</string>
-	<string name="menu.player.skills.required_skill">\nRequires %c-highlight%%skill%\d</string>
-	<string name="menu.player.skills.blocker_skill">\nMutually exclusive with %c-highlight%%skill%\d</string>
-	<string name="menu.player.skills.required_skill_dis">\n%c-disabled%Requires %skill%\d</string>
+	<string name="menu.player.skills.required_skill">\n需要 %c-highlight%%skill%\d</string>
+	<string name="menu.player.skills.blocker_skill">\n與 %c-highlight%%skill%\d 互斥</string>
+	<string name="menu.player.skills.required_skill_dis">\n%c-disabled%需要 %skill%\d</string>
 	<string name="menu.player.skills.blocker_skill_dis">\n%c-disabled%Blocked by %skill%\d</string>
 
-	<string name="menu.player.attrib.currpoints">Points to spend:  %points%\"icn-attrpt"</string>
+	<string name="menu.player.attrib.currpoints">可分配屬性點： %points%\"icn-attrpt"</string>
 	<string name="menu.player.attrib.upgrade">Upgrade: %cost%\"icn-attrpt"</string>
 
 
 
-	<string name="menu.attributes.primary">Primary</string>
+	<string name="menu.attributes.primary">主屬性</string>
 
 
 
 
 
 
-	<string name="menu.attributes.respec.title">Respec</string>
+	<string name="menu.attributes.respec.title">重新分配</string>
 	<string name="menu.attributes.respec">Would you like to respec %points%\"icn-attrpt" for %cost%</string>
 	<string name="menu.attributes.respec_cant_afford">You can't afford to respec %points%\"icn-attrpt" for %cost%</string>
 	<string name="menu.skills.respec">Would you like to respec %points%\"icn-skillpt" for %cost%</string>
@@ -185,139 +185,139 @@
 
 
 	<!-- Mission Loadout Menu -->
-	<string name="menu.loadout.potion_warning">You have no potion charges!</string>
-	<string name="menu.loadout.force_start_warning">Are you sure you want to start the mission before everyone is ready?</string>
-	<string name="menu.loadout.starting_mission">Starting\n%mission%</string>
-	<string name="menu.loadout.alterations">Alterations</string>
-	<string name="menu.loadout.numready">%ready%/%total% ready!</string>
+	<string name="menu.loadout.potion_warning">您沒有藥水充能！</string>
+	<string name="menu.loadout.force_start_warning">您確定要在所有人還未準備好之前開始任務嗎？</string>
+	<string name="menu.loadout.starting_mission">開始\n%mission%</string>
+	<string name="menu.loadout.alterations">更改</string>
+	<string name="menu.loadout.numready">%ready%/%total% 已準備好！!</string>
 	<string name="menu.loadout.waiting_num">Waiting for %num% players.</string>
-	<string name="menu.loadout.waiting_plrs">Waiting for %players%.</string>
+	<string name="menu.loadout.waiting_plrs">等待 %players%</string>
 	<string name="menu.loadout.ngp">New Game+ %ngp%</string>
 
 
-	<string name="menu.mission_end.completed">Mission Completed!</string>
-	<string name="menu.mission_end.failed">\cff0202Mission Failed!</string>
-	<string name="menu.mission_end.aborted">\cffb508Mission Aborted!</string>
-	<string name="menu.mission_end.new_game_plus">Congratulations, you defeated the Avatar of shadows!\nThis has unlocked New Game+ 1 for this character and increased the level cap by 5. New Game+ represents a higher difficulty with greater rewards. The level of NG+ can be chosen in the mission loadout.</string>
+	<string name="menu.mission_end.completed">任務完成！</string>
+	<string name="menu.mission_end.failed">\cff0202任務失敗！</string>
+	<string name="menu.mission_end.aborted">\cffb508任務中止！</string>
+	<string name="menu.mission_end.new_game_plus">恭喜，您擊敗了陰影化身！這解鎖了此角色的 New Game+ 1，並將等級上限提升了 5 。New Game+ 代表更高的難度與更豐富的獎勳。NG+ 的等級可以在任務載入時選擇</string>
 	
-	<string name="menu.mission_end.materials">Materials</string>
-	<string name="menu.mission_end.stats">Statistics</string>
+	<string name="menu.mission_end.materials">材料</string>
+	<string name="menu.mission_end.stats">統計</string>
 	
-	<string name="menu.mission_end.step.sent_back">Sent back: </string>
-	<string name="menu.mission_end.step.picked_up">Picked up: </string>
-	<string name="menu.mission_end.step.valuables">Valuables: </string>
-	<string name="menu.mission_end.step.trinkets.common">Common Trinkets: </string>
-	<string name="menu.mission_end.step.trinkets.uncommon">Uncommon Trinkets: </string>
-	<string name="menu.mission_end.step.trinkets.rare">Rare Trinkets: </string>
-	<string name="menu.mission_end.step.trinkets.epic">Epic Trinkets: </string>
-	<string name="menu.mission_end.step.revive">Revive "donation" (%rate%%): </string>
-	<string name="menu.mission_end.step.reward">Mission reward: </string>
+	<string name="menu.mission_end.step.sent_back">已送回： </string>
+	<string name="menu.mission_end.step.picked_up">已拾取： </string>
+	<string name="menu.mission_end.step.valuables">貴重物品：</string>
+	<string name="menu.mission_end.step.trinkets.common">普通飾品：</string>
+	<string name="menu.mission_end.step.trinkets.uncommon">非凡飾品： </string>
+	<string name="menu.mission_end.step.trinkets.rare">稀有飾品： </string>
+	<string name="menu.mission_end.step.trinkets.epic">史詩飾品： </string>
+	<string name="menu.mission_end.step.revive">復活 "捐贈" (%rate%%)： </string>
+	<string name="menu.mission_end.step.reward">任務獎勵：</string>
 
 
-	<string name="menu.player_stash.withdraw">Withdraw</string>
-	<string name="menu.player_stash.deposit">Deposit</string>
-	<string name="menu.player_stash.new_tab">New tab</string>
-	<string name="menu.player_stash.rename">Rename</string>
-	<string name="menu.player_stash.delete">Delete</string>
+	<string name="menu.player_stash.withdraw">提取</string>
+	<string name="menu.player_stash.deposit">存入</string>
+	<string name="menu.player_stash.new_tab">新標籤</string>
+	<string name="menu.player_stash.rename">重命名</string>
+	<string name="menu.player_stash.delete">刪除</string>
 
 
 
 
 	<!-- Main Menu -->
-	<string name="mainmenu.continue">Continue</string>
-	<string name="mainmenu.exitgame">Exit Game</string>
-	<string name="mainmenu.host">Host Multiplayer</string>
-	<string name="mainmenu.switchchar">Switch Character</string>
-	<string name="mainmenu.online">Online</string>
-	<string name="mainmenu.multiplayer">Multiplayer</string>
+	<string name="mainmenu.continue">繼續</string>
+	<string name="mainmenu.exitgame">退出遊戲</string>
+	<string name="mainmenu.host">主持多人遊戲</string>
+	<string name="mainmenu.switchchar">切換角色</string>
+	<string name="mainmenu.online">在線</string>
+	<string name="mainmenu.multiplayer">多人遊戲</string>
 	<string name="mainmenu.singleplayer">單人遊戲</string>
-	<string name="mainmenu.options">Options</string>
+	<string name="mainmenu.options">選項</string>
 	<string name="mainmenu.extras">Extras</string>
-	<string name="mainmenu.quit">Quit</string>
+	<string name="mainmenu.quit">退出</string>
 	<string name="mainmenu.discord">Discord</string>
-	<string name="mainmenu.leave">Leave Game</string>
-	<string name="mainmenu.playerlist">Lobby</string>
-	<string name="mainmenu.abandon">Abandon Run</string>
+	<string name="mainmenu.leave">離開遊戲</string>
+	<string name="mainmenu.playerlist">大廳</string>
+	<string name="mainmenu.abandon">放棄進行中的遊戲</string>
 
-	<string name="mainmenu.host.privacy">Would you like to open a public lobby open for anyone, or a private lobby for just your friends?</string>
-	<string name="mainmenu.host.privacy.yes">Public</string>
-	<string name="mainmenu.host.privacy.no">Private</string>
-
-
-	<string name="mainmenu.languages.restart-confirm">You have to restart the game after changing your language!</string>
-	<string name="mainmenu.serverlist.title">Lobbies</string>
-	<string name="mainmenu.multiplayer.disabled">Multiplayer is currently unavailable.</string>
-	<string name="mainmenu.multiplayer.connecting">Connecting...</string>
+	<string name="mainmenu.host.privacy">您希望開放一個公開的大廳給所有人，還是僅限好友的私人大廳？</string>
+	<string name="mainmenu.host.privacy.yes">公開</string>
+	<string name="mainmenu.host.privacy.no">私人</string>
 
 
+	<string name="mainmenu.languages.restart-confirm">更改語言後您需要重啟遊戲！</string>
+	<string name="mainmenu.serverlist.title">大廳</string>
+	<string name="mainmenu.multiplayer.disabled">多人遊戲目前無法使用</string>
+	<string name="mainmenu.multiplayer.connecting">正在連接...</string>
 
 
 
-	<string name="building.apothecary.name">Apothecary</string>
-	<string name="building.apothecary.desc1">Unlocks upgrades for your potion.</string>
-	<string name="building.apothecary.desc2">Unlocks more upgrades for your potion.</string>
-
-	<string name="building.architect.name">Architect</string>
-	<string name="building.architect.desc1">A house for the architect, lets you alter aspects of your Dark Citadel runs.</string>
-	<string name="building.architect.desc2">Unlocks more effects and lowers cost of applying multiple ones at the same time.</string>
-
-	<string name="building.blacksmith.name">Blacksmith</string>
-	<string name="building.blacksmith.desc1">Unlocks upgrades for your armor and weapons.</string>
-	<string name="building.blacksmith.desc2">Better upgrades to your armor and weapons, and lets you upgrade individual pieces of equipment.</string>
-	<string name="building.blacksmith.desc3">Better upgrades to your armor and weapons, and cheaper equipment upgrades.</string>
-
-	<string name="building.chapel.name">Chapel</string>
-	<string name="building.chapel.desc1">A house for god, lets you pick between two blessings for your runs.\n\n-5% Revive Cost</string>
-	<string name="building.chapel.desc2">Unlocks two more blessings.\n\n-5% Revive Cost</string>
-	<string name="building.chapel.desc3">Unlocks another blessing.\n\n-5% Revive Cost</string>
-
-	<string name="building.enchanter.name">Enchanter</string>
-	<string name="building.enchanter.desc1">Lets you magically modify your equipment.\n\nUnlocks blueprints for enchants.</string>
-	<string name="building.enchanter.desc2">Cheaper enchanting\n\nUnlocks rare blueprints for enchants.</string>
-
-	<string name="building.general_store.name">General Store</string>
-	<string name="building.general_store.desc1">Buy and sell equipment.</string>
-	<string name="building.general_store.desc2">Better prices and higher ilvl equipment for sale.</string>
-	<string name="building.general_store.desc3">Better prices and no limit on equipment ilvl.</string>
-
-	<string name="building.guild_hall.name">Guild Hall</string>
-	<string name="building.guild_hall.desc1">Upgrade town, unlocks more buildings.</string>
-	<string name="building.guild_hall.desc3">Upgrade town, unlocks more buildings.\n\nUnlocks class masteries.</string>
-
-	<string name="building.hunters_cabin.name">Hunters Cabin</string>
-	<string name="building.hunters_cabin.desc1">Beetles, Wolves and Boars drop scales, furs, and meat. Giving valuables and health from beasts.</string>
-	<string name="building.hunters_cabin.desc2">More valuables and health from beasts.</string>
-
-	<string name="building.library.name">Library</string>
-	<string name="building.library.desc1">Unlocks common trinket attunements. Change your combo skill.</string>
-	<string name="building.library.desc2">Unlocks uncommon trinket attunements.</string>
-	<string name="building.library.desc3">Unlocks rare trinket attunements.</string>
 
 
-	<string name="building.magic_shop.name">Magic Shop</string>
-	<string name="building.magic_shop.desc1">Unlocks magical upgrades.\n\nStart runs with a skill sphere.\n\nExchange trinkets for materials at the end of runs.</string>
-	<string name="building.magic_shop.desc2">Unlocks more magical upgrades.\n\nUnlocks more skill spheres to pick.</string>
-	<string name="building.magic_shop.desc3">Unlocks more magical upgrades.</string>
+	<string name="building.apothecary.name">藥劑師</string>
+	<string name="building.apothecary.desc1">解鎖藥水升級</string>
+	<string name="building.apothecary.desc2">解鎖更多藥水升級</string>
 
-	<string name="building.pyre.name">Pyre</string>
-	<string name="building.pyre.desc1">-20% Shadow Curse Gain</string>
+	<string name="building.architect.name">建築師</string>
+	<string name="building.architect.desc1">為建築師提供一個房屋，讓您能修改遊戲中黑暗堡壘的各種方面</string>
+	<string name="building.architect.desc2">解鎖更多效果並降低同時應用多個效果的費用</string>
 
-	<string name="building.tailor.name">Tailor</string>
-	<string name="building.tailor.desc1">Does nothing.</string>
+	<string name="building.blacksmith.name">鐵匠</string>
+	<string name="building.blacksmith.desc1">解鎖盔甲和武器升級</string>
+	<string name="building.blacksmith.desc2">更好的盔甲和武器升級，並允許您升級單個裝備部件</string>
+	<string name="building.blacksmith.desc3">更好的盔甲和武器升級，並且裝備升級費用更便宜</string>
 
-	<string name="building.tavern.name">Tavern</string>
-	<string name="building.tavern.desc1">Start runs with a drink along with the food.\n\nUnlocks blueprints for drinks.</string>
-	<string name="building.tavern.desc2">Start runs with another drink.</string>
+	<string name="building.chapel.name">教堂</string>
+	<string name="building.chapel.desc1">為神所設的房屋，讓您能在一輪遊戲中選擇兩個祝福\n\n-5% 復活費用</string>
+	<string name="building.chapel.desc2">解鎖兩個額外祝福\n\n-5% 復活費用</string>
+	<string name="building.chapel.desc3">解鎖另一個祝福\n\n-5% 復活費用</string>
 
-	<string name="building.trading_post.name">Trading Post</string>
-	<string name="building.trading_post.desc1">Buy and sell wood.</string>
-	<string name="building.trading_post.desc2">Buy and sell stone.\n\nImproves price for wood.</string>
-	<string name="building.trading_post.desc3">Buy and sell iron.\n\nImproves price for wood and stone.</string>
+	<string name="building.enchanter.name">附魔師</string>
+	<string name="building.enchanter.desc1">讓您可以神奇地修改裝備\n\n解鎖附魔藍圖</string>
+	<string name="building.enchanter.desc2">更便宜的附魔\n\n解鎖稀有附魔藍圖</string>
 
-	<string name="building.training_grounds.name">Training Grounds</string>
-	<string name="building.training_grounds.desc1">Train player skills.\n\nUnlocks athletics upgrades.</string>
-	<string name="building.training_grounds.desc2">Unlocks more athletics upgrades.</string>
-	<string name="building.training_grounds.desc3">Unlocks more athletics upgrades.\n\nUnlocks weapon masteries.</string>
+	<string name="building.general_store.name">雜貨店</string>
+	<string name="building.general_store.desc1">購買和銷售裝備</string>
+	<string name="building.general_store.desc2">更好的價格以及更高物品等級的裝備出售</string>
+	<string name="building.general_store.desc3">更好的價格，且裝備等級不設限制</string>
+
+	<string name="building.guild_hall.name">公會大廳</string>
+	<string name="building.guild_hall.desc1">升級城鎮，解鎖更多建築。</string>
+	<string name="building.guild_hall.desc3">升級城鎮，解鎖更多建築\n\n解鎖 class masteries.</string>
+
+	<string name="building.hunters_cabin.name">獵人小屋</string>
+	<string name="building.hunters_cabin.desc1">甲蟲、狼和野豬掉落鱗片、皮毛和肉類。野獸會提供珍貴物品和生命</string>
+	<string name="building.hunters_cabin.desc2">更多來自野獸的珍貴物品和生命</string>
+
+	<string name="building.library.name">圖書館</string>
+	<string name="building.library.desc1">解鎖普通飾品調整。更改您的combo技能</string>
+	<string name="building.library.desc2">解鎖非凡飾品調整</string>
+	<string name="building.library.desc3">解鎖稀有飾品調整</string>
+
+
+	<string name="building.magic_shop.name">魔法商店</string>
+	<string name="building.magic_shop.desc1">解鎖魔法升級\n\n開始遊戲時獲得技能球\n\n在遊戲結束時將飾品換成材料</string>
+	<string name="building.magic_shop.desc2">解鎖更多魔法升級\n\n解鎖更多技能球供選擇</string>
+	<string name="building.magic_shop.desc3">解鎖更多魔法升級</string>
+
+	<string name="building.pyre.name">祭壇</string>
+	<string name="building.pyre.desc1">-20% 暗影詛咒增益</string>
+
+	<string name="building.tailor.name">裁縫師</string>
+	<string name="building.tailor.desc1">無任何效果</string>
+
+	<string name="building.tavern.name">酒館</string>
+	<string name="building.tavern.desc1">開始遊戲時獲得飲料與食物\n\n解鎖飲品藍圖</string>
+	<string name="building.tavern.desc2">開始遊戲時獲得另一種飲料</string>
+
+	<string name="building.trading_post.name">貿易站</string>
+	<string name="building.trading_post.desc1">購買和銷售木材</string>
+	<string name="building.trading_post.desc2">購買和銷售石材\n\n改善木材的價格</string>
+	<string name="building.trading_post.desc3">購買和銷售鐵\n\n改善木材和石材的價格</string>
+
+	<string name="building.training_grounds.name">訓練場</string>
+	<string name="building.training_grounds.desc1">訓練玩家技能\n\n解鎖體育技能升級</string>
+	<string name="building.training_grounds.desc2">解鎖更多體育技能升級</string>
+	<string name="building.training_grounds.desc3">解鎖更多體育技能升級\n\n解鎖 weapon masteries.</string>
 
 
 
