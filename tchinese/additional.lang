@@ -27,7 +27,7 @@
 
 
 
-	<string name="rg_post_phosphor">開啟磷光效果/string>
+	<string name="rg_post_phosphor">開啟磷光效果</string>
 	<string name="rg_post_phosphor.help">啟用磷光復古效果</string>
 	<string name="rg_post_bloom">開啟點光與泛光效果</string>
 	<string name="rg_post_bloom.help">啟用點光與泛光復古效果</string>
