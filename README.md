@@ -5,13 +5,16 @@ Heroes of Hammerwatch II 繁體中文翻譯
 
 備註：menus、skills、system，這三個檔案的文本在Third Patch中有更新，新增的文本尚未翻譯
 
-目前道具及裝備名稱不會特別依遊戲內容作潤色，只有道具的效果描述會特別潤色。
+目前道具及裝備名稱及部分文本不會特別依遊戲內容作潤色，所以物品圖示跟名稱有可能對不上，或者是該遊戲的某些系統可能會翻錯，麻煩再回報給我。
+
+目前只有在RPG遊戲中常見的物品描述會特別留意並潤色。
 
 <h3>注意：目前版本(Second Patch)不支援部分語言(包含繁體中文)，開發者說完成時間未知，以下為原文。</h3>
 
 >Thyraxx.void：Devs are working on it, but currently no ETA when it will be completely implemented/done. 
 
-目前翻譯進度：
+目前翻譯進度：在遊戲能正常顯示繁體中文的版本釋出前會慢慢翻譯
+
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
     <tr>
