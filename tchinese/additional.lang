@@ -160,7 +160,7 @@
 	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
 	<string name="item.meal.sizzling_essence_tea.name">熾熱精華茶</string>
-	<string name="item.meal.sizzling_essence_tea.desc">%amount% Spell Cost and Spell Cooldown. 法力回復設為 0，持續 %dur% 分鐘</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% 法術消耗與冷卻時間。法力恢復設為 0，持續 %dur% 分鐘</string>
 
 	<string name="item.map_bb.name">黑洞峽谷地圖</string>
 	<string name="item.map_bb.desc">黑洞峽谷地區的地圖</string>
