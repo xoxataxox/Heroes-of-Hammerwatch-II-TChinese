@@ -13,6 +13,10 @@ Heroes of Hammerwatch II 繁體中文翻譯
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
     <tr>
+        <td>檔案名稱</td>
+        <td>狀態</td>
+    </tr>
+    <tr>
         <td>additional.lang</td>
         <td>⏳翻譯中</td>
     </tr>
