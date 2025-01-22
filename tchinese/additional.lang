@@ -113,51 +113,51 @@
 	<string name="epic.name.eye">眼</string>
 	<string name="epic.name.gaze">凝視</string>
 
-	<string name="modifiers.enchant.bone_dust.desc">Scoring a kill has a %chance%% chance to summon a crawler.</string>
-	<string name="modifiers.enchant.shambler_claw.desc">Attack hits have a %chance%% chance to strike a different nearby enemy with a bolt of lightning dealing %dmg% Lightning damage.</string>
-	<string name="modifiers.enchant.wasp_stinger.desc">Attacking has a %chance%% chance to fire a stinger projectile at a random enemy.</string>
-	<string name="modifiers.enchant.wasp_stinger.desc2">Casting a Spell fires a stinger projectile at a random enemy.</string>
-	<string name="modifiers.enchant.wolf_liver.desc">%value% Movement Speed at full Health.</string>
+	<string name="modifiers.enchant.bone_dust.desc">擊殺敵人時有 %chance%% 機率召喚一隻爬行者</string>
+	<string name="modifiers.enchant.shambler_claw.desc">攻擊命中時有 %chance%% 機率對附近另一名敵人釋放閃電，造成 %dmg% 點閃電傷害</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">攻擊時有 %chance%% 機率向隨機敵人發射一枚毒刺投射物</string>
+	<string name="modifiers.enchant.wasp_stinger.desc2">施放法術時向隨機敵人發射一枚毒刺投射物</string>
+	<string name="modifiers.enchant.wolf_liver.desc">當生命值全滿時，移動速度提升 %value%</string>
 
-	<string name="modifiers.epic.skills.dmg.desc">%c-highlight%%skillname%\d deal %amount%% increased damage.</string>
-	<string name="modifiers.epic.skills.cd.desc">%c-highlight%%skillname%\d has %amount%% reduced Cooldown.</string>
-	<string name="modifiers.epic.skills.costmana.desc">%c-highlight%%skillname%\d has %amount%% reduced Mana Cost.</string>
-	<string name="modifiers.epic.skills.coststamina.desc">%c-highlight%%skillname%\d has %amount%% reduced Stamina Cost.</string>
-	<string name="modifiers.epic.skills.speed.desc">%c-highlight%%skillname%\d has %amount%% increased skill speed.</string>
-	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%skillname%\d has %amount% max stacks.</string>
-	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d has %amount% longer duration.</string>
-	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%skillname%\d has %amount% max summoned.</string>
+	<string name="modifiers.epic.skills.dmg.desc">%c-highlight%%skillname%\d 的傷害提升 %amount%%</string>
+	<string name="modifiers.epic.skills.cd.desc">%c-highlight%%skillname%\d 的冷卻時間減少 %amount%%</string>
+	<string name="modifiers.epic.skills.costmana.desc">%c-highlight%%skillname%\d 的魔力消耗減少 %amount%%</string>
+	<string name="modifiers.epic.skills.coststamina.desc">%c-highlight%%skillname%\d 的耐力消耗減少 %amount%%</string>
+	<string name="modifiers.epic.skills.speed.desc">%c-highlight%%skillname%\d 的技能速度提升 %amount%%</string>
+	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%skillname%\d 的最大堆疊數增加至 %amount%</string>
+	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d 的持續時間延長 %amount%</string>
+	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%skillname%\d 的最大召喚數量增加至 %amount%</string>
 
-	<string name="modifiers.potions.kill_refill_all.desc">%chance%% chance to refill all Potions on Kill.</string>
-	<string name="modifiers.potions.kill_refill_charge.desc">%chance%% chance to refill a random Potion Charge on Kill.</string>
+	<string name="modifiers.potions.kill_refill_all.desc">擊殺敵人時有 %chance%% 機率補充所有藥水</string>
+	<string name="modifiers.potions.kill_refill_charge.desc">擊殺敵人時有 %chance%% 機率補充一個隨機藥水的使用次數</string>
 
-	<string name="skills.desc.params.fiend.max">Fiend Max Summoned:</string>
+	<string name="skills.desc.params.fiend.max">惡魔召喚上限：</string>
 
-	<string name="equipment.unique.accessory.expert_3.name">Cauldron of Fire</string>
-	<string name="skills.equipment.cauldron_of_fire.desc">Place a cauldron that spews small fireballs in random directions, dealing %amount% Fire damage. %cd% cooldown.</string>
+	<string name="equipment.unique.accessory.expert_3.name">火焰鍋爐</string>
+	<string name="skills.equipment.cauldron_of_fire.desc">放置一個鍋爐，隨機方向噴射小型火球，造成 %amount% 點火焰傷害。冷卻時間 %cd%</string>
 
-	<string name="equipment.unique.accessory.master_2.name">Elemental Prism</string>
-	<string name="skills.equipment.elemental_prism.desc">Spawns a prism that projects three rotating beams, one for each element: Fire, Ice, Lightning. Each beam deals %amount% damage of the corresponding element. %cd% cooldown.</string>
+	<string name="equipment.unique.accessory.master_2.name">元素稜鏡</string>
+	<string name="skills.equipment.elemental_prism.desc">召喚一個稜鏡，投射三道旋轉光束，分別代表火焰、冰冷與雷電，每道光束造成對應元素的 %amount% 點傷害。冷卻時間 %cd%</string>
 
-	<string name="equipment.unique.chest.master_1.name">Bulwark of Titans</string>
-	<string name="equipment.unique.chest.master_2.name">Shirt of Coins</string>
-	<string name="equipment.unique.chest.master_2.desc">You lose %amount% gold when taking damage.</string>
+	<string name="equipment.unique.chest.master_1.name">泰坦之壁</string>
+	<string name="equipment.unique.chest.master_2.name">銅幣之衣</string>
+	<string name="equipment.unique.chest.master_2.desc">受傷時損失 %amount% 金幣</string>
 
-	<string name="equipment.unique.head.apprentice_1.name">Hood for the Hopeless</string>
-	<string name="equipment.unique.hands.apprentice_1.name">The Grim Gardener</string>
-	<string name="equipment.unique.hands.master_1.name">Spell Fingers</string>
+	<string name="equipment.unique.head.apprentice_1.name">絕望者兜帽</string>
+	<string name="equipment.unique.hands.apprentice_1.name">陰森園丁</string>
+	<string name="equipment.unique.hands.master_1.name">魔法之指</string>
 
-	<string name="equipment.unique.feet.expert_3.name">Sunwalker Sandals</string>
-	<string name="equipment.unique.feet.expert_3.desc">You deal %amount% Fire damage to enemies you collide with. %cd% effect cooldown.</string>
+	<string name="equipment.unique.feet.expert_3.name">逐日者涼鞋</string>
+	<string name="equipment.unique.feet.expert_3.desc">撞擊敵人時造成 %amount% 點火焰傷害。冷卻時間 %cd%</string>
 
-	<string name="equipment.unique.rogue.mainhand.adept_1.name">Parrying Daggers</string>
-	<string name="equipment.unique.rogue.offhand.master_1.name">The Flying Virtuosos</string>
+	<string name="equipment.unique.rogue.mainhand.adept_1.name">格擋匕首</string>
+	<string name="equipment.unique.rogue.offhand.master_1.name">飛翔的大師</string>
 
-	<string name="equipment.unique.warlock.offhand.adept_1.name">Chained Suffering</string>
-	<string name="equipment.unique.warlock.offhand.adept_1.desc">You gain stacks of %c-highlight%Soul Essence\d when taking damage.</string>
+	<string name="equipment.unique.warlock.offhand.adept_1.name">連鎖痛苦</string>
+	<string name="equipment.unique.warlock.offhand.adept_1.desc">受傷時獲得 %c-highlight%靈魂精華\d 堆疊</string>
 
-	<string name="equipment.unique.wizard.offhand.adept_1.name">Rock Launcher</string>
-	<string name="equipment.unique.wizard.offhand.adept_1.desc">Launches a rock projectile that explodes upon impact, dealing Offhand damage.\n\nCan be charged to increase the speed and range of the projectile.\n\nMana Cost: %cost%\nCooldown: %cd%</string>
+	<string name="equipment.unique.wizard.offhand.adept_1.name">岩石發射器</string>
+	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
 	<string name="item.meal.sizzling_essence_tea.name">Sizzling Essence Tea</string>
 	<string name="item.meal.sizzling_essence_tea.desc">%amount% Spell Cost and Spell Cooldown. Mana Regen set to 0. Lasts for %dur% minutes.</string>
