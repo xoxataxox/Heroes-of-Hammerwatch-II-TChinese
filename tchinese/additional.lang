@@ -1,117 +1,117 @@
 <lang>
 	<!-- System -->
 
-	<string name="tooltips.equipped">裝備</string>
+	<string name="tooltips.equipped">已裝備</string>
 
 	<string name="item.info.tooltip.slot.mainhand">主手</string>
 	<string name="item.info.tooltip.slot.offhand">副手</string>
-	<string name="item.info.tooltip.slot.head">頭</string>
-	<string name="item.info.tooltip.slot.chest">胸</string>
-	<string name="item.info.tooltip.slot.feet">腳</string>
-	<string name="item.info.tooltip.slot.hands">手</string>
+	<string name="item.info.tooltip.slot.head">頭部</string>
+	<string name="item.info.tooltip.slot.chest">胸甲</string>
+	<string name="item.info.tooltip.slot.feet">足部</string>
+	<string name="item.info.tooltip.slot.hands">手部</string>
 	<string name="item.info.tooltip.slot.accessory">首飾</string>
 	<string name="item.info.tooltip.slot.potion">藥水</string>
 
 
 
-	<string name="text.openselsewhere">It opens elsewhere!</string>
-	<string name="text.needakey">I need a key!</string>
-	<string name="text.needbox">I need a toolbox!</string>
-	<string name="text.needpan">I need a pan!</string>
-	<string name="text.needaxe">I need an axe!</string>
-	<string name="text.needshovel">I need a shovel!</string>
-	<string name="text.needpickaxe">I need a\npick axe!</string>
-	<string name="text.needreddye">I need\nred dye!</string>
-	<string name="text.needrope">I need a rope!</string>
-	<string name="text.needladder">I need a ladder!</string>
+	<string name="text.openselsewhere">需要從其他地方開啟！</string>
+	<string name="text.needakey">我需要一把鑰匙！</string>
+	<string name="text.needbox">我需要一個工具箱！</string>
+	<string name="text.needpan">我需要一個平底鍋！</string>
+	<string name="text.needaxe">我需要一把斧頭！</string>
+	<string name="text.needshovel">我需要一把鏟子！</string>
+	<string name="text.needpickaxe">我需要一把\n鎬子！</string>
+	<string name="text.needreddye">我需要\n紅色染料！</string>
+	<string name="text.needrope">我需要一根繩子！</string>
+	<string name="text.needladder">我需要一架梯子！</string>
 
 
 
-	<string name="rg_post_phosphor">Post Phosphor</string>
-	<string name="rg_post_phosphor.help">Enable Phosphor retro effect</string>
-	<string name="rg_post_bloom">Post Dot & Bloom</string>
-	<string name="rg_post_bloom.help">Enable Dot and Bloom retro effect</string>
+	<string name="rg_post_phosphor">開啟磷光效果/string>
+	<string name="rg_post_phosphor.help">啟用磷光復古效果</string>
+	<string name="rg_post_bloom">開啟點光與泛光效果</string>
+	<string name="rg_post_bloom.help">啟用點光與泛光復古效果</string>
 
 
 
 
-	<string name="button.shop.more">More</string>
-	<string name="button.shop.tailor">Tailor</string>
+	<string name="button.shop.more">更多</string>
+	<string name="button.shop.tailor">裁縫</string>
 
 
 
-	<string name="epic.name.wicked">Wicked</string>
-	<string name="epic.name.griffon">Griffon</string>
-	<string name="epic.name.titan">Titan</string>
-	<string name="epic.name.fiend">Fiend</string>
-	<string name="epic.name.serpent">Serpent</string>
-	<string name="epic.name.hellion">Hellion</string>
-	<string name="epic.name.imp">Imp</string>
-	<string name="epic.name.colossus">Colossus</string>
-	<string name="epic.name.leviathan">Leviathan</string>
-	<string name="epic.name.torrent">Torrent</string>
-	<string name="epic.name.macabre">Macabre</string>
+	<string name="epic.name.wicked">邪惡者</string>
+	<string name="epic.name.griffon">獅鷲</string>
+	<string name="epic.name.titan">泰坦</string>
+	<string name="epic.name.fiend">惡魔</string>
+	<string name="epic.name.serpent">巨蛇</string>
+	<string name="epic.name.hellion">魔獸</string>
+	<string name="epic.name.imp">小惡魔</string>
+	<string name="epic.name.colossus">巨像</string>
+	<string name="epic.name.leviathan">利維坦</string>
+	<string name="epic.name.torrent">洪流</string>
+	<string name="epic.name.macabre">噩夢</string>
 
 
-	<string name="epic.name.gift">Gift</string>
-	<string name="epic.name.favor">Favor</string>
-	<string name="epic.name.boon">Boon</string>
-	<string name="epic.name.scourge">Scourge</string>
-	<string name="epic.name.legacy">Legacy</string>
-	<string name="epic.name.insignia">Insignia</string>
-	<string name="epic.name.fragment">Fragment</string>
-	<string name="epic.name.signet">Signet</string>
-	<string name="epic.name.seal">Seal</string>
-	<string name="epic.name.bastion">Bastion</string>
-	<string name="epic.name.citadel">Citadel</string>
-	<string name="epic.name.wall">Wall</string>
-	<string name="epic.name.gate">Gate</string>
-	<string name="epic.name.heart">Heart</string>
-	<string name="epic.name.raiment">Raiment</string>
-	<string name="epic.name.garb">Garb</string>
-	<string name="epic.name.regalia">Regalia</string>
-	<string name="epic.name.souvenir">Souvenir</string>
-	<string name="epic.name.token">Token</string>
-	<string name="epic.name.symbol">Symbol</string>
-	<string name="epic.name.emblem">Emblem</string>
-	<string name="epic.name.image">Image</string>
-	<string name="epic.name.band">Band</string>
-	<string name="epic.name.link">Link</string>
-	<string name="epic.name.circuit">Circuit</string>
-	<string name="epic.name.chain">Chain</string>
-	<string name="epic.name.loop">Loop</string>
-	<string name="epic.name.knot">Knot</string>
-	<string name="epic.name.mark">Mark</string>
-	<string name="epic.name.edge">Edge</string>
-	<string name="epic.name.bite">Bite</string>
-	<string name="epic.name.sting">Sting</string>
-	<string name="epic.name.punch">Punch</string>
-	<string name="epic.name.blade">Blade</string>
-	<string name="epic.name.edge">Edge</string>
-	<string name="epic.name.talon">Talon</string>
-	<string name="epic.name.needle">Needle</string>
-	<string name="epic.name.impaler">Impaler</string>
-	<string name="epic.name.razor">Razor</string>
-	<string name="epic.name.twig">Twig</string>
-	<string name="epic.name.branch">Branch</string>
-	<string name="epic.name.script">Script</string>
-	<string name="epic.name.tome">Tome</string>
-	<string name="epic.name.manuscript">Manuscript</string>
-	<string name="epic.name.theory">Theory</string>
-	<string name="epic.name.article">Article</string>
-	<string name="epic.name.fable">Fable</string>
-	<string name="epic.name.crusher">Crusher</string>
-	<string name="epic.name.mauler">Mauler</string>
-	<string name="epic.name.smasher">Smasher</string>
-	<string name="epic.name.breaker">Breaker</string>
-	<string name="epic.name.volley">Volley</string>
-	<string name="epic.name.barrage">Barrage</string>
-	<string name="epic.name.song">Song</string>
-	<string name="epic.name.wind">Wind</string>
-	<string name="epic.name.wing">Wing</string>
-	<string name="epic.name.deluge">Deluge</string>
-	<string name="epic.name.eye">Eye</string>
-	<string name="epic.name.gaze">Gaze</string>
+	<string name="epic.name.gift">禮物</string>
+	<string name="epic.name.favor">恩惠</string>
+	<string name="epic.name.boon">祝福</string>
+	<string name="epic.name.scourge">災厄</string>
+	<string name="epic.name.legacy">遺產</string>
+	<string name="epic.name.insignia">徽章</string>
+	<string name="epic.name.fragment">碎片</string>
+	<string name="epic.name.signet">印記</string>
+	<string name="epic.name.seal">封印</string>
+	<string name="epic.name.bastion">堡壘</string>
+	<string name="epic.name.citadel">城堡</string>
+	<string name="epic.name.wall">城牆</string>
+	<string name="epic.name.gate">大門</string>
+	<string name="epic.name.heart">核心</string>
+	<string name="epic.name.raiment">衣裝</string>
+	<string name="epic.name.garb">裝束</string>
+	<string name="epic.name.regalia">皇家服飾</string>
+	<string name="epic.name.souvenir">紀念品</string>
+	<string name="epic.name.token">信物</string>
+	<string name="epic.name.symbol">符號</string>
+	<string name="epic.name.emblem">徽章</string>
+	<string name="epic.name.image">圖像</string>
+	<string name="epic.name.band">環</string>
+	<string name="epic.name.link">連結</string>
+	<string name="epic.name.circuit">迴路</string>
+	<string name="epic.name.chain">鏈</string>
+	<string name="epic.name.loop">圈</string>
+	<string name="epic.name.knot">結</string>
+	<string name="epic.name.mark">印記</string>
+	<string name="epic.name.edge">邊緣</string>
+	<string name="epic.name.bite">咬痕</string>
+	<string name="epic.name.sting">刺針</string>
+	<string name="epic.name.punch">重擊</string>
+	<string name="epic.name.blade">劍刃</string>
+	<string name="epic.name.edge">邊緣</string>
+	<string name="epic.name.talon">利爪</string>
+	<string name="epic.name.needle">針</string>
+	<string name="epic.name.impaler">刺穿者</string>
+	<string name="epic.name.razor">剃刀</string>
+	<string name="epic.name.twig">樹枝</string>
+	<string name="epic.name.branch">分枝</string>
+	<string name="epic.name.script">經文</string>
+	<string name="epic.name.tome">典籍</string>
+	<string name="epic.name.manuscript">手稿</string>
+	<string name="epic.name.theory">理論</string>
+	<string name="epic.name.article">文章</string>
+	<string name="epic.name.fable">寓言</string>
+	<string name="epic.name.crusher">粉碎者</string>
+	<string name="epic.name.mauler">猛擊者</string>
+	<string name="epic.name.smasher">砸碎者</string>
+	<string name="epic.name.breaker">破壞者</string>
+	<string name="epic.name.volley">齊射</string>
+	<string name="epic.name.barrage">彈幕</string>
+	<string name="epic.name.song">歌</string>
+	<string name="epic.name.wind">風</string>
+	<string name="epic.name.wing">翅膀</string>
+	<string name="epic.name.deluge">洪水</string>
+	<string name="epic.name.eye">眼</string>
+	<string name="epic.name.gaze">凝視</string>
 
 	<string name="modifiers.enchant.bone_dust.desc">Scoring a kill has a %chance%% chance to summon a crawler.</string>
 	<string name="modifiers.enchant.shambler_claw.desc">Attack hits have a %chance%% chance to strike a different nearby enemy with a bolt of lightning dealing %dmg% Lightning damage.</string>
