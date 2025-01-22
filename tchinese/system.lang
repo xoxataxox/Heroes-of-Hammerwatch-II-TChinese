@@ -323,263 +323,263 @@
 
 
 
-	<string name="building.tier">Tier %tier%</string>
+	<string name="building.tier">階級 %tier%</string>
 	<string name="building.build.new">Build new</string>
-	<string name="building.build.upgrade">Upgrade to tier %num%</string>
+	<string name="building.build.upgrade">升級至階級 %num%</string>
 
 
-	<string name="weapon_mastery.bonus.first">Add %add% damage.</string>
-	<string name="weapon_mastery.bonus.curr">%curr% damage. Add %add%</string>
+	<string name="weapon_mastery.bonus.first">增加 %add% 傷害</string>
+	<string name="weapon_mastery.bonus.curr">%curr% 傷害。增加 %add%</string>
 
-	<string name="weapon_mastery.maces">Maces</string>
-	<string name="weapon_mastery.swords">Swords</string>
-	<string name="weapon_mastery.axes">Axes</string>
-	<string name="weapon_mastery.daggers">Daggers</string>
-	<string name="weapon_mastery.bows">Bows</string>
-	<string name="weapon_mastery.crossbows">Crossbows</string>
-	<string name="weapon_mastery.wands">Wands</string>
-	<string name="weapon_mastery.tomes">Tomes</string>
-	<string name="weapon_mastery.staffs">Staves</string>
+	<string name="weapon_mastery.maces">錘</string>
+	<string name="weapon_mastery.swords">劍</string>
+	<string name="weapon_mastery.axes">斧</string>
+	<string name="weapon_mastery.daggers">匕首</string>
+	<string name="weapon_mastery.bows">弓</string>
+	<string name="weapon_mastery.crossbows">弩</string>
+	<string name="weapon_mastery.wands">魔杖</string>
+	<string name="weapon_mastery.tomes">法典</string>
+	<string name="weapon_mastery.staffs">法杖</string>
 
 
 
-	<string name="architect.cost_mul">Mul: %mul%</string>
+	<string name="architect.cost_mul">乘數： %mul%</string>
 
-	<string name="architect.far_sight.name">Far Sight</string>
-	<string name="architect.far_sight.desc">Map is explored.</string>
-	<string name="architect.way_gates.name">Way Gates</string>
-	<string name="architect.way_gates.desc">Travel quickly between points of interest.</string>
-	<string name="architect.toppled_towers.name">Toppled Towers</string>
-	<string name="architect.toppled_towers.desc">Towers are destroyed.</string>
-	<string name="architect.fewer_enemies.name">Weak Defenses</string>
-	<string name="architect.fewer_enemies.desc">Fewer enemies in levels.</string>
-	<string name="architect.safe_corridors.name">Safe Corridors</string>
-	<string name="architect.safe_corridors.desc">Traps in corridors are disabled.</string>
-	<string name="architect.fewer_elites.name">Poor Training</string>
-	<string name="architect.fewer_elites.desc">Fewer elite enemies in levels.</string>
-	<string name="architect.more_pyre.name">Righteous Flames</string>
-	<string name="architect.more_pyre.desc">Higher chance of finding a Pyre.</string>
-	<string name="architect.more_treasury.name">Treasure Hunting</string>
-	<string name="architect.more_treasury.desc">Higher chance of finding a Treasury.</string>
-	<string name="architect.material_farmer.name">Material Mania</string>
-	<string name="architect.material_farmer.desc">Replaces trinket chests with resource caches and experience scrolls with materials.</string>
-	<string name="architect.insta_revive.name">Quick Fix</string>
-	<string name="architect.insta_revive.desc">Reduce time to revive others in multiplayer to 0.</string>
+	<string name="architect.far_sight.name">遠視</string>
+	<string name="architect.far_sight.desc">地圖已探索</string>
+	<string name="architect.way_gates.name">傳送門</string>
+	<string name="architect.way_gates.desc">在重要地點之間快速旅行</string>
+	<string name="architect.toppled_towers.name">倒塌的塔樓</string>
+	<string name="architect.toppled_towers.desc">塔樓被摧毀</string>
+	<string name="architect.fewer_enemies.name">防禦薄弱</string>
+	<string name="architect.fewer_enemies.desc">關卡中的敵人較少</string>
+	<string name="architect.safe_corridors.name">安全走廊</string>
+	<string name="architect.safe_corridors.desc">走廊中的陷阱已停用</string>
+	<string name="architect.fewer_elites.name">訓練不足</string>
+	<string name="architect.fewer_elites.desc">關卡中的精英敵人較少</string>
+	<string name="architect.more_pyre.name">聖潔之焰</string>
+	<string name="architect.more_pyre.desc">增加找到祭壇的機會</string>
+	<string name="architect.more_treasury.name">尋寶</string>
+	<string name="architect.more_treasury.desc">增加找到財寶室的機會</string>
+	<string name="architect.material_farmer.name">資源狂熱</string>
+	<string name="architect.material_farmer.desc">將飾品寶箱替換為資源補給箱，經驗卷軸替換為材料</string>
+	<string name="architect.insta_revive.name">快速修復</string>
+	<string name="architect.insta_revive.desc">將多人遊戲中復活他人的時間縮短為 0</string>
 
 
 
 
 	<!-- Options -->
-	<string name="menu.unsaved_dialog">There are unsaved changes. Do you want to save them?</string>
+	<string name="menu.unsaved_dialog">有未保存的變更，是否保存？</string>
 
-	<string name="menu.o.game">Game</string>
-	<string name="menu.o.graphics">Graphics</string>
-	<string name="menu.o.sound">Sound</string>
-	<string name="menu.o.ctrls">Controls</string>
+	<string name="menu.o.game">遊戲</string>
+	<string name="menu.o.graphics">圖形</string>
+	<string name="menu.o.sound">聲音</string>
+	<string name="menu.o.ctrls">控制設置</string>
 
-	<string name="menu.resume">Resume</string>
-	<string name="menu.off">Off</string>
-	<string name="menu.on">On</string>
-	<string name="menu.none">None</string>
-	<string name="menu.all">All</string>
-	<string name="menu.low">Low</string>
-	<string name="menu.medium">Medium</string>
-	<string name="menu.high">High</string>
-	<string name="menu.defaults">Reset</string>
-	<string name="menu.defaults.help">Reset all settings to their defaults.</string>
-	<string name="menu.change">Change</string>
-	<string name="menu.defaults_dialog">Reset all settings to their defaults?</string>
+	<string name="menu.resume">恢復</string>
+	<string name="menu.off">關閉</string>
+	<string name="menu.on">開啟</string>
+	<string name="menu.none">無</string>
+	<string name="menu.all">全部</string>
+	<string name="menu.low">低</string>
+	<string name="menu.medium">中</string>
+	<string name="menu.high">高</string>
+	<string name="menu.defaults">重置</string>
+	<string name="menu.defaults.help">重置所有設置為默認值</string>
+	<string name="menu.change">變更</string>
+	<string name="menu.defaults_dialog">是否重置所有設置為默認值？</string>
 
 	<!-- Game Options -->
 
-	<string name="menu.game.defaults_dialog">Reset all game settings to their defaults?</string>
-	<string name="g_language">Language</string>
-	<string name="g_language.help">Display language.</string>
-	<string name="g_gore">Gore</string>
-	<string name="g_gore.help">Display blood and gore.</string>
-	<string name="ui_cursor_alpha">Cursor Alpha</string>
-	<string name="ui_cursor_alpha.help">Transparency of the cursor.</string>
-	<string name="ui_overlay_minimap_alpha">Overlay Minimap Alpha</string>
-	<string name="ui_overlay_minimap_alpha.help">Transparency of the overlay minimap.	</string>
-	<string name="g_txt">Pickup Messages</string>
-	<string name="g_txt.help">Display item pickup messages.</string>
-	<string name="menu.crumb.options.game">Options </string>
-	<string name="menu.game.texts">Texts</string>
-	<string name="menu.game.texts.help">Toggle individual floating texts.</string>
-	<string name="ui_hud_hpbars_enemy">Enemy Health Bars</string>
-	<string name="ui_hud_hpbars_enemy.help">Display health of enemies.</string>
-	<string name="menu.game.show-damaged">When Hurt</string>
+	<string name="menu.game.defaults_dialog">是否將所有遊戲設置重置為默認值？</string>
+	<string name="g_language">語言</string>
+	<string name="g_language.help">顯示語言</string>
+	<string name="g_gore">血腥</string>
+	<string name="g_gore.help">顯示血塊與內臟</string>
+	<string name="ui_cursor_alpha">滑鼠游標透明度</string>
+	<string name="ui_cursor_alpha.help">滑鼠游標的透明度</string>
+	<string name="ui_overlay_minimap_alpha">小地圖透明度</string>
+	<string name="ui_overlay_minimap_alpha.help">覆蓋小地圖的透明度</string>
+	<string name="g_txt">撿取訊息</string>
+	<string name="g_txt.help">顯示物品撿取訊息</string>
+	<string name="menu.crumb.options.game">選項 </string>
+	<string name="menu.game.texts">文本</string>
+	<string name="menu.game.texts.help">切換個別浮動文本</string>
+	<string name="ui_hud_hpbars_enemy">顯示敵人血條</string>
+	<string name="ui_hud_hpbars_enemy.help">顯示敵人生命值</string>
+	<string name="menu.game.show-damaged">受到傷害時</string>
 
-	<string name="menu.game.hud.overlay.always.show">Always Show HUD Overlay.</string>
-	<string name="menu.game.hud.overlay.always.show.tooltip">Shows the time and gold.</string>
+	<string name="menu.game.hud.overlay.always.show">總是顯示 HUD </string>
+	<string name="menu.game.hud.overlay.always.show.tooltip">顯示時間和金幣</string>
 
-	<string name="menu.game.loot.filter.all">All</string>
-	<string name="menu.game.loot.filter.self">Self</string>
-	<string name="menu.game.loot.filter.others">Others</string>
+	<string name="menu.game.loot.filter.all">全部</string>
+	<string name="menu.game.loot.filter.self">自己</string>
+	<string name="menu.game.loot.filter.others">他人</string>
 
 	<!-- Game Options Texts -->
 
-	<string name="menu.game.texts.defaults_dialog">Reset all floating texts settings to their defaults?</string>
-	<string name="g_txt_plr_hurt">Player Hurt</string>
-	<string name="g_txt_plr_hurt.help">Show player damage texts.</string>
-	<string name="g_txt_enemy_hurt">Enemy Hurt</string>
-	<string name="g_txt_enemy_hurt.help">Show enemy damage texts.</string>
-	<string name="g_txt_plr_heal">Player Heal</string>
-	<string name="g_txt_plr_heal.help">Show player healing texts.</string>
-	<string name="g_txt_enemy_heal">Enemy Heal</string>
-	<string name="g_txt_enemy_heal.help">Show enemy healing texts.</string>
-	<string name="g_txt_enemy_immortal">ENEMY IMMORTAL</string>
-	<string name="g_txt_enemy_immortal.help">Show enemy immortal damage texts.</string>
-	<string name="g_txt_plr_armor">PLAYER ARMOR</string>
-	<string name="g_txt_plr_armor.help">Show player armor pickup texts.</string>
-	<string name="g_txt_plr_ammo">PLAYER AMMO</string>
-	<string name="g_txt_plr_ammo.help">Show player ammo pickup texts.</string>
-	<string name="g_txt_pickup">PLAYER PICKUP</string>
-	<string name="g_txt_pickup.help">Show player pickup texts.</string>
+	<string name="menu.game.texts.defaults_dialog">是否將所有浮動文本設置重置為默認值？</string>
+	<string name="g_txt_plr_hurt">玩家傷害</string>
+	<string name="g_txt_plr_hurt.help">顯示玩家傷害文本</string>
+	<string name="g_txt_enemy_hurt">敵人傷害</string>
+	<string name="g_txt_enemy_hurt.help">顯示敵人傷害文本</string>
+	<string name="g_txt_plr_heal">玩家治療</string>
+	<string name="g_txt_plr_heal.help">顯示玩家治療文本</string>
+	<string name="g_txt_enemy_heal">敵人治療</string>
+	<string name="g_txt_enemy_heal.help">顯示敵人的治療文本</string>
+	<string name="g_txt_enemy_immortal">敵人無敵</string>
+	<string name="g_txt_enemy_immortal.help">顯示敵人免疫傷害文本</string>
+	<string name="g_txt_plr_armor">玩家裝甲</string>
+	<string name="g_txt_plr_armor.help">顯示玩家撿取裝甲的文本</string>
+	<string name="g_txt_plr_ammo">玩家彈藥</string>
+	<string name="g_txt_plr_ammo.help">顯示玩家撿取彈藥的文本</string>
+	<string name="g_txt_pickup">玩家撿取</string>
+	<string name="g_txt_pickup.help">顯示玩家撿取的文本</string>
 	
-	<string name="menu.automatic">Auto</string>
-	<string name="g_laser_sight">Aim Guide</string>
-	<string name="g_laser_sight.help">Show a thin line to assist in aiming.</string>
-	
-	
+	<string name="menu.automatic">自動</string>
+	<string name="g_laser_sight">瞄準輔助</string>
+	<string name="g_laser_sight.help">顯示一條細線來協助瞄準</string>
 	
 	
 	
-	<string name="g_screenshake">SCREENSHAKE</string>
-	<string name="g_screenshake.help">Controls the amount of screenshake in the game.</string>
+	
+	
+	<string name="g_screenshake">螢幕震動</string>
+	<string name="g_screenshake.help">控制遊戲中的螢幕震動強度</string>
 
-	<string name="ui_txt">Floating Texts</string>
-	<string name="ui_txt.help">Display floating texts like damage numbers or pickup info.</string>
+	<string name="ui_txt">浮動文本</string>
+	<string name="ui_txt.help">顯示如傷害數字或撿取資訊的浮動文本</string>
 
-	<string name="ui_speechbubble_alpha">SPEECHBUBBLE ALPHA</string>
-	<string name="ui_speechbubble_alpha.help">Transparency of speechbubbles.</string>
+	<string name="ui_speechbubble_alpha">對話框透明度</string>
+	<string name="ui_speechbubble_alpha.help">對話框的透明度</string>
 
-	<string name="ui_cursor_health">Cursor Stats</string>
-	<string name="ui_cursor_health.help">Show your current health and mana on the crosshair.</string>
-	<string name="ui_show_tutorials">Tutorials</string>
-	<string name="ui_show_tutorials.help">Show tutorial prompts.</string>
-	<string name="ui_show_tutorials_important">Important</string>
+	<string name="ui_cursor_health">滑鼠游標狀態</string>
+	<string name="ui_cursor_health.help">在準心上顯示當前的生命和魔力</string>
+	<string name="ui_show_tutorials">教學</string>
+	<string name="ui_show_tutorials.help">顯示教學提示</string>
+	<string name="ui_show_tutorials_important">重要訊息</string>
 
-	<string name="ui_minimap_alpha">Minimap Alpha</string>
-	<string name="ui_minimap_alpha.help">Transparency of the minimap overlay.</string>
+	<string name="ui_minimap_alpha">小地圖透明度</string>
+	<string name="ui_minimap_alpha.help">小地圖覆蓋層的透明度</string>
 
-	<string name="ui_draw_plr_names">PLAYER NAMES</string>
-	<string name="ui_draw_plr_names.help">Show player names in multiplayer.</string>
-	<string name="ui_draw_plr_names.onlytown">ONLY TOWN</string>
-	<string name="ui_draw_plr_names_real">REAL PLAYER NAMES</string>
-	<string name="ui_draw_plr_names_real.help">Show real player names instead of hero names in multiplayer.</string>
+	<string name="ui_draw_plr_names">玩家名稱</string>
+	<string name="ui_draw_plr_names.help">在多人遊戲中顯示玩家名稱</string>
+	<string name="ui_draw_plr_names.onlytown">只在城鎮中</string>
+	<string name="ui_draw_plr_names_real">真實玩家名稱</string>
+	<string name="ui_draw_plr_names_real.help">在多人遊戲中顯示真實玩家名稱，而非英雄名稱</string>
 
-	<string name="ui_txt_enemy_hurt_husk">Remote Damage Numbers</string>
-	<string name="ui_txt_enemy_hurt_husk.help">Whether to show damage done to enemies by other players.</string>
-	<string name="ui_txt_enemy_hurt_local">Local Damage Numbers</string>
-	<string name="ui_txt_enemy_hurt_local.help">Whether to show damage done to enemies by you.</string>
+	<string name="ui_txt_enemy_hurt_husk">遠端傷害數字</string>
+	<string name="ui_txt_enemy_hurt_husk.help">是否顯示其他玩家對敵人造成的傷害</string>
+	<string name="ui_txt_enemy_hurt_local">本地傷害數字</string>
+	<string name="ui_txt_enemy_hurt_local.help">是否顯示你對敵人造成的傷害</string>
 
-	<string name="ui_hud_loot_filter.show_all">Show All</string>
-	<string name="ui_hud_loot_filter.quest_only">Quest Only</string>
+	<string name="ui_hud_loot_filter.show_all">顯示全部</string>
+	<string name="ui_hud_loot_filter.quest_only">僅任務物品</string>
 
-	<string name="ui_hud_loot_announce">Enable Loot Log</string>
-	<string name="ui_hud_loot_announce.help">Display items that were picked up on the screen.</string>
-	<string name="ui_hud_loot_amount">Enable Amount</string>
-	<string name="ui_hud_loot_amount.help">Displays the quantity of items.</string>
-	<string name="ui_hud_loot_announce_looter">Looter</string>
-	<string name="ui_hud_loot_announce_looter.help">Filter whose item pickups you wish to display.</string>
-	<string name="ui_hud_loot_announce_threshold">Minimum Quality To Display</string>
-	<string name="ui_hud_loot_announce_threshold.help">Don't show items below a certain quality.</string>
+	<string name="ui_hud_loot_announce">啟用戰利品日誌</string>
+	<string name="ui_hud_loot_announce.help">在螢幕上顯示撿取的物品</string>
+	<string name="ui_hud_loot_amount">啟用數量</string>
+	<string name="ui_hud_loot_amount.help">顯示物品的數量</string>
+	<string name="ui_hud_loot_announce_looter">撿取者</string>
+	<string name="ui_hud_loot_announce_looter.help">篩選你希望顯示的物品撿取者</string>
+	<string name="ui_hud_loot_announce_threshold">最低品質顯示</string>
+	<string name="ui_hud_loot_announce_threshold.help">不顯示低於某個品質的物品</string>
 
 	<!-- Options Graphics -->
 
-	<string name="menu.graphics.defaults_dialog">Reset all graphics settings to their defaults?</string>
-	<string name="v_resolution">Resolution</string>
-	<string name="v_resolution.help">Screen resolution.</string>
-	<string name="bgfx_renderer">Renderer API</string>
-	<string name="bgfx_renderer.help">Which renderer to use.</string>
+	<string name="menu.graphics.defaults_dialog">是否將所有圖形設置重置為默認值？</string>
+	<string name="v_resolution">解析度</string>
+	<string name="v_resolution.help">螢幕解析度</string>
+	<string name="bgfx_renderer">渲染器 API</string>
+	<string name="bgfx_renderer.help">選擇要使用的渲染器</string>
 	<string name="bgfx_renderer.gl">OpenGL</string>
 	<string name="bgfx_renderer.dx9">DirectX 9</string>
 	<string name="bgfx_renderer.dx11">DirectX 11</string>
-	<string name="v_fullscreen">Fullscreen</string>
-	<string name="v_fullscreen.help">Use full screen mode.</string>
-	<string name="v_fullscreen.windowed">Borderless</string>
-	<string name="v_vsync">VSync</string>
-	<string name="v_vsync.help">Enable vertical screen synchronization.</string>
-	<string name="v_vsync.dynamic">Adaptive</string>
-	<string name="v_fps_limit">Framerate Limit</string>
-	<string name="v_fps_limit.help">Limit the framerate to a specific amount.</string>
-	<string name="r_smooth_scrolling">Smooth Scrolling</string>
-	<string name="r_smooth_scrolling.help">Scroll the camera smoothly over the screen.</string>
-	<string name="r_hdr">Improved Lighting Precision</string>
-	<string name="r_hdr.help">Reduce banding from lighting.</string>
-	<string name="r_light_decal_proj">Light Projection</string>
-	<string name="r_light_decal_proj.help">Project light on to walls</string>
-	<string name="r_shadows">Shadows</string>
-	<string name="r_shadows.help">Use shadow casting.</string>
-	<string name="r_shadows.sun">Sun</string>
-	<string name="r_draw_xray">XRay</string>
-	<string name="r_draw_xray.help">Show players and enemies behind walls.</string>
-	<string name="rg_brightness">Brightness</string>
-	<string name="rg_gamma">Gamma</string>
-	<string name="rg_contrast">Contrast</string>
-	<string name="rg_crt_curve">CRT Curve</string>
-	<string name="v_forced_aspectratio">Letterbox</string>
-	<string name="v_forced_aspect_ratio.help">Force aspect ratio.</string>
-	<string name="v_forced_aspect_ratio">Aspect Ratio</string>
-	<string name="rg_pixel_perfect">Pixel Perfect Rendering</string>
-	<string name="rg_pixel_perfect.help">Gives a more true low-res look, but may cause stuttering.</string>
-	<string name="r_draw_glow">Glow</string>
-	<string name="r_draw_glow.help">Display glow</string>
-	<string name="r_draw_bloom">Bloom</string>
-	<string name="r_draw_bloom.help">Display bloom</string>
-	<string name="r_environmental_detail">Environment Detail</string>
-	<string name="r_environmental_detail.help">Hides environmental details.</string>
-	<string name="r_draw_color_grade">Color Grading</string>
-	<string name="r_draw_color_grade.help">Perform color grading</string>
+	<string name="v_fullscreen">全螢幕</string>
+	<string name="v_fullscreen.help">使用全螢幕模式</string>
+	<string name="v_fullscreen.windowed">無邊框</string>
+	<string name="v_vsync">垂直同步</string>
+	<string name="v_vsync.help">啟用垂直同步</string>
+	<string name="v_vsync.dynamic">自適應</string>
+	<string name="v_fps_limit">幀率上限</string>
+	<string name="v_fps_limit.help">將幀率限制為特定值</string>
+	<string name="r_smooth_scrolling">平滑捲動</string>
+	<string name="r_smooth_scrolling.help">平滑滾動畫面</string>
+	<string name="r_hdr">改善光照精確度</string>
+	<string name="r_hdr.help">減少燈光造成的帶狀效果</string>
+	<string name="r_light_decal_proj">光照投射</string>
+	<string name="r_light_decal_proj.help">投射光線至牆壁</string>
+	<string name="r_shadows">陰影</string>
+	<string name="r_shadows.help">啟用陰影投射</string>
+	<string name="r_shadows.sun">太陽</string>
+	<string name="r_draw_xray">X光</string>
+	<string name="r_draw_xray.help">顯示牆後的玩家與敵人</string>
+	<string name="rg_brightness">亮度</string>
+	<string name="rg_gamma">伽馬值</string>
+	<string name="rg_contrast">對比度</string>
+	<string name="rg_crt_curve">CRT曲面效果</string>
+	<string name="v_forced_aspectratio">強制螢幕比例</string>
+	<string name="v_forced_aspect_ratio.help">強制螢幕比例</string>
+	<string name="v_forced_aspect_ratio">螢幕比例</string>
+	<string name="rg_pixel_perfect">像素完美渲染</string>
+	<string name="rg_pixel_perfect.help">提供更真實的低解析度外觀，但可能會造成畫面卡頓</string>
+	<string name="r_draw_glow">發光效果</string>
+	<string name="r_draw_glow.help">顯示發光效果</string>
+	<string name="r_draw_bloom">泛光效果</string>
+	<string name="r_draw_bloom.help">顯示泛光效果</string>
+	<string name="r_environmental_detail">環境細節</string>
+	<string name="r_environmental_detail.help">隱藏環境細節</string>
+	<string name="r_draw_color_grade">色彩調整</string>
+	<string name="r_draw_color_grade.help">執行色彩調整</string>
 
 	<!-- Options Sound -->
 
-	<string name="menu.sound.defaults_dialog">Reset all sound settings to their defaults?</string>
-	<string name="snd_volume">Master</string>
-	<string name="snd_volume_music">Music</string>
-	<string name="snd_volume_sfx">Effects</string>
-	<string name="snd_volume_voice">Voice</string>
-	<string name="snd_volume_env">Environment</string>
-	<string name="snd_volume_ui">Interface</string>
+	<string name="menu.sound.defaults_dialog">是否將所有音效設置重置為默認值？</string>
+	<string name="snd_volume">主音量</string>
+	<string name="snd_volume_music">音樂</string>
+	<string name="snd_volume_sfx">音效</string>
+	<string name="snd_volume_voice">語音</string>
+	<string name="snd_volume_env">環境音效</string>
+	<string name="snd_volume_ui">介面音效</string>
 
 	<!-- Options Controls -->
 
-	<string name="menu.crumb.options.controls">Options</string>
-	<string name="menu.controls.defaults_dialog">Reset all controls for this player to their defaults?</string>
-	<string name="menu.controls.player">Player</string>
-	<string name="menu.controls.player.help">The player to change the controls for.</string>
+	<string name="menu.crumb.options.controls">選項</string>
+	<string name="menu.controls.defaults_dialog">是否將所有控制設置重置為默認值？</string>
+	<string name="menu.controls.player">玩家</string>
+	<string name="menu.controls.player.help">要更改控制設定的玩家</string>
 
-	<string name="menu.controls.layout">Controls Layout</string>
-	<string name="menu.controls.layout.help">The base control scheme to use for this player.</string>
-	<string name="menu.controls.layout.kbm">Keyboard and Mouse</string>
-	<string name="menu.controls.layout.gp1">Gamepad 1</string>
-	<string name="menu.controls.layout.gp2">Gamepad 2</string>
-	<string name="menu.controls.layout.gp3">Gamepad 3</string>
-	<string name="menu.controls.layout.gp4">Gamepad 4</string>
+	<string name="menu.controls.layout">控制配置</string>
+	<string name="menu.controls.layout.help">此玩家要使用的基本控制方案</string>
+	<string name="menu.controls.layout.kbm">鍵盤與滑鼠</string>
+	<string name="menu.controls.layout.gp1">手把 1</string>
+	<string name="menu.controls.layout.gp2">手把 2</string>
+	<string name="menu.controls.layout.gp3">手把  3</string>
+	<string name="menu.controls.layout.gp4">手把  4</string>
 
-	<string name="menu.controls.move">Movement</string>
-	<string name="menu.controls.move.help">What to use for moving the player.</string>
-	<string name="menu.controls.move.keyboard">Keyboard</string>
-	<string name="menu.controls.move.gp_left">Gamepad: LEFT STICK</string>
-	<string name="menu.controls.move.gp_right">Gamepad: RIGHT STICK</string>
+	<string name="menu.controls.move">移動</string>
+	<string name="menu.controls.move.help">移動玩家的方式</string>
+	<string name="menu.controls.move.keyboard">鍵盤</string>
+	<string name="menu.controls.move.gp_left">手把：左搖桿</string>
+	<string name="menu.controls.move.gp_right">手把：右搖桿</string>
 
-	<string name="menu.controls.aim">Aiming</string>
-	<string name="menu.controls.aim.help">What to use for aiming your weapon.</string>
-	<string name="menu.controls.aim.mouse">Mouse</string>
-	<string name="menu.controls.aim.gp_right">Gamepad: RIGHT STICK</string>
-	<string name="menu.controls.aim.gp_left">Gamepad: LEFT STICK</string>
+	<string name="menu.controls.aim">瞄準</string>
+	<string name="menu.controls.aim.help">瞄準武器的方式</string>
+	<string name="menu.controls.aim.mouse">滑鼠</string>
+	<string name="menu.controls.aim.gp_right">手把：右搖桿</string>
+	<string name="menu.controls.aim.gp_left">手把：左搖桿</string>
 
-	<string name="menu.controls.custom">CUSTOM</string>
-	<string name="menu.controls.up">UP</string>
-	<string name="menu.controls.down">DOWN</string>
-	<string name="menu.controls.left">LEFT</string>
-	<string name="menu.controls.right">RIGHT</string>
-	<string name="menu.controls.back">BACK</string>
-	<string name="menu.controls.attack">ATTACK</string>
-	<string name="menu.controls.dash">DASH</string>
-	<string name="menu.controls.reload">RELOAD</string>
-	<string name="menu.controls.use">USE</string>
+	<string name="menu.controls.custom">自訂</string>
+	<string name="menu.controls.up">上</string>
+	<string name="menu.controls.down">下</string>
+	<string name="menu.controls.left">左</string>
+	<string name="menu.controls.right">右</string>
+	<string name="menu.controls.back">返回</string>
+	<string name="menu.controls.attack">攻擊</string>
+	<string name="menu.controls.dash">衝刺</string>
+	<string name="menu.controls.reload">重新裝填</string>
+	<string name="menu.controls.use">使用</string>
 
 	<string name="menu.controls.menu.up">MENU UP</string>
 	<string name="menu.controls.menu.down">MENU DOWN</string>
@@ -588,29 +588,29 @@
 	<string name="menu.controls.menu.forward">MENU FORWARD</string>
 	<string name="menu.controls.menu.back">MENU BACK</string>
 	<string name="menu.controls.menu.toggle">MENU TOGGLE</string>
-	<string name="menu.controls.menu.chatall">CHAT</string>
-	<string name="menu.controls.menu.chatteam">TEAM CHAT</string>
+	<string name="menu.controls.menu.chatall">聊天 </string>
+	<string name="menu.controls.menu.chatteam">隊伍聊天</string>
 
-	<string name="menu.controls.mainhandattack">PRIMARY WEAPON</string>
-	<string name="menu.controls.offhandattack">OFF-HAND WEAPON</string>
-	<string name="menu.controls.charge">DASH</string>
-	<string name="menu.controls.skill1">SKILL 1</string>
-	<string name="menu.controls.skill2">SKILL 2</string>
-	<string name="menu.controls.skill3">SKILL 3</string>
-	<string name="menu.controls.skill4">SKILL 4</string>
-	<string name="menu.controls.potion">POTION</string>
-	<string name="menu.controls.playermenu">PLAYER MENU</string>
-	<string name="menu.controls.mapoverlay">OVERLAY MAP</string>
-	<string name="menu.controls.playermap">PLAYER MENU MAP</string>
-	<string name="menu.controls.guildhall">GUILD MENU</string>
+	<string name="menu.controls.mainhandattack">主武器</string>
+	<string name="menu.controls.offhandattack">副武器</string>
+	<string name="menu.controls.charge">衝刺</string>
+	<string name="menu.controls.skill1">技能 1</string>
+	<string name="menu.controls.skill2">技能 2</string>
+	<string name="menu.controls.skill3">技能 3</string>
+	<string name="menu.controls.skill4">技能 4</string>
+	<string name="menu.controls.potion">藥水</string>
+	<string name="menu.controls.playermenu">玩家選單</string>
+	<string name="menu.controls.mapoverlay">覆蓋地圖</string>
+	<string name="menu.controls.playermap">玩家選單地圖</string>
+	<string name="menu.controls.guildhall">公會選單</string>
 	
-	<string name="menu.controls.actionmenu">ACTION MENU</string>
-	<string name="menu.controls.contextmenu">CONTEXT MENU</string>
-	<string name="menu.controls.menuadditional">MENU ADDITIONAL</string>
-	<string name="menu.controls.menunexttab">NEXT TAB</string>
-	<string name="menu.controls.menuprevioustab">PREVIOUS TAB</string>
-	<string name="menu.controls.menunextsubtab">NEXT SUB TAB</string>
-	<string name="menu.controls.menuprevioussubtab">PREVIOUS SUB TAB</string>
+	<string name="menu.controls.actionmenu">行動選單</string>
+	<string name="menu.controls.contextmenu">上下文選單</string>
+	<string name="menu.controls.menuadditional">附加選單</string>
+	<string name="menu.controls.menunexttab">下一頁</string>
+	<string name="menu.controls.menuprevioustab">上一頁</string>
+	<string name="menu.controls.menunextsubtab">下一子頁</string>
+	<string name="menu.controls.menuprevioussubtab">上一子頁</string>
 
 	<string name="menu.controls.menuup">MENU UP</string>
 	<string name="menu.controls.menudown">MENU DOWN</string>
@@ -620,12 +620,12 @@
 	<string name="menu.controls.menuback">MENU BACK</string>
 	<string name="menu.controls.menutoggle">TOGGLE MENU</string>
 
-	<string name="menu.controls.move_y.axis1">MOVE UP</string>
-	<string name="menu.controls.move_y.axis2">MOVE DOWN</string>
-	<string name="menu.controls.move_x.axis1">MOVE LEFT</string>
-	<string name="menu.controls.move_x.axis2">MOVE RIGHT</string>
+	<string name="menu.controls.move_y.axis1">向上移動</string>
+	<string name="menu.controls.move_y.axis2">向下移動</string>
+	<string name="menu.controls.move_x.axis1">向左移動</string>
+	<string name="menu.controls.move_x.axis2">向右移動</string>
 
-	<string name="menu.controls.menuchatall">CHAT</string>
+	<string name="menu.controls.menuchatall">聊天</string>
 
 	<string name="menu.input.leftmouse">LMB</string>
 	<string name="menu.input.middlemouse">MMB</string>
@@ -634,125 +634,125 @@
 	<string name="menu.input.mousewheeldown">SCROLL DOWN</string>
 	<string name="menu.input.mousenum">MOUSE %num%</string>
 
-	<string name="menu.input.invert">Inverted</string>
+	<string name="menu.input.invert">反向</string>
 
-	<string name="menu.loading">Loading</string>
+	<string name="menu.loading">載入中</string>
 	<string name="menu.loading."></string>
-	<string name="menu.loading.setting_scenario">Loading scenario</string>
-	<string name="menu.loading.loading_level">Loading level</string>
-	<string name="menu.loading.start_level">Starting level</string>
-	<string name="menu.loading.wait_scenario_set">Waiting for loaded scenario</string>
-	<string name="menu.loading.wait_loaded_level">Waiting for loaded level</string>
-	<string name="menu.loading.wait_started_level">Waiting for started level</string>
+	<string name="menu.loading.setting_scenario">載入場景</string>
+	<string name="menu.loading.loading_level">載入關卡</string>
+	<string name="menu.loading.start_level">開始關卡</string>
+	<string name="menu.loading.wait_scenario_set">等待場景載入</string>
+	<string name="menu.loading.wait_loaded_level">等待關卡載入</string>
+	<string name="menu.loading.wait_started_level">等待關卡開始</string>
 
 	<!-- Singleplayer Menu -->
 
-	<string name="menu.startgame">Play</string>
+	<string name="menu.startgame">遊玩</string>
 
-	<string name="tooltip.header.active.trinket">Active</string>
-	<string name="tooltip.header.active.equipment">Equipped</string>
-	<string name="tooltip.header.blueprint">Blueprint</string>
-	<string name="tooltip.header.current">Current</string>
+	<string name="tooltip.header.active.trinket">啟動中</string>
+	<string name="tooltip.header.active.equipment">已裝備</string>
+	<string name="tooltip.header.blueprint">藍圖</string>
+	<string name="tooltip.header.current">當前</string>
 	<string name="tooltip.header.attuned">Attuned</string>
-	<string name="tooltip.equipment.ilvl">ilvl: %ilvl%</string>
+	<string name="tooltip.equipment.ilvl">裝備等級: %ilvl%</string>
 
-	<string name="blueprint.category.drink">Tavern Drink</string>
-	<string name="blueprint.category.food">Tavern Food</string>
-	<string name="blueprint.category.enchantment">Equipment Enchantment</string>
-	<string name="blueprint.category.trinket">Trinket</string>
-
-
+	<string name="blueprint.category.drink">酒館飲品</string>
+	<string name="blueprint.category.food">酒館食物</string>
+	<string name="blueprint.category.enchantment">裝備附魔</string>
+	<string name="blueprint.category.trinket">飾品</string>
 
 
-	<string name="menu.traveling_cook.givefood">The Traveling Cook gave you a serving of %buff%</string>
-	<string name="menu.traveling_monk.giveblessing">The Traveling Monk gave you the powers of %buff%</string>
-	<string name="menu.shady_trader.get">You get %amount%</string>
-	<string name="menu.shady_trader.lose">You lose %amount%</string>
-	<string name="menu.shady_trader.nothing">Nothing</string>
-	<string name="menu.shady_trader.option">Option %num%</string>
-	<string name="menu.shady_trader.trade">=== TRADE ==></string>
-	<string name="menu.thunderbird.nothing">You have nothing to send back to town.</string>
-	<string name="menu.thunderbird.sendback">Would you like to send back\n%mats% to town?</string>
-	<string name="menu.shadow_rift.cursecost">+%amount% Shadow Curse</string>
-	<string name="menu.shadow_rift.pick">Pick any number of gifts:</string>
-	<string name="menu.shadow_rift.picked">You chose:</string>
-	<string name="menu.subclass.title">Class Promotion</string>
-	<string name="menu.subclass.skill.active">Active</string>
-	<string name="menu.subclass.skill.passive">Passive</string>
 
 
-	<string name="menu.imp.announce.1">Huh, was that an imp?</string>
-	<string name="menu.imp.announce.2">An imp! It should be close.</string>
-	<string name="menu.imp.nothing">The imp gave you nothing!</string>
-	<string name="menu.imp.givemats">The imp gave you %mats%!</string>
-	<string name="menu.imp.sendbackmats">The imp sent your %mats% to town!</string>
-	<string name="menu.imp.remscurse">The imp cured %amount% shadow curse!</string>
-	<string name="menu.imp.equipupgrade">The imp upgraded the level of your %item%!</string>
-	<string name="menu.imp.equipupgradequal">The imp upgraded the quality of your %item% to %quality%!</string>
+	<string name="menu.traveling_cook.givefood">流動廚師給了你一份 %buff%</string>
+	<string name="menu.traveling_monk.giveblessing">流浪僧侶賦予你 %buff% 的力量</string>
+	<string name="menu.shady_trader.get">你獲得了 %amount%</string>
+	<string name="menu.shady_trader.lose">你失去了 %amount%</string>
+	<string name="menu.shady_trader.nothing">什麼也沒發生</string>
+	<string name="menu.shady_trader.option">選項 %num%</string>
+	<string name="menu.shady_trader.trade">=== 交易 ==></string>
+	<string name="menu.thunderbird.nothing">你沒有任何物品可以送回城鎮</string>
+	<string name="menu.thunderbird.sendback">你想將\n%mats% 送回城鎮嗎？</string>
+	<string name="menu.shadow_rift.cursecost">+%amount% 暗影詛咒</string>
+	<string name="menu.shadow_rift.pick">選擇任意數量的禮物：</string>
+	<string name="menu.shadow_rift.picked">你選擇了：</string>
+	<string name="menu.subclass.title">職業晉升</string>
+	<string name="menu.subclass.skill.active">主動技能</string>
+	<string name="menu.subclass.skill.passive">被動技能</string>
+
+
+	<string name="menu.imp.announce.1">咦，那是個小惡魔嗎？</string>
+	<string name="menu.imp.announce.2">一隻小惡魔！它應該就在附近</string>
+	<string name="menu.imp.nothing">小惡魔什麼也沒給你！</string>
+	<string name="menu.imp.givemats">小惡魔給了你 %mats%！</string>
+	<string name="menu.imp.sendbackmats">小惡魔將你的 %mats% 傳送到了城鎮！</string>
+	<string name="menu.imp.remscurse">小惡魔治癒了 %amount% 的暗影詛咒！</string>
+	<string name="menu.imp.equipupgrade">小惡魔提升了你的 %item% 的等級！</string>
+	<string name="menu.imp.equipupgradequal">小惡魔將你的 %item% 的品質升級為 %quality%！</string>
 
 
 
 
 	<!-- Scenario Menu -->
 	
-	<string name="menu.lobby.chat.namechanged">Lobby name was changed to: "%name%"</string>
+	<string name="menu.lobby.chat.namechanged">大廳名稱已更改為： "%name%"</string>
 
-	<string name="menu.lobby.wait.hosting">Creating lobby...</string>
-	<string name="menu.lobby.wait.joining">Joining lobby...</string>
-	<string name="menu.lobby.title.hosting">Lobby: Hosting</string>
-	<string name="menu.lobby.title.joining">Lobby: Joined</string>
+	<string name="menu.lobby.wait.hosting">正在創建大廳...</string>
+	<string name="menu.lobby.wait.joining">正在加入大廳...</string>
+	<string name="menu.lobby.title.hosting">大廳：主持中</string>
+	<string name="menu.lobby.title.joining">大廳：已加入</string>
 
-	<string name="menu.notifier.lostconnection">Connection lost.</string>
-	<string name="menu.lobby.abort.prompt">Are you sure you want to abort the lobby?</string>
-	<string name="menu.lobby.leave.prompt">Are you sure you want to leave the lobby?</string>
-	<string name="menu.lobby.close_lobby">Close Lobby</string>
-	<string name="menu.lobby.close_lobby.confirm">Are you sure? This will kick any player connected to your game.</string>
+	<string name="menu.notifier.lostconnection">連線中斷</string>
+	<string name="menu.lobby.abort.prompt">你確定要中止大廳嗎？</string>
+	<string name="menu.lobby.leave.prompt">你確定要離開大廳嗎？</string>
+	<string name="menu.lobby.close_lobby">關閉大廳</string>
+	<string name="menu.lobby.close_lobby.confirm">你確定嗎？這將踢出任何連接到你遊戲的玩家。</string>
 
-	<string name="menu.lobby.chat.isjoined">%name% has joined.</string>
-	<string name="menu.lobby.chat.isleft">%name% has left.</string>
-	<string name="menu.lobby.chat.iskicked">%name% has been kicked.</string>
-	<string name="menu.lobby.chat.isready">%name% is now ready.</string>
-	<string name="menu.lobby.chat.isunready">%name% is no longer ready.</string>
+	<string name="menu.lobby.chat.isjoined">%name% 已加入</string>
+	<string name="menu.lobby.chat.isleft">%name% 已離開</string>
+	<string name="menu.lobby.chat.iskicked">%name% 被踢出</string>
+	<string name="menu.lobby.chat.isready">%name% 現在已準備好</string>
+	<string name="menu.lobby.chat.isunready">%name% 不再準備就緒</string>
 
-	<string name="menu.lobby.chat.died">%name% bit the dust!</string>
-	<string name="menu.lobby.chat.revive">%revivee% was revived by %reviver%!</string>
-	<string name="menu.lobby.chat.revive.free">%revivee% lives again!</string>
+	<string name="menu.lobby.chat.died">%name% 斷線了！</string>
+	<string name="menu.lobby.chat.revive">%revivee% 被 %reviver% 復活了！</string>
+	<string name="menu.lobby.chat.revive.free">%revivee% 再次復活！</string>
 
-	<string name="menu.lobby.info.maxplayers.server">Server Max Players:</string>
+	<string name="menu.lobby.info.maxplayers.server">伺服器最大玩家數：</string>
 
-	<string name="menu.lobby.ready">Ready</string>
-	<string name="menu.lobby.unready">UnReady</string>
-	<string name="menu.lobby.start">Start</string>
-	<string name="menu.lobby.start.wait">Force\nStart</string>
-	<string name="menu.lobby.switchcount">%a%/%b% Active</string>
-	<string name="menu.lobby.readycount">%a%/%b% Ready</string>
-	<string name="menu.lobby.private">Private</string>
-	<string name="menu.lobby.abort">Abort</string>
-	<string name="menu.lobby.leave">Leave</string>
+	<string name="menu.lobby.ready">準備</string>
+	<string name="menu.lobby.unready">取消準備</string>
+	<string name="menu.lobby.start">開始</string>
+	<string name="menu.lobby.start.wait">強制\n開始</string>
+	<string name="menu.lobby.switchcount">%a%/%b% 啟動中</string>
+	<string name="menu.lobby.readycount">%a%/%b% 已準備</string>
+	<string name="menu.lobby.private">私人</string>
+	<string name="menu.lobby.abort">中止</string>
+	<string name="menu.lobby.leave">離開</string>
 
-	<string name="menu.lobby.title">Hosting Game</string>
-	<string name="menu.lobby.switches">Switches</string>
-	<string name="menu.lobby.resmods">Modifiers</string>
+	<string name="menu.lobby.title">主持遊戲</string>
+	<string name="menu.lobby.switches">切換功能</string>
+	<string name="menu.lobby.resmods">調整項目</string>
 
-	<string name="menu.mplayer.clobby">Host Game</string>
-	<string name="menu.mplayer.slist">Server List</string>
+	<string name="menu.mplayer.clobby">主持遊戲</string>
+	<string name="menu.mplayer.slist">伺服器清單</string>
 
-	<string name="menu.serverlist.title">Server List</string>
-	<string name="menu.serverlist.refresh">Refresh</string>
+	<string name="menu.serverlist.title">伺服器清單</string>
+	<string name="menu.serverlist.refresh">刷新</string>
 
 
-	<string name="exit.notall">You must gather your party before venturing forth!</string>
-	<string name="character.stat.level">Level %level%</string>
+	<string name="exit.notall">你必須集合你的隊伍，才能繼續冒險！</string>
+	<string name="character.stat.level">等級 %level%</string>
 
 
 
 
 
 	<!-- statistics -->
-	<string name="menu.stats.cat.skill_dmg">Skill Damage</string>
-	<string name="menu.stats.cat.combat">Combat</string>
-	<string name="menu.stats.cat.economy">Economy</string>
-	<string name="menu.stats.cat.adventuring">Adventuring</string>
+	<string name="menu.stats.cat.skill_dmg">技能傷害</string>
+	<string name="menu.stats.cat.combat">戰鬥</string>
+	<string name="menu.stats.cat.economy">經濟</string>
+	<string name="menu.stats.cat.adventuring">冒險</string>
 
 
 	<!-- Item Info Tooltip -->
@@ -768,32 +768,32 @@
 
 	<!-- Item Quality -->
 
-	<string name="item.quality.common">Common</string>
-	<string name="item.quality.uncommon">Uncommon</string>
-	<string name="item.quality.rare">Rare</string>
-	<string name="item.quality.epic">Epic</string>
-	<string name="item.quality.legendary">Legendary</string>
-	<string name="item.quality.quest">Quest</string>
-	<string name="item.quality.unique">Unique</string>
+	<string name="item.quality.common">普通</string>
+	<string name="item.quality.uncommon">非凡</string>
+	<string name="item.quality.rare">稀有</string>
+	<string name="item.quality.epic">史詩</string>
+	<string name="item.quality.legendary">傳奇</string>
+	<string name="item.quality.quest">任務</string>
+	<string name="item.quality.unique">獨特</string>
 
 
 
-	<string name="blessing.damage.name">Blessing of Might</string>
-	<string name="blessing.damage.desc">%amnt% Damage.</string>
-	<string name="blessing.protection.name">Blessing of Protection</string>
-	<string name="blessing.protection.desc">%amnt% Damage Taken.</string>
-	<string name="blessing.speed.name">Blessing of Swiftness</string>
-	<string name="blessing.speed.desc">%amnt% Movement Speed.</string>
-	<string name="blessing.speed.shrine.desc">%amnt% Movement Speed, and bonus to dashing.</string>
-	<string name="blessing.light.name">Blessing of Light</string>
-	<string name="blessing.light.desc">%amnt% Shadow Curse Gain.</string>
-	<string name="blessing.mana.name">Blessing of Prowess</string>
-	<string name="blessing.mana.desc">%amnt% Mana Cost.</string>
-	<string name="blessing.mana.shrine.desc">Skills cost no mana.</string>
-	<string name="blessing.gold.name">Blessing of Wealth</string>
-	<string name="blessing.gold.desc">%amnt% Gold Gain.</string>
-	<string name="blessing.experience.name">Blessing of Wisdom</string>
-	<string name="blessing.experience.desc">%amnt% Experience Gain.</string>
+	<string name="blessing.damage.name">力量的祝福</string>
+	<string name="blessing.damage.desc">%amnt% 傷害</string>
+	<string name="blessing.protection.name">保護的祝福</string>
+	<string name="blessing.protection.desc">%amnt% 傷害減免</string>
+	<string name="blessing.speed.name">敏捷的祝福</string>
+	<string name="blessing.speed.desc">%amnt% 移動速度</string>
+	<string name="blessing.speed.shrine.desc">%amnt% 移動速度，並增加衝刺加成</string>
+	<string name="blessing.light.name">光明的祝福</string>
+	<string name="blessing.light.desc">%amnt%  暗影詛咒獲得</string>
+	<string name="blessing.mana.name">技巧的祝福</string>
+	<string name="blessing.mana.desc">%amnt% 魔力消耗</string>
+	<string name="blessing.mana.shrine.desc">技能不消耗魔力</string>
+	<string name="blessing.gold.name">財富的祝福</string>
+	<string name="blessing.gold.desc">%amnt% 金幣獲取</string>
+	<string name="blessing.experience.name">智慧的祝福</string>
+	<string name="blessing.experience.desc">%amnt% 經驗值獲取</string>
 
 
 
