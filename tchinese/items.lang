@@ -16,7 +16,7 @@
 	<string name="tavern.meal.hunters_travel_rations.desc">對野獸傷害 +20%\n衝刺恢復時間 -25%</string>
 	<string name="tavern.meal.foragers_feast.name">採集者的盛宴</string>
 	<string name="tavern.meal.foragers_feast.desc">木材、石材和鐵的獲取量 +25%</string>
-	<string name="tavern.meal.bishops_blessed_bread.name">主教的祝福麵包/string>
+	<string name="tavern.meal.bishops_blessed_bread.name">主教的祝福麵包</string>
 	<string name="tavern.meal.bishops_blessed_bread.desc">對不死生物傷害 +20%\n-暗影詛咒獲取 -10%</string>
 	<string name="tavern.meal.sweet_pancakes.name">甜煎餅</string>
 	<string name="tavern.meal.sweet_pancakes.desc">移動速度 +5%\n經驗獲取 +20%</string>
