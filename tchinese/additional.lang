@@ -159,17 +159,17 @@
 	<string name="equipment.unique.wizard.offhand.adept_1.name">岩石發射器</string>
 	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
-	<string name="item.meal.sizzling_essence_tea.name">Sizzling Essence Tea</string>
-	<string name="item.meal.sizzling_essence_tea.desc">%amount% Spell Cost and Spell Cooldown. Mana Regen set to 0. Lasts for %dur% minutes.</string>
+	<string name="item.meal.sizzling_essence_tea.name">熾熱精華茶</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% Spell Cost and Spell Cooldown. 法力回復設為 0，持續 %dur% 分鐘</string>
 
-	<string name="item.map_bb.name">Map of Blackbarrow</string>
-	<string name="item.map_bb.desc">A map over the region Blackbarrow.</string>
+	<string name="item.map_bb.name">黑洞峽谷地圖</string>
+	<string name="item.map_bb.desc">黑洞峽谷地區的地圖</string>
 	
-	<string name="hud.newtier">New tier!</string>
+	<string name="hud.newtier">新階級！</string>
 	
-	<string name="quest.timedcomp">\"icn-quest-need" This quest has a timed component and needs to be completed within a reasonable time.</string>
+	<string name="quest.timedcomp">\"icn-quest-need" 此任務有時間限制，必須在合理的時間內完成</string>
 
-	<string name="misc.dmg.immortal">Invulnerable!</string>
+	<string name="misc.dmg.immortal">無敵！</string>
 
 	<!-- Missing Added 0421 -->
 	<!-- Missing Added 0421 -->
@@ -178,25 +178,25 @@
 	<!-- Missing Added 0421 -->
 	
 	
-	<string name="skills.paladin.spell_1.up3.desc">The hammer now returns to you after a short delay.</string>
-	<string name="skills.rogue.master.passive_1.up1.desc">You gain a chance to instantly kill an enemy on %c-highlight%Low Life\d when scoring an Attack Critical Hit. Does not work on Bosses.</string>
-	<string name="skills.rogue.master.spell_2.desc">You slip into the shadows and become undetectable for a brief period. Dealing any kind of damage will end the spell early.</string>
-	<string name="skills.warlock.mainhand.up1.desc">Soul projectiles gain the ability to seek out new targets on hit. The projectiles deal less damage with each enemy hit.</string>
-	<string name="modifiers.misc.experience.desc">%desc%% Experience Gain.</string>
+	<string name="skills.paladin.spell_1.up3.desc">這把錘子在短暫延遲後會回到你的手中。</string>
+	<string name="skills.rogue.master.passive_1.up1.desc">在敵人處於 %c-highlight%低生命\d 時，攻擊暴擊有機率直接擊殺敵人。對Bosses無效</string>
+	<string name="skills.rogue.master.spell_2.desc">你潛入陰影中，短時間內變得無法被發現。造成任何傷害將提前結束此效果</string>
+	<string name="skills.warlock.mainhand.up1.desc">靈魂投射物在命中後會自動追蹤新的目標。每命中一個敵人，傷害會降低</string>
+	<string name="modifiers.misc.experience.desc">%desc%% 經驗值增益</string>
 
-	<string name="item.meal.raging_behemoth.desc">%amount% Damage. %amount2% Spell Cost and Spell Cooldown. Lasts for %dur% minutes.</string>
-	<string name="item.meal.ghost_jam.desc">%amount% Evasion. Armor and Fire Resistance set to 0. Lasts for %dur% minutes.</string>
-	<string name="item.meal.pancakes.desc">%amount% Experience Gain and %amount2% Movement Speed for %dur% minutes.</string>
-	<string name="item.meal.summer_city_platter.desc">%amount% increased attributes for %dur% minutes.</string>
+	<string name="item.meal.raging_behemoth.desc">%amount% 傷害。 %amount2% 法術消耗與冷卻時間，持續 %dur% 分鐘</string>
+	<string name="item.meal.ghost_jam.desc">%amount% 閃避。護甲與火焰抗性設為 0，持續 %dur% 分鐘</string>
+	<string name="item.meal.pancakes.desc">%amount% 經驗值增益與 %amount2% 移動速度提升，持續 %dur% 分鐘</string>
+	<string name="item.meal.summer_city_platter.desc">%amount% 全屬性提升，持續 %dur% 分鐘</string>
 
-	<string name="log.objectives">Objectives</string>
-	<string name="log.rewards">Rewards</string>
-	<string name="log.noquest">Your quest log is empty.</string>
-	<string name="log.desc">Description</string>
+	<string name="log.objectives">目標</string>
+	<string name="log.rewards">獎勵</string>
+	<string name="log.noquest">你的任務記錄是空的</string>
+	<string name="log.desc">描述</string>
 	
-	<string name="text.saving">Saving...</string>
+	<string name="text.saving">儲存中...</string>
 
-	<string name="menu.playerlist.profile.title">Profile</string>
+	<string name="menu.playerlist.profile.title">個人檔案</string>
 	<string name="menu.playerlist.profile.tooltip">Open this player's profile.</string>
 	<string name="menu.playerlist.kick.title">Kick</string>
 	<string name="menu.playerlist.kick.tooltip">Kick this player.</string>
