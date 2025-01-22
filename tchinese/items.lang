@@ -11,7 +11,7 @@
 	<string name="tavern.meal.hearty_meal.name">豐盛大餐</string>
 	<string name="tavern.meal.hearty_meal.desc">生命與魔力回復 +1</string>
 	<string name="tavern.meal.elemental_breakfast.name">元素早餐</string>
-	<string name="tavern.meal.elemental_breakfast.desc">火焰、冰冷、雷電抗性 +50</string>
+	<string name="tavern.meal.elemental_breakfast.desc">火焰、冰冷、閃電抗性 +50</string>
 	<string name="tavern.meal.hunters_travel_rations.name">獵人旅行口糧</string>
 	<string name="tavern.meal.hunters_travel_rations.desc">對野獸傷害 +20%\n衝刺恢復時間 -25%</string>
 	<string name="tavern.meal.foragers_feast.name">採集者的盛宴</string>
@@ -65,7 +65,7 @@
 	<string name="tavern.drink.chilly_fingers.name">冰冷之指</string>
 	<string name="tavern.drink.chilly_fingers.desc">冰冷傷害 +25%\n火焰抗性 -25%</string>
 	<string name="tavern.drink.shocking_zinger.name">電擊高手</string>
-	<string name="tavern.drink.shocking_zinger.desc">雷電傷害 +25%\n護甲 -20%</string>
+	<string name="tavern.drink.shocking_zinger.desc">閃電傷害 +25%\n護甲 -20%</string>
 	<string name="tavern.drink.toxic_twist.name">劇毒扭曲</string>
 	<string name="tavern.drink.toxic_twist.desc">毒素傷害 +25%\n生命值 -10%</string>
 
