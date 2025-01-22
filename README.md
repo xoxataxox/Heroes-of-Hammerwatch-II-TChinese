@@ -9,7 +9,7 @@ Heroes of Hammerwatch II 繁體中文翻譯
 
 目前只有在RPG遊戲中常見的物品描述會特別留意並潤色，其他物品翻譯的潤色會在全部文本翻譯完成後邊遊玩邊調整。
 
-<h3>注意：目前版本(Second Patch)不支援部分語言(包含繁體中文)，開發者說完成時間未知，以下為原文。</h3>
+<h3>注意：目前版本(Second Patch)不支援部分語言(包含繁體中文)，所以文字顯示不出來是正常的，開發者說完成時間未知，以下為原文。</h3>
 
 >Thyraxx.void：Devs are working on it, but currently no ETA when it will be completely implemented/done. 
 
