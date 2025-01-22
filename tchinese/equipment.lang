@@ -23,12 +23,12 @@
 
 	<string name="equipment.mainhand.shortsword.1a">短劍</string>
 	<string name="equipment.mainhand.shortsword.2a">精緻短劍</string>
-	<string name="equipment.mainhand.shortsword.3a">高貴短劍</string>
+	<string name="equipment.mainhand.shortsword.3a">貴族短劍</string>
 	<string name="equipment.mainhand.shortsword.4a">勇士之劍</string>
 
 	<string name="equipment.mainhand.dagger.1a">鐵匕首</string>
 	<string name="equipment.mainhand.dagger.2a">鋼匕首</string>
-	<string name="equipment.mainhand.dagger.3a">高貴匕首</string>
+	<string name="equipment.mainhand.dagger.3a">貴族匕首</string>
 	<string name="equipment.mainhand.dagger.4a">華麗匕首</string>
 
 	<string name="equipment.mainhand.wand.fire.1a">火焰魔杖</string>
@@ -59,7 +59,7 @@
 
 	<string name="equipment.offhand.crossbow.1a">手弩</string>
 	<string name="equipment.offhand.crossbow.2a">手弩</string>
-	<string name="equipment.offhand.crossbow.3a">高貴手弩</string>
+	<string name="equipment.offhand.crossbow.3a">貴族手弩</string>
 	<string name="equipment.offhand.crossbow.4a">鍍金手弩</string>
 
 	<string name="equipment.offhand.tome.fire.1a">火焰法典</string>
@@ -155,45 +155,45 @@
 	<string name="equipment.head.dex.3c">羽毛帽</string>
 	<string name="equipment.head.dex.4a">暗影頭巾</string>
 	
-	<string name="equipment.head.int.1a">Simple Cap</string>
-	<string name="equipment.head.int.1b">Simple Circlet</string>
-	<string name="equipment.head.int.2a">Apprentice Hat</string>
-	<string name="equipment.head.int.2b">Silver Circlet</string>
-	<string name="equipment.head.int.3a">Adept Hat</string>
-	<string name="equipment.head.int.3b">Jeweled Circlet</string>
-	<string name="equipment.head.int.4a">Grand  Hat</string>
-	<string name="equipment.head.int.4b">Golden Circlet</string>
+	<string name="equipment.head.int.1a">簡單帽</string>
+	<string name="equipment.head.int.1b">簡單頭環</string>
+	<string name="equipment.head.int.2a">學徒帽</string>
+	<string name="equipment.head.int.2b">銀頭環</string>
+	<string name="equipment.head.int.3a">熟練者帽</string>
+	<string name="equipment.head.int.3b">鑲寶頭環</string>
+	<string name="equipment.head.int.4a">宏偉帽</string>
+	<string name="equipment.head.int.4b">金頭環</string>
 
-	<string name="equipment.hands.str.1a">Iron Gauntlets</string>
-	<string name="equipment.hands.str.2a">Plated Gauntlets</string>
-	<string name="equipment.hands.str.3a">Gilded Gauntlets</string>
-	<string name="equipment.hands.str.4a">Golden Gauntlets</string>
-	<string name="equipment.hands.dex.1a">Leather Bracers</string>
-	<string name="equipment.hands.dex.2a">Studded Bracers</string>
-	<string name="equipment.hands.dex.3a">Noble Bracers</string>
-	<string name="equipment.hands.dex.4a">Wyrmscale Bracers</string>
-	<string name="equipment.hands.int.1a">Cloth Gloves</string>
-	<string name="equipment.hands.int.2a">Velvet Gloves</string>
-	<string name="equipment.hands.int.3a">Ornate Gloves</string>
-	<string name="equipment.hands.int.4a">Opulent Gloves</string>
+	<string name="equipment.hands.str.1a">鐵護手</string>
+	<string name="equipment.hands.str.2a">板甲護手</string>
+	<string name="equipment.hands.str.3a">鍍金護手</string>
+	<string name="equipment.hands.str.4a">金護手</string>
+	<string name="equipment.hands.dex.1a">皮護腕</string>
+	<string name="equipment.hands.dex.2a">鑲釘護腕</string>
+	<string name="equipment.hands.dex.3a">貴族護腕</string>
+	<string name="equipment.hands.dex.4a">龍鱗護腕</string>
+	<string name="equipment.hands.int.1a">布手套</string>
+	<string name="equipment.hands.int.2a">天鵝絨手套</string>
+	<string name="equipment.hands.int.3a">華麗手套</string>
+	<string name="equipment.hands.int.4a">奢華手套</string>
 
-	<string name="equipment.feet.str.1a">Iron Greaves</string>
-	<string name="equipment.feet.str.2a">Plate Greaves</string>
-	<string name="equipment.feet.str.3a">Imperial Greaves</string>
-	<string name="equipment.feet.str.4a">Dragonbone Greaves</string>
-	<string name="equipment.feet.dex.1a">Hide Boots</string>
-	<string name="equipment.feet.dex.2a">Leather Boots</string>
-	<string name="equipment.feet.dex.3a">Noble Boots</string>
-	<string name="equipment.feet.dex.4a">Flamboyant Boots</string>
-	<string name="equipment.feet.int.1a">Cloth Slippers</string>
-	<string name="equipment.feet.int.2a">Velvet Slippers</string>
-	<string name="equipment.feet.int.3a">Ornate Slippers</string>
-	<string name="equipment.feet.int.4a">Royal Slippers</string>
+	<string name="equipment.feet.str.1a">鐵護脛</string>
+	<string name="equipment.feet.str.2a">板甲護脛</string>
+	<string name="equipment.feet.str.3a">帝國護脛</string>
+	<string name="equipment.feet.str.4a">龍骨護脛</string>
+	<string name="equipment.feet.dex.1a">獸皮靴</string>
+	<string name="equipment.feet.dex.2a">皮靴</string>
+	<string name="equipment.feet.dex.3a">貴族靴</string>
+	<string name="equipment.feet.dex.4a">華美靴</string>
+	<string name="equipment.feet.int.1a">布拖鞋</string>
+	<string name="equipment.feet.int.2a">天鵝絨拖鞋</string>
+	<string name="equipment.feet.int.3a">華麗拖鞋</string>
+	<string name="equipment.feet.int.4a">皇家拖鞋</string>
 
-	<string name="equipment.back.2a">Cape</string>
-	<string name="equipment.back.2b">Cloak</string>
-	<string name="equipment.back.4a">Regal Cape</string>
-	<string name="equipment.back.4b">宏偉 Cloak</string>
+	<string name="equipment.back.2a">斗篷</string>
+	<string name="equipment.back.2b">披風</string>
+	<string name="equipment.back.4a">高貴斗篷</string>
+	<string name="equipment.back.4b">宏偉披風</string>
 
 
 </lang>
