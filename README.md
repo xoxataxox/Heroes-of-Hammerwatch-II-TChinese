@@ -1,4 +1,9 @@
 # Heroes-of-Hammerwatch-II-TChinese
+
+<h3>注意：目前版本(Fourth Patch)不支援部分語言(包含繁體中文)，所以文字顯示不出來是正常的，開發者說完成時間未知，以下為原文。</h3>
+
+>Thyraxx.void：Devs are working on it, but currently no ETA when it will be completely implemented/done. 
+
 Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
 
 該文本基於遊戲發售日(2025/01/15)所發布的版本製作
@@ -12,10 +17,6 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
 目前我只有在RPG遊戲中常見的物品在翻譯描述時會特別留意，其他文本會在翻譯完畢後邊遊玩邊調整，但也有可能後續就不調整了。
 
 可以在Github上或Steam指南上回報，Steam指南：https://steamcommunity.com/sharedfiles/filedetails/?id=3411822620
-
-<h3>注意：目前版本(Fourth Patch)不支援部分語言(包含繁體中文)，所以文字顯示不出來是正常的，開發者說完成時間未知，以下為原文。</h3>
-
->Thyraxx.void：Devs are working on it, but currently no ETA when it will be completely implemented/done. 
 
 目前翻譯進度：在遊戲能正常顯示繁體中文的版本釋出前會慢慢翻譯
 
