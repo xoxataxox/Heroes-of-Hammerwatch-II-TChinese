@@ -51,7 +51,7 @@ Heroes of Hammerwatch II 繁體中文翻譯
     </tr>
     <tr>
         <td>system.lang</td>
-        <td>⏳翻譯中(30%)</td>
+        <td>✔️已完成</td>
     </tr>
 </table>
 
