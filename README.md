@@ -59,4 +59,5 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
 
 使用方式：將Github內tchinese資料夾的"所有"檔案放置於steam\steamapps\common\Heroes of Hammerwatch 2\res\language\tchinese內，若language內無tchinese就自行建立資料夾後放入。
 
+補充：打開控制台(~鍵)後輸入"save g_multiplayer_limit 99"即可將多人遊戲人數上限設為99
 
