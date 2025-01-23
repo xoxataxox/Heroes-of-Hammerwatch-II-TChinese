@@ -158,14 +158,14 @@
 
 
 	<string name="menu.player.skills.currpoints">可分配點數： %points%\"icn-skillpt"</string>
-	<string name="menu.player.skills.upgrade">Upgrade: %cost%\"icn-skillpt"</string>
+	<string name="menu.player.skills.upgrade">升級： %cost%\"icn-skillpt"</string>
 	<string name="menu.player.skills.required_skill">\n需要 %c-highlight%%skill%\d</string>
 	<string name="menu.player.skills.blocker_skill">\n與 %c-highlight%%skill%\d 互斥</string>
 	<string name="menu.player.skills.required_skill_dis">\n%c-disabled%需要 %skill%\d</string>
-	<string name="menu.player.skills.blocker_skill_dis">\n%c-disabled%Blocked by %skill%\d</string>
+	<string name="menu.player.skills.blocker_skill_dis">\n%c-disabled% 因 %skill%\d 被封鎖</string>
 
 	<string name="menu.player.attrib.currpoints">可分配屬性點： %points%\"icn-attrpt"</string>
-	<string name="menu.player.attrib.upgrade">Upgrade: %cost%\"icn-attrpt"</string>
+	<string name="menu.player.attrib.upgrade">升級：%cost%\"icn-attrpt"</string>
 
 
 
@@ -176,11 +176,11 @@
 
 
 
-	<string name="menu.attributes.respec.title">重新分配</string>
-	<string name="menu.attributes.respec">Would you like to respec %points%\"icn-attrpt" for %cost%</string>
-	<string name="menu.attributes.respec_cant_afford">You can't afford to respec %points%\"icn-attrpt" for %cost%</string>
-	<string name="menu.skills.respec">Would you like to respec %points%\"icn-skillpt" for %cost%</string>
-	<string name="menu.skills.respec_cant_afford">You can't afford to respec %points%\"icn-skillpt" for %cost%</string>
+	<string name="menu.attributes.respec.title">重置點數</string>
+	<string name="menu.attributes.respec">是否要花費 %cost% 來重置 %points%\"icn-attrpt"？</string>
+	<string name="menu.attributes.respec_cant_afford">你無法負擔重置 %points%\"icn-attrpt" 所需的 %cost%</string>
+	<string name="menu.skills.respec">是否要花費 %cost% 來重置 %points%\"icn-skillpt"？</string>
+	<string name="menu.skills.respec_cant_afford">你無法負擔重置 %points%\"icn-skillpt" 所需的 %cost%</string>
 
 
 
@@ -190,7 +190,7 @@
 	<string name="menu.loadout.starting_mission">開始\n%mission%</string>
 	<string name="menu.loadout.alterations">更改</string>
 	<string name="menu.loadout.numready">%ready%/%total% 已準備好！!</string>
-	<string name="menu.loadout.waiting_num">Waiting for %num% players.</string>
+	<string name="menu.loadout.waiting_num">等待 %num% 位玩家.</string>
 	<string name="menu.loadout.waiting_plrs">等待 %players%</string>
 	<string name="menu.loadout.ngp">New Game+ %ngp%</string>
 
@@ -653,7 +653,7 @@
 	<string name="tooltip.header.active.equipment">已裝備</string>
 	<string name="tooltip.header.blueprint">藍圖</string>
 	<string name="tooltip.header.current">當前</string>
-	<string name="tooltip.header.attuned">Attuned</string>
+	<string name="tooltip.header.attuned">共鳴</string>
 	<string name="tooltip.equipment.ilvl">裝備等級: %ilvl%</string>
 
 	<string name="blueprint.category.drink">酒館飲品</string>
@@ -863,27 +863,27 @@
 
 
 	<!-- Item Errors -->
-	<string name="item.error.cannot_be_equipped">This item cannot be equipped.</string>
-	<string name="item.error.cannot_be_used">Can't use this.</string>
-	<string name="item.error.invalid_inventory">That item does not go in that inventory.</string>
-	<string name="item.error.invalid_slot">That item does not go in that slot.</string>
-	<string name="item.error.low_level">You need a higher level.</string>
-	<string name="item.error.low_requirements">You don't meet the requirements.</string>
-	<string name="item.error.player_low_gold">You don't have enough gold to buy this.</string>
+	<string name="item.error.cannot_be_equipped">無法裝備此物品</string>
+	<string name="item.error.cannot_be_used">無法使用此物品</string>
+	<string name="item.error.invalid_inventory">該物品無法放入背包</string>
+	<string name="item.error.invalid_slot">該物品無法放入此欄位</string>
+	<string name="item.error.low_level">您需要更高的等級</string>
+	<string name="item.error.low_requirements">您不符合要求</string>
+	<string name="item.error.player_low_gold">您的金幣不足，無法購買此物品</string>
 
 
 
 
-	<string name="hud.levelup">Level Up!</string>
-	<string name="hud.potionrefill">Potions refilled!</string>
-	<string name="hud.spectate">Spectating %name%</string>
-	<string name="hud.spectate.help">Press %fire% to spectate next player.\nPress %use% to stop spectating.</string>
-	<string name="hud.spectate.start">Press %use% to spectate.</string>
+	<string name="hud.levelup">升級！</string>
+	<string name="hud.potionrefill">藥水已補充！</string>
+	<string name="hud.spectate">觀戰 %name%</string>
+	<string name="hud.spectate.help">按 %fire% 切換至下一位玩家\n按 %use% 停止觀戰</string>
+	<string name="hud.spectate.start">按 %use% 開始觀戰</string>
 
 
 	<!-- Overlay -->
-	<string name="tab.overlay.level.town">Town</string>
-	<string name="tab.overlay.level.diff_lvl">Area Level %lvl%</string>
+	<string name="tab.overlay.level.town">城鎮</string>
+	<string name="tab.overlay.level.diff_lvl">區域等級 %lvl%</string>
 	<string name="tab.overlay.level.ngp">\nNew Game+ %ngp%</string>
 	
 	<string name="tab.overlay.player.gold">\"icn-gold"%amount%</string>
@@ -895,17 +895,17 @@
 	<string name="tab.overlay.player.frag">\"icn-frag"%amount%</string>
 	<string name="tab.overlay.player.unknown">%amount%?</string>
 	
-	<string name="item.key.bronze">Bronze Key</string>
-	<string name="item.key.silver">Silver Key</string>
-	<string name="item.key.gold">Gold Key</string>
+	<string name="item.key.bronze">青銅鑰匙</string>
+	<string name="item.key.silver">白銀鑰匙</string>
+	<string name="item.key.gold">黃金鑰匙</string>
 	
-	<string name="material.name.gold">Gold</string>
-	<string name="material.name.wood">Wood</string>
-	<string name="material.name.stone">Stone</string>
-	<string name="material.name.iron">Iron</string>
-	<string name="material.name.crys">Crystal</string>
-	<string name="material.name.dust">Dust</string>
-	<string name="material.name.frag">Fragment</string>
+	<string name="material.name.gold">金幣</string>
+	<string name="material.name.wood">木材</string>
+	<string name="material.name.stone">石材</string>
+	<string name="material.name.iron">鐵</string>
+	<string name="material.name.crys">水晶</string>
+	<string name="material.name.dust">塵埃</string>
+	<string name="material.name.frag">碎片</string>
 	
 	<string name="hud.pickup.gold">\"icn-gold"%amount%</string>
 	<string name="hud.pickup.wood">\"icn-wood"%amount%</string>
@@ -926,99 +926,99 @@
 	<string name="hud.lootlog.unknown">?</string>
 	
 	
-	<string name="hud.lootlog.got.sp">Got</string>
-	<string name="hud.lootlog.got.mp.self">You got</string>
-	<string name="hud.lootlog.got.mp.other"> got</string>
+	<string name="hud.lootlog.got.sp">獲得</string>
+	<string name="hud.lootlog.got.mp.self">您獲得了</string>
+	<string name="hud.lootlog.got.mp.other"> 獲得</string>
 	
-	<string name="hud.lootlog.skill">skill</string>
-	<string name="hud.lootlog.trinket">trinket</string>
-	<string name="hud.lootlog.equipment">equipment</string>
+	<string name="hud.lootlog.skill">技能</string>
+	<string name="hud.lootlog.trinket">飾品</string>
+	<string name="hud.lootlog.equipment">裝備</string>
 	<string name="hud.lootlog.experience">\"icn-exp"</string>
-	<string name="hud.lootlog.shrine">monolith</string>
-	<string name="hud.lootlog.shadowcurse">shadow curse</string>
-	<string name="hud.lootlog.buff">buff</string>
+	<string name="hud.lootlog.shrine">巨石</string>
+	<string name="hud.lootlog.shadowcurse">暗影詛咒</string>
+	<string name="hud.lootlog.buff">增益效果</string>
 	
-	<string name="hud.boxannounce.accomplishment">Unlocked Accomplishment:</string>
-	<string name="hud.boxannounce.class">Unlocked Class:</string>
-	<string name="hud.boxannounce.building">Unlocked Building:</string>
-	<string name="hud.boxannounce.unlocked">Unlocked:</string>
-	<string name="hud.boxannounce.unlocked.potion">Potion</string>
-	<string name="hud.boxannounce.unlocked.combo">Combo</string>
+	<string name="hud.boxannounce.accomplishment">解鎖成就：</string>
+	<string name="hud.boxannounce.class">解鎖職業：</string>
+	<string name="hud.boxannounce.building">解鎖建築：</string>
+	<string name="hud.boxannounce.unlocked">已解鎖：</string>
+	<string name="hud.boxannounce.unlocked.potion">藥水</string>
+	<string name="hud.boxannounce.unlocked.combo">連擊</string>
 	
 	
 	<string name="tab.overlay.time">%year% %month%/%day% %h%:%m%</string>
 
 	<!-- Item Generation -->
 
-	<string name="generation.equipment.name">%slot% Equipment</string>
-	<string name="generation.equipment.desc">The modifiers on this equipment is revealed upon crafting it.</string>
+	<string name="generation.equipment.name">%slot% 裝備</string>
+	<string name="generation.equipment.desc">此裝備的屬性在製作後會被揭示</string>
 
 	<!-- Loot Log -->
 
-	<string name="loot.log.you_show">You show everyone %item%</string>
-	<string name="loot.log.someone_shows">%name% shows you %item%</string>
+	<string name="loot.log.you_show">您向所有人展示 %item%</string>
+	<string name="loot.log.someone_shows">%name% 向您展示 %item%</string>
 	<string name="loot.log.looted">%name%: %item%</string>
-	<string name="loot.log.you">You</string>
+	<string name="loot.log.you">你</string>
 
 	<!-- Pedia -->
-	<string name="input.unbound">Unbound</string>
+	<string name="input.unbound">未綁定</string>
 	<string name="input.nomap"></string>
 	<string name="input.noinp"></string>
 	<string name="input."></string>
 
 
 	<!-- Locations -->
-	<string name="location.level">Level %lvl%</string>
+	<string name="location.level">等級 %lvl%</string>
 	
-	<string name="location.act.forest">Forest</string>
-	<string name="location.act.cave_light">Caves</string>
-	<string name="location.act.cave_dark">Dark Caves</string>
-	<string name="location.act.prison">Prison</string>
-	<string name="location.act.keep">Bandit Keep</string>
-	<string name="location.act.temple">Temple</string>
-	<string name="location.act.crypt">Crypt</string>
-	<string name="location.act.dungeon">Dungeon</string>
-	<string name="location.act.barracks">Barracks</string>
-	<string name="location.act.courts">Courts</string>
-	<string name="location.act.dark_halls">Dark Halls</string>
+	<string name="location.act.forest">森林</string>
+	<string name="location.act.cave_light">洞穴</string>
+	<string name="location.act.cave_dark">黑暗洞穴</string>
+	<string name="location.act.prison">監獄</string>
+	<string name="location.act.keep">盜賊堡壘</string>
+	<string name="location.act.temple">神殿</string>
+	<string name="location.act.crypt">地穴</string>
+	<string name="location.act.dungeon">地牢</string>
+	<string name="location.act.barracks">兵營</string>
+	<string name="location.act.courts">宮廷</string>
+	<string name="location.act.dark_halls">黑暗大廳</string>
 	
-	<string name="boss.totems">Totem Pole</string>
-	<string name="boss.totem_ice">Ice Totem</string>
-	<string name="boss.totem_earth">Earth Totem</string>
-	<string name="boss.totem_fire">Fire Totem</string>
-	<string name="boss.totem_lightning">Lightning Totem</string>
-	<string name="boss.face">Shadow Face</string>
-	<string name="boss.arista">Arista</string>
-	<string name="boss.harbingers">Harbingers of Dread</string>
-	<string name="boss.serpents">Serpents of Demise</string>
-	<string name="boss.avatar">Avatar</string>
-	
-	
-	<string name="mission.dark_citadel.name">The Dark Citadel</string>
-	<string name="mission.intro_find_npcs.name">Rescue Townsfolk</string>
+	<string name="boss.totems">圖騰柱</string>
+	<string name="boss.totem_ice">冰圖騰</string>
+	<string name="boss.totem_earth">大地圖騰</string>
+	<string name="boss.totem_fire">火圖騰</string>
+	<string name="boss.totem_lightning">閃電圖騰</string>
+	<string name="boss.face">暗影面具</string>
+	<string name="boss.arista">阿里斯塔</string>
+	<string name="boss.harbingers">恐懼的先驅</string>
+	<string name="boss.serpents">滅亡的巨蛇</string>
+	<string name="boss.avatar">化身</string>
 	
 	
-	
-	<string name="menu.character.creation.voice.male1.title">Steven</string>
-	<string name="menu.character.creation.voice.male2.title">Tyler</string>
-	<string name="menu.character.creation.voice.male3.title">Cockney</string>
-	<string name="menu.character.creation.voice.female1.title">Clarissa</string>
-	<string name="menu.character.creation.voice.female2.title">Candice</string>
-	<string name="menu.character.creation.voice.female3.title">Diana</string>
+	<string name="mission.dark_citadel.name">黑暗堡壘</string>
+	<string name="mission.intro_find_npcs.name">拯救村民</string>
 	
 	
 	
-	<string name="o.as360.pro">Detect as Switch Pro Controller</string>
+	<string name="menu.character.creation.voice.male1.title">史蒂文</string>
+	<string name="menu.character.creation.voice.male2.title">泰勒</string>
+	<string name="menu.character.creation.voice.male3.title">柯克尼</string>
+	<string name="menu.character.creation.voice.female1.title">克拉麗莎</string>
+	<string name="menu.character.creation.voice.female2.title">坎蒂絲</string>
+	<string name="menu.character.creation.voice.female3.title">黛安娜</string>
+	
+	
+	
+	<string name="o.as360.pro">偵測為 Switch Pro 控制器r</string>
 	<string name="o.joystick.pro">Pro Controller%slot%</string>
-	<string name="g_laser_sight.help.pro">Show a thin line to assist in aiming. Automatic means only when using a Pro Controller.</string>
+	<string name="g_laser_sight.help.pro">顯示一條輔助瞄準的細線。 自動模式僅在使用 Pro Controller時啟用</string>
 	<string name="menu.controls.layout.gp1.pro">PRO CONTROLLER 1</string>
 	<string name="menu.controls.layout.gp2.pro">PRO CONTROLLER 2</string>
 	<string name="menu.controls.layout.gp3.pro">PRO CONTROLLER 3</string>
 	<string name="menu.controls.layout.gp4.pro">PRO CONTROLLER 4</string>
-	<string name="menu.controls.move.gp_left.pro">PRO CONTROLLER: LEFT STICK</string>
-	<string name="menu.controls.move.gp_right.pro">PRO CONTROLLER: RIGHT STICK</string>
-	<string name="menu.controls.aim.gp_right.pro">PRO CONTROLLER: RIGHT STICK</string>
-	<string name="menu.controls.aim.gp_left.pro">PRO CONTROLLER: LEFT STICK</string>
+	<string name="menu.controls.move.gp_left.pro">PRO CONTROLLER: 左搖桿</string>
+	<string name="menu.controls.move.gp_right.pro">PRO CONTROLLER: 右搖桿</string>
+	<string name="menu.controls.aim.gp_right.pro">PRO CONTROLLER:右搖桿</string>
+	<string name="menu.controls.aim.gp_left.pro">PRO CONTROLLER: 左搖桿</string>
 
 
 
@@ -1028,162 +1028,162 @@
 
 
 	<!-- Hero Titles -->
-	<string name="htitle.paladin.desc">Grants %num% Armor, %num-per% per level.</string>
-	<string name="htitle.ranger.desc">Grants %num% Attack Power, %num-per% per level.</string>
-	<string name="htitle.rogue.desc">Grants %num%% Gold Gain, %num-per%% per level.</string>
-	<string name="htitle.sorcerer.desc">Grants %num% Mana Regeneration, %num-per% per level.</string>
-	<string name="htitle.warlock.desc">Grants %num% Fire, Ice, Lightning and Poison Resistance, %num-per% per level.</string>
-	<string name="htitle.warrior.desc">Grants %num% Health, %num-per% per level.</string>
-	<string name="htitle.wizard.desc">Grants %num% Spell Power, %num-per% per level.</string>
+	<string name="htitle.paladin.desc">提供 %num% 護甲，每級增加 %num-per%</string>
+	<string name="htitle.ranger.desc">提供 %num% 攻擊力，每級增加 %num-per%</string>
+	<string name="htitle.rogue.desc">提供 %num%% 金幣增益，每級增加 %num-per%%</string>
+	<string name="htitle.sorcerer.desc">提供 %num% 魔力恢復，每級增加 %num-per%</string>
+	<string name="htitle.warlock.desc">提供 %num% 火焰、冰冷、閃電及毒素抗性，每級增加 %num-per%</string>
+	<string name="htitle.warrior.desc">提供 %num% 生命值，每級增加 %num-per%</string>
+	<string name="htitle.wizard.desc">提供 %num% 法術威力，每級增加 %num-per%</string>
 
 
 
 	<!-- Stats -->
-	<string name="stat.icon.elites">\cb0dfffElites\d</string>
-	<string name="stat.name.elites">Stronger enemies marked by a red circle at their feet.</string>
-	<string name="stat.icon.stun">\cb0dfffStun\d</string>
-	<string name="stat.name.stun">Stopped for 1.5 second, preventing movement and skills.</string>
-	<string name="stat.icon.slow">\cb0dfffSlow\d</string>
-	<string name="stat.name.slow">30% decrease of Move Speed, Weapon Speed and Cast Speed for 4 seconds.</string>
-	<string name="stat.icon.weakness">\cb0dfffWeakness\d</string>
-	<string name="stat.name.weakness">20% decrease in damage dealt for 6 seconds.</string>
-	<string name="stat.icon.vulnerability">\cb0dfffVulnerability\d</string>
-	<string name="stat.name.vulnerability">6 second 20% increase in damage taken</string>
-	<string name="stat.icon.silence">\cb0dfffSilence\d</string>
-	<string name="stat.name.silence">Prevents casting of spells for 3 seconds.</string>
-	<string name="stat.icon.disarm">\cb0dfffDisarm\d</string>
-	<string name="stat.name.disarm">Prevents weapon attacking for 3 seconds.</string>
-	<string name="stat.icon.bleeding">\cb0dfffBleeding\d</string>
-	<string name="stat.name.bleeding">6 damage dealt every second and when moving, lasts 5 seconds.</string>
-	<string name="stat.icon.blindness">\cb0dfffBlindness\d</string>
-	<string name="stat.name.blindness">30% chance to miss attacks for 5 seconds.</string>
-	<string name="stat.icon.cripple">\cb0dfffCripple\d</string>
-	<string name="stat.name.cripple">65% decrease of Move Speed for 4 seconds.</string>
-	<string name="stat.icon.freeze">\cb0dfffFreeze\d</string>
-	<string name="stat.name.freeze">Stopped for 2.5 second, preventing movement and skills.</string>
+	<string name="stat.icon.elites">\cb0dfff精英\d</string>
+	<string name="stat.name.elites">更強的敵人，其腳下有紅圈標記</string>
+	<string name="stat.icon.stun">\cb0dfff暈眩\d</string>
+	<string name="stat.name.stun">無法移動和使用技能，持續1.5秒</string>
+	<string name="stat.icon.slow">\cb0dfff緩速\d</string>
+	<string name="stat.name.slow">移動速度、武器速度和施法速度降低 30%，持續 4 秒</string>
+	<string name="stat.icon.weakness">\cb0dfff虛弱\d</string>
+	<string name="stat.name.weakness">傷害降低 20%，持續 6 秒</string>
+	<string name="stat.icon.vulnerability">\cb0dfff脆弱\d</string>
+	<string name="stat.name.vulnerability">承受傷害增加 20%，持續 6 秒</string>
+	<string name="stat.icon.silence">\cb0dfff沉默\d</string>
+	<string name="stat.name.silence">無法施放法術，持續 3 秒</string>
+	<string name="stat.icon.disarm">\cb0dfff繳械\d</string>
+	<string name="stat.name.disarm">無法使用武器，持續攻擊 3 秒</string>
+	<string name="stat.icon.bleeding">\cb0dfff流血\d</string>
+	<string name="stat.name.bleeding">每秒造成 6 點傷害，移動時額外受傷，持續 5 秒</string>
+	<string name="stat.icon.blindness">\cb0dfff致盲\d</string>
+	<string name="stat.name.blindness">30% 機率攻擊失敗，持續 5 秒</string>
+	<string name="stat.icon.cripple">\cb0dfff跛足\d</string>
+	<string name="stat.name.cripple">移動速度降低 65%，持續 4 秒</string>
+	<string name="stat.icon.freeze">\cb0dfff冰凍\d</string>
+	<string name="stat.name.freeze">無法移動和使用技能，持續 2.5 秒</string>
 
 
 
-	<string name="stat.custom.goldgain">Gold Gain</string>
-	<string name="stat.custom.woodgain">Wood Gain</string>
-	<string name="stat.custom.stonegain">Stone Gain</string>
-	<string name="stat.custom.irongain">Iron Gain</string>
-	<string name="stat.custom.crysgain">Crystal Gain</string>
-	<string name="stat.custom.dustgain">Dust Gain</string>
-	<string name="stat.custom.fraggain">Fragment Gain</string>
-	<string name="stat.custom.scursegain">Shadow Curse Gain</string>
-	<string name="stat.custom.damage">Damage</string>
-	<string name="stat.custom.mainhanddamage">Mainhand Damage</string>
-	<string name="stat.custom.offhanddamage">Offhand Damage</string>
+	<string name="stat.custom.goldgain">金幣增益</string>
+	<string name="stat.custom.woodgain">木材增益</string>
+	<string name="stat.custom.stonegain">石材增益</string>
+	<string name="stat.custom.irongain">鐵增益</string>
+	<string name="stat.custom.crysgain">水晶增益</string>
+	<string name="stat.custom.dustgain">塵埃增益</string>
+	<string name="stat.custom.fraggain">碎片增益</string>
+	<string name="stat.custom.scursegain">暗影詛咒增益</string>
+	<string name="stat.custom.damage">傷害</string>
+	<string name="stat.custom.mainhanddamage">主手傷害</string>
+	<string name="stat.custom.offhanddamage">副手傷害</string>
 
 
 	<string name="stat.icon.gold">\"icn-gold"</string>
-	<string name="stat.name.gold">Gold</string>
+	<string name="stat.name.gold">金幣</string>
 	<string name="stat.icon.wood">\"icn-wood"</string>
-	<string name="stat.name.wood">Wood</string>
+	<string name="stat.name.wood">木材</string>
 	<string name="stat.icon.stone">\"icn-stone"</string>
-	<string name="stat.name.stone">Stone</string>
+	<string name="stat.name.stone">石材</string>
 	<string name="stat.icon.iron">\"icn-iron"</string>
-	<string name="stat.name.iron">Iron</string>
+	<string name="stat.name.iron">鐵</string>
 	<string name="stat.icon.crys">\"icn-crys"</string>
-	<string name="stat.name.crys">Crystal</string>
+	<string name="stat.name.crys">水晶</string>
 	<string name="stat.icon.dust">\"icn-dust"</string>
-	<string name="stat.name.dust">Dust</string>
+	<string name="stat.name.dust">塵埃</string>
 	<string name="stat.icon.frag">\"icn-frag"</string>
-	<string name="stat.name.frag">Fragment</string>
+	<string name="stat.name.frag">碎片</string>
 
 	<string name="stat.icon.strength">\"icn-str"</string>
-	<string name="stat.name.strength">Strength</string>
+	<string name="stat.name.strength">力量</string>
 	<string name="stat.icon.dexterity">\"icn-dex"</string>
-	<string name="stat.name.dexterity">Dexterity</string>
+	<string name="stat.name.dexterity">敏捷</string>
 	<string name="stat.icon.intelligence">\"icn-int"</string>
-	<string name="stat.name.intelligence">Intelligence</string>
+	<string name="stat.name.intelligence">智力</string>
 	<string name="stat.icon.vitality">\"icn-vit"</string>
-	<string name="stat.name.vitality">Vitality</string>
+	<string name="stat.name.vitality">活力</string>
 	<string name="stat.icon.focus">\"icn-foc"</string>
-	<string name="stat.name.focus">Focus</string>
+	<string name="stat.name.focus">專注</string>
 	<string name="stat.icon.atkpwr">\"icn-atkpwr"</string>
-	<string name="stat.name.atkpwr">Weapon Power</string>
+	<string name="stat.name.atkpwr">武器威力</string>
 	<string name="stat.icon.splpwr">\"icn-splpwr"</string>
-	<string name="stat.name.splpwr">Spell Power</string>
+	<string name="stat.name.splpwr">法術威力</string>
 	
 	
 	<string name="stat.icon.armor">\"icn-res-phys"</string>
-	<string name="stat.name.armor">Armor</string>
+	<string name="stat.name.armor">護甲</string>
 	<string name="stat.icon.resistancefire">\"icn-res-fire"</string>
-	<string name="stat.name.resistancefire">Fire Resistance</string>
+	<string name="stat.name.resistancefire">火焰傷害</string>
 	<string name="stat.icon.resistanceice">\"icn-res-ice"</string>
-	<string name="stat.name.resistanceice">Ice Resistance</string>
+	<string name="stat.name.resistanceice">冰冷傷害</string>
 	<string name="stat.icon.resistancelightning">\"icn-res-lightn"</string>
-	<string name="stat.name.resistancelightning">Lightning Resistance</string>
+	<string name="stat.name.resistancelightning">閃電抗性</string>
 	<string name="stat.icon.resistancepoison">\"icn-res-poison"</string>
-	<string name="stat.name.resistancepoison">Poison Resistance</string>
+	<string name="stat.name.resistancepoison">毒素抗性</string>
 	
 	
 	<string name="stat.icon.damage">D</string>
-	<string name="stat.name.damage">Damage</string>
+	<string name="stat.name.damage">傷害</string>
 	<string name="stat.icon.damagephysical">\"icn-dmg-phys"</string>
-	<string name="stat.name.damagephysical">Physical Damage</string>
+	<string name="stat.name.damagephysical">物理傷害</string>
 	<string name="stat.icon.damagefire">\"icn-dmg-fire"</string>
-	<string name="stat.name.damagefire">Fire Damage</string>
+	<string name="stat.name.damagefire">火焰傷害</string>
 	<string name="stat.icon.damageice">\"icn-dmg-ice"</string>
-	<string name="stat.name.damageice">Ice Damage</string>
+	<string name="stat.name.damageice">冰冷傷害</string>
 	<string name="stat.icon.damagelightning">\"icn-dmg-lightn"</string>
-	<string name="stat.name.damagelightning">Lightning Damage</string>
+	<string name="stat.name.damagelightning">閃電傷害</string>
 	<string name="stat.icon.damagepoison">\"icn-dmg-poison"</string>
-	<string name="stat.name.damagepoison">Poison Damage</string>
+	<string name="stat.name.damagepoison">毒素傷害</string>
 	<string name="stat.icon.damagepure">\"icn-dmg-raw"</string>
-	<string name="stat.name.damagepure">Pure Damage</string>
+	<string name="stat.name.damagepure">純粹傷害</string>
 	
 	
 	<string name="stat.icon.health">\"icn-hp"</string>
-	<string name="stat.name.health">Health</string>
+	<string name="stat.name.health">生命</string>
 	<string name="stat.icon.mana">\"icn-mp"</string>
-	<string name="stat.name.mana">Mana</string>
+	<string name="stat.name.mana">魔力</string>
 	<string name="stat.icon.healthregen">\"icn-hp-rgn"</string>
-	<string name="stat.name.healthregen">Health Regen</string>
+	<string name="stat.name.healthregen">生命恢復</string>
 	<string name="stat.icon.manaregen">\"icn-mp-rgn"</string>
-	<string name="stat.name.manaregen">Mana Regen</string>
+	<string name="stat.name.manaregen">魔力恢復</string>
 	
 	<string name="stat.icon.movespeed">\"icn-movespeed"</string>
-	<string name="stat.name.movespeed">Movement Speed</string>
+	<string name="stat.name.movespeed">移動速度</string>
 	<string name="stat.icon.attackspeed">\"icn-speed-atk"</string>
-	<string name="stat.name.attackspeed">Weapon Speed</string>
+	<string name="stat.name.attackspeed">武器速度</string>
 	<string name="stat.icon.castspeed">\"icn-speed-cast"</string>
-	<string name="stat.name.castspeed">Cast Speed</string>
-	<string name="stat.name.evadechance">Evade Chance</string>
+	<string name="stat.name.castspeed">施法速度</string>
+	<string name="stat.name.evadechance">閃避率</string>
 	<string name="stat.icon.evadechance">\"icn-evade"</string>
 	<string name="stat.icon.parrychance">\"icn-parry"</string>
-	<string name="stat.name.parrychance">Parry Chance</string>
+	<string name="stat.name.parrychance">格擋率</string>
 	<string name="stat.icon.experiencemul">\"icn-expmul"</string>
-	<string name="stat.name.experiencemul">Experience Gain</string>
+	<string name="stat.name.experiencemul">經驗增益</string>
 	<string name="stat.icon.experience">\"icn-exp"</string>
-	<string name="stat.name.experience">Experience</string>
+	<string name="stat.name.experience">經驗</string>
 	
 	<string name="stat.icon.spellcritchance">\"icn-crit-spellchance"</string>
-	<string name="stat.name.spellcritchance">Spell Crit Chance</string>
+	<string name="stat.name.spellcritchance">法術暴擊率</string>
 	<string name="stat.icon.spellcritdamage">\"icn-crit-spelldmg"</string>
-	<string name="stat.name.spellcritdamage">Spell Crit Damage</string>
+	<string name="stat.name.spellcritdamage">法術暴擊傷害</string>
 	<string name="stat.icon.critchance">\"icn-crit-atkchance"</string>
-	<string name="stat.name.critchance">Weapon Crit Chance</string>
+	<string name="stat.name.critchance">武器暴擊率</string>
 	<string name="stat.icon.critdamage">\"icn-crit-atkdmg"</string>
-	<string name="stat.name.critdamage">Weapon Crit Damage</string>
+	<string name="stat.name.critdamage">武器暴擊傷害</string>
 	
 	<string name="stat.icon.armorpen">\"icn-respen-phys"</string>
-	<string name="stat.name.armorpen">Armor Penetration</string>
+	<string name="stat.name.armorpen">護甲穿透</string>
 	<string name="stat.icon.resistancefirepen">\"icn-respen-fire"</string>
-	<string name="stat.name.resistancefirepen">Fire Resistance Penetration</string>
+	<string name="stat.name.resistancefirepen">火焰抗性穿透</string>
 	<string name="stat.icon.resistanceicepen">\"icn-respen-ice"</string>
-	<string name="stat.name.resistanceicepen">Ice Resistance Penetration</string>
+	<string name="stat.name.resistanceicepen">冰冷抗性穿透</string>
 	<string name="stat.icon.resistancelightningpen">\"icn-respen-lightn"</string>
-	<string name="stat.name.resistancelightningpen">Lightning Resistance Penetration</string>
+	<string name="stat.name.resistancelightningpen">閃電抗性穿透</string>
 	<string name="stat.icon.resistancepoisonpen">\"icn-respen-poison"</string>
-	<string name="stat.name.resistancepoisonpen">Poison Resistance Penetration</string>
+	<string name="stat.name.resistancepoisonpen">毒素抗性穿透</string>
 	
 	<string name="stat.icon.attrpt">\"icn-attrpt"</string>
-	<string name="stat.name.attrpt">Attribute Point</string>
+	<string name="stat.name.attrpt">屬性點數</string>
 	<string name="stat.icon.skillpt">\"icn-skillpt"</string>
-	<string name="stat.name.skillpt">Skill Point</string>
+	<string name="stat.name.skillpt">技能點數</string>
 
 
 
@@ -1193,184 +1193,184 @@
 
 
 
-	<string name="accomplishment.paladin">Knights Chapter %num%</string>
-	<string name="accomplishment.paladin.desc">Reach level %num% with a Paladin.</string>
-	<string name="accomplishment.ranger">Hunters Lodge %num%</string>
-	<string name="accomplishment.ranger.desc">Reach level %num% with a Ranger.</string>
-	<string name="accomplishment.rogue">Thieves Den %num%</string>
-	<string name="accomplishment.rogue.desc">Reach level %num% with a Rogue.</string>
-	<string name="accomplishment.sorcerer">Magicians Circle %num%</string>
-	<string name="accomplishment.sorcerer.desc">Reach level %num% with a Sorcerer.</string>
-	<string name="accomplishment.warlock">Dark Coven %num%</string>
-	<string name="accomplishment.warlock.desc">Reach level %num% with a Warlock.</string>
-	<string name="accomplishment.warrior">Fighting Pit %num%</string>
-	<string name="accomplishment.warrior.desc">Reach level %num% with a Warrior.</string>
-	<string name="accomplishment.wizard">Arcane League %num%</string>
-	<string name="accomplishment.wizard.desc">Reach level %num% with a Wizard.</string>
+	<string name="accomplishment.paladin">騎士分會 %num%</string>
+	<string name="accomplishment.paladin.desc">將聖騎士升至 %num% 級</string>
+	<string name="accomplishment.ranger">獵人小屋 %num%</string>
+	<string name="accomplishment.ranger.desc">將遊俠升至 %num% 級</string>
+	<string name="accomplishment.rogue">盜賊巢穴 %num%</string>
+	<string name="accomplishment.rogue.desc">將盜賊升至 %num% 級</string>
+	<string name="accomplishment.sorcerer">魔法師圈子%num%</string>
+	<string name="accomplishment.sorcerer.desc">將法師升至 %num% 級</string>
+	<string name="accomplishment.warlock">黑暗契約 %num%</string>
+	<string name="accomplishment.warlock.desc">將術士升至 %num% 級</string>
+	<string name="accomplishment.warrior">戰鬥之坑 %num%</string>
+	<string name="accomplishment.warrior.desc">將戰士升至 %num% 級</string>
+	<string name="accomplishment.wizard">秘法聯盟 %num%</string>
+	<string name="accomplishment.wizard.desc">將巫師升至 %num% 級</string>
 	
-	<string name="accomplishment.enemy-kills">Killers %num%</string>
-	<string name="accomplishment.enemy-kills.desc">Kill %num% enemies.</string>
-	<string name="accomplishment.damage-dealt">Damagers %num%</string>
-	<string name="accomplishment.damage-dealt.desc">Deal %num% damage.</string>
-	<string name="accomplishment.damage-dealt-max">Heavy Hitters %num%</string>
-	<string name="accomplishment.damage-dealt-max.desc">Deal %num% damage in a single instance of damage</string>
-	<string name="accomplishment.damage-blocked">Blockers %num%</string>
-	<string name="accomplishment.damage-blocked.desc">Block %num% damage.</string>
-	<string name="accomplishment.spent-mana">Spellcasters %num%</string>
-	<string name="accomplishment.spent-mana.desc">Spend %num% mana casting spells.</string>
-	<string name="accomplishment.combo-max">Combo Streakers %num%</string>
-	<string name="accomplishment.combo-max.desc">Chain a combo of %num% kills.</string>
-	<string name="accomplishment.potion-charges-used">Potion Gulpers %num%</string>
-	<string name="accomplishment.potion-charges-used.desc">Drink from the potion %num% times.</string>
-	<string name="accomplishment.crit-count">Critical Hitters %num%</string>
-	<string name="accomplishment.crit-count.desc">Deal %num% critical hits.</string>
-	<string name="accomplishment.evade-amount">Dodgers %num%</string>
-	<string name="accomplishment.evade-amount.desc">Evade %num% attacks.</string>
-	<string name="accomplishment.parry-amount">Fencers %num%</string>
-	<string name="accomplishment.parry-amount.desc">Parry %num% attacks.</string>
+	<string name="accomplishment.enemy-kills">殺戮者 %num%</string>
+	<string name="accomplishment.enemy-kills.desc">擊殺 %num% 名敵人</string>
+	<string name="accomplishment.damage-dealt">傷害製造者 %num%</string>
+	<string name="accomplishment.damage-dealt.desc">造成 %num% 傷害</string>
+	<string name="accomplishment.damage-dealt-max">重擊者 %num%</string>
+	<string name="accomplishment.damage-dealt-max.desc">單次攻擊造成 %num% 傷害</string>
+	<string name="accomplishment.damage-blocked">格擋者 %num%</string>
+	<string name="accomplishment.damage-blocked.desc">格擋 %num% 傷害</string>
+	<string name="accomplishment.spent-mana">施法者 %num%</string>
+	<string name="accomplishment.spent-mana.desc">施法消耗 %num% 魔力</string>
+	<string name="accomplishment.combo-max">連擊專家 %num%</string>
+	<string name="accomplishment.combo-max.desc">達成 %num% 次連擊</string>
+	<string name="accomplishment.potion-charges-used">藥劑飲者 %num%</string>
+	<string name="accomplishment.potion-charges-used.desc">喝藥水 %num% 次</string>
+	<string name="accomplishment.crit-count">暴擊者 %num%</string>
+	<string name="accomplishment.crit-count.desc">造成 %num% 次暴擊傷害</string>
+	<string name="accomplishment.evade-amount">閃避者 %num%</string>
+	<string name="accomplishment.evade-amount.desc">閃避 %num% 次攻擊</string>
+	<string name="accomplishment.parry-amount">劍術家 %num%</string>
+	<string name="accomplishment.parry-amount.desc">招架 %num% 次攻擊</string>
 	
-	<string name="accomplishment.enemy-kills-undead">Sanctifier %num%</string>
-	<string name="accomplishment.enemy-kills-undead.desc">Kill %num% undead.</string>
-	<string name="accomplishment.enemy-kills-beast">Hunter %num%</string>
-	<string name="accomplishment.enemy-kills-beast.desc">Kill %num% beasts.</string>
-	<string name="accomplishment.enemy-kills-human">Murderer %num%</string>
-	<string name="accomplishment.enemy-kills-human.desc">Kill %num% humans.</string>
-	<string name="accomplishment.enemy-kills-aberration">Exorcist %num%</string>
-	<string name="accomplishment.enemy-kills-aberration.desc">Kill %num% aberrations.</string>
-	<string name="accomplishment.enemy-kills-construct">Demolisher %num%</string>
-	<string name="accomplishment.enemy-kills-construct.desc">Kill %num% constructs.</string>
-	<string name="accomplishment.enemy-kills-elite">Elite %num%</string>
-	<string name="accomplishment.enemy-kills-elite.desc">Kill %num% elite enemies.</string>
-	
-	
-	<string name="accomplishment.secrets-found">Detectives %num%</string>
-	<string name="accomplishment.secrets-found.desc">Find %num% secrets.</string>
-	<string name="accomplishment.called-to-arms">Recruiters %num%</string>
-	<string name="accomplishment.called-to-arms.desc">Recruit %num% mercenaries.</string>
-	<string name="accomplishment.traveling-cook-meals">Fast Food %num%</string>
-	<string name="accomplishment.traveling-cook-meals.desc">Eat %num% meals from the traveling cook.</string>
-	<string name="accomplishment.shady-trades">Negotiators %num%</string>
-	<string name="accomplishment.shady-trades.desc">Perform %num% shady trades.</string>
-	<string name="accomplishment.imps-used">Imp Hunter %num%</string>
-	<string name="accomplishment.imps-used.desc">Find %num% imps.</string>
-	<string name="accomplishment.shrines-used">Ancient Powers %num%</string>
-	<string name="accomplishment.shrines-used.desc">Get blessed by %num% monoliths.</string>
-	<string name="accomplishment.wells-used">Replenishers %num%</string>
-	<string name="accomplishment.wells-used.desc">Use %num% wells.</string>
-	<string name="accomplishment.pyres-used">Purge by Fire %num%</string>
-	<string name="accomplishment.pyres-used.desc">Purge shadow curse with a pyre %num% times.</string>
-	<string name="accomplishment.thunderbirds-used">Thundering Relief %num%</string>
-	<string name="accomplishment.thunderbirds-used.desc">Send back materials with a thunderbird %num% times.</string>
-	
-	<string name="accomplishment.collected-trinket-common">Common Collectors %num%</string>
-	<string name="accomplishment.collected-trinket-common.desc">Find %num% common trinkets.</string>
-	<string name="accomplishment.collected-trinket-uncommon">Uncommon Collectors %num%</string>
-	<string name="accomplishment.collected-trinket-uncommon.desc">Find %num% uncommon trinkets.</string>
-	<string name="accomplishment.collected-trinket-rare">Rare Collectors %num%</string>
-	<string name="accomplishment.collected-trinket-rare.desc">Find %num% rare trinkets.</string>
-	<string name="accomplishment.collected-trinket-epic">Epic Collectors %num%</string>
-	<string name="accomplishment.collected-trinket-epic.desc">Find %num% epic trinkets.</string>
-	<string name="accomplishment.collected-trinket-cursed">Cursed Collectors %num%</string>
-	<string name="accomplishment.collected-trinket-cursed.desc">Find %num% cursed trinkets.</string>
-	
-	<string name="accomplishment.pickup-health">Gourmands %num%</string>
-	<string name="accomplishment.pickup-health.desc">Eat %num% health pickups.</string>
-	<string name="accomplishment.pickup-mana">Arcane %num%</string>
-	<string name="accomplishment.pickup-mana.desc">Absorb %num% mana pickups.</string>
-	
-	<string name="accomplishment.buildings-built">Builders %num%</string>
-	<string name="accomplishment.buildings-built.desc">Buy %num% building upgrades.</string>
+	<string name="accomplishment.enemy-kills-undead">淨化者 %num%</string>
+	<string name="accomplishment.enemy-kills-undead.desc">擊殺 %num% 名不死生物</string>
+	<string name="accomplishment.enemy-kills-beast">狩獵者 %num%</string>
+	<string name="accomplishment.enemy-kills-beast.desc">擊殺 %num% 隻野獸</string>
+	<string name="accomplishment.enemy-kills-human">謀殺者 %num%</string>
+	<string name="accomplishment.enemy-kills-human.desc">擊殺 %num% 名人類</string>
+	<string name="accomplishment.enemy-kills-aberration">驅魔者 %num%</string>
+	<string name="accomplishment.enemy-kills-aberration.desc">擊殺 %num% 名異常生物</string>
+	<string name="accomplishment.enemy-kills-construct">破壞者 %num%</string>
+	<string name="accomplishment.enemy-kills-construct.desc">擊殺 %num% 個構造體</string>
+	<string name="accomplishment.enemy-kills-elite">精英剋星 %num%</string>
+	<string name="accomplishment.enemy-kills-elite.desc">擊殺 %num% 名精英敵人</string>
 	
 	
+	<string name="accomplishment.secrets-found">偵探 %num%</string>
+	<string name="accomplishment.secrets-found.desc">發現 %num% 個秘密</string>
+	<string name="accomplishment.called-to-arms">招募者 %num%</string>
+	<string name="accomplishment.called-to-arms.desc">招募 %num% 名傭兵</string>
+	<string name="accomplishment.traveling-cook-meals">快餐達人 %num%</string>
+	<string name="accomplishment.traveling-cook-meals.desc">從流動廚師那裡吃 %num% 餐</string>
+	<string name="accomplishment.shady-trades">交涉者 %num%</string>
+	<string name="accomplishment.shady-trades.desc">完成 %num% 次可疑交易</string>
+	<string name="accomplishment.imps-used">小惡魔獵人 %num%</string>
+	<string name="accomplishment.imps-used.desc">找到 %num% 隻小惡魔</string>
+	<string name="accomplishment.shrines-used">古老之力 %num%</string>
+	<string name="accomplishment.shrines-used.desc">接受 %num% 次巨石的祝福</string>
+	<string name="accomplishment.wells-used">補充者 %num%</string>
+	<string name="accomplishment.wells-used.desc">使用 %num% 口井水</string>
+	<string name="accomplishment.pyres-used">烈火淨化者 %num%</string>
+	<string name="accomplishment.pyres-used.desc">用火堆淨化暗影詛咒 %num% 次</string>
+	<string name="accomplishment.thunderbirds-used">雷鳥運送者 %num%</string>
+	<string name="accomplishment.thunderbirds-used.desc">用雷鳥運回材料 %num% 次</string>
+	
+	<string name="accomplishment.collected-trinket-common">普通收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-common.desc">找到 %num% 件普通飾品</string>
+	<string name="accomplishment.collected-trinket-uncommon">非凡收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-uncommon.desc">找到 %num% 件非凡飾品</string>
+	<string name="accomplishment.collected-trinket-rare">稀有收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-rare.desc">找到 %num% 件稀有飾品</string>
+	<string name="accomplishment.collected-trinket-epic">史詩收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-epic.desc">找到 %num% 件史詩飾品</string>
+	<string name="accomplishment.collected-trinket-cursed">詛咒收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-cursed.desc">找到 %num% 件詛咒飾品</string>
+	
+	<string name="accomplishment.pickup-health">美食家 %num%</string>
+	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命恢復品</string>
+	<string name="accomplishment.pickup-mana">秘法吸收者 %num%</string>
+	<string name="accomplishment.pickup-mana.desc">吸收 %num% 次魔力拾取品</string>
+	
+	<string name="accomplishment.buildings-built">建設者 %num%</string>
+	<string name="accomplishment.buildings-built.desc">購買 %num% 次建築升級</string>
 	
 	
-	<string name="statistic.damage-dealt">Damage dealt</string>
-	<string name="statistic.damage-dealt-max">Maximum damage dealt</string>
-	<string name="statistic.damage-taken">Damage taken</string>
-	<string name="statistic.damage-taken-max">Maximum damage taken</string>
-	<string name="statistic.damage-returned">Damage returned</string>
-	<string name="statistic.enemy-kills">Enemies killed</string>
-	<string name="statistic.amount-healed">Amount healed</string>
-	<string name="statistic.crit-count">Crits landed</string>
-	<string name="statistic.leech-life">Health leeched</string>
-	<string name="statistic.leech-mana">Mana leeched</string>
-	<string name="statistic.potion-charges-used">Potion charges used</string>
-	<string name="statistic.spent-mana">Mana spent</string>
-	<string name="statistic.death-count">Deaths</string>
-	<string name="statistic.damage-blocked">Damage blocked</string>
-	<string name="statistic.evade-amount">Attacks evaded</string>
-	<string name="statistic.parry-amount">Attacks parried</string>
-	<string name="statistic.combo-max">Highest combo reached</string>
-	<string name="statistic.damage-taken-phys">Physical damage taken</string>
-	<string name="statistic.damage-taken-fire">Fire damage taken</string>
-	<string name="statistic.damage-taken-ice">Ice damage taken</string>
-	<string name="statistic.damage-taken-light">Lightning damage taken</string>
-	<string name="statistic.damage-taken-poison">Poison damage taken</string>
-	<string name="statistic.damage-taken-pure">Pure damage taken</string>
-	<string name="statistic.enemy-kills-beast">Beast kills</string>
-	<string name="statistic.enemy-kills-human">Human kills</string>
-	<string name="statistic.enemy-kills-aberration">Aberration kills</string>
-	<string name="statistic.enemy-kills-construct">Construct kills</string>
-	<string name="statistic.enemy-kills-undead">Undead kills</string>
-	<string name="statistic.enemy-kills-elite">Elite enemy kills</string>
 	
-	<string name="statistic.timer-ms-mission">Time spent in mission</string>
-	<string name="statistic.timer-ms-town">Time spent in town</string>
-	<string name="statistic.floors-visited">Levels visited</string>
-	<string name="statistic.shrines-used">Monoliths used</string>
-	<string name="statistic.wells-used">Wells used</string>
-	<string name="statistic.pyres-used">Pyres used</string>
-	<string name="statistic.braziers-used">Braziers used</string>
-	<string name="statistic.thunderbirds-used">Thunderbirds used</string>
-	<string name="statistic.imps-used">Imps used</string>
-	<string name="statistic.shady-trades">Shady trades done</string>
-	<string name="statistic.traveling-cook-meals">Meals taken from traveling cook</string>
-	<string name="statistic.called-to-arms">Mercenaries recruited</string>
-	<string name="statistic.secrets-found">Secrets found</string>
-	<string name="statistic.chests-opened">Chests opened</string>
-	<string name="statistic.units-traveled">Distance traveled</string>
-	<string name="statistic.exp-gained">Experience gained</string>
-	<string name="statistic.shadow-curse-got">Shadow cursed</string>
-	<string name="statistic.shadow-curse-removed">Shadow curses purged</string>
-	<string name="statistic.collected-trinket-common">Common trinkets collected</string>
-	<string name="statistic.collected-trinket-uncommon">Uncommon trinkets collected</string>
-	<string name="statistic.collected-trinket-rare">Rare trinkets collected</string>
-	<string name="statistic.collected-trinket-epic">Epic trinkets collected</string>
-	<string name="statistic.collected-trinket-cursed">Cursed trinkets collected</string>
-	<string name="statistic.pickup-health">Health pickups collected</string>
-	<string name="statistic.pickup-mana">Mana pickups collected</string>
-	<string name="statistic.pickup-exp">Experience scrolls collected</string>
-	<string name="statistic.max-level-paladin">Max level with Paladin</string>
-	<string name="statistic.max-level-ranger">Max level with Ranger</string>
-	<string name="statistic.max-level-wizard">Max level with Wizard</string>
-	<string name="statistic.max-level-warrior">Max level with Warrior</string>
-	<string name="statistic.max-level-rogue">Max level with Rogue</string>
-	<string name="statistic.max-level-warlock">Max level with Warlock</string>
-	<string name="statistic.max-level-sorcerer">Max level with Sorcerer</string>
 	
-	<string name="statistic.buildings-built">Buildings built</string>
-	<string name="statistic.valuables-collected">Valuables collected</string>
-	<string name="statistic.valuables-value">Valuables value</string>
-	<string name="statistic.collected-gold">Gold collected</string>
-	<string name="statistic.sent-back-gold">Gold sent back to town</string>
-	<string name="statistic.chapel-revive-gold">Gold "donated" to chapel</string>
-	<string name="statistic.collected-wood">Wood collected</string>
-	<string name="statistic.sent-back-wood">Wood sent back to town</string>
-	<string name="statistic.chapel-revive-wood">Wood "donated" to chapel</string>
-	<string name="statistic.collected-stone">Stone collected</string>
-	<string name="statistic.sent-back-stone">Stone sent back to town</string>
-	<string name="statistic.chapel-revive-stone">Stone "donated" to chapel</string>
-	<string name="statistic.collected-iron">Iron collected</string>
-	<string name="statistic.sent-back-iron">Iron sent back to town</string>
-	<string name="statistic.chapel-revive-iron">Iron "donated" to chapel</string>
-	<string name="statistic.collected-crystals">Crystals collected</string>
-	<string name="statistic.sent-back-crystals">Crystals sent back to town</string>
-	<string name="statistic.chapel-revive-crystals">Crystals "donated" to chapel</string>
-	<string name="statistic.collected-dust">Dust collected</string>
-	<string name="statistic.sent-back-dust">Dust sent back to town</string>
-	<string name="statistic.chapel-revive-dust">Dust "donated" to chapel</string>
-	<string name="statistic.collected-fragments">Fragments collected</string>
-	<string name="statistic.sent-back-fragments">Fragments sent back to town</string>
-	<string name="statistic.chapel-revive-fragments">Fragments "donated" to chapel</string>
+	<string name="statistic.damage-dealt">造成的傷害</string>
+	<string name="statistic.damage-dealt-max">最高造成傷害</string>
+	<string name="statistic.damage-taken">承受的傷害</string>
+	<string name="statistic.damage-taken-max">最高承受傷害</string>
+	<string name="statistic.damage-returned">反彈的傷害</string>
+	<string name="statistic.enemy-kills">擊殺敵人數</string>
+	<string name="statistic.amount-healed">恢復的血量</string>
+	<string name="statistic.crit-count">造成的暴擊數</string>
+	<string name="statistic.leech-life">吸取的生命</string>
+	<string name="statistic.leech-mana">吸取的魔力</string>
+	<string name="statistic.potion-charges-used">使用的藥水次數</string>
+	<string name="statistic.spent-mana">消耗的魔力</string>
+	<string name="statistic.death-count">死亡次數</string>
+	<string name="statistic.damage-blocked">格擋的傷害</string>
+	<string name="statistic.evade-amount">閃避的攻擊數</string>
+	<string name="statistic.parry-amount">招架的攻擊數</string>
+	<string name="statistic.combo-max">達成的最高連擊</string>
+	<string name="statistic.damage-taken-phys">受到的物理傷害</string>
+	<string name="statistic.damage-taken-fire">受到的火焰傷害</string>
+	<string name="statistic.damage-taken-ice">受到的冰冷傷害</string>
+	<string name="statistic.damage-taken-light">受到的閃電傷害</string>
+	<string name="statistic.damage-taken-poison">受到的毒素傷害</string>
+	<string name="statistic.damage-taken-pure">受到的純粹傷害</string>
+	<string name="statistic.enemy-kills-beast">擊殺野獸數</string>
+	<string name="statistic.enemy-kills-human">擊殺人類數</string>
+	<string name="statistic.enemy-kills-aberration">擊殺異變體數</string>
+	<string name="statistic.enemy-kills-construct">擊殺構造體數</string>
+	<string name="statistic.enemy-kills-undead">擊殺不死生物數</string>
+	<string name="statistic.enemy-kills-elite">擊殺精英敵人數</string>
+	
+	<string name="statistic.timer-ms-mission">任務中花費的時間</string>
+	<string name="statistic.timer-ms-town">城鎮中花費的時間</string>
+	<string name="statistic.floors-visited">探索的層數</string>
+	<string name="statistic.shrines-used">使用的巨石數量</string>
+	<string name="statistic.wells-used">使用的井數量</string>
+	<string name="statistic.pyres-used">使用的火堆數量</string>
+	<string name="statistic.braziers-used">使用的火盆數量</string>
+	<string name="statistic.thunderbirds-used">使用的雷鳥數量</string>
+	<string name="statistic.imps-used">使用的小惡魔數量</string>
+	<string name="statistic.shady-trades">完成的可疑交易數</string>
+	<string name="statistic.traveling-cook-meals">從流動廚師那裡享用的餐點數</string>
+	<string name="statistic.called-to-arms">招募的傭兵數</string>
+	<string name="statistic.secrets-found">發現的秘密數</string>
+	<string name="statistic.chests-opened">開啟的寶箱數</string>
+	<string name="statistic.units-traveled">行進的距離</string>
+	<string name="statistic.exp-gained">獲得的經驗值</string>
+	<string name="statistic.shadow-curse-got">被暗影詛咒次數</string>
+	<string name="statistic.shadow-curse-removed">淨化的暗影詛咒次數</string>
+	<string name="statistic.collected-trinket-common">收集的普通飾品數</string>
+	<string name="statistic.collected-trinket-uncommon">收集的非凡飾品數</string>
+	<string name="statistic.collected-trinket-rare">收集的稀有飾品數</string>
+	<string name="statistic.collected-trinket-epic">收集的史詩飾品數</string>
+	<string name="statistic.collected-trinket-cursed">收集的詛咒飾品數</string>
+	<string name="statistic.pickup-health">收集的生命拾取物數</string>
+	<string name="statistic.pickup-mana">收集的魔力拾取物數</string>
+	<string name="statistic.pickup-exp">收集的經驗卷軸數</string>
+	<string name="statistic.max-level-paladin">聖騎士最高等級</string>
+	<string name="statistic.max-level-ranger">遊俠最高等級</string>
+	<string name="statistic.max-level-wizard">法師最高等級</string>
+	<string name="statistic.max-level-warrior">戰士最高等級</string>
+	<string name="statistic.max-level-rogue">盜賊最高等級</string>
+	<string name="statistic.max-level-warlock">術士最高等級</string>
+	<string name="statistic.max-level-sorcerer">巫師最高等級</string>
+	
+	<string name="statistic.buildings-built">建造的建築數</string>
+	<string name="statistic.valuables-collected">收集的貴重物品數/string>
+	<string name="statistic.valuables-value">貴重物品價值</string>
+	<string name="statistic.collected-gold">收集的金幣數</string>
+	<string name="statistic.sent-back-gold">送回城鎮的金幣數</string>
+	<string name="statistic.chapel-revive-gold">捐贈給教堂的金幣數</string>
+	<string name="statistic.collected-wood">收集的木材數</string>
+	<string name="statistic.sent-back-wood">送回城鎮的木材數</string>
+	<string name="statistic.chapel-revive-wood">捐贈給教堂的木材數</string>
+	<string name="statistic.collected-stone">收集的石材數</string>
+	<string name="statistic.sent-back-stone">送回城鎮的石材數</string>
+	<string name="statistic.chapel-revive-stone">捐贈給教堂的石材數</string>
+	<string name="statistic.collected-iron">收集的鐵數</string>
+	<string name="statistic.sent-back-iron">送回城鎮的鐵數</string>
+	<string name="statistic.chapel-revive-iron">捐贈給教堂的鐵數</string>
+	<string name="statistic.collected-crystals">收集的水晶數</string>
+	<string name="statistic.sent-back-crystals">送回城鎮的水晶數</string>
+	<string name="statistic.chapel-revive-crystals">捐贈給教堂的水晶數</string>
+	<string name="statistic.collected-dust">收集的塵埃數</string>
+	<string name="statistic.sent-back-dust">送回城鎮的塵埃數</string>
+	<string name="statistic.chapel-revive-dust">捐贈給教堂的塵埃數</string>
+	<string name="statistic.collected-fragments">收集的碎片數</string>
+	<string name="statistic.sent-back-fragments">送回城鎮的碎片數</string>
+	<string name="statistic.chapel-revive-fragments">捐贈給教堂的碎片數</string>
 
 </lang>
