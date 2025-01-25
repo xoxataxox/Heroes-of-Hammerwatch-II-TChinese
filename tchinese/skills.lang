@@ -335,7 +335,7 @@
 	<string name="skills.paladin.passive_2.up3.desc">當 \cb0dfff信念\d 觸發時，你會基於當前魔力造成額外的物理傷害</string>
 
 
-	<string name="skills.paladin.mastery_1.name">正義</string>
+	<string name="skills.paladin.mastery_1.name">審判者</string>
 	<string name="skills.paladin.mastery_1.desc"></string>
 
 	<string name="skills.paladin.mastery_1.spell_1.name">審判</string>
@@ -356,7 +356,7 @@
 	<string name="skills.paladin.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.paladin.mastery_2.name">Divine</string>
+	<string name="skills.paladin.mastery_2.name">神聖者</string>
 	<string name="skills.paladin.mastery_2.desc"></string>
 
 	<string name="skills.paladin.mastery_2.spell_1.name">神聖之柱</string>
@@ -402,103 +402,103 @@
 
 	<!-- Ranger -->
 
-	<string name="skills.ranger.spell_1.name">Marked Shot</string>
-	<string name="skills.ranger.spell_1.desc">You fire a projectile that deals Physical damage and applies \cb0dfffMarked\d to all enemies in the targeted area. You deal more damage to enemies inflicted by \cb0dfffMarked\d.</string>
-	<string name="skills.ranger.spell_1.up1.name">Hot Pursuit</string>
-	<string name="skills.ranger.spell_1.up1.desc">You gain a short buff of increased Movement Speed when hitting \cb0dfffMarked\d targets.</string>
-	<string name="skills.ranger.spell_1.up2.name">Thrill of the Hunt</string>
-	<string name="skills.ranger.spell_1.up2.desc">Killing enemies inflicted by \cb0dfffMarked\d has a chance to restore some of your Health and Mana.</string>
-	<string name="skills.ranger.spell_1.up3.name">Big Game Hunter</string>
-	<string name="skills.ranger.spell_1.up3.desc">You deal additional damage to \cb0dfffBosses\d and \cb0dfffElites\d inflicted by \cb0dfffMarked\d.</string>
+	<string name="skills.ranger.spell_1.name">標記射擊</string>
+	<string name="skills.ranger.spell_1.desc">你射出一個投射物，對目標區域內的所有敵人造成物理傷害，並使其被施加 \cb0dfff標記\d 。你對被 \cb0dfff標記\d 的敵人造成更多傷害</string>
+	<string name="skills.ranger.spell_1.up1.name">熱切追擊</string>
+	<string name="skills.ranger.spell_1.up1.desc">當擊中被 \cb0dfff標記\d 的目標時，你獲得短暫的移動速度提升</string>
+	<string name="skills.ranger.spell_1.up2.name">狩獵快感</string>
+	<string name="skills.ranger.spell_1.up2.desc">擊殺被 \cb0dfff標記\d 的敵人時，有機會恢復部分生命和魔力</string>
+	<string name="skills.ranger.spell_1.up3.name">巨獵者</string>
+	<string name="skills.ranger.spell_1.up3.desc">對被 \cb0dfff標記\d 的 \cb0dfffBoss\d 和 \cb0dfff精英\d 敵人造成額外傷害</string>
 
-	<string name="skills.ranger.spell_2.name">Trap</string>
-	<string name="skills.ranger.spell_2.desc">Throws a trap that deploys after a brief duration. The traps deal Physical damage in a small area when triggered and inflict \cb0dfffCripple\d.</string>
-	<string name="skills.ranger.spell_2.up1.name">Multiple Deploy</string>
-	<string name="skills.ranger.spell_2.up1.desc">You deploy additional traps with each cast.</string>
-	<string name="skills.ranger.spell_2.up2.name">Serrated Traps</string>
-	<string name="skills.ranger.spell_2.up2.desc">The traps now inflict stacks of \cb0dfffBleeding\d.</string>
-	<string name="skills.ranger.spell_2.up3.name">Frost Traps</string>
-	<string name="skills.ranger.spell_2.up3.desc">The traps deal additional Ice damage.</string>
+	<string name="skills.ranger.spell_2.name">陷阱</string>
+	<string name="skills.ranger.spell_2.desc">投擲一個陷阱，短暫延遲後部署。觸發時，陷阱對小範圍內的敵人造成物理傷害，並施加 \cb0dfff削弱\d</string>
+	<string name="skills.ranger.spell_2.up1.name">多重部署</string>
+	<string name="skills.ranger.spell_2.up1.desc">每次施放時部署額外的陷阱</string>
+	<string name="skills.ranger.spell_2.up2.name">鋸齒陷阱</string>
+	<string name="skills.ranger.spell_2.up2.desc">陷阱現在會施加 \cb0dfff流血\d 的層數</string>
+	<string name="skills.ranger.spell_2.up3.name">冰霜陷阱</string>
+	<string name="skills.ranger.spell_2.up3.desc">陷阱造成額外的冰冷傷害</string>
 
-	<string name="skills.ranger.passive_1.name">Rhythm</string>
-	<string name="skills.ranger.passive_1.desc">You gain Weapon Crit Chance, and scoring Weapon Crits grant you stacks of \cb0dfffRhythm\d. Each stack of \cb0dfffRhythm\d increases your Weapon Crit Chance and Weapon Crit Damage.</string>
-	<string name="skills.ranger.passive_1.up1.name">In the Flow</string>
-	<string name="skills.ranger.passive_1.up1.desc">Each stack of \cb0dfffRhythm\d increases your Weapon Speed.</string>
-	<string name="skills.ranger.passive_1.up2.name">Efficiency</string>
-	<string name="skills.ranger.passive_1.up2.desc">Each stack of \cb0dfffRhythm\d reduces your Mana costs.</string>
-	<string name="skills.ranger.passive_1.up3.name">Momentum</string>
-	<string name="skills.ranger.passive_1.up3.desc">You gain a stack of \cb0dfffRhythm\d when dashing.</string>
+	<string name="skills.ranger.passive_1.name">節奏</string>
+	<string name="skills.ranger.passive_1.desc">你獲得武器暴擊率，並且造成武器暴擊時獲得 \cb0dfff節奏\d 層數。每層 \cb0dfff節奏\d 提升你的武器暴擊率和武器暴擊傷害</string>
+	<string name="skills.ranger.passive_1.up1.name">隨波逐流</string>
+	<string name="skills.ranger.passive_1.up1.desc">每層 \cb0dfff節奏\d 提升你的武器速度</string>
+	<string name="skills.ranger.passive_1.up2.name">效率</string>
+	<string name="skills.ranger.passive_1.up2.desc">每層 \cb0dfff節奏\d 降低你的魔力消耗</string>
+	<string name="skills.ranger.passive_1.up3.name">動能</string>
+	<string name="skills.ranger.passive_1.up3.desc">每次衝刺時獲得一層 \cb0dfff節奏\d </string>
 
-	<string name="skills.ranger.passive_2.name">Survivalist</string>
-	<string name="skills.ranger.passive_2.desc">Each time you get hit you gain a buff that reduces damage taken for a short period. This effect has a short cooldown.</string>
-	<string name="skills.ranger.passive_2.up1.name">Evasive Maneuver</string>
-	<string name="skills.ranger.passive_2.up1.desc">Also grants Evasion for the duration of the buff.</string>
-	<string name="skills.ranger.passive_2.up2.name">Tactical Maneuver</string>
-	<string name="skills.ranger.passive_2.up2.desc">You gain a Dash Charge when taking damage. This effect has a short cooldown.</string>
-	<string name="skills.ranger.passive_2.up3.name">Quick Recovery</string>
-	<string name="skills.ranger.passive_2.up3.desc">Increases your Health Regen for the duration of the buff.</string>
+	<string name="skills.ranger.passive_2.name">生存專家</string>
+	<string name="skills.ranger.passive_2.desc">每次受到傷害時，獲得一個減少所受傷害的短暫增益。此效果有短暫的冷卻時間</string>
+	<string name="skills.ranger.passive_2.up1.name">閃避動作</string>
+	<string name="skills.ranger.passive_2.up1.desc">增益期間也提供閃避效果</string>
+	<string name="skills.ranger.passive_2.up2.name">戰術動作</string>
+	<string name="skills.ranger.passive_2.up2.desc">受到傷害時獲得一次衝刺充能。此效果有短暫的冷卻時間</string>
+	<string name="skills.ranger.passive_2.up3.name">快速恢復/string>
+	<string name="skills.ranger.passive_2.up3.desc">增益期間提高你的生命恢復</string>
 
 
-	<string name="skills.ranger.mastery_1.name">Marksman</string>
+	<string name="skills.ranger.mastery_1.name">神射手</string>
 	<string name="skills.ranger.mastery_1.desc"></string>
 
-	<string name="skills.ranger.mastery_1.spell_1.name">Rain of Arrows</string>
-	<string name="skills.ranger.mastery_1.spell_1.desc">You launch a barrage of arrows into the air that strike the ground in a forward direction, dealing Physical damage.</string>
-	<string name="skills.ranger.mastery_1.spell_1.up1.name">Storm of Arrows</string>
-	<string name="skills.ranger.mastery_1.spell_1.up1.desc">Increases the impact area.</string>
-	<string name="skills.ranger.mastery_1.spell_1.up2.name">Thundercaller</string>
-	<string name="skills.ranger.mastery_1.spell_1.up2.desc">The arrows are followed by a sequence of lightning strikes, dealing Lightning damage.</string>
+	<string name="skills.ranger.mastery_1.spell_1.name">箭雨</string>
+	<string name="skills.ranger.mastery_1.spell_1.desc">你向空中發射箭矢彈幕，箭矢落在前方區域地面，對敵人造成物理傷害</string>
+	<string name="skills.ranger.mastery_1.spell_1.up1.name">箭雨風暴</string>
+	<string name="skills.ranger.mastery_1.spell_1.up1.desc">擴大箭雨的影響範圍</string>
+	<string name="skills.ranger.mastery_1.spell_1.up2.name">雷鳴召喚者</string>
+	<string name="skills.ranger.mastery_1.spell_1.up2.desc">箭雨之後會伴隨一連串閃電打擊，造成閃電傷害</string>
 	<string name="skills.ranger.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.ranger.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.ranger.mastery_1.passive_1.name">Archery</string>
-	<string name="skills.ranger.mastery_1.passive_1.desc">The movement speed penalty for using \cffdfb0Bow\d skills is reduced, and you deal increased damage with \cffdfb0Bow\d skills.</string>
-	<string name="skills.ranger.mastery_1.passive_1.up1.name">Fast Shot</string>
-	<string name="skills.ranger.mastery_1.passive_1.up1.desc">You gain increased skill speed with \cffdfb0Bow\d skills.</string>
-	<string name="skills.ranger.mastery_1.passive_1.up2.name">Frost Arrows</string>
-	<string name="skills.ranger.mastery_1.passive_1.up2.desc">Your \cffdfb0Bow\d skills gain a chance to trigger a frost explosion on hit, dealing Ice damage. This effect has a short cooldown.</string>
+	<string name="skills.ranger.mastery_1.passive_1.name">射術</string>
+	<string name="skills.ranger.mastery_1.passive_1.desc">使用 \cffdfb0弓\d 技能時的移動速度懲罰減少，並提高 \cffdfb0弓\d 技能的傷害</string>
+	<string name="skills.ranger.mastery_1.passive_1.up1.name">迅速射擊</string>
+	<string name="skills.ranger.mastery_1.passive_1.up1.desc">提高 \cffdfb0弓\d 技能的技能速度</string>
+	<string name="skills.ranger.mastery_1.passive_1.up2.name">冰霜箭</string>
+	<string name="skills.ranger.mastery_1.passive_1.up2.desc">你的 \cffdfb0弓\d 技能在擊中時有機會觸發冰霜爆炸，造成冰冷傷害。此效果有短暫冷卻時間</string>
 	<string name="skills.ranger.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.ranger.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.ranger.mastery_2.name">Beastmaster</string>
+	<string name="skills.ranger.mastery_2.name">野獸之主</string>
 	<string name="skills.ranger.mastery_2.desc"></string>
 
-	<string name="skills.ranger.mastery_2.spell_1.name">Spirit Wolves</string>
-	<string name="skills.ranger.mastery_2.spell_1.desc">You unleash spirit wolves that seek out nearby enemies, dealing Physical and Ice damage on impact.</string>
-	<string name="skills.ranger.mastery_2.spell_1.up1.name">Relentless Hunters</string>
-	<string name="skills.ranger.mastery_2.spell_1.up1.desc">The spirit wolves gain a chance to seek out a new target on hit.</string>
-	<string name="skills.ranger.mastery_2.spell_1.up2.name">Restless Spirits</string>
-	<string name="skills.ranger.mastery_2.spell_1.up2.desc">You gain a chance to unleash a spirit wolf when killing enemies. This effect has a short cooldown.</string>
+	<string name="skills.ranger.mastery_2.spell_1.name">靈狼</string>
+	<string name="skills.ranger.mastery_2.spell_1.desc">你釋放靈狼追擊附近敵人，造成物理和冰冷傷害</string>
+	<string name="skills.ranger.mastery_2.spell_1.up1.name">無情獵手</string>
+	<string name="skills.ranger.mastery_2.spell_1.up1.desc">靈狼在命中後有機會追擊新的目標</string>
+	<string name="skills.ranger.mastery_2.spell_1.up2.name">不安靈魂</string>
+	<string name="skills.ranger.mastery_2.spell_1.up2.desc">擊殺敵人時有機會釋放靈狼。此效果有短暫冷卻時間</string>
 	<string name="skills.ranger.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.ranger.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.ranger.mastery_2.passive_1.name">Wolf Companion</string>
-	<string name="skills.ranger.mastery_2.passive_1.desc">You passively summon a wolf companion to fight by your side that attacks nearby enemies dealing Physical damage.</string>
-	<string name="skills.ranger.mastery_2.passive_1.up1.name">Wolf Pack</string>
-	<string name="skills.ranger.mastery_2.passive_1.up1.desc">You summon additional wolves.</string>
-	<string name="skills.ranger.mastery_2.passive_1.up2.name">Winter Wolf</string>
-	<string name="skills.ranger.mastery_2.passive_1.up2.desc">Your wolves deals additional Ice damage.</string>
+	<string name="skills.ranger.mastery_2.passive_1.name">狼伴侶</string>
+	<string name="skills.ranger.mastery_2.passive_1.desc">你被動召喚一隻狼伴侶，牠會攻擊附近敵人，造成物理傷害</string>
+	<string name="skills.ranger.mastery_2.passive_1.up1.name">狼群</string>
+	<string name="skills.ranger.mastery_2.passive_1.up1.desc">你召喚額外的狼</string>
+	<string name="skills.ranger.mastery_2.passive_1.up2.name">冰霜狼</string>
+	<string name="skills.ranger.mastery_2.passive_1.up2.desc">你的狼造成額外的冰霜傷害</string>
 	<string name="skills.ranger.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.ranger.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.ranger.mastery_3.name">Warden</string>
+	<string name="skills.ranger.mastery_3.name">守衛者</string>
 	<string name="skills.ranger.mastery_3.desc"></string>
 
-	<string name="skills.ranger.mastery_3.spell_1.name">Entangle</string>
-	<string name="skills.ranger.mastery_3.spell_1.desc">You conjure roots to sprout in a large area around you that lingers for a duration. Enemies in the area take Physical damage and are inflicted by \cb0dfffCripple\d.</string>
-	<string name="skills.ranger.mastery_3.spell_1.up1.name">Healing Wisps</string>
-	<string name="skills.ranger.mastery_3.spell_1.up1.desc">The roots spawn wisps that attaches to allies entering the area, restoring Health for a period.</string>
-	<string name="skills.ranger.mastery_3.spell_1.up2.name">Poison Ivy</string>
-	<string name="skills.ranger.mastery_3.spell_1.up2.desc">Deals additional Poison damage.</string>
+	<string name="skills.ranger.mastery_3.spell_1.name">纏繞</string>
+	<string name="skills.ranger.mastery_3.spell_1.desc">你召喚根須在你周圍的大範圍內生長並持續一段時間，對範圍內敵人造成物理傷害，並施加 \cb0dfff削弱\d</string>
+	<string name="skills.ranger.mastery_3.spell_1.up1.name">治癒精靈</string>
+	<string name="skills.ranger.mastery_3.spell_1.up1.desc">根須生成的精靈會附著在進入範圍的盟友身上，持續恢復生命</string>
+	<string name="skills.ranger.mastery_3.spell_1.up2.name">毒藤</string>
+	<string name="skills.ranger.mastery_3.spell_1.up2.desc">造成額外的毒素傷害</string>
 	<string name="skills.ranger.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.ranger.mastery_3.spell_1.up3.desc"></string>
 	
-	<string name="skills.ranger.mastery_3.passive_1.name">Wind Weaver</string>
-	<string name="skills.ranger.mastery_3.passive_1.desc">\cffdfb0Weapon\d hits unleash a gusts of wind in a forward direction dealing Physical damage. This effect has a short cooldown.</string>
-	<string name="skills.ranger.mastery_3.passive_1.up1.name">Winter Winds</string>
-	<string name="skills.ranger.mastery_3.passive_1.up1.desc">The gusts of wind deal additional Ice damage.</string>
-	<string name="skills.ranger.mastery_3.passive_1.up2.name">Wind Runner</string>
-	<string name="skills.ranger.mastery_3.passive_1.up2.desc">You unleash several gusts of wind in all directions when dashing.</string>
+	<string name="skills.ranger.mastery_3.passive_1.name">風之編織者</string>
+	<string name="skills.ranger.mastery_3.passive_1.desc">\cffdfb0武器\d 擊中時會向前釋放一陣風，對路徑上的敵人造成物理傷害。此效果有短暫冷卻時間</string>
+	<string name="skills.ranger.mastery_3.passive_1.up1.name">寒冬之風</string>
+	<string name="skills.ranger.mastery_3.passive_1.up1.desc">釋放的風增加冰冷傷害</string>
+	<string name="skills.ranger.mastery_3.passive_1.up2.name">風行者</string>
+	<string name="skills.ranger.mastery_3.passive_1.up2.desc">衝刺時會向四周釋放多陣風，對周圍敵人造成物理傷害</string>
 	<string name="skills.ranger.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.ranger.mastery_3.passive_1.up3.desc"></string>
 
@@ -506,105 +506,105 @@
 
 	<!-- Rogue -->
 
-	<string name="skills.rogue.spell_1.name">Fan of Knives</string>
-	<string name="skills.rogue.spell_1.desc">Throws several knives in a cone dealing Physical damage.</string>
-	<string name="skills.rogue.spell_1.up1.name">Ricochet</string>
-	<string name="skills.rogue.spell_1.up1.desc">The projectiles now bounce off walls and collisions. Each bounce reduces speed and damage.</string>
-	<string name="skills.rogue.spell_1.up2.name">Deadly Aim</string>
-	<string name="skills.rogue.spell_1.up2.desc">You gain increased crit chance with \cb0dfffFan of Knives\d.</string>
-	<string name="skills.rogue.spell_1.up3.name">Poisoned Knives</string>
-	<string name="skills.rogue.spell_1.up3.desc">Deals additional Poison damage.</string>
-	<string name="skills.rogue.spell_1.up4.name">Focused Throw</string>
-	<string name="skills.rogue.spell_1.up4.desc">You throw fewer projectiles in a forward direction. The projectiles deal more damage and have a slightly longer lifetime.</string>
+	<string name="skills.rogue.spell_1.name">飛刀之舞</string>
+	<string name="skills.rogue.spell_1.desc">朝前方扇形範圍投擲多把飛刀，對敵人造成物理傷害</string>
+	<string name="skills.rogue.spell_1.up1.name">彈射</string>
+	<string name="skills.rogue.spell_1.up1.desc">飛刀擊中牆壁或碰撞後會彈射，每次彈射會降低飛刀的速度與傷害</string>
+	<string name="skills.rogue.spell_1.up2.name">致命瞄準</string>
+	<string name="skills.rogue.spell_1.up2.desc">\cb0dfff飛刀之舞\d 提高暴擊率</string>
+	<string name="skills.rogue.spell_1.up3.name">毒刃</string>
+	<string name="skills.rogue.spell_1.up3.desc">造成額外毒素傷害</string>
+	<string name="skills.rogue.spell_1.up4.name">集中投擲</string>
+	<string name="skills.rogue.spell_1.up4.desc">投擲更少的飛刀，但朝前方投擲的飛刀傷害更高，且飛行距離更遠</string>
 
-	<string name="skills.rogue.spell_2.name">Flurry of Blades</string>
-	<string name="skills.rogue.spell_2.desc">You perform a series of strikes, hitting all enemies in an area around you, dealing Physical damage.</string>
-	<string name="skills.rogue.spell_2.up1.name">Disarming Strikes</string>
-	<string name="skills.rogue.spell_2.up1.desc">Gains a chance to inflict \cb0dfffDisarm\d.</string>
-	<string name="skills.rogue.spell_2.up2.name">Fiery Bolas</string>
-	<string name="skills.rogue.spell_2.up2.desc">Bolas are applied to each target hit plus an additional nearby enemy. Enemies affected are slowed and take Fire damage for a period.</string>
-	<string name="skills.rogue.spell_2.up3.name">Shock Assault</string>
-	<string name="skills.rogue.spell_2.up3.desc">Deals additional Lightning Damage</string>
+	<string name="skills.rogue.spell_2.name">刀刃亂舞</string>
+	<string name="skills.rogue.spell_2.desc">進行一系列攻擊，對周圍範圍內的所有敵人造成物理傷害</string>
+	<string name="skills.rogue.spell_2.up1.name">繳械打擊</string>
+	<string name="skills.rogue.spell_2.up1.desc">攻擊有機會使敵人陷入 \cb0dfff繳械\d</string>
+	<string name="skills.rogue.spell_2.up2.name">火焰流星索</string>
+	<string name="skills.rogue.spell_2.up2.desc">擊中敵人時會對該敵人和附近另一個敵人施加流星索效果。流星索會使敵人移動速度降低，並在一段時間內造成火焰傷害</string>
+	<string name="skills.rogue.spell_2.up3.name">震擊突擊</string>
+	<string name="skills.rogue.spell_2.up3.desc">造成額外閃電傷害</string>
 
-	<string name="skills.rogue.passive_1.name">Slice and Dice</string>
-	<string name="skills.rogue.passive_1.desc">Hits with \cffdfb0Melee\d skills grant stacks of \cb0dfffSlice and Dice\d. Each stack increases your Weapon Speed. You lose all stacks at once if the duration runs out.</string>
-	<string name="skills.rogue.passive_1.up1.name">Adrenaline</string>
-	<string name="skills.rogue.passive_1.up1.desc">Each stack increases your Mana Regen.</string>
-	<string name="skills.rogue.passive_1.up2.name">Blade Parry</string>
-	<string name="skills.rogue.passive_1.up2.desc">Each stack increases your Parry.</string>
-	<string name="skills.rogue.passive_1.up3.name">Agile Casting</string>
-	<string name="skills.rogue.passive_1.up3.desc">Each stack increases your Cast Speed, and you also gain stacks by casting Spells.</string>
+	<string name="skills.rogue.passive_1.name">切割與剁擊</string>
+	<string name="skills.rogue.passive_1.desc">使用 \cffdfb0近戰\d 技能擊中時會獲得 \cb0dfff切割與剁擊\d 層數，每層提高武器速度。若持續時間耗盡，層數將全部消失</string>
+	<string name="skills.rogue.passive_1.up1.name">腎上腺素</string>
+	<string name="skills.rogue.passive_1.up1.desc">每層 \cb0dfff切割與剁擊\d 增加魔力恢復</string>
+	<string name="skills.rogue.passive_1.up2.name">刀刃招架</string>
+	<string name="skills.rogue.passive_1.up2.desc">每層 \cb0dfff切割與剁擊\d 提高你的招架</string>
+	<string name="skills.rogue.passive_1.up3.name">敏捷施法</string>
+	<string name="skills.rogue.passive_1.up3.desc">每層 \cb0dfff切割與剁擊\d 提高你的施法速度，施放法術時也可獲得層數</string>
 
-	<string name="skills.rogue.passive_2.name">Sidestep</string>
-	<string name="skills.rogue.passive_2.desc">Grants Evasion and a single stack of guaranteed evasion that is recharged every few seconds.</string>
-	<string name="skills.rogue.passive_2.up1.name">Fleet Footed</string>
-	<string name="skills.rogue.passive_2.up1.desc">Increases your Movement Speed.</string>
-	<string name="skills.rogue.passive_2.up2.name">Lethal Opening</string>
-	<string name="skills.rogue.passive_2.up2.desc">Grants additional Crit Chance for a short period after evading.</string>
-	<string name="skills.rogue.passive_2.up3.name">On the Move</string>
-	<string name="skills.rogue.passive_2.up3.desc">Dashing gains a chance to recharge the guaranteed evasion of \cb0dfffSidestep\d.</string>
+	<string name="skills.rogue.passive_2.name">側步閃避</string>
+	<string name="skills.rogue.passive_2.desc">獲得閃避並且每隔幾秒獲得一次保證成功閃避的機會</string>
+	<string name="skills.rogue.passive_2.up1.name">迅捷步伐</string>
+	<string name="skills.rogue.passive_2.up1.desc">提高移動速度</string>
+	<string name="skills.rogue.passive_2.up2.name">致命機會</string>
+	<string name="skills.rogue.passive_2.up2.desc">閃避後短時間內提高暴擊率</string>
+	<string name="skills.rogue.passive_2.up3.name">隨時待命</string>
+	<string name="skills.rogue.passive_2.up3.desc">衝刺時有機會重新充能 \cb0dfff側步閃避\d 的保證閃避效果</string>
 
 
-	<string name="skills.rogue.mastery_1.name">Blades</string>
+	<string name="skills.rogue.mastery_1.name">影武者</string>
 	<string name="skills.rogue.mastery_1.desc"></string>
 
-	<string name="skills.rogue.mastery_1.spell_1.name">Mortal Strike</string>
-	<string name="skills.rogue.mastery_1.spell_1.desc">You deliver a quick deadly strike that deals massive Physical damage.</string>
-	<string name="skills.rogue.mastery_1.spell_1.up1.name">Phantasmal Strike</string>
-	<string name="skills.rogue.mastery_1.spell_1.up1.desc">The strike now chains to additional enemies in a cone behind the target. Deals less damage for each consecutive enemy hit.</string>
-	<string name="skills.rogue.mastery_1.spell_1.up2.name">Crimson Strike</string>
-	<string name="skills.rogue.mastery_1.spell_1.up2.desc">You gain a small amount of Life Leech with \cb0dfffMortal Strike\d.</string>
+	<string name="skills.rogue.mastery_1.spell_1.name">致命打擊</string>
+	<string name="skills.rogue.mastery_1.spell_1.desc">你使出一次迅速且致命的攻擊，對敵人造成巨大的物理傷害</string>
+	<string name="skills.rogue.mastery_1.spell_1.up1.name">幻影打擊</string>
+	<string name="skills.rogue.mastery_1.spell_1.up1.desc">攻擊會連鎖至目標身後的其他敵人，形成錐形範圍攻擊。對每個連鎖敵人傷害遞減</string>
+	<string name="skills.rogue.mastery_1.spell_1.up2.name">赤紅打擊</string>
+	<string name="skills.rogue.mastery_1.spell_1.up2.desc">\cb0dfff致命打擊\d 附帶少量生命吸取</string>
 	<string name="skills.rogue.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.rogue.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.rogue.mastery_1.passive_1.name">Assassin</string>
-	<string name="skills.rogue.mastery_1.passive_1.desc">Increases your Weapon Crit Damage and reduces the range of enemies detecting you.</string>
-	<string name="skills.rogue.mastery_1.passive_1.up1.name">Executioner</string>
-	<string name="skills.rogue.mastery_1.passive_1.up1.desc">You gain a chance to instantly kill an enemy on \cb0dfffLow Life\d when scoring crits with \cffdfb0Melee\d skills. Does not work on Bosses.</string>
-	<string name="skills.rogue.mastery_1.passive_1.up2.name">Hidden Cuts</string>
-	<string name="skills.rogue.mastery_1.passive_1.up2.desc">Attacking with \cffdfb0Melee\d weapons strikes a random nearby enemy for Mainhand Weapon damage.</string>
+	<string name="skills.rogue.mastery_1.passive_1.name">刺客</string>
+	<string name="skills.rogue.mastery_1.passive_1.desc">提升武器暴擊傷害，並降低敵人發現你的距離</string>
+	<string name="skills.rogue.mastery_1.passive_1.up1.name">劊子手</string>
+	<string name="skills.rogue.mastery_1.passive_1.up1.desc">使用 \cffdfb0近戰\d 技能暴擊對 \cb0dfff低生命\d  的敵人有機會斬殺，但對Boss無效</string>
+	<string name="skills.rogue.mastery_1.passive_1.up2.name">隱匿斬擊</string>
+	<string name="skills.rogue.mastery_1.passive_1.up2.desc">使用 \cffdfb0近戰\d 武器攻擊時，會對附近一個隨機敵人造成主手武器傷害</string>
 	<string name="skills.rogue.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.rogue.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.rogue.mastery_2.name">Poison</string>
+	<string name="skills.rogue.mastery_2.name">毒師</string>
 	<string name="skills.rogue.mastery_2.desc"></string>
 
-	<string name="skills.rogue.mastery_2.spell_1.name">Toxic Cloud</string>
-	<string name="skills.rogue.mastery_2.spell_1.desc">You deploy a large toxic cloud that lingers for a period. The cloud blocks enemy vision and deals Poison damage to any enemies inside the cloud.</string>
-	<string name="skills.rogue.mastery_2.spell_1.up1.name">Billowing Cloud</string>
-	<string name="skills.rogue.mastery_2.spell_1.up1.desc">You and your allies gain Evasion while inside the cloud.</string>
-	<string name="skills.rogue.mastery_2.spell_1.up2.name">Corrosion</string>
-	<string name="skills.rogue.mastery_2.spell_1.up2.desc">Enemies entering the cloud are inflicted by \cb0dfffArmor Break\d.</string>
+	<string name="skills.rogue.mastery_2.spell_1.name">毒雲</string>
+	<string name="skills.rogue.mastery_2.spell_1.desc">釋放持續一段時間的大型毒雲，毒雲會阻擋敵人的視野並對進入雲中的敵人造成毒素傷害</string>
+	<string name="skills.rogue.mastery_2.spell_1.up1.name">翻滾毒雲</string>
+	<string name="skills.rogue.mastery_2.spell_1.up1.desc"你和隊友會在毒雲中獲得閃避</string>
+	<string name="skills.rogue.mastery_2.spell_1.up2.name">腐蝕 </string>
+	<string name="skills.rogue.mastery_2.spell_1.up2.desc">進入毒雲的敵人會被附加 \cb0dfff破甲\d</string>
 	<string name="skills.rogue.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.rogue.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.rogue.mastery_2.passive_1.name">Poison Mastery</string>
-	<string name="skills.rogue.mastery_2.passive_1.desc">You deal increased Poison damage and your \cffdfb0Poison\d skills gain a chance to inflict \cb0dfffVulnerability\d.</string>
-	<string name="skills.rogue.mastery_2.passive_1.up1.name">Coated Weapons</string>
-	<string name="skills.rogue.mastery_2.passive_1.up1.desc">Adds Poison damage to your weapons per character level.</string>
-	<string name="skills.rogue.mastery_2.passive_1.up2.name">Deadly Toxins</string>
-	<string name="skills.rogue.mastery_2.passive_1.up2.desc">Increases your Poison Penetration and Poison Resistance.</string>
+	<string name="skills.rogue.mastery_2.passive_1.name">毒素專精</string>
+	<string name="skills.rogue.mastery_2.passive_1.desc">你造成的毒素傷害增加，且你的 \cffdfb0毒素\d 技能有機會附加 \cb0dfff易傷\d</string>
+	<string name="skills.rogue.mastery_2.passive_1.up1.name">塗毒武器</string>
+	<string name="skills.rogue.mastery_2.passive_1.up1.desc">根據角色等級增加武器的毒素傷害</string>
+	<string name="skills.rogue.mastery_2.passive_1.up2.name">致命毒素</string>
+	<string name="skills.rogue.mastery_2.passive_1.up2.desc">提升毒素穿透與毒素抗性</string>
 	<string name="skills.rogue.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.rogue.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.rogue.mastery_3.name">Demolitions</string>
+	<string name="skills.rogue.mastery_3.name">爆破專家</string>
 	<string name="skills.rogue.mastery_3.desc"></string>
 
-	<string name="skills.rogue.mastery_3.spell_1.name">Grenade</string>
-	<string name="skills.rogue.mastery_3.spell_1.desc">You throw a grenade in forward direction that detonates after a brief period, dealing Physical damage.</string>
-	<string name="skills.rogue.mastery_3.spell_1.up1.name">Incendiary Grenades</string>
-	<string name="skills.rogue.mastery_3.spell_1.up1.desc">The grenade now explodes on impact and leaves an area of burning ground for a short period, dealing Fire damage.</string>
-	<string name="skills.rogue.mastery_3.spell_1.up2.name">Shock Grenades</string>
-	<string name="skills.rogue.mastery_3.spell_1.up2.desc">The grenade deals additional Lightning damage that can chain to other nearby enemies.</string>
-	<string name="skills.rogue.mastery_3.spell_1.up3.name">Explosive Exit</string>
-	<string name="skills.rogue.mastery_3.spell_1.up3.desc">If you start a dash near an enemy you drop a grenade. This effect has a short cooldown.</string>
+	<string name="skills.rogue.mastery_3.spell_1.name">手榴彈</string>
+	<string name="skills.rogue.mastery_3.spell_1.desc">向前丟出手榴彈，短暫延遲後爆炸並造成物理傷害</string>
+	<string name="skills.rogue.mastery_3.spell_1.up1.name">燃燒手榴彈</string>
+	<string name="skills.rogue.mastery_3.spell_1.up1.desc">手榴彈在撞擊時爆炸，並在地面短暫的留下一片燃燒區域，對敵人造成火焰傷害</string>
+	<string name="skills.rogue.mastery_3.spell_1.up2.name">震撼手榴彈</string>
+	<string name="skills.rogue.mastery_3.spell_1.up2.desc">手榴彈附加閃電傷害，可連鎖至附近的敵人</string>
+	<string name="skills.rogue.mastery_3.spell_1.up3.name">爆破退場</string>
+	<string name="skills.rogue.mastery_3.spell_1.up3.desc">在靠近敵人時衝刺會丟下一顆手榴彈，此效果有短暫冷卻</string>
 	
-	<string name="skills.rogue.mastery_3.passive_1.name">Artificer Suit</string>
-	<string name="skills.rogue.mastery_3.passive_1.desc">Increases your Armor and Physical damage. Taking damage causes a flashbang to trigger inflicting nearby enemies with \cb0dfffBlindness\d. This effect has a short cooldown</string>
-	<string name="skills.rogue.mastery_3.passive_1.up1.name">Zzzap</string>
-	<string name="skills.rogue.mastery_3.passive_1.up1.desc">\cffdfb0Weapon\d skills has a chance to trigger a lightning bolt to zap a random nearby enemy, dealing Lightning damage.</string>
-	<string name="skills.rogue.mastery_3.passive_1.up2.name">Shrapnels</string>
-	<string name="skills.rogue.mastery_3.passive_1.up2.desc">Casting spells has a chance of discharging multiple shrapnels in all directions, dealing Physical and Fire damage.</string>
+	<string name="skills.rogue.mastery_3.passive_1.name">工匠套裝</string>
+	<string name="skills.rogue.mastery_3.passive_1.desc">提升護甲與物理傷害。受到傷害時觸發閃光彈，使附近敵人 \cb0dfff失明\d ，此效果有短暫冷卻</string>
+	<string name="skills.rogue.mastery_3.passive_1.up1.name">電擊</string>
+	<string name="skills.rogue.mastery_3.passive_1.up1.desc">\cffdfb武器\d 技能有機會釋放一道閃電，對隨機敵人造成閃電傷害</string>
+	<string name="skills.rogue.mastery_3.passive_1.up2.name">碎片</string>
+	<string name="skills.rogue.mastery_3.passive_1.up2.desc">施放法術時有機會釋放多個碎片，向四周造成物理與火焰傷害</string>
 	<string name="skills.rogue.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.rogue.mastery_3.passive_1.up3.desc"></string>
 
