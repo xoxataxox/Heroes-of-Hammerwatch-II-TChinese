@@ -1349,7 +1349,7 @@
 	<string name="statistic.max-level-sorcerer">巫師最高等級</string>
 	
 	<string name="statistic.buildings-built">建造的建築數</string>
-	<string name="statistic.valuables-collected">收集的貴重物品數/string>
+	<string name="statistic.valuables-collected">收集的貴重物品數</string>
 	<string name="statistic.valuables-value">貴重物品價值</string>
 	<string name="statistic.collected-gold">收集的金幣數</string>
 	<string name="statistic.sent-back-gold">送回城鎮的金幣數</string>
