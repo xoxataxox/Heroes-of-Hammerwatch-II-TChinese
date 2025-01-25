@@ -9,7 +9,7 @@
 	<string name="skills.type.offhand.attack">副手攻擊</string>
 	<string name="skills.type.offhand.attack.upgrade">副手攻擊升級</string>
 	<string name="skills.type.offhand.skill">副手技能</string>
-	<string name="skills.type.offhand.skill.upgrade">副手技能升級<</string>
+	<string name="skills.type.offhand.skill.upgrade">副手技能升級</string>
 	<string name="skills.type.spell">法術</string>
 	<string name="skills.type.spell.upgrade">法術升級</string>
 	<string name="skills.type.passive">被動</string>
