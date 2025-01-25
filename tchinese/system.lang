@@ -324,7 +324,7 @@
 
 
 	<string name="building.tier">階級 %tier%</string>
-	<string name="building.build.new">Build new</string>
+	<string name="building.build.new">新建</string>
 	<string name="building.build.upgrade">升級至階級 %num%</string>
 
 
