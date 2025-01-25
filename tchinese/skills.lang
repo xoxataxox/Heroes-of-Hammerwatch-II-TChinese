@@ -581,7 +581,7 @@
 	<string name="skills.rogue.mastery_2.passive_1.name">毒素專精</string>
 	<string name="skills.rogue.mastery_2.passive_1.desc">你造成的毒素傷害增加，且你的 \cffdfb0毒素\d 技能有機會附加 \cb0dfff易傷\d</string>
 	<string name="skills.rogue.mastery_2.passive_1.up1.name">塗毒武器</string>
-	<string name="skills.rogue.mastery_2.passive_1.up1.desc">根據角色等級增加武器的毒素傷害</string>
+	<string name="skills.rogue.mastery_2.passive_1.up1.desc">根據每等角色等級增加武器的毒素傷害</string>
 	<string name="skills.rogue.mastery_2.passive_1.up2.name">致命毒素</string>
 	<string name="skills.rogue.mastery_2.passive_1.up2.desc">提升毒素穿透與毒素抗性</string>
 	<string name="skills.rogue.mastery_2.passive_1.up3.name"></string>
@@ -615,59 +615,59 @@
 
 	<!-- Sorcerer -->
 
-	<string name="skills.sorcerer.spell_1.name">Discharge</string>
-	<string name="skills.sorcerer.spell_1.desc">You unleash several arcs of lightning in a cone, dealing Lightning damage. Each enemy can only be hit by one arc.</string>
-	<string name="skills.sorcerer.spell_1.up1.name">Chain Lightning</string>
-	<string name="skills.sorcerer.spell_1.up1.desc">Each arc of lightning can chain to additional targets.</string>
-	<string name="skills.sorcerer.spell_1.up2.name">Extended Discharge</string>
-	<string name="skills.sorcerer.spell_1.up2.desc">Increases the range of the spell.</string>
-	<string name="skills.sorcerer.spell_1.up3.name">Scorching Rays</string>
-	<string name="skills.sorcerer.spell_1.up3.desc">Changes damage type to Fire and the rays now pierce targets.</string>
-	<string name="skills.sorcerer.spell_1.up4.name">Rays of Frost</string>
-	<string name="skills.sorcerer.spell_1.up4.desc">Unleashes fewer rays in a tighter cone, but enemies can now be hit by multiple rays. Changes damage type to Ice.</string>
+	<string name="skills.sorcerer.spell_1.name">放電術</string>
+	<string name="skills.sorcerer.spell_1.desc">向前方扇形釋放多道閃電弧，對敵人造成閃電傷害，每個敵人僅能被一道弧線擊中</string>
+	<string name="skills.sorcerer.spell_1.up1.name">連鎖閃電</string>
+	<string name="skills.sorcerer.spell_1.up1.desc">每道閃電弧可鏈接至其他目標</string>
+	<string name="skills.sorcerer.spell_1.up2.name">延長放電</string>
+	<string name="skills.sorcerer.spell_1.up2.desc">增加法術射程</string>
+	<string name="skills.sorcerer.spell_1.up3.name">灼熱光線</string>
+	<string name="skills.sorcerer.spell_1.up3.desc">將傷害類型轉換為火焰傷害，並使光線穿透目標</string>
+	<string name="skills.sorcerer.spell_1.up4.name">冰霜光線</string>
+	<string name="skills.sorcerer.spell_1.up4.desc">以更緊密的扇形釋放更少的光線，但敵人現在可以被多道光線命中。傷害類型轉換為冰冷傷害</string>
 
-	<string name="skills.sorcerer.spell_2.name">Elemental Orb</string>
-	<string name="skills.sorcerer.spell_2.desc">You conjure a slow moving orb that continuously deals damage of all elements to nearby enemies.</string>
-	<string name="skills.sorcerer.spell_2.up1.name">Adaptive Orb</string>
-	<string name="skills.sorcerer.spell_2.up1.desc">If you have \cb0dfffElemental Affinity\d when casting the spell the orb will only deal damage of the corresponding element.</string>
-	<string name="skills.sorcerer.spell_2.up2.name">Stable Orb</string>
-	<string name="skills.sorcerer.spell_2.up2.desc">Extends the lifetime of the orb.</string>
-	<string name="skills.sorcerer.spell_2.up3.name">Elemental Torrent</string>
-	<string name="skills.sorcerer.spell_2.up3.desc">The orb now starts spewing smaller projectiles in all directions. These projectiles deal less damage.</string>
+	<string name="skills.sorcerer.spell_2.name">元素球體</string>
+	<string name="skills.sorcerer.spell_2.desc">召喚一個緩速移動的球體，持續對周圍敵人造成所有元素的傷害</string>
+	<string name="skills.sorcerer.spell_2.up1.name">適應球體</string>
+	<string name="skills.sorcerer.spell_2.up1.desc">施放技能時若擁有 \cb0dfff元素親和\d ，球體只會造成對應元素的傷害</string>
+	<string name="skills.sorcerer.spell_2.up2.name">穩定球體</string>
+	<string name="skills.sorcerer.spell_2.up2.desc">延長球體的存在時間</string>
+	<string name="skills.sorcerer.spell_2.up3.name">元素洪流</string>
+	<string name="skills.sorcerer.spell_2.up3.desc">球體會開始向四周噴射小型投射物，這些投射物造成的傷害較低</string>
 
-	<string name="skills.sorcerer.passive_1.name">Elemental Affinity</string>
-	<string name="skills.sorcerer.passive_1.desc">When casting a \cffdfb0Spell\d you gain \cb0dfffElemental Affinity\d of the same element as the spell cast. You deal more damage of the corresponding element as long as you have \cb0dfffElemental Affinity\d. You can only have one type of element active at a time.</string>
-	<string name="skills.sorcerer.passive_1.up1.name">Elemental Ward</string>
-	<string name="skills.sorcerer.passive_1.up1.desc">Grants additional Fire, Ice and Lightning Resistance per character level.</string>
-	<string name="skills.sorcerer.passive_1.up2.name">Elemental Penetration</string>
-	<string name="skills.sorcerer.passive_1.up2.desc">Grants Fire, Ice and Lightning Penetration.</string>
-	<string name="skills.sorcerer.passive_1.up3.name">Elemental Equilibrium</string>
-	<string name="skills.sorcerer.passive_1.up3.desc">As long as you have \cb0dfffElemental Affinity\d your damage bonus is doubled for the other elements.</string>
+	<string name="skills.sorcerer.passive_1.name">元素親和</string>
+	<string name="skills.sorcerer.passive_1.desc">施放 \cffdfb0法術\d 時獲得與該法術相同元素的  \cb0dfff元素親和\d。只要你有 \cb0dfff元素親和\d ，對應元素的傷害就會增加。你只能同時擁有一種元素親和。</string>
+	<string name="skills.sorcerer.passive_1.up1.name">元素防護</string>
+	<string name="skills.sorcerer.passive_1.up1.desc">根據每等角色等級給予火焰、冰冷和閃電抗性</string>
+	<string name="skills.sorcerer.passive_1.up2.name">元素穿透</string>
+	<string name="skills.sorcerer.passive_1.up2.desc">給予火焰、冰冷和閃電穿透</string>
+	<string name="skills.sorcerer.passive_1.up3.name">元素均衡</string>
+	<string name="skills.sorcerer.passive_1.up3.desc">當擁有 \cb0dfff元素親和\d 時，其他元素的傷害加成翻倍</string>
 
-	<string name="skills.sorcerer.passive_2.name">Innate Power</string>
-	<string name="skills.sorcerer.passive_2.desc">Grants Spell Crit Chance.</string>
-	<string name="skills.sorcerer.passive_2.up1.name">Uncontrolled Power</string>
-	<string name="skills.sorcerer.passive_2.up1.desc">You deal increased Spell Crit Damage.</string>
-	<string name="skills.sorcerer.passive_2.up2.name">Power Surge</string>
-	<string name="skills.sorcerer.passive_2.up2.desc">You gain a buff of increased Weapon, Cast and Movement Speed when scoring a Spell Crit.</string>
-	<string name="skills.sorcerer.passive_2.up3.name">Mana Surge</string>
-	<string name="skills.sorcerer.passive_2.up3.desc">You restore some of your Mana when scoring a Spell Crit.</string>
+	<string name="skills.sorcerer.passive_2.name">內在之力</string>
+	<string name="skills.sorcerer.passive_2.desc">提升法術暴擊率</string>
+	<string name="skills.sorcerer.passive_2.up1.name">無控之力</string>
+	<string name="skills.sorcerer.passive_2.up1.desc">提升法術暴擊傷害</string>
+	<string name="skills.sorcerer.passive_2.up2.name">力量激增</string>
+	<string name="skills.sorcerer.passive_2.up2.desc">法術暴擊時，獲得提高武器、施法和移動速度的增益效果</string>
+	<string name="skills.sorcerer.passive_2.up3.name">魔力激增</string>
+	<string name="skills.sorcerer.passive_2.up3.desc">法術暴擊時恢復部分魔力</string>
 
 
-	<string name="skills.sorcerer.mastery_1.name">Fire</string>
+	<string name="skills.sorcerer.mastery_1.name">火法</string>
 	<string name="skills.sorcerer.mastery_1.desc"></string>
 
-	<string name="skills.sorcerer.mastery_1.spell_1.name">Flame Wall</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.desc">You produce a blazing wall of flames in front of you, dealing Fire damage to all enemies near it.</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up1.name">Flamewalker</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up1.desc">You and your allies entering the wall are ignited with a temporary aura that deals Fire damage to nearby enemies.</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up2.name">Flamestep</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up2.desc">You spawn a single wall instance when dashing.</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up3.name">Wall Placement</string>
-	<string name="skills.sorcerer.mastery_1.spell_1.up3.desc">The placement of the wall can now be targeted.</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.name">火焰牆</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.desc">在前方產生一堵烈焰牆，對靠近牆的敵人造成火焰傷害</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up1.name">烈焰行者</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up1.desc">你與隊友進入牆後會獲得一個短暫的燃燒光環，對周圍敵人造成火焰傷害</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up2.name">火焰步伐 </string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up2.desc">衝刺時生成一段火焰牆</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up3.name">牆體定位</string>
+	<string name="skills.sorcerer.mastery_1.spell_1.up3.desc">可精確選擇火焰牆的放置位置</string>
 
-	<string name="skills.sorcerer.mastery_1.passive_1.name">Fire Mastery</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.desc">You deal increased Fire damage, and your \cffdfb0Fire\d skills gain a chance to inflict \cb0dfffWeakness\d.</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.name">火焰專精</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.desc">提升火焰傷害，且 \cffdfb0火焰\d 技能有機會附加 \cb0dfff虛弱\d</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up1.name">Volatile Flames</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up1.desc">Your \cffdfb0Fire\d skills gain a chance to trigger an explosion dealing additional Fire damage. This effect has a short cooldown.</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up2.name">Healing Flames</string>
