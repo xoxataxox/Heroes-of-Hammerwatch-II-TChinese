@@ -80,7 +80,7 @@
 
 	<string name="skills.desc.params.attack_speed">攻擊速度：</string>
 	<string name="skills.desc.params.weapon_speed">武器速度：</string>
-	<string name="skills.desc.params.cast_speed">施法速度：:</string>
+	<string name="skills.desc.params.cast_speed">施法速度：</string>
 	<string name="skills.desc.params.skill_speed">技能速度：</string>
 	<string name="skills.desc.params.spell_cost">法術消耗：</string>
 
@@ -188,12 +188,12 @@
 	<string name="skills.desc.params.bounce.damage">每次彈跳的傷害：</string>
 	<string name="skills.desc.params.jumps">跳躍次數：</string>
 	<string name="skills.desc.params.jumps.damage">每次跳躍的傷害：</string>
-	<string name="skills.desc.params.chains">鏈接數：</string>
-	<string name="skills.desc.params.chains.damage">每次鏈接的傷害：</string>
+	<string name="skills.desc.params.chains">連鎖數：</string>
+	<string name="skills.desc.params.chains.damage">每次連鎖的傷害：</string>
 	<string name="skills.desc.params.cleave.damage">橫掃傷害：</string>
 	<string name="skills.desc.params.cleave.range">橫掃範圍：</string>
 	<string name="skills.desc.params.cleave.arc">橫掃角度：</string>
-	<string name="skills.desc.params.hits.destroy">Hits to Destroy:</string>
+	<string name="skills.desc.params.hits.destroy">擊中摧毀：</string>
 
 
 	<string name="skills.desc.params.pillars.strikes">額外爆炸數量：</string>
@@ -261,140 +261,140 @@
 	<string name="skills.attacks.twohanded.crossbow1.name">快速射擊</string>
 	<string name="skills.attacks.twohanded.crossbow1.desc">快速發射一支迅速的箭矢，造成 100% 武器傷害</string>
 	<string name="skills.attacks.twohanded.crossbow2.name">爆炸射擊</string>
-	<string name="skills.attacks.twohanded.crossbow2.desc">Fires an armed bolt that explodes upon impact dealing 150% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.crossbow2.desc">發射一支裝填的箭矢，撞擊時爆炸，造成 150% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.maul1.name">巨槌揮擊</string>
 	<string name="skills.attacks.twohanded.maul1.desc">以緩慢的重擊造成 175% 武器傷害，並有 20% 的機率施加\cb0dfff暈眩\d</string>
 	<string name="skills.attacks.twohanded.maul2.name">大地重擊</string>
 	<string name="skills.attacks.twohanded.maul2.desc">以強力的地面重擊在範圍內造成 250% 武器傷害，並施加\cb0dfff暈眩\d</string>
 
-	<string name="skills.attacks.twohanded.greataxe1.name">Greataxe Slash</string>
-	<string name="skills.attacks.twohanded.greataxe1.desc">A wide rending slash that deal 125% Weapon damage and has a 20% chance to inflict a stack of \cb0dfffBleeding\d.</string>
-	<string name="skills.attacks.twohanded.greataxe2.name">Whirlwind</string>
-	<string name="skills.attacks.twohanded.greataxe2.desc">Hold to continously spin around with your axe, dealing 75% Weapon damage to any enemies in the area.</string>
+	<string name="skills.attacks.twohanded.greataxe1.name">巨斧斬擊</string>
+	<string name="skills.attacks.twohanded.greataxe1.desc">以大範圍的撕裂斬擊造成 125% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d</string>
+	<string name="skills.attacks.twohanded.greataxe2.name">旋風斬</string>
+	<string name="skills.attacks.twohanded.greataxe2.desc">按住以持續旋轉斬擊範圍內的敵人，每次造成 75% 武器傷害</string>
 
-	<string name="skills.attacks.twohanded.daggers1.name">Dual Slice</string>
-	<string name="skills.attacks.twohanded.daggers1.desc">Deliver two strikes in quick succession, each dealing 100% Physical damage.</string>
-	<string name="skills.attacks.twohanded.daggers2.name">Lunging Strike</string>
-	<string name="skills.attacks.twohanded.daggers2.desc">A quick lunge forward that strikes all enemies along your path, dealing 200% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.daggers1.name">雙刃連擊</string>
+	<string name="skills.attacks.twohanded.daggers1.desc">快速連續攻擊兩次，每次造成 100% 物理傷害</string>
+	<string name="skills.attacks.twohanded.daggers2.name">突進打擊</string>
+	<string name="skills.attacks.twohanded.daggers2.desc">向前快速突進，攻擊路徑上的所有敵人，造成 200% 武器傷害</string>
 
-	<string name="skills.attacks.twohanded.staff.fire1.name">Flame Spray</string>
-	<string name="skills.attacks.twohanded.staff.fire1.desc">Hold to continously spew flames dealing 25% Weapon damage.</string>
-	<string name="skills.attacks.twohanded.staff.fire2.name">Fire Blast</string>
-	<string name="skills.attacks.twohanded.staff.fire2.desc">Slam the staff in the ground to unleash a fiery blast dealing 100% Weapon damage in an area.</string>
+	<string name="skills.attacks.twohanded.staff.fire1.name">火焰噴射</string>
+	<string name="skills.attacks.twohanded.staff.fire1.desc">按住以持續噴射火焰，每次造成 25% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.fire2.name">火焰爆發</string>
+	<string name="skills.attacks.twohanded.staff.fire2.desc">以法杖擊地釋放火焰爆炸，範圍內造成 100% 武器傷害</string>
 
-	<string name="skills.attacks.twohanded.staff.ice1.name">Ice Lance</string>
-	<string name="skills.attacks.twohanded.staff.ice1.desc">Hold to charge up an icy projectile. The range, speed and damage of the projectile is increased by the time charged, dealing up to 75% Weapon damage.</string>
-	<string name="skills.attacks.twohanded.staff.ice2.name">Ice Spikes</string>
-	<string name="skills.attacks.twohanded.staff.ice2.desc">Slam the staff in the ground to cause three consecutive ice spikes to erupt in a forward direction, each dealing 150% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.staff.ice1.name">冰矛</string>
+	<string name="skills.attacks.twohanded.staff.ice1.desc">按住可蓄力發射冰霜投射物，投射物會隨著蓄力時間增加範圍、速度與傷害，最高可造成 75% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.ice2.name">冰霜尖刺</string>
+	<string name="skills.attacks.twohanded.staff.ice2.desc">以法杖擊地引發三道冰刺，依序向前爆發，每道造成 150% 武器傷害</string>
 
-	<string name="skills.attacks.twohanded.staff.lightning1.name">Lightning Beam</string>
-	<string name="skills.attacks.twohanded.staff.lightning1.desc">Hold to channel a beam of electricity that deal 40% Weapon damage. The beam loses 10% damage with each consecutive enemy pierced.</string>
-	<string name="skills.attacks.twohanded.staff.lightning2.name">Thunderbolts</string>
-	<string name="skills.attacks.twohanded.staff.lightning2.desc">Slam the staff in the ground to conjure two thunderbolts to strike the area in front of you, each dealing 100% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.staff.lightning1.name">閃電射束</string>
+	<string name="skills.attacks.twohanded.staff.lightning1.desc">按住以持續引導閃電射束，每次造成 40% 武器傷害，穿透每名敵人時傷害減少 10%</string>
+	<string name="skills.attacks.twohanded.staff.lightning2.name">雷霆一擊</string>
+	<string name="skills.attacks.twohanded.staff.lightning2.desc">以法杖擊地在你面前召喚兩道雷擊，範圍內各造成 100% 武器傷害</string>
 
 
 
 	<!-- Paladin -->
 
 
-	<string name="skills.paladin.spell_1.name">Blessed Strike</string>
-	<string name="skills.paladin.spell_1.desc">You strike all enemies in the area in front of you, dealing Physical Damage.</string>
-	<string name="skills.paladin.spell_1.up1.name">Massive Strike</string>
-	<string name="skills.paladin.spell_1.up1.desc">Increases the size of the strike area.</string>
-	<string name="skills.paladin.spell_1.up2.name">Purging Flames</string>
-	<string name="skills.paladin.spell_1.up2.desc">The strike area erupts in flames dealing additional Fire damage for a period.</string>
-	<string name="skills.paladin.spell_1.up3.name">Wrathful Strike</string>
-	<string name="skills.paladin.spell_1.up3.desc">Deals additional Lightning damage that can chain to other nearby enemies.</string>
+	<string name="skills.paladin.spell_1.name">神聖打擊</string>
+	<string name="skills.paladin.spell_1.desc">你攻擊面前範圍內的所有敵人，造成物理傷害</string>
+	<string name="skills.paladin.spell_1.up1.name">巨力打擊</string>
+	<string name="skills.paladin.spell_1.up1.desc">增加攻擊範圍的大小</string>
+	<string name="skills.paladin.spell_1.up2.name">淨化之焰</string>
+	<string name="skills.paladin.spell_1.up2.desc">攻擊範圍爆發火焰，在一段時間內造成額外的火焰傷害</string>
+	<string name="skills.paladin.spell_1.up3.name">憤怒打擊</string>
+	<string name="skills.paladin.spell_1.up3.desc">造成額外的閃電傷害，並可連鎖至其他附近的敵人</string>
 
-	<string name="skills.paladin.spell_2.name">Lay on Hands</string>
-	<string name="skills.paladin.spell_2.desc">You heal yourself and all allies around you.</string>
-	<string name="skills.paladin.spell_2.up1.name">Invigorating Touch</string>
-	<string name="skills.paladin.spell_2.up1.desc">Also applies a buff that increases Health and Mana Regen for a short period.</string>
-	<string name="skills.paladin.spell_2.up2.name">Cleansing Touch</string>
-	<string name="skills.paladin.spell_2.up2.desc">Removes all Debuffs and Afflictions. You also gain immunity to all Debuffs for a short period.</string>
-	<string name="skills.paladin.spell_2.up3.name">Turn Undead</string>
-	<string name="skills.paladin.spell_2.up3.desc">Deals Physical damage to all Undead enemies in the area.</string>
+	<string name="skills.paladin.spell_2.name">治癒之手</string>
+	<string name="skills.paladin.spell_2.desc">治療自己和周圍所有盟友</string>
+	<string name="skills.paladin.spell_2.up1.name">振奮之觸</string>
+	<string name="skills.paladin.spell_2.up1.desc">額外提供一個短時間內提升生命與魔力回復速度的增益效果</string>
+	<string name="skills.paladin.spell_2.up2.name">淨化之觸</string>
+	<string name="skills.paladin.spell_2.up2.desc">移除所有負面效果與異常狀態，並在短時間內免疫所有負面效果</string>
+	<string name="skills.paladin.spell_2.up3.name">驅逐亡靈</string>
+	<string name="skills.paladin.spell_2.up3.desc">對範圍內的所有不死敵人造成物理傷害</string>
 
-	<string name="skills.paladin.passive_1.name">Armored Knight</string>
-	<string name="skills.paladin.passive_1.desc">Increases your Armor, and grants a chance to block 100% Physical Damage.</string>
-	<string name="skills.paladin.passive_1.up1.name">Elemental Bulwark</string>
-	<string name="skills.paladin.passive_1.up1.desc">Increases your Fire, Ice and Lightning resistances.</string>
-	<string name="skills.paladin.passive_1.up2.name">Glancing Blows</string>
-	<string name="skills.paladin.passive_1.up2.desc">You gain an additional chance to block 100% of any damage type.</string>
-	<string name="skills.paladin.passive_1.up3.name">Armor of Wrath</string>
-	<string name="skills.paladin.passive_1.up3.desc">You gain a chance to strike a random nearby enemy with a bolt of lightning when taking damage, dealing Lightning damage based on your Armor value.</string>
+	<string name="skills.paladin.passive_1.name">裝甲騎士</string>
+	<string name="skills.paladin.passive_1.desc">提升你的護甲，並有機率完全格擋 100% 的物理傷害</string>
+	<string name="skills.paladin.passive_1.up1.name">元素壁壘</string>
+	<string name="skills.paladin.passive_1.up1.desc">提升你的火焰、冰冷與閃電抗性</string>
+	<string name="skills.paladin.passive_1.up2.name">偏斜打擊</string>
+	<string name="skills.paladin.passive_1.up2.desc">額外獲得完全格擋任何類型傷害的機率</string>
+	<string name="skills.paladin.passive_1.up3.name">憤怒護甲</string>
+	<string name="skills.paladin.passive_1.up3.desc">當受到傷害時，有機率對附近隨機敵人釋放閃電箭，閃電傷害基於你的護甲值</string>
 
-	<string name="skills.paladin.passive_2.name">Conviction</string>
-	<string name="skills.paladin.passive_2.desc">Your \cffdfb0Melee Weapon\d hits have a chance to restore some of your Mana.</string>
-	<string name="skills.paladin.passive_2.up1.name">Resolve</string>
-	<string name="skills.paladin.passive_2.up1.desc">While you are below half health your Spells cost less mana.</string>
-	<string name="skills.paladin.passive_2.up2.name">Shield of Faith</string>
-	<string name="skills.paladin.passive_2.up2.desc">While you have more than half of your maximum mana left, you block damage for a cost of mana.</string>
-	<string name="skills.paladin.passive_2.up3.name">Zeal</string>
-	<string name="skills.paladin.passive_2.up3.desc">When \cb0dfffConviction\d triggers you deal additional Physical damage based on your current Mana.</string>
+	<string name="skills.paladin.passive_2.name">信念</string>
+	<string name="skills.paladin.passive_2.desc">你的 \cffdfb0近戰武器\d 攻擊有機率恢復部分魔力</string>
+	<string name="skills.paladin.passive_2.up1.name">決心</string>
+	<string name="skills.paladin.passive_2.up1.desc">當你的生命值低於一半時，施法消耗的魔力減少</string>
+	<string name="skills.paladin.passive_2.up2.name">信仰之盾</string>
+	<string name="skills.paladin.passive_2.up2.desc">你的法力高於最大值的一半時，可以消耗魔力來格擋傷害</string>
+	<string name="skills.paladin.passive_2.up3.name">狂熱</string>
+	<string name="skills.paladin.passive_2.up3.desc">當 \cb0dfff信念\d 觸發時，你會基於當前魔力造成額外的物理傷害</string>
 
 
-	<string name="skills.paladin.mastery_1.name">Justice</string>
+	<string name="skills.paladin.mastery_1.name">正義</string>
 	<string name="skills.paladin.mastery_1.desc"></string>
 
-	<string name="skills.paladin.mastery_1.spell_1.name">Judgement</string>
-	<string name="skills.paladin.mastery_1.spell_1.desc">You pass judgement on random nearby enemies for a duration, striking them with a divine hammer dealing Physical damage. </string>
-	<string name="skills.paladin.mastery_1.spell_1.up1.name">Prolonged Prosecution</string>
-	<string name="skills.paladin.mastery_1.spell_1.up1.desc">While \cb0dfffJudgement\d is active you gain a chance to extend the duration when killing enemies. The duration cannot be extended to more than 7 seconds.</string>
-	<string name="skills.paladin.mastery_1.spell_1.up2.name">Hammer of Wrath</string>
-	<string name="skills.paladin.mastery_1.spell_1.up2.desc">Deals additional Lightning damage.</string>
+	<string name="skills.paladin.mastery_1.spell_1.name">審判</string>
+	<string name="skills.paladin.mastery_1.spell_1.desc">對隨機附近的敵人進行審判一段時間，召喚神聖之錘對其造成物理傷害</string>
+	<string name="skills.paladin.mastery_1.spell_1.up1.name">延長審判</string>
+	<string name="skills.paladin.mastery_1.spell_1.up1.desc">當 \cb0dfff審判\d 啟動時，擊殺敵人有機率延長其持續時間，但無法超過 7 秒</string>
+	<string name="skills.paladin.mastery_1.spell_1.up2.name">憤怒之錘</string>
+	<string name="skills.paladin.mastery_1.spell_1.up2.desc">造成額外的閃電傷害</string>
 	<string name="skills.paladin.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.paladin.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.paladin.mastery_1.passive_1.name">Lawbringer</string>
-	<string name="skills.paladin.mastery_1.passive_1.desc">When you block or take damage you have a chance to inflict \cb0dfffDisarm\d and \cb0dfffSilence\d to the attacker.</string>
-	<string name="skills.paladin.mastery_1.passive_1.up1.name">Punish the Wicked</string>
-	<string name="skills.paladin.mastery_1.passive_1.up1.desc">You deal more damage to enemies inflicted by \cb0dfffDisarm\d or \cb0dfffSilence\d.</string>
-	<string name="skills.paladin.mastery_1.passive_1.up2.name">Shackles</string>
-	<string name="skills.paladin.mastery_1.passive_1.up2.desc">\cffdfb0Weapon\d and \cffdfb0Spell\d hits gain a chance to shackle the target and a different nearby enemy. Shackled enemies have reduced movement speed and take continuous Physical damage.</string>
+	<string name="skills.paladin.mastery_1.passive_1.name">執法者</string>
+	<string name="skills.paladin.mastery_1.passive_1.desc">當你格擋或受到傷害時，有機率對攻擊者施加 \cb0dfff繳械\d 與 \cb0dfff沉默\d</string>
+	<string name="skills.paladin.mastery_1.passive_1.up1.name">懲戒惡徒</string>
+	<string name="skills.paladin.mastery_1.passive_1.up1.desc">對被 \cb0dfff繳械\d 或 \cb0dfff沉默\d 的敵人造成更多傷害</string>
+	<string name="skills.paladin.mastery_1.passive_1.up2.name">枷鎖</string>
+	<string name="skills.paladin.mastery_1.passive_1.up2.desc">\cffdfb0武器\d 與 \cffdfb0法術\d 攻擊有機率束縛目標及附近另一個敵人，被束縛的敵人移動速度降低並持續受到物理傷害</string>
 	<string name="skills.paladin.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_1.passive_1.up3.desc"></string>
 
 	<string name="skills.paladin.mastery_2.name">Divine</string>
 	<string name="skills.paladin.mastery_2.desc"></string>
 
-	<string name="skills.paladin.mastery_2.spell_1.name">Divine Pillars</string>
-	<string name="skills.paladin.mastery_2.spell_1.desc">You summon pillars of heavenly light to explode at your location, dealing Physical damage and inflicting \cb0dfffBlindness\d.</string>
-	<string name="skills.paladin.mastery_2.spell_1.up1.name">Divine Pattern</string>
-	<string name="skills.paladin.mastery_2.spell_1.up1.desc">Causes additional pillars to strike in succession in a grid like pattern. The pillars deal half as much damage with each consecutive strike.</string>
-	<string name="skills.paladin.mastery_2.spell_1.up2.name">Pillars of Wrath</string>
-	<string name="skills.paladin.mastery_2.spell_1.up2.desc">Deals additional Lightning damage.</string>
+	<string name="skills.paladin.mastery_2.spell_1.name">神聖之柱</string>
+	<string name="skills.paladin.mastery_2.spell_1.desc">召喚神聖之光柱於你的位置爆炸，造成物理傷害並附加 \cb0dfff致盲\d</string>
+	<string name="skills.paladin.mastery_2.spell_1.up1.name">神聖圖案</string>
+	<string name="skills.paladin.mastery_2.spell_1.up1.desc">使額外的柱子以網格圖案依序打擊，後續每次打擊的傷害減半</string>
+	<string name="skills.paladin.mastery_2.spell_1.up2.name">憤怒之柱</string>
+	<string name="skills.paladin.mastery_2.spell_1.up2.desc">造成額外閃電傷害</string>
 	<string name="skills.paladin.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.paladin.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.paladin.mastery_2.passive_1.name">Divine Protection</string>
-	<string name="skills.paladin.mastery_2.passive_1.desc">Taking damage when below half health has a chance to grant you a buff of \cb0dfffInvulnerability\d for a brief period. This effect has a cooldown.</string>
-	<string name="skills.paladin.mastery_2.passive_1.up1.name">Restoration</string>
-	<string name="skills.paladin.mastery_2.passive_1.up1.desc">You gain a massive increase to Health Regen while you have the buff.</string>
-	<string name="skills.paladin.mastery_2.passive_1.up2.name">Divine Retort</string>
-	<string name="skills.paladin.mastery_2.passive_1.up2.desc">When you gain the buff you automatically cast \cb0dfffDivine Pillars\d.</string>
+	<string name="skills.paladin.mastery_2.passive_1.name">神聖保護</string>
+	<string name="skills.paladin.mastery_2.passive_1.desc">當生命值低於一半時受到傷害，有機會獲得短時間的 \cb0dfff無敵\d ，此效果有冷卻時間</string>
+	<string name="skills.paladin.mastery_2.passive_1.up1.name">恢復</string>
+	<string name="skills.paladin.mastery_2.passive_1.up1.desc">當擁有該增益時，大幅提高生命恢復速度</string>
+	<string name="skills.paladin.mastery_2.passive_1.up2.name">神聖反擊</string>
+	<string name="skills.paladin.mastery_2.passive_1.up2.desc">當獲得該增益時，你會自動施放\cb0dfff神聖之柱\d</string>
 	<string name="skills.paladin.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_2.passive_1.up3.desc"></string>
 
 	<string name="skills.paladin.mastery_3.name">Radiance</string>
 	<string name="skills.paladin.mastery_3.desc"></string>
 
-	<string name="skills.paladin.mastery_3.spell_1.name">Immolation</string>
-	<string name="skills.paladin.mastery_3.spell_1.desc">You charge up a massive explosion that is unleashed when you release the spell, dealing Fire damage to all enemies around you.</string>
-	<string name="skills.paladin.mastery_3.spell_1.up1.name">Fuel the Flame</string>
-	<string name="skills.paladin.mastery_3.spell_1.up1.desc">You gain additional stacks of \cb0dfffInner Flames\d when casting \cb0dfffImmolation\d.</string>
-	<string name="skills.paladin.mastery_3.spell_1.up2.name">Blazing Lance</string>
-	<string name="skills.paladin.mastery_3.spell_1.up2.desc">You now unleash a blazing lance projectile that deals additional Fire damage to all enemies in its path.</string>
+	<string name="skills.paladin.mastery_3.spell_1.name">焚燒</string>
+	<string name="skills.paladin.mastery_3.spell_1.desc">你蓄力引發一場巨大的爆炸，釋放法術時對周圍所有敵人造成火焰傷害</string>
+	<string name="skills.paladin.mastery_3.spell_1.up1.name">火焰燃料</string>
+	<string name="skills.paladin.mastery_3.spell_1.up1.desc">施放 \cb0dfff焚燒\d 時，獲得額外的 \cb0dfff內焰\d 層數</string>
+	<string name="skills.paladin.mastery_3.spell_1.up2.name">烈焰之矛</string>
+	<string name="skills.paladin.mastery_3.spell_1.up2.desc">現在釋放一個烈焰矛投射物，對路徑上的所有敵人造成額外的火焰傷害</string>
 	<string name="skills.paladin.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.paladin.mastery_3.spell_1.up3.desc"></string>
 
-	<string name="skills.paladin.mastery_3.passive_1.name">Inner Flames</string>
-	<string name="skills.paladin.mastery_3.passive_1.desc">Casting Spells generate stacks of \cb0dfffInner Flames\d. While you have stacks of \cb0dfffInner Flames\d you gain an aura dealing Fire damage to nearby enemies.</string>
-	<string name="skills.paladin.mastery_3.passive_1.up1.name">Flames of Devotion</string>
-	<string name="skills.paladin.mastery_3.passive_1.up1.desc">Each stack of \cb0dfffInner Flames\d adds Fire damage to your weapons.</string>
-	<string name="skills.paladin.mastery_3.passive_1.up2.name">Bringer of Flames</string>
-	<string name="skills.paladin.mastery_3.passive_1.up2.desc">Each stack of \cb0dfffInner Flames\d increases your Fire Resistance and Fire Penetration.</string>
+	<string name="skills.paladin.mastery_3.passive_1.name">內焰</string>
+	<string name="skills.paladin.mastery_3.passive_1.desc">施放法術時產生 \cb0dfff內焰\d 層數。當你擁有 \cb0dfff內焰\d 層數時，獲得一個光環，對附近敵人造成火焰傷害</string>
+	<string name="skills.paladin.mastery_3.passive_1.up1.name">虔誠之焰</string>
+	<string name="skills.paladin.mastery_3.passive_1.up1.desc">每層 \cb0dfff內焰\d 為你的武器增加火焰傷害</string>
+	<string name="skills.paladin.mastery_3.passive_1.up2.name">火焰使者</string>
+	<string name="skills.paladin.mastery_3.passive_1.up2.desc">每層 \cb0d內焰\d 提升你的火焰抗性和火焰穿透</string>
 	<string name="skills.paladin.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_3.passive_1.up3.desc"></string>
 
