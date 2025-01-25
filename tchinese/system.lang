@@ -207,7 +207,7 @@
 	<string name="menu.mission_end.step.picked_up">已拾取： </string>
 	<string name="menu.mission_end.step.valuables">貴重物品：</string>
 	<string name="menu.mission_end.step.trinkets.common">普通飾品：</string>
-	<string name="menu.mission_end.step.trinkets.uncommon">非凡飾品： </string>
+	<string name="menu.mission_end.step.trinkets.uncommon">罕見飾品： </string>
 	<string name="menu.mission_end.step.trinkets.rare">稀有飾品： </string>
 	<string name="menu.mission_end.step.trinkets.epic">史詩飾品： </string>
 	<string name="menu.mission_end.step.revive">復活 "捐贈" (%rate%%)： </string>
@@ -290,7 +290,7 @@
 
 	<string name="building.library.name">圖書館</string>
 	<string name="building.library.desc1">解鎖普通飾品調整。更改您的combo技能</string>
-	<string name="building.library.desc2">解鎖非凡飾品調整</string>
+	<string name="building.library.desc2">解鎖罕見飾品調整</string>
 	<string name="building.library.desc3">解鎖稀有飾品調整</string>
 
 
@@ -769,7 +769,7 @@
 	<!-- Item Quality -->
 
 	<string name="item.quality.common">普通</string>
-	<string name="item.quality.uncommon">非凡</string>
+	<string name="item.quality.uncommon">罕見</string>
 	<string name="item.quality.rare">稀有</string>
 	<string name="item.quality.epic">史詩</string>
 	<string name="item.quality.legendary">傳奇</string>
@@ -1264,8 +1264,8 @@
 	
 	<string name="accomplishment.collected-trinket-common">普通收藏家 %num%</string>
 	<string name="accomplishment.collected-trinket-common.desc">找到 %num% 件普通飾品</string>
-	<string name="accomplishment.collected-trinket-uncommon">非凡收藏家 %num%</string>
-	<string name="accomplishment.collected-trinket-uncommon.desc">找到 %num% 件非凡飾品</string>
+	<string name="accomplishment.collected-trinket-uncommon">罕見收藏家 %num%</string>
+	<string name="accomplishment.collected-trinket-uncommon.desc">找到 %num% 件罕見飾品</string>
 	<string name="accomplishment.collected-trinket-rare">稀有收藏家 %num%</string>
 	<string name="accomplishment.collected-trinket-rare.desc">找到 %num% 件稀有飾品</string>
 	<string name="accomplishment.collected-trinket-epic">史詩收藏家 %num%</string>
@@ -1333,7 +1333,7 @@
 	<string name="statistic.shadow-curse-got">被暗影詛咒次數</string>
 	<string name="statistic.shadow-curse-removed">淨化的暗影詛咒次數</string>
 	<string name="statistic.collected-trinket-common">收集的普通飾品數</string>
-	<string name="statistic.collected-trinket-uncommon">收集的非凡飾品數</string>
+	<string name="statistic.collected-trinket-uncommon">收集的罕見飾品數</string>
 	<string name="statistic.collected-trinket-rare">收集的稀有飾品數</string>
 	<string name="statistic.collected-trinket-epic">收集的史詩飾品數</string>
 	<string name="statistic.collected-trinket-cursed">收集的詛咒飾品數</string>
