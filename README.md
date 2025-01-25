@@ -52,7 +52,7 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>⏳翻譯中(15%)</td>
+        <td>⏳翻譯中(30%)</td>
     </tr>
     <tr>
         <td>system.lang</td>
