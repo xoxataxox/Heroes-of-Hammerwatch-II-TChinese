@@ -8,7 +8,9 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
 
 該文本基於遊戲發售日(2025/01/15)所發布的版本製作
 
-備註：menus、skills、system，這三個檔案的文本在Third Patch中有更新，新增的文本尚未翻譯
+~~備註：menus、skills、system，這三個檔案的文本在Third Patch中有更新，新增的文本尚未翻譯~~
+
+備註更新：skills以基於Third Patch的版本翻譯，system已更新翻譯完畢，menus尚未翻譯
 
 道具及裝備名稱及部分文本不會特別依遊戲內容作潤色，所以物品圖示跟名稱有可能對不上，該遊戲的某些系統可能會翻錯，麻煩再回報給我。
 
@@ -28,7 +30,7 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
     </tr>
     <tr>
         <td>additional.lang</td>
-        <td>✔️已完成</td>
+        <td>✔️已完成(遊戲發布時版本)</td>
     </tr>
     <tr>
         <td>dialogue.lang</td>
@@ -36,7 +38,7 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
     </tr>
     <tr>
         <td>equipment.lang</td>
-        <td>✔️已完成</td>
+        <td>✔️已完成(遊戲發布時版本)</td>
     </tr>
     <tr>
         <td>input.lang</td>
@@ -44,19 +46,19 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
     </tr>
     <tr>
         <td>items.lang</td>
-        <td>✔️已完成</td>
+        <td>✔️已完成(遊戲發布時版本)</td>
     </tr>
     <tr>
         <td>menus.lang</td>
-        <td>✔️已完成</td>
+        <td>✔️已完成(遊戲發布時版本)</td>
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>⏳翻譯中(30%)</td>
+        <td>⏳翻譯中(30%)(Third Patch版本)</td>
     </tr>
     <tr>
         <td>system.lang</td>
-        <td>✔️已完成</td>
+        <td>✔️已完成(Third Patch版本)</td>
     </tr>
 </table>
 
