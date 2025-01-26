@@ -165,7 +165,7 @@
 	<string name="dialogue.rogue.found.1">你好！你也是來找寶藏的嗎？</string>
 	<string name="dialogue.rogue.found.2">你們有建立營地嗎？如果有空位給我，我可以教你一些技巧</string>
 	<string name="dialogue.rogue.is_same">嗯。不太確定能信任你</string>
-	<string name="dialogue.rogue.is_other">考慮訓練一個盜賊，能更安全地通過陷阱很有用</string>
+	<string name="dialogue.rogue.is_other">考慮訓練一個盜賊，能更安全地通過陷阱</string>
 
 	<string name="dialogue.warlock.found.1">小心！那扇門有陷阱，而且下面的地穴非常危險</string>
 	<string name="dialogue.warlock.found.2">那裡有什麼東西正在甦醒，我要離開這裡，你也該這麼做</string>

@@ -429,7 +429,7 @@
 	<string name="skills.ranger.passive_1.name">節奏</string>
 	<string name="skills.ranger.passive_1.desc">你獲得武器暴擊率，並且造成武器暴擊時獲得 \cb0dfff節奏\d 層數。每層 \cb0dfff節奏\d 提升你的武器暴擊率和武器暴擊傷害</string>
 	<string name="skills.ranger.passive_1.up1.name">隨波逐流</string>
-	<string name="skills.ranger.passive_1.up1.desc">每層 \cb0dfff節奏\d 提升你的攻擊速度</string>
+	<string name="skills.ranger.passive_1.up1.desc">每層 \cb0dfff節奏\d 提升你的武器速度</string>
 	<string name="skills.ranger.passive_1.up2.name">效率</string>
 	<string name="skills.ranger.passive_1.up2.desc">每層 \cb0dfff節奏\d 降低你的魔力消耗</string>
 	<string name="skills.ranger.passive_1.up3.name">動能</string>

@@ -9,7 +9,7 @@
 	<string name="item.info.tooltip.slot.chest">胸甲</string>
 	<string name="item.info.tooltip.slot.feet">足部</string>
 	<string name="item.info.tooltip.slot.hands">手部</string>
-	<string name="item.info.tooltip.slot.accessory">飾品</string>
+	<string name="item.info.tooltip.slot.accessory">首飾</string>
 	<string name="item.info.tooltip.slot.potion">藥水</string>
 
 
