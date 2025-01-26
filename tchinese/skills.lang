@@ -435,7 +435,7 @@
 	<string name="skills.ranger.passive_2.up1.desc">增益期間也提供閃避效果</string>
 	<string name="skills.ranger.passive_2.up2.name">戰術動作</string>
 	<string name="skills.ranger.passive_2.up2.desc">受到傷害時獲得一次衝刺充能。此效果有短暫的冷卻時間</string>
-	<string name="skills.ranger.passive_2.up3.name">快速恢復/string>
+	<string name="skills.ranger.passive_2.up3.name">快速恢復</string>
 	<string name="skills.ranger.passive_2.up3.desc">增益期間提高你的生命恢復</string>
 
 
@@ -572,7 +572,7 @@
 	<string name="skills.rogue.mastery_2.spell_1.name">毒雲</string>
 	<string name="skills.rogue.mastery_2.spell_1.desc">釋放持續一段時間的大型毒雲，毒雲會阻擋敵人的視野並對進入雲中的敵人造成毒素傷害</string>
 	<string name="skills.rogue.mastery_2.spell_1.up1.name">翻滾毒雲</string>
-	<string name="skills.rogue.mastery_2.spell_1.up1.desc"你和隊友會在毒雲中獲得閃避</string>
+	<string name="skills.rogue.mastery_2.spell_1.up1.desc">你和隊友會在毒雲中獲得閃避</string>
 	<string name="skills.rogue.mastery_2.spell_1.up2.name">腐蝕 </string>
 	<string name="skills.rogue.mastery_2.spell_1.up2.desc">進入毒雲的敵人會被附加 \cb0dfff破甲\d</string>
 	<string name="skills.rogue.mastery_2.spell_1.up3.name"></string>
