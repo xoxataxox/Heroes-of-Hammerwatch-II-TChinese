@@ -228,7 +228,7 @@
 	<string name="mainmenu.exitgame">退出遊戲</string>
 	<string name="mainmenu.host">主持多人遊戲</string>
 	<string name="mainmenu.switchchar">切換角色</string>
-	<string name="mainmenu.online">在線</string>
+	<string name="mainmenu.online">線上模式</string>
 	<string name="mainmenu.multiplayer">多人遊戲</string>
 	<string name="mainmenu.singleplayer">單人遊戲</string>
 	<string name="mainmenu.options">選項</string>
