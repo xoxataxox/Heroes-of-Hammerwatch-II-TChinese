@@ -1,6 +1,33 @@
 <lang>
+	<string name="option.defaults">預設值</string>
+	<string name="option.alt.select">選擇</string>
+	<string name="option.alt.change">更改</string>
+	<string name="option.alt.on">開啟</string>
+	<string name="option.alt.off">關閉</string>
+	<string name="option.alt.yes">是</string>
+	<string name="option.alt.no">否</string>
+	<string name="option.alt.steam">Steam</string>
+	<string name="option.alt.in_game">遊戲內</string>
+	<string name="option.alt.hurt">受傷</string>
+	<string name="option.alt.sun">Sun</string>
+	<string name="option.alt.all">全部</string>
+	<string name="option.alt.borderless">無邊框</string>
+	<string name="option.alt.fullscreen">全螢幕</string>
+	<string name="option.alt.windowed">視窗化</string>
+	<string name="option.alt.none">無</string>
+	<string name="option.alt.missing">Missing</string>
+	<string name="option.alt.marker">標記</string>
+	<string name="option.alt.laser">準星</string>
+	<string name="option.alt.both">兩者</string>
+	<string name="option.alt.auto_marker">自動標記</string>
+	<string name="option.alt.auto_laser">自動準星</string>
+	<string name="option.alt.auto_both">自動兩者</string>
+	<string name="option.alt.auto">自動</string>
+
 
 	<!-- Game -->
+	<string name="option.language">語言</string>
+
 	<string name="option.g_virtual_res_scale.title">遊戲畫面縮放</string>
 	<string name="option.ui_scale.title">UI比例</string>
 
@@ -9,20 +36,40 @@
 	<string name="option.ui_minimap_scale.title">小地圖比例</string>
 	<string name="option.ui_minimap_size.title">小地圖大小</string>
 
-	<string name="option.g_real_names.title">真實名稱</string>
-	<string name="option.g_show_pings.title">顯示多人遊戲 Ping</string>
+	<string name="option.g_real_names.title">顯示名稱</string>
+	<string name="option.g_show_pings.title">顯示多人遊戲延遲</string>
+	<string name="option.ui_plr_names_alpha.title">玩家名稱透明度</string>
 	<string name="option.g_emotes.title">多人遊戲表情</string>
 
 
 	<string name="option.ui_cursor_fat.title">更大的準心</string>
 	<string name="option.ui_cursor_alpha.title">滑鼠游標透明度</string>
 	<string name="option.ui_overlay_minimap_alpha.title">覆蓋地圖透明度</string>
-	<string name="option.ui_hud_hpbars_enemy.title">敵人血條</string>
-	<string name="option.ui_hud_hpbars_plr.title">盟友血條</string>
 	<string name="option.ui_hud_dashbar.title">玩家衝刺條</string>
 	<string name="option.ui_cursor_health.title">游標狀態</string>
 	<string name="option.g_laser_sight.title">瞄準輔助線</string>
 	<string name="option.g_quickcast.title">快速施法</string>
+
+	<string name="option.ui_hud_hpbars_enemy.title">敵人血條</string>
+	<string name="option.ui_hud_hpbars_plr.title">玩家血條</string>
+	<string name="option.ui_hud_hpbars_minion.title">小兵血條</string>
+	<string name="option.ui_hud_hpbars_allied_plr.title">盟友血條</string>
+
+	<string name="option.ui_hud_hpbars_color_enemy.title">敵人血條顏色</string>
+	<string name="option.ui_hud_hpbars_color_plr.title">玩家血條顏色</string>
+	<string name="option.ui_hud_hpbars_color_minion.title">小兵血條顏色</string>
+	<string name="option.ui_hud_hpbars_color_allied_plr.title">盟友血條顏色</string>
+
+	<string name="option.bar_color.0">紅色</string>
+	<string name="option.bar_color.1">綠色</string>
+	<string name="option.bar_color.2">黃色</string>
+	<string name="option.bar_color.3">紫色</string>
+	<string name="option.bar_color.4">青色</string>
+	<string name="option.bar_color.5">橙色</string>
+	<string name="option.bar_color.6">灰色</string>
+	<string name="option.bar_color.7">白色</string>
+
+
 
 	<string name="option.g_movedir_snap.title">移動方向自動校正</string>
 	<string name="option.g_aimdir_snap.title">瞄準方向自動校正</string>
@@ -38,8 +85,14 @@
 	<string name="option.g_item_pickup_tooltip_trinket.title">飾品拾取預覽</string>
 	<string name="option.g_item_pickup_tooltip_equipment.title">裝備拾取預覽</string>
 
+	<string name="option.ui_load_screen_brightness.title">載入畫面亮度</string>
+
+
+
 
 	<!-- Graphics -->
+	<string name="option.resolution">解析度</string>
+
 	<string name="option.v_fullscreen.title">全螢幕</string>
 	<string name="option.v_vsync.title">垂直同步</string>
 	<string name="option.v_fps_limit.title">幀數限制</string>
@@ -67,5 +120,13 @@
 	<string name="option.snd_volume_voice.title">語音</string>
 	<string name="option.snd_volume_env.title">環境音效</string>
 	<string name="option.snd_volume_ui.title">介面音效</string>
+	<string name="option.g_combo_sound.title">循環連擊音效</string>
 
+
+
+	<string name="option.prompt.settings_appy">是否套用設定？</string>
+	<string name="option.prompt.settings_save">是否儲存設定？</string>
+	<string name="option.prompt.settings_default">是否重設為預設值？</string>
+
+	
 </lang>
