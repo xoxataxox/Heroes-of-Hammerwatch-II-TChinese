@@ -100,7 +100,7 @@
 	<string name="trinket.ring_resistances_greater.name">強效抗性戒指</string>
 	<string name="trinket.ring_resistances_greater.desc">+%num% 所有抗性</string>
 	<string name="trinket.ring_speed_greater.name">強效速度戒指</string>
-	<string name="trinket.ring_speed_greater.desc">+%mov%% 移動速度\n+%wpn%% 攻擊速度</string>
+	<string name="trinket.ring_speed_greater.desc">+%mov%% 移動速度\n+%wpn%% 武器攻速</string>
 	<string name="trinket.scroll_magic_missile.name">魔法飛彈卷軸</string>
 	<string name="trinket.scroll_magic_missile.desc">消耗 %mana% 魔力時，向隨機附近敵人發射魔法飛彈，造成 %dmg% 物理傷害</string>
 	<string name="trinket.searing_torch.name">熾熱火炬</string>
@@ -119,7 +119,7 @@
 	<string name="trinket.throwing_stars.desc">每4次武器攻擊釋放數把飛刀，每把造成 %dmg% 物理傷害</string>
 	<string name="trinket.throwing_stars.desc2">每2次武器攻擊釋放數把飛刀，每把造成 %dmg% 物理傷害</string>
 	<string name="trinket.torc_alactiy.name">敏捷項圈</string>
-	<string name="trinket.torc_alactiy.desc">+%num%% 攻擊速度</string>
+	<string name="trinket.torc_alactiy.desc">+%num%% 武器攻速</string>
 	<string name="trinket.whetstone.name">精良磨刀石</string>
 	<string name="trinket.whetstone.desc">+%chnc%% 武器暴擊率\n+%dmg%% 武器暴擊傷害</string>
 	<string name="trinket.wicked_hooks.name">邪惡鐵鉤</string>
@@ -249,7 +249,7 @@
 	<string name="trinket.set.crawling_critters.4">+%num%% 召喚物傷害</string>
 	<string name="trinket.set.markhams_mastery.name">馬克姆專精</string>
 	<string name="trinket.set.markhams_mastery.3">背包中每件飾品增加 %num% 護甲和抗性</string>
-	<string name="trinket.set.markhams_mastery.5">背包中每件飾品增加 %num%% 攻擊速度和施法速度</string>
+	<string name="trinket.set.markhams_mastery.5">背包中每件飾品增加 %num%% 武器攻速和施法速度</string>
 	<string name="trinket.set.rings_resistance.name">抗性戒指</string>
 	<string name="trinket.set.rings_resistance.2">每級增加 %num% 所有抗性</string>
 
