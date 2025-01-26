@@ -82,7 +82,7 @@
 	<string name="skills.desc.params.weapon_speed">武器速度：</string>
 	<string name="skills.desc.params.cast_speed">施法速度：</string>
 	<string name="skills.desc.params.skill_speed">技能速度：</string>
-	<string name="skills.desc.params.spell_cost">法術消耗：</string>
+	<string name="skills.desc.params.spell_cost">魔力消耗：</string>
 
 	<string name="skills.desc.params.crit.chance">暴擊率：</string>
 	<string name="skills.desc.params.crit.chance.attack">攻擊暴擊率：</string>
@@ -214,7 +214,7 @@
 	<string name="skills.desc.params.max_placed">最大放置數量：</string>
 	<string name="skills.desc.params.end_damage">結束傷害：</string>
 	<string name="skills.desc.params.health_prc_per_stack">每層堆疊生命值百分比：</string>
-	<string name="skills.desc.params.mana_prc_per_stack">每層堆疊魔力值百分比：</string>
+	<string name="skills.desc.params.mana_prc_per_stack">每層堆疊魔力百分比：</string>
 
 
 
@@ -1179,9 +1179,9 @@
 	<string name="crafting.blueprint.potion.health.name">治療藥水</string>
 	<string name="crafting.blueprint.potion.health.desc">恢復生命值</string>
 	<string name="crafting.blueprint.potion.mana.name">魔力藥水</string>
-	<string name="crafting.blueprint.potion.mana.desc">恢復魔力值</string>
+	<string name="crafting.blueprint.potion.mana.desc">恢復魔力</string>
 	<string name="crafting.blueprint.potion.rejuvenation.name">回春藥水</string>
-	<string name="crafting.blueprint.potion.rejuvenation.desc">恢復少量生命值、魔力值與體力</string>
+	<string name="crafting.blueprint.potion.rejuvenation.desc">恢復少量生命值、魔力與體力</string>
 
 	<string name="crafting.blueprint.leather.name">皮革 (%type%)</string>
 
@@ -1338,7 +1338,7 @@
 	<string name="modifiers.skills.spell_crit_dmg.suffix">霸主</string>
 	<string name="modifiers.skills.spell_cost.prefix">咒術師的</string>
 	<string name="modifiers.skills.spell_cost.suffix">高效</string>
-	<string name="modifiers.skills.spell_cost.desc">降低 %desc%% 法術消耗</string>
+	<string name="modifiers.skills.spell_cost.desc">降低 %desc%% 魔力消耗</string>
 	<string name="modifiers.skills.spell_cooldown.prefix">編織法術者的</string>
 	<string name="modifiers.skills.spell_cooldown.suffix">迅捷</string>
 	<string name="modifiers.skills.spell_cooldown.desc">縮短 %cd%% 法術冷卻時間</string>
@@ -1718,7 +1718,7 @@
 	<string name="stacks.ranger.rhythm.name">節奏</string>
 	<string name="stacks.ranger.rhythm.desc">每層節奏增加你的武器暴擊率與暴擊傷害</string>
 	<string name="stacks.warlock.essence.name">精華</string>
-	<string name="stacks.warlock.essence.desc">每層增加你的最大生命值與魔力值</string>
+	<string name="stacks.warlock.essence.desc">每層增加你的最大生命值與魔力</string>
 	<string name="stacks.warrior.killing_spree.name">殺戮狂歡</string>
 	<string name="stacks.warrior.killing_spree.desc">每層增加你的傷害</string>
 	<string name="stacks.wizard.barrier.name">屏障</string>
