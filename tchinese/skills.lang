@@ -221,15 +221,15 @@
 
 
 	<string name="skills.attacks.mainhand.mace.name">大錘猛擊</string>
-	<string name="skills.attacks.mainhand.mace.desc">以強力的一揮造成 100% 武器傷害，並有 15% 的機率施加\cb0dfff暈眩\d</string>
+	<string name="skills.attacks.mainhand.mace.desc">以強力的一揮造成 100% 武器傷害，並有 15% 的機率施加\cb0dfff暈眩\d。</string>
 	<string name="skills.attacks.mainhand.axe.name">斧刃斬擊</string>
-	<string name="skills.attacks.mainhand.axe.desc">以撕裂的砍擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d.</string>
+	<string name="skills.attacks.mainhand.axe.desc">以撕裂的砍擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d。</string>
 	<string name="skills.attacks.mainhand.sword.name">劍刃揮擊</string>
-	<string name="skills.attacks.mainhand.sword.desc">以大範圍的弧形揮擊造成 100% 武器傷害</string>
+	<string name="skills.attacks.mainhand.sword.desc">以大範圍的弧形揮擊造成 100% 武器傷害。</string>
 	<string name="skills.attacks.mainhand.dagger.name">匕首斬擊</string>
-	<string name="skills.attacks.mainhand.dagger.desc">以快速的斬擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d</string>
+	<string name="skills.attacks.mainhand.dagger.desc">以快速的斬擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d。</string>
 	<string name="skills.attacks.mainhand.dirk.name">短匕刺擊</string>
-	<string name="skills.attacks.mainhand.dirk.desc">以快速的刺擊造成 60% 武器傷害</string>
+	<string name="skills.attacks.mainhand.dirk.desc">以快速的刺擊造成 60% 武器傷害。</string>
 	<string name="skills.attacks.mainhand.wand.fire.name">火焰箭</string>
 	<string name="skills.attacks.mainhand.wand.fire.desc">發射一支火焰箭，命中時爆炸，造成 40% 武器傷害</string>
 	<string name="skills.attacks.mainhand.wand.ice.name">冰霜碎片</string>
@@ -668,52 +668,52 @@
 
 	<string name="skills.sorcerer.mastery_1.passive_1.name">火焰專精</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.desc">提升火焰傷害，且 \cffdfb0火焰\d 技能有機會附加 \cb0dfff虛弱\d</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up1.name">Volatile Flames</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up1.desc">Your \cffdfb0Fire\d skills gain a chance to trigger an explosion dealing additional Fire damage. This effect has a short cooldown.</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up2.name">Healing Flames</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up2.desc">You restore some of your Health when scoring a Spell Crit.</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up1.name">易燃烈焰</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up1.desc">\cffdfb0火焰\d 技能有機會觸發爆炸，造成額外火焰傷害，此效果有短暫冷卻。</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up2.name">癒火</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up2.desc">法術暴擊時恢復部分生命。</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.sorcerer.mastery_2.name">Ice</string>
+	<string name="skills.sorcerer.mastery_2.name">冰法</string>
 	<string name="skills.sorcerer.mastery_2.desc"></string>
 
-	<string name="skills.sorcerer.mastery_2.spell_1.name">Frost Nova</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.desc">You unleash multiple frost shards in all directions, dealing Ice damage.</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up1.name">Frost Seekers</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up1.desc">The projectiles gain the chance to seek out new targets on hit.</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up2.name">Frost Splinters</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up2.desc">The projectiles gain a chance to unleash a new smaller nova of projectiles when killing enemies.</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.name">冰霜新星</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.desc">釋放多道冰霜碎片向四周飛出，造成冰冷傷害。</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up1.name">冰霜追尋</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up1.desc">碎片在擊中時有機會追擊新的目標。</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up2.name">冰霜裂片</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up2.desc">碎片擊殺敵人時，有機會觸發新的小型新星碎片。</string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.sorcerer.mastery_2.passive_1.name">Ice Mastery</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.desc">You deal increased Ice damage and your \cffdfb0Ice\d skills gain a chance to inflict \cb0dfffFreeze\d.</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up1.name">Shatter</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">Killing enemies with \cffdfb0Ice\d skills have a chance to trigger an explosion dealing Ice damage.</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">Ice Block</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">You gain a chance to block Physical and Ice damage.</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.name">冰霜專精</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.desc">你造成的冰冷傷害增加，且 \cffdfb0冰霜\d 技能有機會附加 \cb0dfff冰凍\d冰凍。</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up1.name">破碎</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用 \cffdfb0冰霜\d 擊殺敵人時有機會觸發 爆炸，造成冰冷傷害。</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">冰霜格擋</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害。</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.sorcerer.mastery_3.name">Lightning</string>
+	<string name="skills.sorcerer.mastery_3.name">電法</string>
 	<string name="skills.sorcerer.mastery_3.desc"></string>
 
-	<string name="skills.sorcerer.mastery_3.spell_1.name">Lightning Ball</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.desc">You charge up a ball of lightning that is unleashed when cast, dealing Lightning damage to all enemies in its path. The damage of the projectile is based on how long you charge the spell.</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up1.name">Energized Ball</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up1.desc">Each enemy hit extends the lifetime of the projectile.</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up2.name">Static Field</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up2.desc">You leave behind a field of electricity that lingers for a period, dealing additional Lightning damage.</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.name">閃電球</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.desc">蓄力後釋放一顆閃電球，對路徑上的敵人造成閃電傷害，傷害與蓄力時間相關。</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up1.name">充能球體</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up1.desc">擊中敵人會延長球體的存在時間。</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up2.name">靜電場</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up2.desc">在路徑上留下電場，持續一段時間並造成額外閃電傷害。</string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up3.desc"></string>
 	
-	<string name="skills.sorcerer.mastery_3.passive_1.name">Lightning Mastery</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.desc">You deal increased Lightning damage and your \cffdfb0Lightning\d skills gain a chance to inflict \cb0dfffStun\d.</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up1.name">Arc Lightning</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up1.desc">Your \cffdfb0Lightning\d skills gain a chance to trigger an arc of electricity that chain between enemies, dealing Lightning damage.</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up2.name">Null Field</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up2.desc">You gain a chance to block most projectiles. This effect has a short cooldown.</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.name">閃電專精</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.desc">你造成的閃電傷害增加，且 \cffdfb0閃電\d 技能有機會附加  \cb0dfff暈眩\d。</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up1.name">弧形閃電</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up1.desc">你的 \cffdfb0閃電\d 技能有機會觸發在敵人之間鏈接的閃電弧，造成閃電傷害。</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up2.name">無效力場 </string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up2.desc">你有機會格擋大部分投射物，此效果有短暫冷卻。</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up3.desc"></string>
 
