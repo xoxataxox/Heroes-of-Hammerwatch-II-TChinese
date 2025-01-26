@@ -14,7 +14,7 @@ Steam 指南：https://steamcommunity.com/sharedfiles/filedetails/?id=3411822620
 
 Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
 
-目前翻譯進度：僅剩skills.lang需要對應Fifth Patch做調整
+目前翻譯進度：僅剩skills.lang需要從Third Patch更新至Fifth Patch
 
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
