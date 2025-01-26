@@ -1,0 +1,130 @@
+<lang>
+	<string name="option.defaults">Defaults</string>
+	<string name="option.alt.select">Select</string>
+	<string name="option.alt.change">Change</string>
+	<string name="option.alt.on">On</string>
+	<string name="option.alt.off">Off</string>
+	<string name="option.alt.yes">Yes</string>
+	<string name="option.alt.no">No</string>
+	<string name="option.alt.steam">Steam</string>
+	<string name="option.alt.in_game">In-Game</string>
+	<string name="option.alt.hurt">Hurt</string>
+	<string name="option.alt.sun">Sun</string>
+	<string name="option.alt.all">All</string>
+	<string name="option.alt.borderless">Borderless</string>
+	<string name="option.alt.fullscreen">Fullscreen</string>
+	<string name="option.alt.windowed">Windowed</string>
+	<string name="option.alt.none">None</string>
+	<string name="option.alt.missing">Missing</string>
+	<string name="option.alt.marker">Marker</string>
+	<string name="option.alt.laser">Laser</string>
+	<string name="option.alt.both">Both</string>
+	<string name="option.alt.auto_marker">Auto Marker</string>
+	<string name="option.alt.auto_laser">Auto Laser</string>
+	<string name="option.alt.auto_both">Auto Both</string>
+	<string name="option.alt.auto">Auto</string>
+
+
+	<!-- Game -->
+	<string name="option.language">Language</string>
+	
+	<string name="option.g_virtual_res_scale.title">Game Zoom</string>
+	<string name="option.ui_scale.title">UI Scale</string>
+
+	<string name="option.ui_minimap.title">Minimap</string>
+	<string name="option.ui_minimap_alpha.title">Minimap Opacity</string>
+	<string name="option.ui_minimap_scale.title">Minimap Scale</string>
+	<string name="option.ui_minimap_size.title">Minimap Size</string>
+
+	<string name="option.g_real_names.title">Real Names</string>
+	<string name="option.g_show_pings.title">Show Multiplayer Pings</string>
+	<string name="option.ui_plr_names_alpha.title">Multiplayer Names Opacity</string>
+	<string name="option.g_emotes.title">Multiplayer Emotes</string>
+
+	<string name="option.ui_cursor_fat.title">Larger Crosshair</string>
+	<string name="option.ui_cursor_alpha.title">Cursor Opacity</string>
+	<string name="option.ui_overlay_minimap_alpha.title">Overlay Map Opacity</string>
+	<string name="option.ui_hud_dashbar.title">Player Dashbar</string>
+	<string name="option.ui_cursor_health.title">Cursor Stats</string>
+	<string name="option.g_laser_sight.title">Aim Guide</string>
+	<string name="option.g_quickcast.title">Quickcast</string>
+
+	<string name="option.ui_hud_hpbars_enemy.title">Enemy Healthbars</string>
+	<string name="option.ui_hud_hpbars_plr.title">Player Healthbars</string>
+	<string name="option.ui_hud_hpbars_minion.title">Minion Healthbars</string>
+	<string name="option.ui_hud_hpbars_allied_plr.title">Ally Healthbars</string>
+
+	<string name="option.ui_hud_hpbars_color_enemy.title">Enemy Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_plr.title">Player Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_minion.title">Minion Healthbar Color</string>
+	<string name="option.ui_hud_hpbars_color_allied_plr.title">Ally Healthbar Color</string>
+
+	<string name="option.bar_color.0">Red</string>
+	<string name="option.bar_color.1">Green</string>
+	<string name="option.bar_color.2">Yellow</string>
+	<string name="option.bar_color.3">Purple</string>
+	<string name="option.bar_color.4">Teal</string>
+	<string name="option.bar_color.5">Orange</string>
+	<string name="option.bar_color.6">Gray</string>
+	<string name="option.bar_color.7">White</string>
+
+
+
+	<string name="option.g_movedir_snap.title">Movement Direction Snap</string>
+	<string name="option.g_aimdir_snap.title">Aim Direction Snap</string>
+	<string name="option.g_charge_movedir.title">Movement Direction Dash</string>
+	<string name="option.g_controller_move_dir.title">Aim Direction Movement</string>
+
+	<string name="option.ui_txt.title">Floating Texts</string>
+	<string name="option.ui_txt_enemy_hurt_husk.title">Remote Damage Numbers</string>
+	<string name="option.ui_txt_enemy_hurt_local.title">Local Damage Numbers</string>
+
+	<string name="option.ui_hud_overlay_always_visible.title">Always Show HUD Overlay</string>
+
+	<string name="option.g_item_pickup_tooltip_trinket.title">Preview Trinket Pickups</string>
+	<string name="option.g_item_pickup_tooltip_equipment.title">Preview Equipment Pickups</string>
+
+	<string name="option.ui_load_screen_brightness.title">Load Screen Brightness</string>
+
+
+
+	<!-- Graphics -->
+	<string name="option.resolution">Resolution</string>
+	
+	<string name="option.v_fullscreen.title">Fullscreen</string>
+	<string name="option.v_vsync.title">VSync</string>
+	<string name="option.v_fps_limit.title">Frame Limit</string>
+	<string name="option.rg_pixel_perfect.title">Pixel Perfect</string>
+	<string name="option.r_hdr.title">Improved Lighting</string>
+	<string name="option.r_light_decal_proj.title">Light Projection</string>
+	<string name="option.r_shadows.title">Shadows</string>
+	<string name="option.r_draw_glow.title">Glow</string>
+	<string name="option.r_draw_bloom.title">Bloom</string>
+	<string name="option.r_draw_xray.title">XRay</string>
+	<string name="option.r_environmental_detail.title">Environment Detail</string>
+	<string name="option.r_wind_sprite_animations.title">Foliage Wind Animations</string>
+	<string name="option.rg_brightness.title">Brightness</string>
+	<string name="option.rg_gamma.title">Gamma</string>
+	<string name="option.rg_contrast.title">Contrast</string>
+	<string name="option.rg_crt_curve.title">CRT Curve</string>
+	<string name="option.rg_post_phosphor.title">Post-Process Phosfor</string>
+	<string name="option.rg_post_bloom.title">Post-Process Dot and Bloom</string>
+
+
+	<!-- Sound -->
+	<string name="option.snd_volume.title">Master</string>
+	<string name="option.snd_volume_music.title">Music</string>
+	<string name="option.snd_volume_sfx.title">Effects</string>
+	<string name="option.snd_volume_voice.title">Voice</string>
+	<string name="option.snd_volume_env.title">Environment</string>
+	<string name="option.snd_volume_ui.title">Interface</string>
+	<string name="option.g_combo_sound.title">Combo Sound Loop</string>
+
+
+
+	<string name="option.prompt.settings_appy">Apply settings?</string>
+	<string name="option.prompt.settings_save">Save settings?</string>
+	<string name="option.prompt.settings_default">Reset to default settings?</string>
+
+
+</lang>
