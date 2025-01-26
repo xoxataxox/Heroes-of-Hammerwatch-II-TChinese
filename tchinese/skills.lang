@@ -40,7 +40,7 @@
 	<string name="skills.desc.params.mana">魔力：</string>
 	<string name="skills.desc.params.healthregen">生命回復：</string>
 	<string name="skills.desc.params.healthregen.dex">每敏捷生命回復</string>
-	<string name="skills.desc.params.healthregen.int">每力量生命回復</string>
+	<string name="skills.desc.params.healthregen.int">每智力生命回復</string>
 	<string name="skills.desc.params.manaregen">魔力恢復：</string>
 	<string name="skills.desc.params.manaregen.str">每力量魔力回復：</string>
 	<string name="skills.desc.params.manaregen.dex">每敏捷魔力回復</string>
