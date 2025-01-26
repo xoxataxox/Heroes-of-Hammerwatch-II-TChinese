@@ -1,0 +1,345 @@
+<lang>
+	<!-- System -->
+
+	<string name="tooltips.equipped">Equipped</string>
+
+	<string name="item.info.tooltip.slot.mainhand">Main Hand</string>
+	<string name="item.info.tooltip.slot.offhand">Off Hand</string>
+	<string name="item.info.tooltip.slot.head">Head</string>
+	<string name="item.info.tooltip.slot.chest">Chest</string>
+	<string name="item.info.tooltip.slot.feet">Feet</string>
+	<string name="item.info.tooltip.slot.hands">Hands</string>
+	<string name="item.info.tooltip.slot.accessory">Accessory</string>
+	<string name="item.info.tooltip.slot.potion">Potion</string>
+
+
+
+	<string name="text.openselsewhere">It opens elsewhere!</string>
+	<string name="text.needakey">I need a key!</string>
+	<string name="text.needbox">I need a toolbox!</string>
+	<string name="text.needpan">I need a pan!</string>
+	<string name="text.needaxe">I need an axe!</string>
+	<string name="text.needshovel">I need a shovel!</string>
+	<string name="text.needpickaxe">I need a\npick axe!</string>
+	<string name="text.needreddye">I need\nred dye!</string>
+	<string name="text.needrope">I need a rope!</string>
+	<string name="text.needladder">I need a ladder!</string>
+
+
+
+	<string name="rg_post_phosphor">Post Phosphor</string>
+	<string name="rg_post_phosphor.help">Enable Phosphor retro effect</string>
+	<string name="rg_post_bloom">Post Dot & Bloom</string>
+	<string name="rg_post_bloom.help">Enable Dot and Bloom retro effect</string>
+
+
+
+
+	<string name="button.shop.more">More</string>
+	<string name="button.shop.tailor">Tailor</string>
+
+
+
+	<string name="epic.name.wicked">Wicked</string>
+	<string name="epic.name.griffon">Griffon</string>
+	<string name="epic.name.titan">Titan</string>
+	<string name="epic.name.fiend">Fiend</string>
+	<string name="epic.name.serpent">Serpent</string>
+	<string name="epic.name.hellion">Hellion</string>
+	<string name="epic.name.imp">Imp</string>
+	<string name="epic.name.colossus">Colossus</string>
+	<string name="epic.name.leviathan">Leviathan</string>
+	<string name="epic.name.torrent">Torrent</string>
+	<string name="epic.name.macabre">Macabre</string>
+
+
+	<string name="epic.name.gift">Gift</string>
+	<string name="epic.name.favor">Favor</string>
+	<string name="epic.name.boon">Boon</string>
+	<string name="epic.name.scourge">Scourge</string>
+	<string name="epic.name.legacy">Legacy</string>
+	<string name="epic.name.insignia">Insignia</string>
+	<string name="epic.name.fragment">Fragment</string>
+	<string name="epic.name.signet">Signet</string>
+	<string name="epic.name.seal">Seal</string>
+	<string name="epic.name.bastion">Bastion</string>
+	<string name="epic.name.citadel">Citadel</string>
+	<string name="epic.name.wall">Wall</string>
+	<string name="epic.name.gate">Gate</string>
+	<string name="epic.name.heart">Heart</string>
+	<string name="epic.name.raiment">Raiment</string>
+	<string name="epic.name.garb">Garb</string>
+	<string name="epic.name.regalia">Regalia</string>
+	<string name="epic.name.souvenir">Souvenir</string>
+	<string name="epic.name.token">Token</string>
+	<string name="epic.name.symbol">Symbol</string>
+	<string name="epic.name.emblem">Emblem</string>
+	<string name="epic.name.image">Image</string>
+	<string name="epic.name.band">Band</string>
+	<string name="epic.name.link">Link</string>
+	<string name="epic.name.circuit">Circuit</string>
+	<string name="epic.name.chain">Chain</string>
+	<string name="epic.name.loop">Loop</string>
+	<string name="epic.name.knot">Knot</string>
+	<string name="epic.name.mark">Mark</string>
+	<string name="epic.name.edge">Edge</string>
+	<string name="epic.name.bite">Bite</string>
+	<string name="epic.name.sting">Sting</string>
+	<string name="epic.name.punch">Punch</string>
+	<string name="epic.name.blade">Blade</string>
+	<string name="epic.name.edge">Edge</string>
+	<string name="epic.name.talon">Talon</string>
+	<string name="epic.name.needle">Needle</string>
+	<string name="epic.name.impaler">Impaler</string>
+	<string name="epic.name.razor">Razor</string>
+	<string name="epic.name.twig">Twig</string>
+	<string name="epic.name.branch">Branch</string>
+	<string name="epic.name.script">Script</string>
+	<string name="epic.name.tome">Tome</string>
+	<string name="epic.name.manuscript">Manuscript</string>
+	<string name="epic.name.theory">Theory</string>
+	<string name="epic.name.article">Article</string>
+	<string name="epic.name.fable">Fable</string>
+	<string name="epic.name.crusher">Crusher</string>
+	<string name="epic.name.mauler">Mauler</string>
+	<string name="epic.name.smasher">Smasher</string>
+	<string name="epic.name.breaker">Breaker</string>
+	<string name="epic.name.volley">Volley</string>
+	<string name="epic.name.barrage">Barrage</string>
+	<string name="epic.name.song">Song</string>
+	<string name="epic.name.wind">Wind</string>
+	<string name="epic.name.wing">Wing</string>
+	<string name="epic.name.deluge">Deluge</string>
+	<string name="epic.name.eye">Eye</string>
+	<string name="epic.name.gaze">Gaze</string>
+
+	<string name="modifiers.enchant.bone_dust.desc">Scoring a kill has a %chance%% chance to summon a crawler.</string>
+	<string name="modifiers.enchant.shambler_claw.desc">Attack hits have a %chance%% chance to strike a different nearby enemy with a bolt of lightning dealing %dmg% Lightning damage.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc">Attacking has a %chance%% chance to fire a stinger projectile at a random enemy.</string>
+	<string name="modifiers.enchant.wasp_stinger.desc2">Casting a Spell fires a stinger projectile at a random enemy.</string>
+	<string name="modifiers.enchant.wolf_liver.desc">%value% Movement Speed at full Health.</string>
+
+	<string name="modifiers.epic.skills.dmg.desc">%c-highlight%%skillname%\d deal %amount%% increased damage.</string>
+	<string name="modifiers.epic.skills.cd.desc">%c-highlight%%skillname%\d has %amount%% reduced Cooldown.</string>
+	<string name="modifiers.epic.skills.costmana.desc">%c-highlight%%skillname%\d has %amount%% reduced Mana Cost.</string>
+	<string name="modifiers.epic.skills.coststamina.desc">%c-highlight%%skillname%\d has %amount%% reduced Stamina Cost.</string>
+	<string name="modifiers.epic.skills.speed.desc">%c-highlight%%skillname%\d has %amount%% increased skill speed.</string>
+	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%skillname%\d has %amount% max stacks.</string>
+	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d has %amount% longer duration.</string>
+	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%skillname%\d has %amount% max summoned.</string>
+
+	<string name="modifiers.potions.kill_refill_all.desc">%chance%% chance to refill all Potions on Kill.</string>
+	<string name="modifiers.potions.kill_refill_charge.desc">%chance%% chance to refill a random Potion Charge on Kill.</string>
+
+	<string name="skills.desc.params.fiend.max">Fiend Max Summoned:</string>
+
+	<string name="equipment.unique.accessory.expert_3.name">Cauldron of Fire</string>
+	<string name="skills.equipment.cauldron_of_fire.desc">Place a cauldron that spews small fireballs in random directions, dealing %amount% Fire damage. %cd% cooldown.</string>
+
+	<string name="equipment.unique.accessory.master_2.name">Elemental Prism</string>
+	<string name="skills.equipment.elemental_prism.desc">Spawns a prism that projects three rotating beams, one for each element: Fire, Ice, Lightning. Each beam deals %amount% damage of the corresponding element. %cd% cooldown.</string>
+
+	<string name="equipment.unique.chest.master_1.name">Bulwark of Titans</string>
+	<string name="equipment.unique.chest.master_2.name">Shirt of Coins</string>
+	<string name="equipment.unique.chest.master_2.desc">You lose %amount% gold when taking damage.</string>
+
+	<string name="equipment.unique.head.apprentice_1.name">Hood for the Hopeless</string>
+	<string name="equipment.unique.hands.apprentice_1.name">The Grim Gardener</string>
+	<string name="equipment.unique.hands.master_1.name">Spell Fingers</string>
+
+	<string name="equipment.unique.feet.expert_3.name">Sunwalker Sandals</string>
+	<string name="equipment.unique.feet.expert_3.desc">You deal %amount% Fire damage to enemies you collide with. %cd% effect cooldown.</string>
+
+	<string name="equipment.unique.rogue.mainhand.adept_1.name">Parrying Daggers</string>
+	<string name="equipment.unique.rogue.offhand.master_1.name">The Flying Virtuosos</string>
+
+	<string name="equipment.unique.warlock.offhand.adept_1.name">Chained Suffering</string>
+	<string name="equipment.unique.warlock.offhand.adept_1.desc">You gain stacks of %c-highlight%Soul Essence\d when taking damage.</string>
+
+	<string name="equipment.unique.wizard.offhand.adept_1.name">Rock Launcher</string>
+	<string name="equipment.unique.wizard.offhand.adept_1.desc">Launches a rock projectile that explodes upon impact, dealing Offhand damage.\n\nCan be charged to increase the speed and range of the projectile.\n\nMana Cost: %cost%\nCooldown: %cd%</string>
+
+	<string name="item.meal.sizzling_essence_tea.name">Sizzling Essence Tea</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% Spell Cost and Spell Cooldown. Mana Regen set to 0. Lasts for %dur% minutes.</string>
+
+	<string name="item.map_bb.name">Map of Blackbarrow</string>
+	<string name="item.map_bb.desc">A map over the region Blackbarrow.</string>
+	
+	<string name="hud.newtier">New tier!</string>
+	
+	<string name="quest.timedcomp">\"icn-quest-need" This quest has a timed component and needs to be completed within a reasonable time.</string>
+
+	<string name="misc.dmg.immortal">Invulnerable!</string>
+
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	<!-- Missing Added 0421 -->
+	
+	
+	<string name="skills.paladin.spell_1.up3.desc">The hammer now returns to you after a short delay.</string>
+	<string name="skills.rogue.master.passive_1.up1.desc">You gain a chance to instantly kill an enemy on %c-highlight%Low Life\d when scoring an Attack Critical Hit. Does not work on Bosses.</string>
+	<string name="skills.rogue.master.spell_2.desc">You slip into the shadows and become undetectable for a brief period. Dealing any kind of damage will end the spell early.</string>
+	<string name="skills.warlock.mainhand.up1.desc">Soul projectiles gain the ability to seek out new targets on hit. The projectiles deal less damage with each enemy hit.</string>
+	<string name="modifiers.misc.experience.desc">%desc%% Experience Gain.</string>
+
+	<string name="item.meal.raging_behemoth.desc">%amount% Damage. %amount2% Spell Cost and Spell Cooldown. Lasts for %dur% minutes.</string>
+	<string name="item.meal.ghost_jam.desc">%amount% Evasion. Armor and Fire Resistance set to 0. Lasts for %dur% minutes.</string>
+	<string name="item.meal.pancakes.desc">%amount% Experience Gain and %amount2% Movement Speed for %dur% minutes.</string>
+	<string name="item.meal.summer_city_platter.desc">%amount% increased attributes for %dur% minutes.</string>
+
+	<string name="log.objectives">Objectives</string>
+	<string name="log.rewards">Rewards</string>
+	<string name="log.noquest">Your quest log is empty.</string>
+	<string name="log.desc">Description</string>
+	
+	<string name="text.saving">Saving...</string>
+
+	<string name="menu.playerlist.profile.title">Profile</string>
+	<string name="menu.playerlist.profile.tooltip">Open this player's profile.</string>
+	<string name="menu.playerlist.kick.title">Kick</string>
+	<string name="menu.playerlist.kick.tooltip">Kick this player.</string>
+	<string name="menu.playerlist.kick.prompt">Are you sure you want to kick %name%?</string>
+	<string name="menu.playerlist.ping">%value% ms</string>
+	<string name="menu.playerlist.host">Host</string>
+
+
+
+	<string name="item.torch.name">Torch</string>
+	<string name="item.torch.desc">Makes it a little brighter around you.</string>
+
+
+	<string name="menu.controls.menuaccept">Menu Accept</string>
+	<string name="rope.tied">Rope tied!</string>
+	<string name="cred.title.engine2">Powered by the A000FF engine, that also runs Serious Sam's Bogus Detour,\nHeroes of Hammerwatch and Hammerwatch II.</string>
+	<string name="menu.lobby.chat.minplayers">You need at least %min% players to start.</string>
+	<string name="menu.lobby.chat.maxplayers">You can have at most %max% players in this scenario.</string>
+	<string name="menu.controls.layout.ds41">DualShock 4 1</string>
+	<string name="menu.controls.layout.ds42">DualShock 4 2</string>
+	<string name="menu.controls.layout.ds43">DualShock 4 3</string>
+	<string name="menu.controls.layout.ds44">DualShock 4 4</string>
+	<string name="menu.loadgame.failed">Failed to load savegame.</string>
+
+	<string name="button.skip">Skip</string>
+
+	<string name="g_autoequip">Autoequip</string>
+	<string name="g_autoequip.help">Automatically equips new equipment if there is not already something in that slot.</string>
+
+	<string name="g_quickcast">Quickcast</string>
+	<string name="g_quickcast.help">Casts skills immediately on use, ignoring the aim step.</string>
+
+	<string name="ui_show_controlbinds">Control Bindings</string>
+	<string name="ui_show_controlbinds.help">Show button prompts in UI.</string>
+
+	<string name="g_movedir_snap">Movement Direction Snap</string>
+	<string name="g_movedir_snap.help">Restricts the number of different directions that you can move.</string>
+
+	<string name="g_aimdir_snap">Aim Direction Snap</string>
+	<string name="g_aimdir_snap.help">Restricts the number of different directions that you can aim.</string>
+
+	<string name="g_charge_movedir">Movement Direction Dash</string>
+	<string name="g_charge_movedir.help">While walking, use the movement direction to dash.</string>
+
+	<string name="ui_hud_hpbars_plr">Ally Health Bars</string>
+	<string name="ui_hud_hpbars_plr.help">Display health of allies.</string>
+
+	<string name="menu.controls.actionmenuforward">ACTION MENU FORWARD</string>
+
+	<string name="menu.loadgame.ren">Rename</string>
+	<string name="menu.loadgame.del">Delete</string>
+	<string name="menu.loadgame.load">Load</string>
+	<string name="button.save">Save</string>
+
+	<string name="item.error.empty_potion">Potion is empty! Needs to be refilled!</string>
+
+	<string name="menu.notifier.joinfailed.join">Failed to join lobby.</string>
+	<string name="menu.notifier.joinfailed.host">Failed to create lobby.</string>
+
+	<string name="misc.dmg.miss">Miss!</string>
+	<string name="misc.dmg.evade">Evade!</string>
+	<string name="misc.dmg.parry">Parry!</string>
+
+	<string name="menu.player.stats.currpoints">Points to spend: %points%\"icn-attrpt"</string>
+	<string name="menu.player.stats.mainhand">Mainhand</string>
+	<string name="menu.player.stats.offhand">Offhand</string>
+	<string name="menu.player.stats.damage">Damage</string>
+
+	<string name="character.stat.tooltip.evasion.title">Evasion</string>
+	<string name="character.stat.tooltip.evasion.text">Chance to evade attacks.</string>
+	<string name="character.stat.tooltip.parry.title">Parry</string>
+	<string name="character.stat.tooltip.parry.text">Chance to parry frontal melee attacks.</string>
+
+	<string name="character.stat.tooltip.castspeed.title">Cast Speed</string>
+	<string name="character.stat.tooltip.castspeed.text">This is how fast you cast spells.</string>
+	<string name="character.stat.tooltip.spellcooldown.title">Spell Cooldown</string>
+	<string name="character.stat.tooltip.spellcooldown.text">This is how long you need to wait before casting a spell again.</string>
+	<string name="character.stat.tooltip.spellcritdmg.title">Spell Critical Hit Damage</string>
+	<string name="character.stat.tooltip.spellcritdmg.text">This is how much damage critical hits of spells do.</string>
+	<string name="character.stat.tooltip.spellcritchance.title">Spell Critical Hit Chance</string>
+	<string name="character.stat.tooltip.spellcritchance.text">Chance to score critical hits with spells.</string>
+
+	<string name="character.stat.tooltip.attackspeed.title">Attack Speed</string>
+	<string name="character.stat.tooltip.attackspeed.text">This is how fast you perform attacks.</string>
+	<string name="character.stat.tooltip.attackcritdmg.title">Attack Critical Hit Damage</string>
+	<string name="character.stat.tooltip.attackcritdmg.text">This is how much damage critical hits of attacks do.</string>
+	<string name="character.stat.tooltip.attackcritchance.title">Attack Critical Hit Chance</string>
+	<string name="character.stat.tooltip.attackcritchance.text">Chance to score critical hits with attacks.</string>
+
+	<string name="character.stat.tooltip.armorbreak.title">Armor Penetration</string>
+	<string name="character.stat.tooltip.armorbreak.text">Reduces the Armor of your target.</string>
+	<string name="character.stat.tooltip.resistancefirebreak.title">Fire Resistance Penetration</string>
+	<string name="character.stat.tooltip.resistancefirebreak.text">Reduces the Fire Resistance of your target.</string>
+	<string name="character.stat.tooltip.resistanceicebreak.title">Ice Resistance Penetration</string>
+	<string name="character.stat.tooltip.resistanceicebreak.text">Reduces the Ice Resistance of your target.</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.title">Lightning Resistance Penetration</string>
+	<string name="character.stat.tooltip.resistancelightningbreak.text">Reduces the Lightning Resistance of your target.</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.title">Poison Resistance Penetration</string>
+	<string name="character.stat.tooltip.resistancepoisonbreak.text">Reduces the Poison Resistance of your target.</string>
+
+	<string name="skills.equipment.archon_nova.name">Essence Nova</string>
+	<string name="skills.equipment.archon_nova.desc">Discharges several swirling projectiles dealing %dmg% Fire and Pure damage. %cd% cooldown.</string>
+	<string name="skills.equipment.thunderbird_lightning.name">Call Lightning</string>
+	<string name="skills.equipment.thunderbird_lightning.desc">Summons a series of lightning strikes in a forward direction dealing %dmg% Lightning damage. %cd% cooldown.</string>
+	<string name="modifiers.class.warlock.fiends_add.desc">You can summon %value% additional %c-highlight%Fiends\d.</string>
+	<string name="modifiers.class.wizard.duplicate_add.desc">You can summon %value% additional %c-highlight%Duplicate\d.</string>
+
+	<string name="skills.desc.params.projectile.dmg">Projectile Damage:</string>
+	<string name="modifiers.misc.attack_hit_health_chance.desc">%chance%% to restore %value% Health on Attack Hit.</string>
+	<string name="modifiers.misc.attack_hit_stamina_chance.desc">%chance%% to restore %value% Stamina on Attack Hit.</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">%chance%% to restore %value% Mana on Attack Hit.</string>
+	<string name="modifiers.enchant.blackheart.prefix">Blackheart</string>
+	<string name="modifiers.enchant.blackheart.suffix">of Corruption</string>
+	<string name="modifiers.damage_taken.desc">%desc%% more damage taken.</string>
+
+
+	<string name="menu.player.stats.mainhand">Mainhand</string>
+	<string name="menu.player.stats.offhand">Offhand</string>
+	<string name="menu.player.stats.damage">Damage</string>
+
+
+	<string name="dialogue.player_door_locked_generic">It's locked!</string>
+
+	<string name="enemy.ghost_priest.name">Priest Ghost</string>
+
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+	<!-- Missing Added 0911 -->
+
+	<string name="menu.pick_character.title">Select Character</string>
+	<string name="menu.pick_character.createnew">Create new character</string>
+	<string name="menu.pick_character.localsave">Local Save</string>
+
+	<string name="o.press.specific.key">Press %key%</string>
+
+	<string name="o.press.specific.key.to.join">Press %key% to join session.</string>
+
+	<string name="menu.options.legacy.control.title">Legacy Controls</string>
+	<string name="menu.options.legacy.control.desc">Emulates original controls and handling from Hammerwatch, released 2013.</string>
+	<string name="menu.controls.hold">HOLD POSITION</string>
+
+
+</lang>
+

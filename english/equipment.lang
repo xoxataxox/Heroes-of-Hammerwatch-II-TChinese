@@ -1,0 +1,199 @@
+<lang>
+
+	<string name="item.system.epic_name">%prefix% %suffix%</string>
+	<string name="item.system.eqipment_pfx">%prefix% %base%</string>
+	<string name="item.system.eqipment_sfx">%base% %suffix%</string>
+	<string name="item.system.eqipment_pfx_sfx">%prefix% %base% %suffix%</string>
+
+
+	<string name="equipment.mainhand.axe.1a">Battle Hatchet</string>
+	<string name="equipment.mainhand.axe.2a">Battle Axe</string>
+	<string name="equipment.mainhand.axe.3a">Double-Headed Battle Axe</string>
+	<string name="equipment.mainhand.axe.4a">Royal Axe</string>
+
+	<string name="equipment.mainhand.mace.1a">Ball Mace</string>
+	<string name="equipment.mainhand.mace.2a">Flanged Mace</string>
+	<string name="equipment.mainhand.mace.3a">War Mace</string>
+	<string name="equipment.mainhand.mace.4a">Regal Mace</string>
+
+	<string name="equipment.mainhand.longsword.1a">Long Sword</string>
+	<string name="equipment.mainhand.longsword.2a">Bastard Sword</string>
+	<string name="equipment.mainhand.longsword.3a">War Sword</string>
+	<string name="equipment.mainhand.longsword.4a">Platinum Sword</string>
+
+	<string name="equipment.mainhand.shortsword.1a">Short Sword</string>
+	<string name="equipment.mainhand.shortsword.2a">Elegant Sword</string>
+	<string name="equipment.mainhand.shortsword.3a">Noble Sword</string>
+	<string name="equipment.mainhand.shortsword.4a">Champion Sword</string>
+
+	<string name="equipment.mainhand.dagger.1a">Iron Dagger</string>
+	<string name="equipment.mainhand.dagger.2a">Steel Dagger</string>
+	<string name="equipment.mainhand.dagger.3a">Noble Dagger</string>
+	<string name="equipment.mainhand.dagger.4a">Majestic Dagger</string>
+
+	<string name="equipment.mainhand.wand.fire.1a">Fire Wand</string>
+	<string name="equipment.mainhand.wand.fire.2a">Adept Fire Wand</string>
+	<string name="equipment.mainhand.wand.fire.3a">Grand Fire Wand</string>
+	<string name="equipment.mainhand.wand.fire.4a">Master Fire Wand</string>
+
+	<string name="equipment.mainhand.wand.ice.1a">Frost Wand</string>
+	<string name="equipment.mainhand.wand.ice.2a">Adept Frost Wand</string>
+	<string name="equipment.mainhand.wand.ice.3a">Grand Frost Wand</string>
+	<string name="equipment.mainhand.wand.ice.4a">Master Frost Wand</string>
+
+	<string name="equipment.mainhand.wand.lightning.1a">Lightning Wand</string>
+	<string name="equipment.mainhand.wand.lightning.2a">Adept Lightning Wand</string>
+	<string name="equipment.mainhand.wand.lightning.3a">Grand Lightning Wand</string>
+	<string name="equipment.mainhand.wand.lightning.4a">Master Lightning Wand</string>
+
+
+	<string name="equipment.offhand.dirk.1a">Iron Dirk</string>
+	<string name="equipment.offhand.dirk.2a">Steel Dirk</string>
+	<string name="equipment.offhand.dirk.3a">Ritual Kris</string>
+	<string name="equipment.offhand.dirk.4a">Golden Kris</string>
+
+	<string name="equipment.offhand.shield.1a">Wooden Shield</string>
+	<string name="equipment.offhand.shield.2a">Round Shield</string>
+	<string name="equipment.offhand.shield.3a">Heater Shield</string>
+	<string name="equipment.offhand.shield.4a">Decorated Shield</string>
+
+	<string name="equipment.offhand.crossbow.1a">Hand Crossbow</string>
+	<string name="equipment.offhand.crossbow.2a">Hand Crossbow</string>
+	<string name="equipment.offhand.crossbow.3a">Noble Hand Crossbow</string>
+	<string name="equipment.offhand.crossbow.4a">Gilded Hand Crossbow</string>
+
+	<string name="equipment.offhand.tome.fire.1a">Fire Tome</string>
+	<string name="equipment.offhand.tome.fire.2a">Adept Fire Tome</string>
+	<string name="equipment.offhand.tome.fire.3a">Grand Fire Tome</string>
+	<string name="equipment.offhand.tome.fire.4a">Master Fire Tome</string>
+
+	<string name="equipment.offhand.tome.ice.1a">Frost Tome</string>
+	<string name="equipment.offhand.tome.ice.2a">Adept Frost Tome</string>
+	<string name="equipment.offhand.tome.ice.3a">Grand Frost Tome</string>
+	<string name="equipment.offhand.tome.ice.4a">Master Frost Tome</string>
+
+	<string name="equipment.offhand.tome.lightning.1a">Lightning Tome</string>
+	<string name="equipment.offhand.tome.lightning.2a">Adept Lightning Tome</string>
+	<string name="equipment.offhand.tome.lightning.3a">Grand Lightning Tome</string>
+	<string name="equipment.offhand.tome.lightning.4a">Master Lightning Tome</string>
+
+
+	<string name="equipment.twohanded.daggers.1a">Dual Daggers</string>
+	<string name="equipment.twohanded.daggers.2a">Heavy Daggers</string>
+	<string name="equipment.twohanded.daggers.3a">Curved Daggers</string>
+	<string name="equipment.twohanded.daggers.4a">Grandiose Daggers</string>
+
+	<string name="equipment.twohanded.maul.1a">Wooden Maul</string>
+	<string name="equipment.twohanded.maul.2a">Battle Maul</string>
+	<string name="equipment.twohanded.maul.3a">War Maul</string>
+	<string name="equipment.twohanded.maul.4a">Titan Maul</string>
+
+	<string name="equipment.twohanded.greataxe.1a">Great Cleaver</string>
+	<string name="equipment.twohanded.greataxe.2a">Greataxe</string>
+	<string name="equipment.twohanded.greataxe.3a">Heavy Greataxe</string>
+	<string name="equipment.twohanded.greataxe.4a">Conqueror Greataxe</string>
+
+	<string name="equipment.twohanded.shortbow.1a">Short Bow</string>
+	<string name="equipment.twohanded.shortbow.2a">Recurve Bow</string>
+	<string name="equipment.twohanded.shortbow.3a">Elven Bow</string>
+	<string name="equipment.twohanded.shortbow.4a">Wyrmwood Bow</string>
+
+	<string name="equipment.twohanded.longbow.1a">Long Bow</string>
+	<string name="equipment.twohanded.longbow.2a">War Bow</string>
+	<string name="equipment.twohanded.longbow.3a">Imperial Bow</string>
+	<string name="equipment.twohanded.longbow.4a">Dragonbone Bow</string>
+
+	<string name="equipment.twohanded.crossbow.1a">Crossbow</string>
+	<string name="equipment.twohanded.crossbow.2a">Heavy Crossbow</string>
+	<string name="equipment.twohanded.crossbow.3a">Imperial Crossbow</string>
+	<string name="equipment.twohanded.crossbow.4a">Gilded Crossbow</string>
+
+
+	<string name="equipment.twohanded.staff.fire.1a">Fire Staff</string>
+	<string name="equipment.twohanded.staff.fire.2a">Adept Fire Staff</string>
+	<string name="equipment.twohanded.staff.fire.3a">Grand Fire Staff</string>
+	<string name="equipment.twohanded.staff.fire.4a">Master Fire Staff</string>
+
+	<string name="equipment.twohanded.staff.ice.1a">Frost Staff</string>
+	<string name="equipment.twohanded.staff.ice.2a">Adept Frost Staff</string>
+	<string name="equipment.twohanded.staff.ice.3a">Grand Frost Staff</string>
+	<string name="equipment.twohanded.staff.ice.4a">Master Frost Staff</string>
+
+	<string name="equipment.twohanded.staff.lightning.1a">Lightning Staff</string>
+	<string name="equipment.twohanded.staff.lightning.2a">Adept Lightning Staff</string>
+	<string name="equipment.twohanded.staff.lightning.3a">Grand Lightning Staff</string>
+	<string name="equipment.twohanded.staff.lightning.4a">Master Lightning Staff</string>
+
+
+
+
+
+	<string name="equipment.chest.str.1a">Breastplate</string>
+	<string name="equipment.chest.str.2a">Heavy Plate</string>
+	<string name="equipment.chest.str.3a">Full Plate</string>
+	<string name="equipment.chest.str.4a">Crusader Plate</string>
+	<string name="equipment.chest.dex.1a">Leather Jerkin</string>
+	<string name="equipment.chest.dex.2a">Leather Armor</string>
+	<string name="equipment.chest.dex.3a">Studded Leather</string>
+	<string name="equipment.chest.dex.4a">Scale Brigandine</string>
+	<string name="equipment.chest.int.1a">Simple Robe</string>
+	<string name="equipment.chest.int.2a">Silken Garb</string>
+	<string name="equipment.chest.int.3a">Gilded Robe</string>
+	<string name="equipment.chest.int.4a">Grandiose Robe</string>
+
+	<string name="equipment.head.str.1a">Iron Cap</string>
+	<string name="equipment.head.str.2a">Steel Helmet</string>
+	<string name="equipment.head.str.3a">Great Helm</string>
+	<string name="equipment.head.str.4a">Crusader Sallet</string>
+	<string name="equipment.head.dex.1a">Cloth Cap</string>
+	<string name="equipment.head.dex.1b">Simple Mask</string>
+	<string name="equipment.head.dex.2a">Leather Hood</string>
+	<string name="equipment.head.dex.2b">Bandit Mask</string>
+	<string name="equipment.head.dex.2c">Bandit Mask</string>
+	<string name="equipment.head.dex.3a">Elven Cowl</string>
+	<string name="equipment.head.dex.3b">Bandana</string>
+	<string name="equipment.head.dex.3c">Feathered Cap</string>
+	<string name="equipment.head.dex.4a">Dark Cowl</string>
+	
+	<string name="equipment.head.int.1a">Simple Cap</string>
+	<string name="equipment.head.int.1b">Simple Circlet</string>
+	<string name="equipment.head.int.2a">Apprentice Hat</string>
+	<string name="equipment.head.int.2b">Silver Circlet</string>
+	<string name="equipment.head.int.3a">Adept Hat</string>
+	<string name="equipment.head.int.3b">Jeweled Circlet</string>
+	<string name="equipment.head.int.4a">Grand Hat</string>
+	<string name="equipment.head.int.4b">Golden Circlet</string>
+
+	<string name="equipment.hands.str.1a">Iron Gauntlets</string>
+	<string name="equipment.hands.str.2a">Plated Gauntlets</string>
+	<string name="equipment.hands.str.3a">Gilded Gauntlets</string>
+	<string name="equipment.hands.str.4a">Golden Gauntlets</string>
+	<string name="equipment.hands.dex.1a">Leather Bracers</string>
+	<string name="equipment.hands.dex.2a">Studded Bracers</string>
+	<string name="equipment.hands.dex.3a">Noble Bracers</string>
+	<string name="equipment.hands.dex.4a">Wyrmscale Bracers</string>
+	<string name="equipment.hands.int.1a">Cloth Gloves</string>
+	<string name="equipment.hands.int.2a">Velvet Gloves</string>
+	<string name="equipment.hands.int.3a">Ornate Gloves</string>
+	<string name="equipment.hands.int.4a">Opulent Gloves</string>
+
+	<string name="equipment.feet.str.1a">Iron Greaves</string>
+	<string name="equipment.feet.str.2a">Plate Greaves</string>
+	<string name="equipment.feet.str.3a">Imperial Greaves</string>
+	<string name="equipment.feet.str.4a">Dragonbone Greaves</string>
+	<string name="equipment.feet.dex.1a">Hide Boots</string>
+	<string name="equipment.feet.dex.2a">Leather Boots</string>
+	<string name="equipment.feet.dex.3a">Noble Boots</string>
+	<string name="equipment.feet.dex.4a">Flamboyant Boots</string>
+	<string name="equipment.feet.int.1a">Cloth Slippers</string>
+	<string name="equipment.feet.int.2a">Velvet Slippers</string>
+	<string name="equipment.feet.int.3a">Ornate Slippers</string>
+	<string name="equipment.feet.int.4a">Royal Slippers</string>
+
+	<string name="equipment.back.2a">Cape</string>
+	<string name="equipment.back.2b">Cloak</string>
+	<string name="equipment.back.4a">Regal Cape</string>
+	<string name="equipment.back.4b">Grandiose Cloak</string>
+
+
+</lang>
