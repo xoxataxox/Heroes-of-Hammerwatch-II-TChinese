@@ -32,7 +32,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>dialogue.lang</td>
-        <td>❌未完成</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>equipment.lang</td>
