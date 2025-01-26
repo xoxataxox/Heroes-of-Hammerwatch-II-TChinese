@@ -79,7 +79,7 @@
 	<string name="skills.desc.params.damage.armor">每護甲傷害：</string>
 
 	<string name="skills.desc.params.attack_speed">攻擊速度：</string>
-	<string name="skills.desc.params.weapon_speed">武器速度：</string>
+	<string name="skills.desc.params.weapon_speed">武器攻度：</string>
 	<string name="skills.desc.params.cast_speed">施法速度：</string>
 	<string name="skills.desc.params.skill_speed">技能速度：</string>
 	<string name="skills.desc.params.spell_cost">魔力消耗：</string>
@@ -151,7 +151,7 @@
 	<string name="skills.desc.params.stacks.dex">每層敏捷：</string>
 	<string name="skills.desc.params.stacks.int">每層智力：</string>
 	<string name="skills.desc.params.stacks.attack_speed">每層攻擊速度：</string>
-	<string name="skills.desc.params.stacks.weapon_speed">每層攻擊速度：</string>
+	<string name="skills.desc.params.stacks.weapon_speed">每層武器攻速：</string>
 	<string name="skills.desc.params.stacks.cast_speed">每層施法速度：</string>
 	<string name="skills.desc.params.stacks.crit.weapon">每層武器暴擊率：</string>
 	<string name="skills.desc.params.stacks.crit.spell">每層法術暴擊率：</string>
