@@ -46,7 +46,7 @@
 	<string name="trinket.mana_stone.name">魔力石</string>
 	<string name="trinket.mana_stone.desc">擊殺時有 %chance%% 機率恢復 %num% 魔力</string>
 	<string name="trinket.markhams_purse.name">馬克姆的錢包</string>
-	<string name="trinket.markhams_purse.desc">背包中每件首飾增加 %num%% 金幣獲取</string>
+	<string name="trinket.markhams_purse.desc">背包中每件飾品增加 %num%% 金幣獲取</string>
 	<string name="trinket.protective_charm.name">防護符咒</string>
 	<string name="trinket.protective_charm.desc">-%num%% 受到的傷害</string>
 	<string name="trinket.ring_health.name">生命戒指</string>
@@ -90,7 +90,7 @@
 	<string name="trinket.maggot_gland.name">蛆蟲腺體</string>
 	<string name="trinket.maggot_gland.desc">每 %cd% 秒向隨機附近敵人吐出一團酸液，造成 %dmg% 毒素範圍傷害</string>
 	<string name="trinket.markhams_stone.name">馬克姆之石</string>
-	<string name="trinket.markhams_stone.desc">背包中每件首飾增加 %num%% 木材、石材和鐵獲取</string>
+	<string name="trinket.markhams_stone.desc">背包中每件飾品增加 %num%% 木材、石材和鐵獲取</string>
 	<string name="trinket.pendant_prowess.name">技藝吊墜</string>
 	<string name="trinket.pendant_prowess.desc">+%num%% 法術傷害</string>
 	<string name="trinket.rabbits_foot.name">兔腳</string>
@@ -160,11 +160,11 @@
 	<string name="trinket.kyras_quiver.name">凱拉的箭袋</string>
 	<string name="trinket.kyras_quiver.desc">每秒有 %chns%% 機率向隨機敵人發射一支魔法箭，造成 %dmg% 物理傷害。</string>
 	<string name="trinket.markhams_amulet.name">馬克姆的護符</string>
-	<string name="trinket.markhams_amulet.desc">背包中每件首飾增加 %num% 生命值與魔力。</string>
+	<string name="trinket.markhams_amulet.desc">背包中每件飾品增加 %num% 生命值與魔力。</string>
 	<string name="trinket.markhams_mace.name">馬克姆的錘矛</string>
-	<string name="trinket.markhams_mace.desc">背包中每件首飾增加 %num% 攻擊力。</string>
+	<string name="trinket.markhams_mace.desc">背包中每件飾品增加 %num% 攻擊力。</string>
 	<string name="trinket.markhams_wand.name">馬克姆的魔杖</string>
-	<string name="trinket.markhams_wand.desc">背包中每件首飾增加 %num% 法術威力。</string>
+	<string name="trinket.markhams_wand.desc">背包中每件飾品增加 %num% 法術威力。</string>
 	<string name="trinket.scroll_dashing.name">迅捷卷軸</string>
 	<string name="trinket.scroll_dashing.desc">消耗 %num% 魔力恢復一次衝刺充能。</string>
 	<string name="trinket.scroll_earth.name">地震卷軸</string>
@@ -248,8 +248,8 @@
 	<string name="trinket.set.crawling_critters.2">+%num%% 毒素傷害</string>
 	<string name="trinket.set.crawling_critters.4">+%num%% 召喚物傷害</string>
 	<string name="trinket.set.markhams_mastery.name">馬克姆專精</string>
-	<string name="trinket.set.markhams_mastery.3">背包中每件首飾增加 %num% 護甲和抗性</string>
-	<string name="trinket.set.markhams_mastery.5">背包中每件首飾增加 %num%% 武器速度和施法速度</string>
+	<string name="trinket.set.markhams_mastery.3">背包中每件飾品增加 %num% 護甲和抗性</string>
+	<string name="trinket.set.markhams_mastery.5">背包中每件飾品增加 %num%% 武器速度和施法速度</string>
 	<string name="trinket.set.rings_resistance.name">抗性戒指</string>
 	<string name="trinket.set.rings_resistance.2">每級增加 %num% 所有抗性</string>
 
