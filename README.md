@@ -60,6 +60,8 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
 </table>
 
+下載教學：點擊右上角的綠色按鈕"Code"，點擊最下面的Download Zip。
+
 使用方式：將Github內tchinese資料夾的"所有"檔案放置於steam\steamapps\common\Heroes of Hammerwatch 2\res\language\tchinese內，若language內無tchinese就自行建立資料夾後放入。開遊戲在選項的語言選擇TChinese後需要重開遊戲才會生效。
 
 補充：打開控制台(~鍵)後輸入"save g_multiplayer_limit 99"即可將多人遊戲人數上限設為99
