@@ -772,62 +772,62 @@
 	<string name="skills.warlock.mastery_1.desc"></string>
 
 	<string name="skills.warlock.mastery_1.spell_1.name">惡魔仆從</string>
-	<string name="skills.warlock.mastery_1.spell_1.desc">透過消耗堆疊的 \cb0dfff精華\d 來使用法術召喚惡魔。惡魔會攻擊附近的敵人，造成物理傷害。</string>
-	<string name="skills.warlock.mastery_1.spell_1.up1.name">Infernal Fiends</string>
-	<string name="skills.warlock.mastery_1.spell_1.up1.desc">Your fiends deal additional Fire damage and gain the ability to spew fireballs at their targets.</string>
-	<string name="skills.warlock.mastery_1.spell_1.up2.name">Explosive Demise</string>
-	<string name="skills.warlock.mastery_1.spell_1.up2.desc">Your fiends explode upon death, dealing Physical damage in a small area.</string>
+	<string name="skills.warlock.mastery_1.spell_1.desc">透過消耗堆疊的 \cb0dfff精華\d 來使用法術召喚惡魔仆從。惡魔仆從會攻擊附近的敵人，造成物理傷害。</string>
+	<string name="skills.warlock.mastery_1.spell_1.up1.name">地獄惡魔</string>
+	<string name="skills.warlock.mastery_1.spell_1.up1.desc">惡魔仆從造成額外火焰傷害，並獲得向目標發射火球的能力。</string>
+	<string name="skills.warlock.mastery_1.spell_1.up2.name">爆炸末日</string>
+	<string name="skills.warlock.mastery_1.spell_1.up2.desc">惡魔仆從死亡時會爆炸，對小範圍內造成物理傷害。</string>
 	<string name="skills.warlock.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.warlock.mastery_1.passive_1.name">Gargoyle Servant</string>
-	<string name="skills.warlock.mastery_1.passive_1.desc">Passively summons a gargoyle to fight by your side. The gargoyle attacks enemies with its claws and trident, dealing Physical damage.</string>
-	<string name="skills.warlock.mastery_1.passive_1.up1.name">Flaming Strikes</string>
-	<string name="skills.warlock.mastery_1.passive_1.up1.desc">Your gargoyle deals additional Fire damage with its claws.</string>
-	<string name="skills.warlock.mastery_1.passive_1.up2.name">Lightning Trident</string>
-	<string name="skills.warlock.mastery_1.passive_1.up2.desc">Your gargoyle's trident now continously zap enemies for additional Lightning damage.</string>
+	<string name="skills.warlock.mastery_1.passive_1.name">石像鬼僕從</string>
+	<string name="skills.warlock.mastery_1.passive_1.desc">被動召喚一隻石像鬼為你作戰。石像鬼使用爪子和三叉戟攻擊敵人，造成物理傷害。</string>
+	<string name="skills.warlock.mastery_1.passive_1.up1.name">燃燒打擊</string>
+	<string name="skills.warlock.mastery_1.passive_1.up1.desc">石像鬼的爪擊造成額外火焰傷害。</string>
+	<string name="skills.warlock.mastery_1.passive_1.up2.name">雷電三叉戟</string>
+	<string name="skills.warlock.mastery_1.passive_1.up2.desc">石像鬼的三叉戟會持續對敵人造成額外的閃電傷害。</string>
 	<string name="skills.warlock.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.warlock.mastery_2.name">Souls</string>
+	<string name="skills.warlock.mastery_2.name">靈魂使者</string>
 	<string name="skills.warlock.mastery_2.desc"></string>
 
-	<string name="skills.warlock.mastery_2.spell_1.name">Soul Vortex</string>
-	<string name="skills.warlock.mastery_2.spell_1.desc">You conjure a swirling vortex of soul energy around you, dealing Physical and Poison damage to all enemies in the area.</string>
-	<string name="skills.warlock.mastery_2.spell_1.up1.name">Lightning Vortex</string>
-	<string name="skills.warlock.mastery_2.spell_1.up1.desc">The vortex now continously trigger bolts of lightning to randomly strike the area around you, dealing additional Lightning damage.</string>
-	<string name="skills.warlock.mastery_2.spell_1.up2.name">Vortex Shroud</string>
-	<string name="skills.warlock.mastery_2.spell_1.up2.desc">You gain Evasion for the duration of the spell.</string>
+	<string name="skills.warlock.mastery_2.spell_1.name">靈魂漩渦</string>
+	<string name="skills.warlock.mastery_2.spell_1.desc">召喚一個靈魂能量漩渦環繞你，對範圍內的敵人造成物理與毒素傷害。</string>
+	<string name="skills.warlock.mastery_2.spell_1.up1.name">閃電漩渦</string>
+	<string name="skills.warlock.mastery_2.spell_1.up1.desc">漩渦持續觸發閃電隨機打擊範圍內敵人，造成額外雷電傷害。</string>
+	<string name="skills.warlock.mastery_2.spell_1.up2.name">漩渦幕障</string>
+	<string name="skills.warlock.mastery_2.spell_1.up2.desc">法術持續期間你獲得閃避加成。</string>
 	<string name="skills.warlock.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.warlock.mastery_2.passive_1.name">Soul Shaper</string>
-	<string name="skills.warlock.mastery_2.passive_1.desc">As long as you have stacks of \cb0dfffEssence\d your Mainhand Weapon attacks unleash a soul projectile towards a random nearby enemy, dealing Mainhand damage.</string>
-	<string name="skills.warlock.mastery_2.passive_1.up1.name">Soul Cleave</string>
-	<string name="skills.warlock.mastery_2.passive_1.up1.desc">The projectiles gain a chance to explode for additional damage. This effect has a short cooldown.</string>
-	<string name="skills.warlock.mastery_2.passive_1.up2.name">Relentless Souls</string>
-	<string name="skills.warlock.mastery_2.passive_1.up2.desc">The projectiles jumps to additional targets on hit.</string>
+	<string name="skills.warlock.mastery_2.passive_1.name">靈魂塑造者</string>
+	<string name="skills.warlock.mastery_2.passive_1.desc">只要你有 \cb0dfff精華\d 堆疊，主手武器的攻擊將釋放靈魂投射物，攻擊隨機的附近敵人並造成主手武器傷害。</string>
+	<string name="skills.warlock.mastery_2.passive_1.up1.name">靈魂裂擊</string>
+	<string name="skills.warlock.mastery_2.passive_1.up1.desc">投射物有機會爆炸造成額外傷害，此效果有短暫冷卻時間。</string>
+	<string name="skills.warlock.mastery_2.passive_1.up2.name">無情靈魂</string>
+	<string name="skills.warlock.mastery_2.passive_1.up2.desc">投射物在擊中後可跳向額外目標。</string>
 	<string name="skills.warlock.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.warlock.mastery_3.name">Chaos</string>
+	<string name="skills.warlock.mastery_3.name">混沌使者</string>
 	<string name="skills.warlock.mastery_3.desc"></string>
 
-	<string name="skills.warlock.mastery_3.spell_1.name">Chaos Blade</string>
-	<string name="skills.warlock.mastery_3.spell_1.desc">You conjure a magical blade to slash the area in front of you, dealing Physical and Lightning damage.</string>
-	<string name="skills.warlock.mastery_3.spell_1.up1.name">Blade Arcs</string>
-	<string name="skills.warlock.mastery_3.spell_1.up1.desc">The spell now also unleashes a number of projectiles in arc in front of you.</string>
-	<string name="skills.warlock.mastery_3.spell_1.up2.name">Rupture</string>
-	<string name="skills.warlock.mastery_3.spell_1.up2.desc">The blade slash now inflict stacks of \cb0dfffBleeding\d.</string>
+	<string name="skills.warlock.mastery_3.spell_1.name">混沌之刃</string>
+	<string name="skills.warlock.mastery_3.spell_1.desc">召喚一把魔法之刃斬擊前方，對敵人造成物理與閃電傷害。</string>
+	<string name="skills.warlock.mastery_3.spell_1.up1.name">刀鋒弧線</string>
+	<string name="skills.warlock.mastery_3.spell_1.up1.desc">法術現在同時釋放數個投射物，呈弧線飛向前方。</string>
+	<string name="skills.warlock.mastery_3.spell_1.up2.name">撕裂</string>
+	<string name="skills.warlock.mastery_3.spell_1.up2.desc">刀刃斬擊對敵人附加 \cb0dfff流血\d 堆疊。</string>
 	<string name="skills.warlock.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_3.spell_1.up3.desc"></string>
 	
-	<string name="skills.warlock.mastery_3.passive_1.name">Chaos Rifts</string>
-	<string name="skills.warlock.mastery_3.passive_1.desc">Casting a \cffdfb0Spell\d spawns a rift that deals Physical and Lightning damage to nearby enemies. Rifts spawned close to each other create streams of energy between them, dealing additional damage.</string>
-	<string name="skills.warlock.mastery_3.passive_1.up1.name">Chaos Reaper</string>
-	<string name="skills.warlock.mastery_3.passive_1.up1.desc">Killing an enemy has a chance to spawn a rift. This effect has a short cooldown.</string>
-	<string name="skills.warlock.mastery_3.passive_1.up2.name">Rift Blade</string>
-	<string name="skills.warlock.mastery_3.passive_1.up2.desc">Hits with \cb0dfffChaos Blade\d gains a chance to spawn a rift. This effect has a short cooldown.</string>
+	<string name="skills.warlock.mastery_3.passive_1.name">混沌裂隙</string>
+	<string name="skills.warlock.mastery_3.passive_1.desc">施放 \cffdfb0法術\d 時生成裂隙，對周圍敵人造成物理與閃電傷害。彼此靠近的裂隙間形成能量流，造成額外傷害。</string>
+	<string name="skills.warlock.mastery_3.passive_1.up1.name">混沌收割者</string>
+	<string name="skills.warlock.mastery_3.passive_1.up1.desc">擊殺敵人時有機會生成裂隙，此效果有短暫冷卻時間。</string>
+	<string name="skills.warlock.mastery_3.passive_1.up2.name">裂隙之刃 </string>
+	<string name="skills.warlock.mastery_3.passive_1.up2.desc">使用 \cb0dfff混沌之刃\d 擊中時有機會生成裂隙，此效果有短暫冷卻時間。</string>
 	<string name="skills.warlock.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_3.passive_1.up3.desc"></string>
 
@@ -841,105 +841,105 @@
 	<!-- Warrior -->
 
 
-	<string name="skills.warrior.spell_1.name">Whirling Axes</string>
-	<string name="skills.warrior.spell_1.desc">You throw two spinning axes that deal Physical damage to all enemies in their paths.</string>
-	<string name="skills.warrior.spell_1.up1.name">Revolving Axes</string>
-	<string name="skills.warrior.spell_1.up1.desc">The axes now returns to you after a period.</string>
-	<string name="skills.warrior.spell_1.up2.name">Burning Axes</string>
-	<string name="skills.warrior.spell_1.up2.desc">The axes deal additional Fire damage.</string>
-	<string name="skills.warrior.spell_1.up3.name">Culling Axes</string>
-	<string name="skills.warrior.spell_1.up3.desc">The axes gain a chance to instantly kill an enemy on \cb0dfffLow Life\d. Does not work on Bosses.</string>
+	<string name="skills.warrior.spell_1.name">旋轉飛斧</string>
+	<string name="skills.warrior.spell_1.desc">你投擲兩把旋轉的斧頭，對路徑上的所有敵人造成物理傷害。</string>
+	<string name="skills.warrior.spell_1.up1.name">飛斧迴旋</string>
+	<string name="skills.warrior.spell_1.up1.desc">投擲的飛斧會在一段時間後回到你身邊。</string>
+	<string name="skills.warrior.spell_1.up2.name">燃燒飛斧</string>
+	<string name="skills.warrior.spell_1.up2.desc">飛斧造成額外的火焰傷害。</string>
+	<string name="skills.warrior.spell_1.up3.name">斬首飛斧</string>
+	<string name="skills.warrior.spell_1.up3.desc">飛斧有機會斬殺 \cb0dfff低血量\d 的敵人，但對Boss無效</string>
 
-	<string name="skills.warrior.spell_2.name">War Cry</string>
-	<string name="skills.warrior.spell_2.desc">You and all allies in the area gain a buff that increases Weapon and Movement Speed for a period.</string>
-	<string name="skills.warrior.spell_2.up1.name">Intimidating Cry</string>
-	<string name="skills.warrior.spell_2.up1.desc">Enemies around you are inflicted by \cb0dfffWeakness\d when casting War Cry.</string>
-	<string name="skills.warrior.spell_2.up2.name">Second Wind</string>
-	<string name="skills.warrior.spell_2.up2.desc">You regain a portion of your Health when casting War Cry.</string>
-	<string name="skills.warrior.spell_2.up3.name">Battle Cry</string>
-	<string name="skills.warrior.spell_2.up3.desc">You gain stacks of \cb0dfffKilling Spree\d for each enemy around you when casting War Cry.</string>
+	<string name="skills.warrior.spell_2.name">戰吼</string>
+	<string name="skills.warrior.spell_2.desc">你和範圍內的盟友獲得武器與移動速度的增益效果，持續一段時間。</string>
+	<string name="skills.warrior.spell_2.up1.name">恐嚇戰吼</string>
+	<string name="skills.warrior.spell_2.up1.desc">施放戰吼時，周圍敵人會被施加 \cb0dfff虛弱\d 。</string>
+	<string name="skills.warrior.spell_2.up2.name">第二次呼吸</string>
+	<string name="skills.warrior.spell_2.up2.desc">施放戰吼時回復部分生命。</string>
+	<string name="skills.warrior.spell_2.up3.name">戰鬥吶喊</string>
+	<string name="skills.warrior.spell_2.up3.desc">每個範圍內的敵人都會在施放戰吼時為你提供 \cb0dfff殺戮狂歡\d 堆疊。</string>
 
-	<string name="skills.warrior.passive_1.name">Warrior's Constitution</string>
-	<string name="skills.warrior.passive_1.desc">Increases your Health and Poison Resistance.</string>
-	<string name="skills.warrior.passive_1.up1.name">Combat Training</string>
-	<string name="skills.warrior.passive_1.up1.desc">You deal increased damage with \cffdfb0Melee\d skills.</string>
-	<string name="skills.warrior.passive_1.up2.name">Toughness</string>
-	<string name="skills.warrior.passive_1.up2.desc">You take less damage.</string>
-	<string name="skills.warrior.passive_1.up3.name">Mighty Strength</string>
-	<string name="skills.warrior.passive_1.up3.desc">Increases your Armor Penetration.</string>
+	<string name="skills.warrior.passive_1.name">戰士體質</string>
+	<string name="skills.warrior.passive_1.desc">增加生命與毒素抗性。</string>
+	<string name="skills.warrior.passive_1.up1.name">戰鬥訓練</string>
+	<string name="skills.warrior.passive_1.up1.desc">你使用 \cffdfb0近戰\d 技能造成的傷害提高。</string>
+	<string name="skills.warrior.passive_1.up2.name">堅韌</string>
+	<string name="skills.warrior.passive_1.up2.desc">你受到的傷害更少。</string>
+	<string name="skills.warrior.passive_1.up3.name">強韌力量</string>
+	<string name="skills.warrior.passive_1.up3.desc">提升護甲穿透。</string>
 
-	<string name="skills.warrior.passive_2.name">Killing Spree</string>
-	<string name="skills.warrior.passive_2.desc">You gain stacks of \cb0dfffKilling Spree\d by killing enemies. Each stack increases your damage. You lose all stacks at once if the duration runs out.</string>
-	<string name="skills.warrior.passive_2.up1.name">Brutality</string>
-	<string name="skills.warrior.passive_2.up1.desc">Each stack now also grants Weapon and Spell Crit Chance.</string>
-	<string name="skills.warrior.passive_2.up2.name">Killer Physique</string>
-	<string name="skills.warrior.passive_2.up2.desc">Each stack increases your Health Regen.</string>
-	<string name="skills.warrior.passive_2.up3.name">Dauntless</string>
-	<string name="skills.warrior.passive_2.up3.desc">\cffdfb0Melee\d hits against \cb0dfffBosses\d and \cb0dfffElites\d gain a chance to add stacks of \cb0dfffKilling Spree\d.</string>
+	<string name="skills.warrior.passive_2.name">殺戮狂歡</string>
+	<string name="skills.warrior.passive_2.desc">擊殺敵人後獲得 \cb0dfff殺戮狂歡\d 堆疊，每層堆疊增加傷害。如果持續時間結束將會失去所有堆疊。</string>
+	<string name="skills.warrior.passive_2.up1.name">殘暴</string>
+	<string name="skills.warrior.passive_2.up1.desc">每層堆疊額外增加武器與法術的暴擊率。</string>
+	<string name="skills.warrior.passive_2.up2.name">殺手體魄</string>
+	<string name="skills.warrior.passive_2.up2.desc">每層堆疊增加生命值回復。</string>
+	<string name="skills.warrior.passive_2.up3.name">大膽</string>
+	<string name="skills.warrior.passive_2.up3.desc">\cffdfb0近戰\d 擊中 \cb0dfffBoss\d 與 \cb0dfff精英\d 時，有機會增加 \cb0dfff殺戮狂歡\d 堆疊。</string>
 
 	
 	
 	
-	<string name="skills.warrior.mastery_1.name">Berserker</string>
+	<string name="skills.warrior.mastery_1.name">狂戰士</string>
 	<string name="skills.warrior.mastery_1.desc"></string>
 
-	<string name="skills.warrior.mastery_1.spell_1.name">Leap</string>
-	<string name="skills.warrior.mastery_1.spell_1.desc">You leap towards the target location, landing with a slam dealing Physical damage and inflicting \cb0dfffStun\d to enemies in the area.</string>
-	<string name="skills.warrior.mastery_1.spell_1.up1.name">Trembling Impact</string>
-	<string name="skills.warrior.mastery_1.spell_1.up1.desc">After landing you set off a series of tremors that erupt after a short delay, dealing additional Physical damage.</string>
-	<string name="skills.warrior.mastery_1.spell_1.up2.name">Fiery Leap</string>
-	<string name="skills.warrior.mastery_1.spell_1.up2.desc">You ignite the ground at the location form where you leap and land, dealing Fire damage for period of time.</string>
+	<string name="skills.warrior.mastery_1.spell_1.name">跳躍</string>
+	<string name="skills.warrior.mastery_1.spell_1.desc">跳躍至目標地點，落地時以衝擊波對範圍內敵人造成物理傷害，並附加 \cb0dfff暈眩\d。</string>
+	<string name="skills.warrior.mastery_1.spell_1.up1.name">震動衝擊</string>
+	<string name="skills.warrior.mastery_1.spell_1.up1.desc">落地後引發一連串延遲爆發的震動，造成額外的物理傷害。</string>
+	<string name="skills.warrior.mastery_1.spell_1.up2.name">火焰跳躍</string>
+	<string name="skills.warrior.mastery_1.spell_1.up2.desc">在跳躍起點與落地地點點燃地面，對範圍內敵人持續造成火焰傷害。</string>
 	<string name="skills.warrior.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.warrior.mastery_1.passive_1.name">Rage</string>
-	<string name="skills.warrior.mastery_1.passive_1.desc">Taking damage will grant you a temporary \cb0dfffRage\d buff for a period, increasing your Crit Chance and Crit Damage with \cffdfb0Physical\d skills.</string>
-	<string name="skills.warrior.mastery_1.passive_1.up1.name">Unyielding Rage</string>
-	<string name="skills.warrior.mastery_1.passive_1.up1.desc">You automatically gain rage when on \cb0dfffLow Life\d, you also take less damage when on \cb0dfffLow Life\d.</string>
-	<string name="skills.warrior.mastery_1.passive_1.up2.name">Furious Cry</string>
-	<string name="skills.warrior.mastery_1.passive_1.up2.desc">You gain \cb0dfffRage\d when casting \cb0dfffWar Cry\d. Your cooldowns are also reduced during \cb0dfffRage\d.</string>
+	<string name="skills.warrior.mastery_1.passive_1.name">狂怒</string>
+	<string name="skills.warrior.mastery_1.passive_1.desc">承受傷害時獲得 \cb0dfff狂怒\d 增益，暫時提升 \cffdfb0物理\d 技能的暴擊率與暴擊傷害。</string>
+	<string name="skills.warrior.mastery_1.passive_1.up1.name">不屈狂怒</string>
+	<string name="skills.warrior.mastery_1.passive_1.up1.desc">當處於 \cb0dfff低血量\d 時，會自動獲得狂怒，並減少所受傷害。</string>
+	<string name="skills.warrior.mastery_1.passive_1.up2.name">狂怒戰吼</string>
+	<string name="skills.warrior.mastery_1.passive_1.up2.desc">使用 \cb0dfff戰吼\d 時獲得 \cb0dfff狂怒\ ，且 \cb0dfff狂怒\ 期間技能冷卻時間縮短。</string>
 	<string name="skills.warrior.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.warrior.mastery_2.name">Primalist</string>
+	<string name="skills.warrior.mastery_2.name">原始者</string>
 	<string name="skills.warrior.mastery_2.desc"></string>
 
-	<string name="skills.warrior.mastery_2.spell_1.name">Ancient Totems</string>
-	<string name="skills.warrior.mastery_2.spell_1.desc">You place a totem at the target location that deals Physical damage to nearby enemies for a period.</string>
-	<string name="skills.warrior.mastery_2.spell_1.up1.name">Shock Totems</string>
-	<string name="skills.warrior.mastery_2.spell_1.up1.desc">The totems periodically shock nearby enemies dealing Lightning damage. If the totems are placed close to eachother they create barriers of lightning between them dealing additional damage.</string>
-	<string name="skills.warrior.mastery_2.spell_1.up2.name">Frostbite Totems</string>
-	<string name="skills.warrior.mastery_2.spell_1.up2.desc">Changes the damage type to Ice and gains a chance to inflict \cb0dfffFreeze\d.</string>
+	<string name="skills.warrior.mastery_2.spell_1.name">古老圖騰</string>
+	<string name="skills.warrior.mastery_2.spell_1.desc">在目標地點放置圖騰，持續對周圍敵人造成物理傷害。</string>
+	<string name="skills.warrior.mastery_2.spell_1.up1.name">震擊圖騰</string>
+	<string name="skills.warrior.mastery_2.spell_1.up1.desc">圖騰定期震擊周圍敵人，造成雷電傷害。相鄰圖騰間產生閃電屏障，對穿過的敵人造成額外傷害。</string>
+	<string name="skills.warrior.mastery_2.spell_1.up2.name">霜凍圖騰</string>
+	<string name="skills.warrior.mastery_2.spell_1.up2.desc">圖騰的傷害類型轉換為冰冷傷害，並有機會施加 \cb0dfff冰凍\d。</string>
 	<string name="skills.warrior.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.warrior.mastery_2.passive_1.name">Tremor Strikes</string>
-	<string name="skills.warrior.mastery_2.passive_1.desc">Your \cffdfb0Melee Weapon\d attacks causes tremors around you dealing Physical damage in the area. This effect has a short cooldown.</string>
-	<string name="skills.warrior.mastery_2.passive_1.up1.name">Tempest Strikes</string>
-	<string name="skills.warrior.mastery_2.passive_1.up1.desc">Your \cffdfb0Melee Weapon\d hits gain a chance to deal additional Lightning damage to the target and a random different nearby enemy.</string>
-	<string name="skills.warrior.mastery_2.passive_1.up2.name">Glacial Strikes</string>
-	<string name="skills.warrior.mastery_2.passive_1.up2.desc">Your \cffdfb0Melee Weapon\d hits gain a chance to trigger a small explosion dealing additional Ice damage. This effect has a short cooldown.</string>
+	<string name="skills.warrior.mastery_2.passive_1.name">震動打擊</string>
+	<string name="skills.warrior.mastery_2.passive_1.desc">使用 \cffdfb0近戰武器\d 攻擊時引發震動波，對範圍內敵人造成物理傷害，此效果有短暫冷卻時間。</string>
+	<string name="skills.warrior.mastery_2.passive_1.up1.name">暴風打擊</string>
+	<string name="skills.warrior.mastery_2.passive_1.up1.desc">你的 \cffdfb0近戰武器\d 命中時，有機會對目標與周圍另一隨機敵人造成額外雷電傷害。</string>
+	<string name="skills.warrior.mastery_2.passive_1.up2.name">冰霜打擊</string>
+	<string name="skills.warrior.mastery_2.passive_1.up2.desc">你的 \cffdfb0近戰武器\d 命中時，有機會引發小型爆炸，造成額外冰冷傷害，此效果有短暫冷卻時間。</string>
 	<string name="skills.warrior.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.warrior.mastery_3.name">Tyrant</string>
+	<string name="skills.warrior.mastery_3.name">暴君</string>
 	<string name="skills.warrior.mastery_3.desc"></string>
 
-	<string name="skills.warrior.mastery_3.spell_1.name">Chains</string>
-	<string name="skills.warrior.mastery_3.spell_1.desc">You throw out chains all around you, dealing Physical damage and inflicting enemies with \cb0dfffCripple\d.</string>
-	<string name="skills.warrior.mastery_3.spell_1.up1.name">Barbed Chains</string>
-	<string name="skills.warrior.mastery_3.spell_1.up1.desc">The chains now inflict stacks of \cb0dfffBleeding\d.</string>
-	<string name="skills.warrior.mastery_3.spell_1.up2.name">Spiked Chains</string>
-	<string name="skills.warrior.mastery_3.spell_1.up2.desc">Spike projectiles are now released at the end of the chains.</string>
+	<string name="skills.warrior.mastery_3.spell_1.name">鎖鏈</string>
+	<string name="skills.warrior.mastery_3.spell_1.desc">向四周投擲鎖鏈，對敵人造成物理傷害並附加\cb0dfff跛足 \d 。</string>
+	<string name="skills.warrior.mastery_3.spell_1.up1.name">荊棘鎖鏈</string>
+	<string name="skills.warrior.mastery_3.spell_1.up1.desc">鎖鏈附加 \cb0dfff流血\d 堆疊。</string>
+	<string name="skills.warrior.mastery_3.spell_1.up2.name">尖刺鎖鏈 </string>
+	<string name="skills.warrior.mastery_3.spell_1.up2.desc">鎖鏈末端釋放尖刺投射物。</string>
 	<string name="skills.warrior.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_3.spell_1.up3.desc"></string>
 	
-	<string name="skills.warrior.mastery_3.passive_1.name">Ruthlessness</string>
-	<string name="skills.warrior.mastery_3.passive_1.desc">You deal increased Physical damage and your \cffdfb0Physical\d skills gain a chance to inflict stacks of \cb0dfffBleeding\d.</string>
-	<string name="skills.warrior.mastery_3.passive_1.up1.name">Exploding Gibs</string>
-	<string name="skills.warrior.mastery_3.passive_1.up1.desc">Killing enemies with \cffdfb0Physical\d skills have a chance to trigger an explosion of gibs dealing Physical damage in the area.</string>
-	<string name="skills.warrior.mastery_3.passive_1.up2.name">Slayer</string>
-	<string name="skills.warrior.mastery_3.passive_1.up2.desc">You deal increased damage to enemies based on their missing health.</string>
+	<string name="skills.warrior.mastery_3.passive_1.name">無情</string>
+	<string name="skills.warrior.mastery_3.passive_1.desc">你造成的物理傷害增加，並使 \cffdfb0物理\d 技能有機會附加 \cb0dfff流血\d 堆疊。</string>
+	<string name="skills.warrior.mastery_3.passive_1.up1.name">爆裂殘骸 </string>
+	<string name="skills.warrior.mastery_3.passive_1.up1.desc">使用 \cffdfb0物理\d 技能擊殺敵人時，有機會觸發爆裂效果，對範圍內敵人造成物理傷害。</string>
+	<string name="skills.warrior.mastery_3.passive_1.up2.name">屠殺者</string>
+	<string name="skills.warrior.mastery_3.passive_1.up2.desc">對敵人造成的傷害隨其損失的生命值增加。</string>
 	<string name="skills.warrior.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_3.passive_1.up3.desc"></string>
 
@@ -964,105 +964,105 @@
 
 	<!-- Wizard -->
 
-	<string name="skills.wizard.spell_1.name">Magic Missiles</string>
-	<string name="skills.wizard.spell_1.desc">Discharges several magic missiles that seek out nearby enemies and deal Physical damage on impact.</string>
-	<string name="skills.wizard.spell_1.up1.name">Missile Barrage</string>
-	<string name="skills.wizard.spell_1.up1.desc">Fires additional projectiles per cast.</string>
-	<string name="skills.wizard.spell_1.up2.name">Rebounding Missiles</string>
-	<string name="skills.wizard.spell_1.up2.desc">The projectiles gain the ability to jump to additional targets on hit.</string>
-	<string name="skills.wizard.spell_1.up3.name">Concussive Impacts</string>
-	<string name="skills.wizard.spell_1.up3.desc">The projectiles gain a chance to inflict \cb0dfffStun\d.</string>
+	<string name="skills.wizard.spell_1.name">魔法飛彈</string>
+	<string name="skills.wizard.spell_1.desc">發射多枚魔法飛彈，尋找附近的敵人並在命中時造成物理傷害。</string>
+	<string name="skills.wizard.spell_1.up1.name">飛彈齊射</string>
+	<string name="skills.wizard.spell_1.up1.desc">每次施放時發射額外的飛彈。</string>
+	<string name="skills.wizard.spell_1.up2.name">反彈飛彈</string>
+	<string name="skills.wizard.spell_1.up2.desc">飛彈命中後可跳至額外目標。</string>
+	<string name="skills.wizard.spell_1.up3.name">震盪衝擊</string>
+	<string name="skills.wizard.spell_1.up3.desc">飛彈有機會附加 \cb0dfff暈眩\d。</string>
 
-	<string name="skills.wizard.spell_2.name">Fireball</string>
-	<string name="skills.wizard.spell_2.desc">Unleash a fireball towards the targeted location that explodes dealing Fire damage.</string>
-	<string name="skills.wizard.spell_2.up1.name">Enhanced Fireball</string>
-	<string name="skills.wizard.spell_2.up1.desc">Increasese the size of the explosion.</string>
-	<string name="skills.wizard.spell_2.up2.name">Blastwave</string>
-	<string name="skills.wizard.spell_2.up2.desc">Enemies hit by the fireball are inflicted by \cb0dfffSlow\d.</string>
-	<string name="skills.wizard.spell_2.up3.name">Bouncing Fireball</string>
-	<string name="skills.wizard.spell_2.up3.desc">The fireball now bounces and triggers an explosion with each bounce.</string>
+	<string name="skills.wizard.spell_2.name">火球術</string>
+	<string name="skills.wizard.spell_2.desc">向目標地點發射一顆火球，爆炸後造成火焰傷害。</string>
+	<string name="skills.wizard.spell_2.up1.name">強化火球</string>
+	<string name="skills.wizard.spell_2.up1.desc">增加爆炸的範圍。</string>
+	<string name="skills.wizard.spell_2.up2.name">爆裂波</string>
+	<string name="skills.wizard.spell_2.up2.desc">被火球擊中的敵人會被施加 \cb0dfff緩速\d。</string>
+	<string name="skills.wizard.spell_2.up3.name">彈跳火球</string>
+	<string name="skills.wizard.spell_2.up3.desc">現在火球可彈跳，並於每次彈跳後觸發爆炸。</string>
 
-	<string name="skills.wizard.passive_1.name">Arcane Intellect</string>
-	<string name="skills.wizard.passive_1.desc">Increases your Mana and Intelligence.</string>
-	<string name="skills.wizard.passive_1.up1.name">Savant</string>
-	<string name="skills.wizard.passive_1.up1.desc">Reduces your spell cooldowns.</string>
-	<string name="skills.wizard.passive_1.up2.name">Arcane Weaponry</string>
-	<string name="skills.wizard.passive_1.up2.desc">You deal increased damage with \cffdfb0Arcane\d weapons.</string>
-	<string name="skills.wizard.passive_1.up3.name">Learning</string>
-	<string name="skills.wizard.passive_1.up3.desc">Increases your Experience Gain.</string>
+	<string name="skills.wizard.passive_1.name">奧術智慧</string>
+	<string name="skills.wizard.passive_1.desc">增加魔力與智力。</string>
+	<string name="skills.wizard.passive_1.up1.name">博學</string>
+	<string name="skills.wizard.passive_1.up1.desc">減少法術冷卻時間。</string>
+	<string name="skills.wizard.passive_1.up2.name">奧術武器</string>
+	<string name="skills.wizard.passive_1.up2.desc">你使用 \cffdfb0奧術\d 武器造成的傷害增加。</string>
+	<string name="skills.wizard.passive_1.up3.name">學習</string>
+	<string name="skills.wizard.passive_1.up3.desc">增加經驗獲取量。</string>
 
-	<string name="skills.wizard.passive_2.name">Barrier</string>
-	<string name="skills.wizard.passive_2.desc">You generate protective stacks of \cb0dfffBarrier\d over time. When taking damage a stack is expended, lowering the damage taken.</string>
-	<string name="skills.wizard.passive_2.up1.name">Flame Shield</string>
-	<string name="skills.wizard.passive_2.up1.desc">Taking damage while having stacks of \cb0dfffBarrier\d ignites the air around yourself for a duration, dealing Fire damage to nearby enemies.</string>
-	<string name="skills.wizard.passive_2.up2.name">Frost Shell</string>
-	<string name="skills.wizard.passive_2.up2.desc">As long as you have stacks of \cb0dfffBarrier\d you have increased Armor and Ice Resistance. You also inflict \cb0dfffFreeze\d to any attackers.</string>
-	<string name="skills.wizard.passive_2.up3.name">Protective Warding</string>
-	<string name="skills.wizard.passive_2.up3.desc">Casting a \cffdfb0Spell\d gains a chance to generate stacks of Barrier. This effect has a short cooldown.</string>
+	<string name="skills.wizard.passive_2.name">屏障</string>
+	<string name="skills.wizard.passive_2.desc">隨時間獲得 \cb0dfff屏障\d 堆疊，受到傷害時消耗堆疊來降低受到的傷害。</string>
+	<string name="skills.wizard.passive_2.up1.name">火焰護盾</string>
+	<string name="skills.wizard.passive_2.up1.desc">在擁有 \cb0dfff屏障\d 堆疊時受到傷害，會引燃自身周圍的空氣，對附近敵人持續造成火焰傷害。</string>
+	<string name="skills.wizard.passive_2.up2.name">冰霜護殼</string>
+	<string name="skills.wizard.passive_2.up2.desc">在擁有 \cb0dfff屏障\d 堆疊時提升護甲與冰冷抗性，並使攻擊者被附加 \cb0dfff冰凍\d 。</string>
+	<string name="skills.wizard.passive_2.up3.name">保護結界</string>
+	<string name="skills.wizard.passive_2.up3.desc">施放 \cffdfb0法術\d 時，有機會獲得屏障堆疊，此效果有短暫冷卻時間。</string>
 
 
-	<string name="skills.wizard.mastery_1.name">Evocation</string>
+	<string name="skills.wizard.mastery_1.name">咒術師</string>
 	<string name="skills.wizard.mastery_1.desc"></string>
 
-	<string name="skills.wizard.mastery_1.spell_1.name">Meteor Shower</string>
-	<string name="skills.wizard.mastery_1.spell_1.desc">You summon meteors to fall in the area for a duration, dealing both Physical and Fire damage.</string>
-	<string name="skills.wizard.mastery_1.spell_1.up1.name">Burning Ground</string>
-	<string name="skills.wizard.mastery_1.spell_1.up1.desc">The meteors creates a an area of burning ground on impact, dealing additional Fire damage for a period.</string>
-	<string name="skills.wizard.mastery_1.spell_1.up2.name">Comet</string>
-	<string name="skills.wizard.mastery_1.spell_1.up2.desc">Changes the damage type to Ice and Physical, and gains a chance to inflict \cb0dfffFreeze\d.</string>
+	<string name="skills.wizard.mastery_1.spell_1.name">流星雨</string>
+	<string name="skills.wizard.mastery_1.spell_1.desc">召喚流星雨落下指定區域持續一段時間，造成物理與火焰傷害。</string>
+	<string name="skills.wizard.mastery_1.spell_1.up1.name">燃燒地面</string>
+	<string name="skills.wizard.mastery_1.spell_1.up1.desc">流星撞擊地面後產生燃燒區域，在一段時間內造成額外的火焰傷害。</string>
+	<string name="skills.wizard.mastery_1.spell_1.up2.name">彗星</string>
+	<string name="skills.wizard.mastery_1.spell_1.up2.desc">將傷害類型轉換為冰冷與物理傷害，並有機會施加 \cb0dfff冰凍\d。</string>
 	<string name="skills.wizard.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_1.spell_1.up3.desc"></string>
 
-	<string name="skills.wizard.mastery_1.passive_1.name">Incanter's Cadence</string>
-	<string name="skills.wizard.mastery_1.passive_1.desc">Casting \cffdfb0Spells\d generate stacks of \cb0dfffIncanter's Cadence\d. Each stack increases your Cast Speed and reduces the Mana Cost of spells.</string>
-	<string name="skills.wizard.mastery_1.passive_1.up1.name">Rising Crescendo</string>
-	<string name="skills.wizard.mastery_1.passive_1.up1.desc">Each stack of \cb0dfffIncanter's Cadence\d increases your Spell Crit Chance.</string>
-	<string name="skills.wizard.mastery_1.passive_1.up2.name">Incanter's Flow</string>
-	<string name="skills.wizard.mastery_1.passive_1.up2.desc">Each stack of Incanter's Cadence increases your Weapon Speed.</string>
+	<string name="skills.wizard.mastery_1.passive_1.name">咒術師的節奏</string>
+	<string name="skills.wizard.mastery_1.passive_1.desc">施放 \cffdfb0法術\d 時會生成 \cb0dfff咒術師的節奏\d 堆疊，每層堆疊增加施法速度並降低法術魔力消耗。</string>
+	<string name="skills.wizard.mastery_1.passive_1.up1.name">漸強</string>
+	<string name="skills.wizard.mastery_1.passive_1.up1.desc">每層 \cb0dfff咒術師的節奏\d 堆疊增加法術暴擊率。</string>
+	<string name="skills.wizard.mastery_1.passive_1.up2.name">咒術師的流動</string>
+	<string name="skills.wizard.mastery_1.passive_1.up2.desc">每層咒術師的節奏堆疊提升武器速度。</string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.desc"></string>
 
-	<string name="skills.wizard.mastery_2.name">Conjuration</string>
+	<string name="skills.wizard.mastery_2.name">召喚術師</string>
 	<string name="skills.wizard.mastery_2.desc"></string>
 
-	<string name="skills.wizard.mastery_2.spell_1.name">Conjure Hydras</string>
-	<string name="skills.wizard.mastery_2.spell_1.desc">You conjure multiple hydra that spew fire at nearby enemies dealing Fire damage.</string>
-	<string name="skills.wizard.mastery_2.spell_1.up1.name">Greater Hydra</string>
-	<string name="skills.wizard.mastery_2.spell_1.up1.desc">You conjure additional hydra heads with each cast.</string>
-	<string name="skills.wizard.mastery_2.spell_1.up2.name">Frost Breath</string>
-	<string name="skills.wizard.mastery_2.spell_1.up2.desc">Changes damage type to Ice.</string>
+	<string name="skills.wizard.mastery_2.spell_1.name">召喚九頭蛇</string>
+	<string name="skills.wizard.mastery_2.spell_1.desc">召喚多個九頭蛇向附近敵人噴火，造成火焰傷害。</string>
+	<string name="skills.wizard.mastery_2.spell_1.up1.name">強化九頭蛇</string>
+	<string name="skills.wizard.mastery_2.spell_1.up1.desc">每次施放會召喚更多的九頭蛇頭。</string>
+	<string name="skills.wizard.mastery_2.spell_1.up2.name">冰霜吐息</string>
+	<string name="skills.wizard.mastery_2.spell_1.up2.desc">將傷害類型轉換為冰冷傷害。</string>
 	<string name="skills.wizard.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_2.spell_1.up3.desc"></string>
 
-	<string name="skills.wizard.mastery_2.passive_1.name">Animated Sword</string>
-	<string name="skills.wizard.mastery_2.passive_1.desc">You conjure a magical sword that follows you around at all times. The sword slashes at nearby enemies dealing Physical damage.</string>
-	<string name="skills.wizard.mastery_2.passive_1.up1.name">Flame Blade</string>
-	<string name="skills.wizard.mastery_2.passive_1.up1.desc">The sword is now engulfed in flames and continously deal Fire damage to nearby enemies.</string>
-	<string name="skills.wizard.mastery_2.passive_1.up2.name">Ice Blade</string>
-	<string name="skills.wizard.mastery_2.passive_1.up2.desc">The sword now deals Ice damage and gains a chance to inflict \cb0dfffFreeze\d.</string>
+	<string name="skills.wizard.mastery_2.passive_1.name">魔劍</string>
+	<string name="skills.wizard.mastery_2.passive_1.desc">召喚一把隨時跟隨你的魔劍，對附近敵人進行斬擊並造成物理傷害。</string>
+	<string name="skills.wizard.mastery_2.passive_1.up1.name">火焰劍</string>
+	<string name="skills.wizard.mastery_2.passive_1.up1.desc">魔劍被火焰覆蓋，持續對附近敵人造成火焰傷害。</string>
+	<string name="skills.wizard.mastery_2.passive_1.up2.name">冰霜劍</string>
+	<string name="skills.wizard.mastery_2.passive_1.up2.desc">魔劍改為造成冰冷傷害，並有機會施加 \cb0dfff冰凍\d 。</string>
 	<string name="skills.wizard.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.wizard.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.wizard.mastery_3.name">Transmutation</string>
+	<string name="skills.wizard.mastery_3.name">變換術師</string>
 	<string name="skills.wizard.mastery_3.desc"></string>
 
-	<string name="skills.wizard.mastery_3.spell_1.name">Haste</string>
-	<string name="skills.wizard.mastery_3.spell_1.desc">You gain a temporary buff that increases your Weapon, Cast and Movement Speed.</string>
-	<string name="skills.wizard.mastery_3.spell_1.up1.name">Blur</string>
-	<string name="skills.wizard.mastery_3.spell_1.up1.desc">You also gain Evasion for the duration of the buff.</string>
-	<string name="skills.wizard.mastery_3.spell_1.up2.name">Temporal Shift</string>
-	<string name="skills.wizard.mastery_3.spell_1.up2.desc">For the duration of the buff you inflict nearby enemies with \cb0dfffSlow\d.</string>
+	<string name="skills.wizard.mastery_3.spell_1.name">加速</string>
+	<string name="skills.wizard.mastery_3.spell_1.desc">獲得一個臨時增益，增加武器、施法與移動速度。</string>
+	<string name="skills.wizard.mastery_3.spell_1.up1.name">模糊</string>
+	<string name="skills.wizard.mastery_3.spell_1.up1.desc">同時在持續時間內提升閃避率。</string>
+	<string name="skills.wizard.mastery_3.spell_1.up2.name">時間轉移</string>
+	<string name="skills.wizard.mastery_3.spell_1.up2.desc">增益期間會對附近敵人施加 \cb0dfff緩速\d。</string>
 	<string name="skills.wizard.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_3.spell_1.up3.desc"></string>
 	
-	<string name="skills.wizard.mastery_3.passive_1.name">Enhanced Physique</string>
-	<string name="skills.wizard.mastery_3.passive_1.desc">Grants additional Strength, Dexterity and Intelligence per character level.</string>
-	<string name="skills.wizard.mastery_3.passive_1.up1.name">Enhanced Strength</string>
-	<string name="skills.wizard.mastery_3.passive_1.up1.desc">Grants Spell Power per Strength.</string>
-	<string name="skills.wizard.mastery_3.passive_1.up2.name">Enhanced Dexterity</string>
-	<string name="skills.wizard.mastery_3.passive_1.up2.desc">Grants Spell Power per Dexterity.</string>
-	<string name="skills.wizard.mastery_3.passive_1.up3.name">Free Movement</string>
-	<string name="skills.wizard.mastery_3.passive_1.up3.desc">You gain immunity to \cb0dfffSlow\d and \cb0dfffCripple\d.</string>
+	<string name="skills.wizard.mastery_3.passive_1.name">強化體魄</string>
+	<string name="skills.wizard.mastery_3.passive_1.desc">根據每等角色等級額外提升力量、敏捷與智力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up1.name">強化力量</string>
+	<string name="skills.wizard.mastery_3.passive_1.up1.desc">根據每點力量額外增加法術威力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up2.name">強化敏捷</string>
+	<string name="skills.wizard.mastery_3.passive_1.up2.desc">根據每點敏捷額外增加法術威力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up3.name">自由移動</string>
+	<string name="skills.wizard.mastery_3.passive_1.up3.desc">獲得 \cb0dfff緩速\d  與 \cb0dfff跛足\d 免疫。</string>
 
 
 
