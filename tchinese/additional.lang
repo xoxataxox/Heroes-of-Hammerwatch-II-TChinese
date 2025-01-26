@@ -160,7 +160,7 @@
 	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
 	<string name="item.meal.sizzling_essence_tea.name">熾熱精華茶</string>
-	<string name="item.meal.sizzling_essence_tea.desc">%amount% 法術消耗與冷卻時間。法力恢復設為 0，持續 %dur% 分鐘</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% 魔力消耗與冷卻時間。法力恢復降為 0，持續 %dur% 分鐘</string>
 
 	<string name="item.map_bb.name">黑洞峽谷地圖</string>
 	<string name="item.map_bb.desc">黑洞峽谷地區的地圖</string>
@@ -184,7 +184,7 @@
 	<string name="skills.warlock.mainhand.up1.desc">靈魂投射物在命中後會自動追蹤新的目標。每命中一個敵人，傷害會降低</string>
 	<string name="modifiers.misc.experience.desc">%desc%% 經驗值增益</string>
 
-	<string name="item.meal.raging_behemoth.desc">%amount% 傷害。 %amount2% 法術消耗與冷卻時間，持續 %dur% 分鐘</string>
+	<string name="item.meal.raging_behemoth.desc">%amount% 傷害。 %amount2% 魔力消耗與冷卻時間，持續 %dur% 分鐘</string>
 	<string name="item.meal.ghost_jam.desc">%amount% 閃避。護甲與火焰抗性設為 0，持續 %dur% 分鐘</string>
 	<string name="item.meal.pancakes.desc">%amount% 經驗值增益與 %amount2% 移動速度提升，持續 %dur% 分鐘</string>
 	<string name="item.meal.summer_city_platter.desc">%amount% 全屬性提升，持續 %dur% 分鐘</string>

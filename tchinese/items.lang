@@ -14,7 +14,7 @@
 	<string name="trinket.amulet_health.name">生命護符</string>
 	<string name="trinket.amulet_health.desc">+%num% 生命值</string>
 	<string name="trinket.amulet_mana.name">魔力護符</string>
-	<string name="trinket.amulet_mana.desc">+%num% 魔力值</string>
+	<string name="trinket.amulet_mana.desc">+%num% 魔力</string>
 	<string name="trinket.apothecarys_antidote.name">藥劑師的解毒劑</string>
 	<string name="trinket.apothecarys_antidote.desc">+%num% 毒素抗性</string>
 	<string name="trinket.apothecarys_tincture.name">藥劑師的藥水</string>
@@ -31,20 +31,20 @@
 	<string name="trinket.focus_crystal_lesser.desc">+%num%% 法術暴擊率</string>
 	<string name="trinket.gambeson.name">護甲外套</string>
 	<string name="trinket.gambeson.desc">+%num% 護甲</string>
-	<string name="trinket.gemstone_fire.name">注入黃玉</string>
+	<string name="trinket.gemstone_fire.name">注能黃玉</string>
 	<string name="trinket.gemstone_fire.desc">+%res% 火焰抗性\n+%pen% 火焰穿透</string>
-	<string name="trinket.gemstone_ice.name">注入海藍寶石</string>
+	<string name="trinket.gemstone_ice.name">注能海藍寶石</string>
 	<string name="trinket.gemstone_ice.desc">+%res% 冰冷抗性\n+%pen% 冰冷穿透</string>
-	<string name="trinket.gemstone_lightning.name">注入紫水晶</string>
+	<string name="trinket.gemstone_lightning.name">注能紫水晶</string>
 	<string name="trinket.gemstone_lightning.desc">+%res% 閃電抗性\n+%pen% 閃電穿透</string>
-	<string name="trinket.gemstone_poison.name">注入橄欖石</string>
+	<string name="trinket.gemstone_poison.name">注能橄欖石</string>
 	<string name="trinket.gemstone_poison.desc">+%res% 毒素抗性\n+%pen% 毒素穿透</string>
 	<string name="trinket.hallowed_bone.name">聖化骨頭</string>
 	<string name="trinket.hallowed_bone.desc">+%num%% 對不死生物的傷害</string>
 	<string name="trinket.life_stone.name">生命石</string>
 	<string name="trinket.life_stone.desc">擊殺時有 %chance%% 機率恢復 %num% 生命值</string>
 	<string name="trinket.mana_stone.name">魔力石</string>
-	<string name="trinket.mana_stone.desc">擊殺時有 %chance%% 機率恢復 %num% 魔力值</string>
+	<string name="trinket.mana_stone.desc">擊殺時有 %chance%% 機率恢復 %num% 魔力</string>
 	<string name="trinket.markhams_purse.name">馬克姆的錢包</string>
 	<string name="trinket.markhams_purse.desc">背包中每件首飾增加 %num%% 金幣獲取</string>
 	<string name="trinket.protective_charm.name">防護符咒</string>
@@ -68,7 +68,7 @@
 	<string name="trinket.apothecarys_flask.name">藥劑師的藥瓶</string>
 	<string name="trinket.apothecarys_flask.desc">+%num% 藥水充能</string>
 	<string name="trinket.amulet_vigor_greater.name">強效活力護符</string>
-	<string name="trinket.amulet_vigor_greater.desc">+%num% 生命值和魔力值</string>
+	<string name="trinket.amulet_vigor_greater.desc">+%num% 生命值和魔力</string>
 	<string name="trinket.belt_brute.name">野蠻人腰帶</string>
 	<string name="trinket.belt_brute.desc">+%hp%% 生命值\n+%dmg%% 物理傷害</string>
 	<string name="trinket.chain_undershirt.name">鎖甲內衣</string>
@@ -102,7 +102,7 @@
 	<string name="trinket.ring_speed_greater.name">強效速度戒指</string>
 	<string name="trinket.ring_speed_greater.desc">+%mov%% 移動速度\n+%wpn%% 武器速度</string>
 	<string name="trinket.scroll_magic_missile.name">魔法飛彈卷軸</string>
-	<string name="trinket.scroll_magic_missile.desc">消耗 %mana% 魔力值時，向隨機附近敵人發射魔法飛彈，造成 %dmg% 物理傷害</string>
+	<string name="trinket.scroll_magic_missile.desc">消耗 %mana% 魔力時，向隨機附近敵人發射魔法飛彈，造成 %dmg% 物理傷害</string>
 	<string name="trinket.searing_torch.name">熾熱火炬</string>
 	<string name="trinket.searing_torch.desc">施放法術時向隨機附近敵人投擲火炬，造成 %dmg% 火焰範圍傷害。此效果有 %cd% 秒冷卻時間</string>
 	<string name="trinket.skull_talisman.name">骷髏護符</string>
@@ -160,7 +160,7 @@
 	<string name="trinket.kyras_quiver.name">凱拉的箭袋</string>
 	<string name="trinket.kyras_quiver.desc">每秒有 %chns%% 機率向隨機敵人發射一支魔法箭，造成 %dmg% 物理傷害。</string>
 	<string name="trinket.markhams_amulet.name">馬克姆的護符</string>
-	<string name="trinket.markhams_amulet.desc">背包中每件首飾增加 %num% 生命值與魔力值。</string>
+	<string name="trinket.markhams_amulet.desc">背包中每件首飾增加 %num% 生命值與魔力。</string>
 	<string name="trinket.markhams_mace.name">馬克姆的錘矛</string>
 	<string name="trinket.markhams_mace.desc">背包中每件首飾增加 %num% 攻擊力。</string>
 	<string name="trinket.markhams_wand.name">馬克姆的魔杖</string>
@@ -211,7 +211,7 @@
 	<string name="trinket.arctic_step.desc">移動時在地面留下霜凍區域，造成 %dmg% 冰冷傷害</string>
 
 	<!-- Sets -->
-	<string name="trinket.set.gemstones.name">注入寶石</string>
+	<string name="trinket.set.gemstones.name">注能寶石</string>
 	<string name="trinket.set.gambeson.2">+%num%% 傷害</string>
 	<string name="trinket.set.gambeson.4">+%num%% 所有抗性</string>
 	<string name="trinket.set.scavengers_tools.name">拾荒者工具</string>
@@ -227,7 +227,7 @@
 	<string name="trinket.set.rings_recovery.name">恢復戒指</string>
 	<string name="trinket.set.rings_recovery.2">+%num%% 生命與魔力回復</string>
 	<string name="trinket.set.amulets_life.name">生命護符</string>
-	<string name="trinket.set.amulets_life.2">+%num%% 生命值與魔力值</string>
+	<string name="trinket.set.amulets_life.2">+%num%% 生命值與魔力</string>
 	<string name="trinket.set.soldiers_uniform.name">士兵制服</string>
 	<string name="trinket.set.soldiers_uniform.3">+%num%% 招架</string>
 	<string name="trinket.set.soldiers_uniform.4">+%num%% 武器暴擊率</string>

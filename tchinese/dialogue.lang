@@ -35,7 +35,7 @@
 	<string name="tutorial.forest.start2">為了幫助導航，你可以打開覆蓋地圖，或在選項中啟用永久小地圖</string>
 	<string name="tutorial.forest.end1">你可以查看背包來看看這次探索收集到了什麼</string>
 	<string name="tutorial.forest.end2">許多物品如飾品、技能升級和增益效果是暫時的，任務結束後就會消失。\n而裝備、經驗、金錢和材料等是永久的，不會失去</string>
-	<string name="tutorial.forest.potion1">藥劑師會給你一瓶藥水，你可以在戰鬥中使用它來恢復生命值和魔力值</string>
+	<string name="tutorial.forest.potion1">藥劑師會給你一瓶藥水，你可以在戰鬥中使用它來恢復生命值和魔力</string>
 	<string name="tutorial.forest.potion2">按下 %PotionBind% 使用藥水</string>
 	<string name="tutorial.forest.potion3">你的藥水只有一次使用機會，但可以在水井處補充</string>
 	<string name="tutorial.forest.finish">記得與NPC交談，有時他們會有多句話要說，持續按下 %UseBind% 直到對話結束</string>
@@ -44,10 +44,10 @@
 
 
 
-	<string name="dialogue.mercenary.join1">我們會加入你的任務！</string>
-	<string name="dialogue.mercenary.join2">我們回應你的呼喚！</string>
-	<string name="dialogue.mercenary.archon.join1">請帶路！</string>
-	<string name="dialogue.mercenary.archon.join2">你前進，我們跟隨！</string>
+	<string name="dialogue.mercenary.join1">我們會全力以赴完成任務！</string>
+	<string name="dialogue.mercenary.join2">為了榮耀，我們應召而來！</string>
+	<string name="dialogue.mercenary.archon.join1">帶我們一同征戰吧！</string>
+	<string name="dialogue.mercenary.archon.join2">您衝鋒在前，我們絕不退縮！</string>
 
 	<string name="dialogue.player.dark_citadel.locked">這一定就是黑暗堡壘了，不知道該如何進入</string>
 
@@ -66,7 +66,7 @@
 	<string name="upgrades.potion_health.name">生命藥水 %num%</string>
 	<string name="upgrades.potion_health.desc">藥水恢復 %to% 生命值，而非 %from%</string>
 	<string name="upgrades.potion_mana.name">魔力藥水 %num%</string>
-	<string name="upgrades.potion_mana.desc">藥水恢復 %to% 魔力值，而非 %from%</string>
+	<string name="upgrades.potion_mana.desc">藥水恢復 %to% 魔力，而非 %from%</string>
 	<string name="upgrades.poison_res.name">毒素抗性 %num%</string>
 	<string name="upgrades.poison_res.desc">+%gain% 毒素抗性</string>
 	
