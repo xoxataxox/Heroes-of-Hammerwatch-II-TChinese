@@ -243,7 +243,7 @@
 
 	<string name="mainmenu.abandon.confirm">你確定要放棄這次挑戰嗎？這將使你返回城鎮</string>
 	<string name="mainmenu.exitgame.confirm">你確定要退出遊戲嗎？</string>
-	<string name="mainmenu.exitgame.confirm_resume">你確定要退出遊戲嗎？你將可以在未來繼續此次挑戰/string>
+	<string name="mainmenu.exitgame.confirm_resume">你確定要退出遊戲嗎？你將可以在未來繼續此次挑戰</string>
 
 	<string name="mainmenu.profiles.delete.confirm">你確定要刪除 '%name%' 存檔嗎？此操作無法還原且永久刪除</string>
 	<string name="mainmenu.profiles.delete.confirm_cloud">你確定要刪除 '%name%' 雲端存檔嗎？此操作無法還原且永久刪除</string>
