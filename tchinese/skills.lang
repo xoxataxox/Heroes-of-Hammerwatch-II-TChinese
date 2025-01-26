@@ -98,7 +98,7 @@
 	<string name="skills.desc.params.leech.spell">法術生命吸取：</string>
 	<string name="skills.desc.params.leech.mana">魔力吸取：</string>
 
-	<string name="skills.desc.params.heal">Heal:</string>
+	<string name="skills.desc.params.heal">治療：</string>
 	<string name="skills.desc.params.restore.health.max">恢復生命值：</string>
 	<string name="skills.desc.params.restore.stamina.max">恢復體力：</string>
 
@@ -210,6 +210,12 @@
 	<string name="skills.desc.params.fiend.damage">惡魔傷害：</string>
 	<string name="skills.desc.params.frost_shards">冰霜碎片：</string>
 	<string name="skills.desc.params.meteors">隕石：</string>
+
+	<string name="skills.desc.params.max_placed">最大放置數量：</string>
+	<string name="skills.desc.params.end_damage">結束傷害：</string>
+	<string name="skills.desc.params.health_prc_per_stack">每層堆疊生命值百分比：</string>
+	<string name="skills.desc.params.mana_prc_per_stack">每層堆疊魔力值百分比：</string>
+
 
 
 
@@ -377,7 +383,7 @@
 	<string name="skills.paladin.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_2.passive_1.up3.desc"></string>
 
-	<string name="skills.paladin.mastery_3.name">Radiance</string>
+	<string name="skills.paladin.mastery_3.name">光輝</string>
 	<string name="skills.paladin.mastery_3.desc"></string>
 
 	<string name="skills.paladin.mastery_3.spell_1.name">焚燒</string>
@@ -394,7 +400,7 @@
 	<string name="skills.paladin.mastery_3.passive_1.up1.name">虔誠之焰</string>
 	<string name="skills.paladin.mastery_3.passive_1.up1.desc">每層 \cb0dfff內焰\d 為你的武器增加火焰傷害</string>
 	<string name="skills.paladin.mastery_3.passive_1.up2.name">火焰使者</string>
-	<string name="skills.paladin.mastery_3.passive_1.up2.desc">每層 \cb0d內焰\d 提升你的火焰抗性和火焰穿透</string>
+	<string name="skills.paladin.mastery_3.passive_1.up2.desc">每層 \cb0dfff內焰\d 提升你的火焰抗性和火焰穿透</string>
 	<string name="skills.paladin.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.paladin.mastery_3.passive_1.up3.desc"></string>
 
