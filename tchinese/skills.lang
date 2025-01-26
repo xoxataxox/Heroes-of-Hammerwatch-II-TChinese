@@ -418,7 +418,7 @@
 	<string name="skills.ranger.spell_1.up3.desc">對被 \cb0dfff標記\d 的 \cb0dfffBoss\d 和 \cb0dfff精英\d 敵人造成額外傷害</string>
 
 	<string name="skills.ranger.spell_2.name">陷阱</string>
-	<string name="skills.ranger.spell_2.desc">投擲一個陷阱，短暫延遲後部署。觸發時，陷阱對小範圍內的敵人造成物理傷害，並施加 \cb0dfff削弱\d</string>
+	<string name="skills.ranger.spell_2.desc">投擲一個陷阱，短暫延遲後部署。觸發時，陷阱對小範圍內的敵人造成物理傷害，並施加 \cb0dfff跛足\d</string>
 	<string name="skills.ranger.spell_2.up1.name">多重部署</string>
 	<string name="skills.ranger.spell_2.up1.desc">每次施放時部署額外的陷阱</string>
 	<string name="skills.ranger.spell_2.up2.name">鋸齒陷阱</string>
@@ -491,7 +491,7 @@
 	<string name="skills.ranger.mastery_3.desc"></string>
 
 	<string name="skills.ranger.mastery_3.spell_1.name">纏繞</string>
-	<string name="skills.ranger.mastery_3.spell_1.desc">你召喚根須在你周圍的大範圍內生長並持續一段時間，對範圍內敵人造成物理傷害，並施加 \cb0dfff削弱\d</string>
+	<string name="skills.ranger.mastery_3.spell_1.desc">你召喚根須在你周圍的大範圍內生長並持續一段時間，對範圍內敵人造成物理傷害，並施加 \cb0dfff跛足\d</string>
 	<string name="skills.ranger.mastery_3.spell_1.up1.name">治癒精靈</string>
 	<string name="skills.ranger.mastery_3.spell_1.up1.desc">根須生成的精靈會附著在進入範圍的盟友身上，持續恢復生命</string>
 	<string name="skills.ranger.mastery_3.spell_1.up2.name">毒藤</string>
