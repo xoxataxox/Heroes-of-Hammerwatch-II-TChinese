@@ -179,6 +179,7 @@
 	<string name="menu.player.char.inventory">背包</string>
 	<string name="menu.player.char.trinkets">飾品</string>
 	<string name="menu.player.char.equipment">裝備</string>
+	<string name="menu.player.char.equipment.destroy_confirm">你確定要銷毀「%name%」嗎？</string>
 	<string name="menu.player.char.materials">材料</string>
 	<string name="menu.player.char.materials.run">本次進度</string>
 	<string name="menu.player.char.materials.town">城鎮</string>
@@ -195,6 +196,19 @@
 	<string name="menu.player.mods.stats.penetration">穿透</string>
 	<string name="menu.player.mods.stats.multiplier">倍率</string>
 	<string name="menu.player.mods.stats.resources">資源</string>
+
+	<string name="menu.player.mods.stats.source.weapon_mastery">武器專精</string>
+	<string name="menu.player.mods.stats.source.base">基礎</string>
+	<string name="menu.player.mods.stats.source.picked">選擇</string>
+	<string name="menu.player.mods.stats.source.ngp">新遊戲+ %num%</string>
+	<string name="menu.player.mods.stats.source.accomplishments">成就</string>
+	<string name="menu.player.mods.stats.source.attributes">屬性</string>
+	<string name="menu.player.mods.stats.source.shadow_curse">%num% 暗影詛咒</string>
+	<string name="menu.player.mods.stats.source.locked">已鎖定</string>
+
+
+
+
 
 	<string name="menu.player.mods.effects.shadow_curse.name">暗影詛咒</string>
 	<string name="menu.player.mods.effects.shadow_curse.desc">降低護甲與抗性 %amnt-total%，每層 %amnt-stack%</string>
@@ -351,7 +365,7 @@
 	<string name="building.hunters_cabin.desc2">更多來自野獸的珍貴物品和生命</string>
 
 	<string name="building.library.name">圖書館</string>
-	<string name="building.library.desc1">解鎖普通飾品調整。更改你的combo技能</string>
+	<string name="building.library.desc1">解鎖普通飾品調整。更改你的連擊技能</string>
 	<string name="building.library.desc2">解鎖罕見飾品調整</string>
 	<string name="building.library.desc3">解鎖稀有飾品調整</string>
 
@@ -533,10 +547,10 @@
 	<string name="ui_draw_plr_names_real">真實玩家名稱</string>
 	<string name="ui_draw_plr_names_real.help">在多人遊戲中顯示真實玩家名稱，而非英雄名稱</string>
 
-	<string name="ui_txt_enemy_hurt_husk">遠端傷害數字</string>
-	<string name="ui_txt_enemy_hurt_husk.help">是否顯示其他玩家對敵人造成的傷害</string>
-	<string name="ui_txt_enemy_hurt_local">本地傷害數字</string>
-	<string name="ui_txt_enemy_hurt_local.help">是否顯示你對敵人造成的傷害</string>
+	<string name="ui_txt_enemy_hurt_husk">其他玩家傷害</string>
+	<string name="ui_txt_enemy_hurt_husk.help">顯示其他玩家造成的傷害數字</string>
+	<string name="ui_txt_enemy_hurt_local">個人傷害</string>
+	<string name="ui_txt_enemy_hurt_local.help">顯示自己造成的傷害數字</string>
 
 	<string name="ui_hud_loot_filter.show_all">顯示全部</string>
 	<string name="ui_hud_loot_filter.quest_only">僅任務物品</string>
@@ -851,7 +865,7 @@
 	<string name="blessing.speed.desc">%amnt% 移動速度</string>
 	<string name="blessing.speed.shrine.desc">%amnt% 移動速度，並增加衝刺加成</string>
 	<string name="blessing.light.name">光明的祝福</string>
-	<string name="blessing.light.desc">%amnt%  暗影詛咒獲得</string>
+	<string name="blessing.light.desc">%amnt% 暗影詛咒獲得</string>
 	<string name="blessing.mana.name">技巧的祝福</string>
 	<string name="blessing.mana.desc">%amnt% 魔力消耗</string>
 	<string name="blessing.mana.shrine.desc">技能不消耗魔力</string>
@@ -1105,7 +1119,7 @@
 
 	<!-- Stats -->
 	<string name="stat.icon.elites">\cb0dfff精英\d</string>
-	<string name="stat.name.elites">更強的敵人，其腳下有紅圈標記</string>
+	<string name="stat.name.elites">腳下有紅圈標記的強大敵人</string>
 	<string name="stat.icon.stun">\cb0dfff暈眩\d</string>
 	<string name="stat.name.stun">無法移動和使用技能，持續1.5秒</string>
 	<string name="stat.icon.slow">\cb0dfff緩速\d</string>
@@ -1398,7 +1412,7 @@
 	<string name="statistic.units-traveled">行進的距離</string>
 	<string name="statistic.exp-gained">獲得的經驗值</string>
 	<string name="statistic.shadow-curse-got">被暗影詛咒次數</string>
-	<string name="statistic.shadow-curse-removed">淨化的暗影詛咒次數</string>
+	<string name="statistic.shadow-curse-removed">淨化暗影詛咒次數</string>
 	<string name="statistic.collected-trinket-common">收集的普通飾品數</string>
 	<string name="statistic.collected-trinket-uncommon">收集的罕見飾品數</string>
 	<string name="statistic.collected-trinket-rare">收集的稀有飾品數</string>
