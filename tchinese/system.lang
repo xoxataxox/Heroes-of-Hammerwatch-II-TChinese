@@ -1109,7 +1109,7 @@
 	<!-- Hero Titles -->
 	<string name="htitle.paladin.desc">提供 %num% 護甲，每級增加 %num-per%</string>
 	<string name="htitle.ranger.desc">提供 %num% 攻擊力，每級增加 %num-per%</string>
-	<string name="htitle.rogue.desc">提供 %num%% 金幣增益，每級增加 %num-per%%</string>
+	<string name="htitle.rogue.desc">提供 %num%% 陷阱傷害減少，每級增加 %num-per%%</string>
 	<string name="htitle.sorcerer.desc">提供 %num% 魔力恢復，每級增加 %num-per%</string>
 	<string name="htitle.warlock.desc">提供 %num% 火焰、冰冷、閃電及毒素抗性，每級增加 %num-per%</string>
 	<string name="htitle.warrior.desc">提供 %num% 生命值，每級增加 %num-per%</string>
