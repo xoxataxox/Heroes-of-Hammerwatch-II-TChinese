@@ -316,8 +316,8 @@
 
 
 	<string name="mainmenu.host.privacy">你希望開放一個公開的大廳給所有人，還是僅限好友的私人大廳？</string>
-	<string name="mainmenu.host.privacy.yes">公開</string>
-	<string name="mainmenu.host.privacy.no">私人</string>
+	<string name="mainmenu.host.privacy.public">公開</string>
+	<string name="mainmenu.host.privacy.private">私人</string>
 
 
 	<string name="mainmenu.languages.restart-confirm">更改語言後你需要重啟遊戲！</string>
