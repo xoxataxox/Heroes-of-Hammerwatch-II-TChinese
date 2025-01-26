@@ -52,7 +52,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>⏳翻譯中(30%)(Third Patch版本)</td>
+        <td>✔️已完成(Third Patch版本)</td>
     </tr>
     <tr>
         <td>system.lang</td>
