@@ -18,7 +18,11 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
 
 目前我只有在RPG遊戲中常見的物品在翻譯描述時會特別留意，其他文本會在翻譯完畢後邊遊玩邊調整，但也有可能後續就不調整了。
 
-可以在Github上或Steam指南上回報，Steam指南：https://steamcommunity.com/sharedfiles/filedetails/?id=3411822620
+可以在Github上或Steam指南、工作坊上回報。
+
+Steam 指南：https://steamcommunity.com/sharedfiles/filedetails/?id=3411822620
+
+Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
 
 目前翻譯進度：~~在遊戲能正常顯示繁體中文的版本釋出前會慢慢翻譯~~，笑死，技能部分根本翻不完。
 
