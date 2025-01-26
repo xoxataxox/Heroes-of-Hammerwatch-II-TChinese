@@ -1178,9 +1178,9 @@
 	<string name="stat.icon.armor">\"icn-res-phys"</string>
 	<string name="stat.name.armor">護甲</string>
 	<string name="stat.icon.resistancefire">\"icn-res-fire"</string>
-	<string name="stat.name.resistancefire">火焰傷害</string>
+	<string name="stat.name.resistancefire">火焰抗性</string>
 	<string name="stat.icon.resistanceice">\"icn-res-ice"</string>
-	<string name="stat.name.resistanceice">冰冷傷害</string>
+	<string name="stat.name.resistanceice">冰冷抗性</string>
 	<string name="stat.icon.resistancelightning">\"icn-res-lightn"</string>
 	<string name="stat.name.resistancelightning">閃電抗性</string>
 	<string name="stat.icon.resistancepoison">\"icn-res-poison"</string>
