@@ -2,10 +2,6 @@
 
 該文本基於遊戲發售日(2025/01/15)所發布的版本製作
 
-~~備註：menus、skills、system，這三個檔案的文本在Third Patch中有更新，新增的文本尚未翻譯~~
-
-備註更新：skills以基於Third Patch的版本翻譯，system已更新翻譯完畢，menus尚未翻譯
-
 道具及裝備名稱及部分文本不會特別依遊戲內容作潤色，所以物品圖示跟名稱有可能對不上，該遊戲的某些系統可能會翻錯，麻煩再回報給我。
 
 如果遊戲中的部分文本有覺得有更好的翻譯的話可以提供給我，我有空的話可以更新上去。
@@ -18,7 +14,7 @@ Steam 指南：https://steamcommunity.com/sharedfiles/filedetails/?id=3411822620
 
 Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
 
-目前翻譯進度：~~在遊戲能正常顯示繁體中文的版本釋出前會慢慢翻譯~~，笑死，技能部分根本翻不完。
+目前翻譯進度：僅剩skills.lang需要對應Fifth Patch做調整
 
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
@@ -28,7 +24,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>additional.lang</td>
-        <td>✔️已完成(遊戲發布時版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>dialogue.lang</td>
@@ -36,7 +32,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>equipment.lang</td>
-        <td>✔️已完成(遊戲發布時版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>input.lang</td>
@@ -44,7 +40,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>items.lang</td>
-        <td>✔️已完成(遊戲發布時版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>menus.lang</td>
@@ -56,7 +52,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>system.lang</td>
-        <td>✔️已完成(Third Patch版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
 </table>
 
