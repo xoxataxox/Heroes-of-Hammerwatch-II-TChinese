@@ -20,7 +20,50 @@
 	<string name="menu.no">否</string>
 	<string name="menu.ok">確定</string>
 	<string name="menu.cancel">取消</string>
+	<string name="menu.back">返回</string>
 	<string name="menu.cost">\"icn-money" %amount%</string>
+
+	<string name="menu.nav.select">選擇</string>
+	<string name="menu.nav.create">創建</string>
+	<string name="menu.nav.refresh">刷新</string>
+	<string name="menu.nav.start">開始</string>
+	<string name="menu.nav.ready">準備</string>
+	<string name="menu.nav.unready">取消準備</string>
+	<string name="menu.nav.ngp+">新遊戲+</string>
+	<string name="menu.nav.ngp-">新遊戲-</string>
+	<string name="menu.nav.bind">綁定</string>
+	<string name="menu.nav.save">儲存</string>
+	<string name="menu.nav.revert">還原</string>
+	<string name="menu.nav.reset">重置</string>
+	<string name="menu.nav.delete">刪除</string>
+	<string name="menu.nav.compare">比較</string>
+	<string name="menu.nav.unequip">卸下</string>
+	<string name="menu.nav.equip">裝備</string>
+	<string name="menu.nav.compare">比較</string>
+	<string name="menu.nav.destroy">銷毀</string>
+	<string name="menu.nav.pan">平移</string>
+	<string name="menu.nav.zoom_in">放大</string>
+	<string name="menu.nav.zoom_out">縮小</string>
+	<string name="menu.nav.buy">購買</string>
+	<string name="menu.nav.apply">套用</string>
+	<string name="menu.nav.revert">還原</string>
+	<string name="menu.nav.prev_class">上一個職業</string>
+	<string name="menu.nav.next_class">下一個職業</string>
+	<string name="menu.nav.random_name">隨機名稱</string>
+	<string name="menu.nav.test_voice">測試語音</string>
+	<string name="menu.nav.random_appear">隨機外觀</string>
+	<string name="menu.nav.back_town">返回城鎮</string>
+	<string name="menu.nav.new_save">新存檔</string>
+	<string name="menu.nav.stash_config">倉庫設定</string>
+	<string name="menu.nav.switch">切換</string>
+	<string name="menu.nav.new_char">新角色</string>
+	<string name="menu.nav.deposit">存入</string>
+	<string name="menu.nav.withdraw">取出</string>
+	<string name="menu.nav.deposit_to">存入至'%to%'</string>
+
+
+
+
 
 	<string name="misc.timeletters.hours">時</string>
 	<string name="misc.timeletters.minutes">分</string>
@@ -110,12 +153,12 @@
 	<string name="menu.guild.statistics.char">角色</string>
 	<string name="menu.guild.statistics.total">總計</string>
 	<string name="menu.guild.accomplishments">成就</string>
-	<string name="menu.guild.accomplishments.info">獎勵加成會適用於所有角色</string>
+	<string name="menu.guild.accomplishments.info">獎勵加成適用於所有角色</string>
 	<string name="menu.guild.accomplishments.awarded">已獲得：</string>
 	<string name="menu.guild.itemiary">飾品</string>
 	<string name="menu.guild.itemiary.empty">找到飾品以填滿此清單</string>
 	<string name="menu.guild.titles">稱號</string>
-	<string name="menu.guild.titles.info">稱號加成會適用於所有角色</string>
+	<string name="menu.guild.titles.info">稱號加成適用於所有角色</string>
 	
 	
 	<string name="menu.enchanter.no_equipment">你沒有可附魔的裝備</string>
@@ -190,7 +233,7 @@
 	<string name="menu.loadout.starting_mission">開始\n%mission%</string>
 	<string name="menu.loadout.alterations">更改</string>
 	<string name="menu.loadout.numready">%ready%/%total% 已準備好！!</string>
-	<string name="menu.loadout.waiting_num">等待 %num% 位玩家.</string>
+	<string name="menu.loadout.waiting_num">正在等待 %num% 位玩家</string>
 	<string name="menu.loadout.waiting_plrs">等待 %players%</string>
 	<string name="menu.loadout.ngp">New Game+ %ngp%</string>
 
@@ -218,7 +261,11 @@
 	<string name="menu.player_stash.deposit">存入</string>
 	<string name="menu.player_stash.new_tab">新標籤</string>
 	<string name="menu.player_stash.rename">重命名</string>
+	<string name="menu.player_stash.rename_tab">為你的標籤輸入新名稱：</string>
 	<string name="menu.player_stash.delete">刪除</string>
+	<string name="menu.player_stash.delete_tab">你確定要刪除標籤「%name%」嗎？</string>
+	<string name="menu.player_stash.delete_tab_empty">標籤必須清空才能刪除。</string>
+
 
 
 
@@ -277,9 +324,9 @@
 	<string name="building.architect.desc2">解鎖更多效果並降低同時應用多個效果的費用</string>
 
 	<string name="building.blacksmith.name">鐵匠</string>
-	<string name="building.blacksmith.desc1">解鎖盔甲和武器升級</string>
-	<string name="building.blacksmith.desc2">更好的盔甲和武器升級，並允許你升級單個裝備部件</string>
-	<string name="building.blacksmith.desc3">更好的盔甲和武器升級，並且裝備升級費用更便宜</string>
+	<string name="building.blacksmith.desc1">解鎖裝備和武器升級</string>
+	<string name="building.blacksmith.desc2">更好的裝備和武器升級，並允許你升級單個裝備部件</string>
+	<string name="building.blacksmith.desc3">更好的裝備和武器升級，並且裝備升級費用更便宜</string>
 
 	<string name="building.chapel.name">教堂</string>
 	<string name="building.chapel.desc1">為神所設的房屋，讓你能在一輪遊戲中選擇兩個祝福\n\n-5% 復活費用</string>
@@ -367,20 +414,20 @@
 	<string name="architect.toppled_towers.name">倒塌的塔樓</string>
 	<string name="architect.toppled_towers.desc">塔樓被摧毀</string>
 	<string name="architect.fewer_enemies.name">防禦薄弱</string>
-	<string name="architect.fewer_enemies.desc">關卡中的敵人較少</string>
+	<string name="architect.fewer_enemies.desc">減少關卡中的敵人</string>
 	<string name="architect.safe_corridors.name">安全走廊</string>
-	<string name="architect.safe_corridors.desc">走廊中的陷阱已停用</string>
+	<string name="architect.safe_corridors.desc">停用走廊中的陷阱</string>
 	<string name="architect.gentle_traps.name">溫和陷阱</string>
 	<string name="architect.gentle_traps.desc">陷阱造成的傷害減少 50%</string>
 	<string name="architect.fewer_elites.name">訓練不足</string>
-	<string name="architect.fewer_elites.desc">關卡中的精英敵人較少</string>
+	<string name="architect.fewer_elites.desc">減少關卡中的精英敵人</string>
 	<string name="architect.more_pyre.name">聖潔之焰</string>
 	<string name="architect.more_pyre.desc">增加找到祭壇的機會</string>
 	<string name="architect.more_treasury.name">尋寶</string>
 	<string name="architect.more_treasury.desc">增加找到財寶室的機會</string>
 	<string name="architect.material_farmer.name">資源狂熱</string>
 	<string name="architect.material_farmer.desc">將飾品寶箱替換為資源補給箱，經驗卷軸替換為材料</string>
-	<string name="architect.insta_revive.name">快速修復</string>
+	<string name="architect.insta_revive.name">快速恢復</string>
 	<string name="architect.insta_revive.desc">將多人遊戲中復活他人的時間縮短為 0</string>
 
 
@@ -447,8 +494,8 @@
 	<string name="g_txt_enemy_heal.help">顯示敵人的治療文本</string>
 	<string name="g_txt_enemy_immortal">敵人無敵</string>
 	<string name="g_txt_enemy_immortal.help">顯示敵人免疫傷害文本</string>
-	<string name="g_txt_plr_armor">玩家裝甲</string>
-	<string name="g_txt_plr_armor.help">顯示玩家撿取裝甲的文本</string>
+	<string name="g_txt_plr_armor">玩家護甲</string>
+	<string name="g_txt_plr_armor.help">顯示玩家撿取護甲的文本</string>
 	<string name="g_txt_plr_ammo">玩家彈藥</string>
 	<string name="g_txt_plr_ammo.help">顯示玩家撿取彈藥的文本</string>
 	<string name="g_txt_pickup">玩家撿取</string>
@@ -724,6 +771,7 @@
 	<string name="menu.lobby.leave.prompt">你確定要離開大廳嗎？</string>
 	<string name="menu.lobby.close_lobby">關閉大廳</string>
 	<string name="menu.lobby.close_lobby.confirm">你確定嗎？這將踢出任何連接到你遊戲的玩家。</string>
+	<string name="menu.lobby.kick_player.confirm">確定要將玩家「%name%」踢出遊戲嗎？</string>
 
 	<string name="menu.lobby.chat.isjoined">%name% 已加入</string>
 	<string name="menu.lobby.chat.isleft">%name% 已離開</string>
