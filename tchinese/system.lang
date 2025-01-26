@@ -344,7 +344,7 @@
 
 	<string name="building.guild_hall.name">公會大廳</string>
 	<string name="building.guild_hall.desc1">升級城鎮，解鎖更多建築。</string>
-	<string name="building.guild_hall.desc3">升級城鎮，解鎖更多建築\n\n解鎖 class masteries.</string>
+	<string name="building.guild_hall.desc3">升級城鎮，解鎖更多建築\n\n解鎖職業大師</string>
 
 	<string name="building.hunters_cabin.name">獵人小屋</string>
 	<string name="building.hunters_cabin.desc1">甲蟲、狼和野豬掉落鱗片、皮毛和肉類。野獸會提供珍貴物品和生命</string>
@@ -361,7 +361,7 @@
 	<string name="building.magic_shop.desc2">解鎖更多魔法升級\n\n解鎖更多技能球供選擇</string>
 	<string name="building.magic_shop.desc3">解鎖更多魔法升級</string>
 
-	<string name="building.pyre.name">祭壇</string>
+	<string name="building.pyre.name">火堆</string>
 	<string name="building.pyre.desc1">-20% 暗影詛咒增益</string>
 
 	<string name="building.tailor.name">裁縫師</string>
@@ -379,14 +379,14 @@
 	<string name="building.training_grounds.name">訓練場</string>
 	<string name="building.training_grounds.desc1">訓練玩家技能\n\n解鎖體育技能升級</string>
 	<string name="building.training_grounds.desc2">解鎖更多體育技能升級</string>
-	<string name="building.training_grounds.desc3">解鎖更多體育技能升級\n\n解鎖 weapon masteries.</string>
+	<string name="building.training_grounds.desc3">解鎖更多體育技能升級\n\n解鎖武器大師。</string>
 
 
 
 
 
 	<string name="building.tier">階級 %tier%</string>
-	<string name="building.build.new">新建</string>
+	<string name="building.build.new">新建建築</string>
 	<string name="building.build.upgrade">升級至階級 %num%</string>
 
 
@@ -422,7 +422,7 @@
 	<string name="architect.fewer_elites.name">訓練不足</string>
 	<string name="architect.fewer_elites.desc">減少關卡中的精英敵人</string>
 	<string name="architect.more_pyre.name">聖潔之焰</string>
-	<string name="architect.more_pyre.desc">增加找到祭壇的機會</string>
+	<string name="architect.more_pyre.desc">增加找到火堆的機會</string>
 	<string name="architect.more_treasury.name">尋寶</string>
 	<string name="architect.more_treasury.desc">增加找到財寶室的機會</string>
 	<string name="architect.material_farmer.name">資源狂熱</string>
@@ -718,7 +718,7 @@
 	<string name="tooltip.header.blueprint">藍圖</string>
 	<string name="tooltip.header.current">當前</string>
 	<string name="tooltip.header.attuned">共鳴</string>
-	<string name="tooltip.equipment.ilvl">裝備等級: %ilvl%</string>
+	<string name="tooltip.equipment.ilvl">裝備等級： %ilvl%</string>
 
 	<string name="blueprint.category.drink">酒館飲品</string>
 	<string name="blueprint.category.food">酒館食物</string>
