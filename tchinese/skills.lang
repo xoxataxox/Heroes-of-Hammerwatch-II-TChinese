@@ -729,50 +729,50 @@
 
 	<!-- Warlock -->
 
-	<string name="skills.warlock.spell_1.name">Demon's Tail</string>
-	<string name="skills.warlock.spell_1.desc">Conjures a diabolical whip to lash out in a forward direction, dealing Physical damage and inflicting \cb0dfffSlow\d.</string>
-	<string name="skills.warlock.spell_1.up1.name">Crackling Lash</string>
-	<string name="skills.warlock.spell_1.up1.desc">Crackling arcs of lightning are discharged at nearby enemies, dealing Lightning damage.</string>
-	<string name="skills.warlock.spell_1.up2.name">Fiery Lash</string>
-	<string name="skills.warlock.spell_1.up2.desc">Flames erupt along the lash that lingers for a short period, dealing Fire damage.</string>
-	<string name="skills.warlock.spell_1.up3.name">Heavy Impact</string>
-	<string name="skills.warlock.spell_1.up3.desc">Enemies hit by the end of the whip are now also inflicted by \cb0dfffStun\d.</string>
+	<string name="skills.warlock.spell_1.name">惡魔之尾</string>
+	<string name="skills.warlock.spell_1.desc">召喚一條惡魔鞭向前揮擊，對敵人造成物理傷害並附加 \cb0dfff緩速\d。</string>
+	<string name="skills.warlock.spell_1.up1.name">閃電鞭擊</string>
+	<string name="skills.warlock.spell_1.up1.desc">鞭擊會釋放閃電弧，對附近敵人造成閃電傷害。</string>
+	<string name="skills.warlock.spell_1.up2.name">火焰鞭擊</string>
+	<string name="skills.warlock.spell_1.up2.desc">鞭擊帶有持續一段時間的火焰效果，對敵人造成火焰傷害。</string>
+	<string name="skills.warlock.spell_1.up3.name">重擊</string>
+	<string name="skills.warlock.spell_1.up3.desc">被鞭末擊中的敵人會被施加 \cb0dfff暈眩\d。</string>
 
-	<string name="skills.warlock.spell_2.name">Dark Ritual</string>
-	<string name="skills.warlock.spell_2.desc">You start performing a ritual that completes after a few seconds. Enemies take Physical damage while inside the area and even more damage when it completes. The ritual is terminated if you leave the area before it is completed.</string>
-	<string name="skills.warlock.spell_2.up1.name">Blood Ritual</string>
-	<string name="skills.warlock.spell_2.up1.desc">Enemies inside the area now has a chance to be inflicted with stacks of Bleeding.</string>
-	<string name="skills.warlock.spell_2.up2.name">Conflagration</string>
-	<string name="skills.warlock.spell_2.up2.desc">The damage type is changed to Fire and the ritual deals even more damage when it is completed.</string>
-	<string name="skills.warlock.spell_2.up3.name">Leeching Ritual</string>
-	<string name="skills.warlock.spell_2.up3.desc">You and your allies gain \cb0dfffLife Leech\d while inside the area.</string>
+	<string name="skills.warlock.spell_2.name">黑暗儀式</string>
+	<string name="skills.warlock.spell_2.desc">開始進行一個持續數秒的儀式，區域內的敵人持續受到物理傷害，且儀式完成時會受到更高的傷害。若你離開區域，儀式將終止。</string>
+	<string name="skills.warlock.spell_2.up1.name">血之儀式</string>
+	<string name="skills.warlock.spell_2.up1.desc">區域內的敵人有機會附加流血效果堆疊。</string>
+	<string name="skills.warlock.spell_2.up2.name">燃焰儀式</string>
+	<string name="skills.warlock.spell_2.up2.desc">儀式的傷害類型轉換為火焰傷害，且儀式完成時造成更多傷害。</string>
+	<string name="skills.warlock.spell_2.up3.name">吸血儀式</string>
+	<string name="skills.warlock.spell_2.up3.desc">你與隊友在儀式區域內獲得 \cb0dfff生命吸取\d 。</string>
 
-	<string name="skills.warlock.passive_1.name">Drain Essence</string>
-	<string name="skills.warlock.passive_1.desc">You gain stacks of \cb0dfffEssence\d when hitting enemies with \cffdfb0Melee\d skills. Each stack increases your max Health and Mana. This effect has a short cooldown.</string>
-	<string name="skills.warlock.passive_1.up1.name">Life Siphon</string>
-	<string name="skills.warlock.passive_1.up1.desc">When you gain stacks of \cb0dfffEssence\d you restore a percentage of your Health.</string>
-	<string name="skills.warlock.passive_1.up2.name">Energy Siphon</string>
-	<string name="skills.warlock.passive_1.up2.desc">When you gain stacks of \cb0dfffEssence\d you restore a percentage of your Mana.</string>
-	<string name="skills.warlock.passive_1.up3.name">Drain Blood</string>
-	<string name="skills.warlock.passive_1.up3.desc">You now also inflict stacks of \cb0dfffBleeding\d to the targets you gain \cb0dfffEssence\d from.</string>
-	<string name="skills.warlock.passive_1.up4.name">Essence Harvester</string>
-	<string name="skills.warlock.passive_1.up4.desc">You gain a chance to gain stacks of \cb0dfffEssence\d when killing enemies.</string>
+	<string name="skills.warlock.passive_1.name">精華吸取</string>
+	<string name="skills.warlock.passive_1.desc">用 \cffdfb0近戰\d 技能擊中敵人時獲得 \cb0dfff精華\d 堆疊，每層精華提升你的最大生命與魔力。此效果有短暫冷卻。</string>
+	<string name="skills.warlock.passive_1.up1.name">生命汲取 </string>
+	<string name="skills.warlock.passive_1.up1.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分生命值。</string>
+	<string name="skills.warlock.passive_1.up2.name">能量汲取</string>
+	<string name="skills.warlock.passive_1.up2.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分魔力。</string>
+	<string name="skills.warlock.passive_1.up3.name">吸血</string>
+	<string name="skills.warlock.passive_1.up3.desc">當你從目標獲得 \cb0dfff精華\d 時，也會對其施加 \cb0dfff流血\d。</string>
+	<string name="skills.warlock.passive_1.up4.name">精華收割者</string>
+	<string name="skills.warlock.passive_1.up4.desc">擊殺敵人時有機會獲得 \cb0dfff精華\d 堆疊。</string>
 
-	<string name="skills.warlock.passive_2.name">Aura of Atrophy</string>
-	<string name="skills.warlock.passive_2.desc">You project an aura around you that makes enemies deal less damage.</string>
-	<string name="skills.warlock.passive_2.up1.name">Agony</string>
-	<string name="skills.warlock.passive_2.up1.desc">Enemies in your aura also take more damage.</string>
-	<string name="skills.warlock.passive_2.up2.name">Spreading Corruption</string>
-	<string name="skills.warlock.passive_2.up2.desc">\cffdfb0Melee\d weapon hits deal additional Poison damage to a different nearby enemy.</string>
-	<string name="skills.warlock.passive_2.up3.name">Spontaneous Combustion</string>
-	<string name="skills.warlock.passive_2.up3.desc">Casting a \cffdfb0Spell\d deals Fire damage to all enemies affected by your aura.</string>
+	<string name="skills.warlock.passive_2.name">衰頹光環</string>
+	<string name="skills.warlock.passive_2.desc">你在你身邊投射出一個光環，使敵人造成的傷害降低。</string>
+	<string name="skills.warlock.passive_2.up1.name">痛苦</string>
+	<string name="skills.warlock.passive_2.up1.desc">光環內的敵人承受更多的傷害。</string>
+	<string name="skills.warlock.passive_2.up2.name">蔓延腐蝕</string>
+	<string name="skills.warlock.passive_2.up2.desc">\cffdfb0近戰\d 武器擊中敵人時，對其他附近敵人造成額外的毒素傷害。</string>
+	<string name="skills.warlock.passive_2.up3.name">自燃</string>
+	<string name="skills.warlock.passive_2.up3.desc">施放 \cffdfb0法術\d 時，對所有受到光環影響的敵人造成火焰傷害。</string>
 
 
-	<string name="skills.warlock.mastery_1.name">Summoning</string>
+	<string name="skills.warlock.mastery_1.name">召喚師</string>
 	<string name="skills.warlock.mastery_1.desc"></string>
 
-	<string name="skills.warlock.mastery_1.spell_1.name">Summon Fiends</string>
-	<string name="skills.warlock.mastery_1.spell_1.desc">Channel the spell to summon fiends by consuming stacks of \cb0dfffEssence\d. Fiends attack nearby enemies, dealing Physical damage.</string>
+	<string name="skills.warlock.mastery_1.spell_1.name">惡魔仆從</string>
+	<string name="skills.warlock.mastery_1.spell_1.desc">透過消耗堆疊的 \cb0dfff精華\d 來使用法術召喚惡魔。惡魔會攻擊附近的敵人，造成物理傷害。</string>
 	<string name="skills.warlock.mastery_1.spell_1.up1.name">Infernal Fiends</string>
 	<string name="skills.warlock.mastery_1.spell_1.up1.desc">Your fiends deal additional Fire damage and gain the ability to spew fireballs at their targets.</string>
 	<string name="skills.warlock.mastery_1.spell_1.up2.name">Explosive Demise</string>
