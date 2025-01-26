@@ -77,8 +77,8 @@
 	<string name="option.g_controller_move_dir.title">瞄準方向移動</string>
 
 	<string name="option.ui_txt.title">浮動文字</string>
-	<string name="option.ui_txt_enemy_hurt_husk.title">遠端傷害數字</string>
-	<string name="option.ui_txt_enemy_hurt_local.title">本地傷害數字</string>
+	<string name="option.ui_txt_enemy_hurt_husk.title">其他玩家傷害</string>
+	<string name="option.ui_txt_enemy_hurt_local.title">個人傷害</string>
 
 	<string name="option.ui_hud_overlay_always_visible.title">始終顯示HUD</string>
 

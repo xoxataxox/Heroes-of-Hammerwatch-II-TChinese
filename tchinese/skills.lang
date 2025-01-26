@@ -221,15 +221,15 @@
 
 
 	<string name="skills.attacks.mainhand.mace.name">大錘猛擊</string>
-	<string name="skills.attacks.mainhand.mace.desc">以強力的一揮造成 100% 武器傷害，並有 15% 的機率施加\cb0dfff暈眩\d。</string>
+	<string name="skills.attacks.mainhand.mace.desc">以強力的一揮造成 100% 武器傷害，並有 15% 的機率施加\cb0dfff暈眩\d</string>
 	<string name="skills.attacks.mainhand.axe.name">斧刃斬擊</string>
-	<string name="skills.attacks.mainhand.axe.desc">以撕裂的砍擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d。</string>
+	<string name="skills.attacks.mainhand.axe.desc">以撕裂的砍擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d</string>
 	<string name="skills.attacks.mainhand.sword.name">劍刃揮擊</string>
-	<string name="skills.attacks.mainhand.sword.desc">以大範圍的弧形揮擊造成 100% 武器傷害。</string>
+	<string name="skills.attacks.mainhand.sword.desc">以大範圍的弧形揮擊造成 100% 武器傷害</string>
 	<string name="skills.attacks.mainhand.dagger.name">匕首斬擊</string>
-	<string name="skills.attacks.mainhand.dagger.desc">以快速的斬擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d。</string>
+	<string name="skills.attacks.mainhand.dagger.desc">以快速的斬擊造成 100% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d</string>
 	<string name="skills.attacks.mainhand.dirk.name">短匕刺擊</string>
-	<string name="skills.attacks.mainhand.dirk.desc">以快速的刺擊造成 60% 武器傷害。</string>
+	<string name="skills.attacks.mainhand.dirk.desc">以快速的刺擊造成 60% 武器傷害</string>
 	<string name="skills.attacks.mainhand.wand.fire.name">火焰箭</string>
 	<string name="skills.attacks.mainhand.wand.fire.desc">發射一支火焰箭，命中時爆炸，造成 40% 武器傷害</string>
 	<string name="skills.attacks.mainhand.wand.ice.name">冰霜碎片</string>
@@ -636,7 +636,7 @@
 	<string name="skills.sorcerer.spell_2.up3.desc">球體會開始向四周噴射小型投射物，這些投射物造成的傷害較低</string>
 
 	<string name="skills.sorcerer.passive_1.name">元素親和</string>
-	<string name="skills.sorcerer.passive_1.desc">施放 \cffdfb0法術\d 時獲得與該法術相同元素的  \cb0dfff元素親和\d。只要你有 \cb0dfff元素親和\d ，對應元素的傷害就會增加。你只能同時擁有一種元素親和。</string>
+	<string name="skills.sorcerer.passive_1.desc">施放 \cffdfb0法術\d 時獲得與該法術相同元素的  \cb0dfff元素親和\d。只要你有 \cb0dfff元素親和\d ，對應元素的傷害就會增加。你只能同時擁有一種元素親和</string>
 	<string name="skills.sorcerer.passive_1.up1.name">元素防護</string>
 	<string name="skills.sorcerer.passive_1.up1.desc">根據每等角色等級給予火焰、冰冷和閃電抗性</string>
 	<string name="skills.sorcerer.passive_1.up2.name">元素穿透</string>
@@ -669,9 +669,9 @@
 	<string name="skills.sorcerer.mastery_1.passive_1.name">火焰專精</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.desc">提升火焰傷害，且 \cffdfb0火焰\d 技能有機會附加 \cb0dfff虛弱\d</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up1.name">易燃烈焰</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up1.desc">\cffdfb0火焰\d 技能有機會觸發爆炸，造成額外火焰傷害，此效果有短暫冷卻。</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up1.desc">\cffdfb0火焰\d 技能有機會觸發爆炸，造成額外火焰傷害，此效果有短暫冷卻</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up2.name">癒火</string>
-	<string name="skills.sorcerer.mastery_1.passive_1.up2.desc">法術暴擊時恢復部分生命。</string>
+	<string name="skills.sorcerer.mastery_1.passive_1.up2.desc">法術暴擊時恢復部分生命</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up3.desc"></string>
 
@@ -679,20 +679,20 @@
 	<string name="skills.sorcerer.mastery_2.desc"></string>
 
 	<string name="skills.sorcerer.mastery_2.spell_1.name">冰霜新星</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.desc">釋放多道冰霜碎片向四周飛出，造成冰冷傷害。</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.desc">釋放多道冰霜碎片向四周飛出，造成冰冷傷害</string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up1.name">冰霜追尋</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up1.desc">碎片在擊中時有機會追擊新的目標。</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up1.desc">碎片在擊中時有機會追擊新的目標</string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up2.name">冰霜裂片</string>
-	<string name="skills.sorcerer.mastery_2.spell_1.up2.desc">碎片擊殺敵人時，有機會觸發新的小型新星碎片。</string>
+	<string name="skills.sorcerer.mastery_2.spell_1.up2.desc">碎片擊殺敵人時，有機會觸發新的小型新星碎片</string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_2.spell_1.up3.desc"></string>
 
 	<string name="skills.sorcerer.mastery_2.passive_1.name">冰霜專精</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.desc">你造成的冰冷傷害增加，且 \cffdfb0冰霜\d 技能有機會附加 \cb0dfff冰凍\d冰凍。</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.desc">你造成的冰冷傷害增加，且 \cffdfb0冰霜\d 技能有機會附加 \cb0dfff冰凍\d冰凍</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up1.name">破碎</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用 \cffdfb0冰霜\d 擊殺敵人時有機會觸發 爆炸，造成冰冷傷害。</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用 \cffdfb0冰霜\d 擊殺敵人時有機會觸發 爆炸，造成冰冷傷害</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">冰霜格擋</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害。</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up3.desc"></string>
 
@@ -700,20 +700,20 @@
 	<string name="skills.sorcerer.mastery_3.desc"></string>
 
 	<string name="skills.sorcerer.mastery_3.spell_1.name">閃電球</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.desc">蓄力後釋放一顆閃電球，對路徑上的敵人造成閃電傷害，傷害與蓄力時間相關。</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.desc">蓄力後釋放一顆閃電球，對路徑上的敵人造成閃電傷害，傷害與蓄力時間相關</string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up1.name">充能球體</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up1.desc">擊中敵人會延長球體的存在時間。</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up1.desc">擊中敵人會延長球體的存在時間</string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up2.name">靜電場</string>
-	<string name="skills.sorcerer.mastery_3.spell_1.up2.desc">在路徑上留下電場，持續一段時間並造成額外閃電傷害。</string>
+	<string name="skills.sorcerer.mastery_3.spell_1.up2.desc">在路徑上留下電場，持續一段時間並造成額外閃電傷害</string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_3.spell_1.up3.desc"></string>
 	
 	<string name="skills.sorcerer.mastery_3.passive_1.name">閃電專精</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.desc">你造成的閃電傷害增加，且 \cffdfb0閃電\d 技能有機會附加  \cb0dfff暈眩\d。</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.desc">你造成的閃電傷害增加，且 \cffdfb0閃電\d 技能有機會附加  \cb0dfff暈眩\d</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up1.name">弧形閃電</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up1.desc">你的 \cffdfb0閃電\d 技能有機會觸發在敵人之間鏈接的閃電弧，造成閃電傷害。</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up1.desc">你的 \cffdfb0閃電\d 技能有機會觸發在敵人之間鏈接的閃電弧，造成閃電傷害</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up2.name">無效力場 </string>
-	<string name="skills.sorcerer.mastery_3.passive_1.up2.desc">你有機會格擋大部分投射物，此效果有短暫冷卻。</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.up2.desc">你有機會格擋大部分投射物，此效果有短暫冷卻</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up3.desc"></string>
 
@@ -730,62 +730,62 @@
 	<!-- Warlock -->
 
 	<string name="skills.warlock.spell_1.name">惡魔之尾</string>
-	<string name="skills.warlock.spell_1.desc">召喚一條惡魔鞭向前揮擊，對敵人造成物理傷害並附加 \cb0dfff緩速\d。</string>
+	<string name="skills.warlock.spell_1.desc">召喚一條惡魔鞭向前揮擊，對敵人造成物理傷害並附加 \cb0dfff緩速\d</string>
 	<string name="skills.warlock.spell_1.up1.name">閃電鞭擊</string>
-	<string name="skills.warlock.spell_1.up1.desc">鞭擊會釋放閃電弧，對附近敵人造成閃電傷害。</string>
+	<string name="skills.warlock.spell_1.up1.desc">鞭擊會釋放閃電弧，對附近敵人造成閃電傷害</string>
 	<string name="skills.warlock.spell_1.up2.name">火焰鞭擊</string>
-	<string name="skills.warlock.spell_1.up2.desc">鞭擊帶有持續一段時間的火焰效果，對敵人造成火焰傷害。</string>
+	<string name="skills.warlock.spell_1.up2.desc">鞭擊帶有持續一段時間的火焰效果，對敵人造成火焰傷害</string>
 	<string name="skills.warlock.spell_1.up3.name">重擊</string>
-	<string name="skills.warlock.spell_1.up3.desc">被鞭末擊中的敵人會被施加 \cb0dfff暈眩\d。</string>
+	<string name="skills.warlock.spell_1.up3.desc">被鞭末擊中的敵人會被施加 \cb0dfff暈眩\d</string>
 
 	<string name="skills.warlock.spell_2.name">黑暗儀式</string>
-	<string name="skills.warlock.spell_2.desc">開始進行一個持續數秒的儀式，區域內的敵人持續受到物理傷害，且儀式完成時會受到更高的傷害。若你離開區域，儀式將終止。</string>
+	<string name="skills.warlock.spell_2.desc">開始進行一個持續數秒的儀式，區域內的敵人持續受到物理傷害，且儀式完成時會受到更高的傷害。若你離開區域，儀式將終止</string>
 	<string name="skills.warlock.spell_2.up1.name">血之儀式</string>
-	<string name="skills.warlock.spell_2.up1.desc">區域內的敵人有機會附加流血效果堆疊。</string>
+	<string name="skills.warlock.spell_2.up1.desc">區域內的敵人有機會附加流血效果堆疊</string>
 	<string name="skills.warlock.spell_2.up2.name">燃焰儀式</string>
-	<string name="skills.warlock.spell_2.up2.desc">儀式的傷害類型轉換為火焰傷害，且儀式完成時造成更多傷害。</string>
+	<string name="skills.warlock.spell_2.up2.desc">儀式的傷害類型轉換為火焰傷害，且儀式完成時造成更多傷害</string>
 	<string name="skills.warlock.spell_2.up3.name">吸血儀式</string>
-	<string name="skills.warlock.spell_2.up3.desc">你與隊友在儀式區域內獲得 \cb0dfff生命吸取\d 。</string>
+	<string name="skills.warlock.spell_2.up3.desc">你與隊友在儀式區域內獲得 \cb0dfff生命吸取\d </string>
 
 	<string name="skills.warlock.passive_1.name">精華吸取</string>
-	<string name="skills.warlock.passive_1.desc">用 \cffdfb0近戰\d 技能擊中敵人時獲得 \cb0dfff精華\d 堆疊，每層精華提升你的最大生命與魔力。此效果有短暫冷卻。</string>
+	<string name="skills.warlock.passive_1.desc">用 \cffdfb0近戰\d 技能擊中敵人時獲得 \cb0dfff精華\d 堆疊，每層精華提升你的最大生命與魔力。此效果有短暫冷卻</string>
 	<string name="skills.warlock.passive_1.up1.name">生命汲取 </string>
-	<string name="skills.warlock.passive_1.up1.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分生命值。</string>
+	<string name="skills.warlock.passive_1.up1.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分生命值</string>
 	<string name="skills.warlock.passive_1.up2.name">能量汲取</string>
-	<string name="skills.warlock.passive_1.up2.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分魔力。</string>
+	<string name="skills.warlock.passive_1.up2.desc">當你獲得 \cb0dfff精華\d 堆疊時，恢復一部分魔力</string>
 	<string name="skills.warlock.passive_1.up3.name">吸血</string>
-	<string name="skills.warlock.passive_1.up3.desc">當你從目標獲得 \cb0dfff精華\d 時，也會對其施加 \cb0dfff流血\d。</string>
+	<string name="skills.warlock.passive_1.up3.desc">當你從目標獲得 \cb0dfff精華\d 時，也會對其施加 \cb0dfff流血\d</string>
 	<string name="skills.warlock.passive_1.up4.name">精華收割者</string>
-	<string name="skills.warlock.passive_1.up4.desc">擊殺敵人時有機會獲得 \cb0dfff精華\d 堆疊。</string>
+	<string name="skills.warlock.passive_1.up4.desc">擊殺敵人時有機會獲得 \cb0dfff精華\d 堆疊</string>
 
 	<string name="skills.warlock.passive_2.name">衰頹光環</string>
-	<string name="skills.warlock.passive_2.desc">你在你身邊投射出一個光環，使敵人造成的傷害降低。</string>
+	<string name="skills.warlock.passive_2.desc">你在你身邊投射出一個光環，使敵人造成的傷害降低</string>
 	<string name="skills.warlock.passive_2.up1.name">痛苦</string>
-	<string name="skills.warlock.passive_2.up1.desc">光環內的敵人承受更多的傷害。</string>
+	<string name="skills.warlock.passive_2.up1.desc">光環內的敵人承受更多的傷害</string>
 	<string name="skills.warlock.passive_2.up2.name">蔓延腐蝕</string>
-	<string name="skills.warlock.passive_2.up2.desc">\cffdfb0近戰\d 武器擊中敵人時，對其他附近敵人造成額外的毒素傷害。</string>
+	<string name="skills.warlock.passive_2.up2.desc">\cffdfb0近戰\d 武器擊中敵人時，對其他附近敵人造成額外的毒素傷害</string>
 	<string name="skills.warlock.passive_2.up3.name">自燃</string>
-	<string name="skills.warlock.passive_2.up3.desc">施放 \cffdfb0法術\d 時，對所有受到光環影響的敵人造成火焰傷害。</string>
+	<string name="skills.warlock.passive_2.up3.desc">施放 \cffdfb0法術\d 時，對所有受到光環影響的敵人造成火焰傷害</string>
 
 
 	<string name="skills.warlock.mastery_1.name">召喚師</string>
 	<string name="skills.warlock.mastery_1.desc"></string>
 
 	<string name="skills.warlock.mastery_1.spell_1.name">惡魔仆從</string>
-	<string name="skills.warlock.mastery_1.spell_1.desc">透過消耗堆疊的 \cb0dfff精華\d 來使用法術召喚惡魔仆從。惡魔仆從會攻擊附近的敵人，造成物理傷害。</string>
+	<string name="skills.warlock.mastery_1.spell_1.desc">透過消耗堆疊的 \cb0dfff精華\d 來使用法術召喚惡魔仆從。惡魔仆從會攻擊附近的敵人，造成物理傷害</string>
 	<string name="skills.warlock.mastery_1.spell_1.up1.name">地獄惡魔</string>
-	<string name="skills.warlock.mastery_1.spell_1.up1.desc">惡魔仆從造成額外火焰傷害，並獲得向目標發射火球的能力。</string>
+	<string name="skills.warlock.mastery_1.spell_1.up1.desc">惡魔仆從造成額外火焰傷害，並獲得向目標發射火球的能力</string>
 	<string name="skills.warlock.mastery_1.spell_1.up2.name">爆炸末日</string>
-	<string name="skills.warlock.mastery_1.spell_1.up2.desc">惡魔仆從死亡時會爆炸，對小範圍內造成物理傷害。</string>
+	<string name="skills.warlock.mastery_1.spell_1.up2.desc">惡魔仆從死亡時會爆炸，對小範圍內造成物理傷害</string>
 	<string name="skills.warlock.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_1.spell_1.up3.desc"></string>
 
 	<string name="skills.warlock.mastery_1.passive_1.name">石像鬼僕從</string>
-	<string name="skills.warlock.mastery_1.passive_1.desc">被動召喚一隻石像鬼為你作戰。石像鬼使用爪子和三叉戟攻擊敵人，造成物理傷害。</string>
+	<string name="skills.warlock.mastery_1.passive_1.desc">被動召喚一隻石像鬼為你作戰。石像鬼使用爪子和三叉戟攻擊敵人，造成物理傷害</string>
 	<string name="skills.warlock.mastery_1.passive_1.up1.name">燃燒打擊</string>
-	<string name="skills.warlock.mastery_1.passive_1.up1.desc">石像鬼的爪擊造成額外火焰傷害。</string>
+	<string name="skills.warlock.mastery_1.passive_1.up1.desc">石像鬼的爪擊造成額外火焰傷害</string>
 	<string name="skills.warlock.mastery_1.passive_1.up2.name">雷電三叉戟</string>
-	<string name="skills.warlock.mastery_1.passive_1.up2.desc">石像鬼的三叉戟會持續對敵人造成額外的閃電傷害。</string>
+	<string name="skills.warlock.mastery_1.passive_1.up2.desc">石像鬼的三叉戟會持續對敵人造成額外的閃電傷害</string>
 	<string name="skills.warlock.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_1.passive_1.up3.desc"></string>
 
@@ -793,20 +793,20 @@
 	<string name="skills.warlock.mastery_2.desc"></string>
 
 	<string name="skills.warlock.mastery_2.spell_1.name">靈魂漩渦</string>
-	<string name="skills.warlock.mastery_2.spell_1.desc">召喚一個靈魂能量漩渦環繞你，對範圍內的敵人造成物理與毒素傷害。</string>
+	<string name="skills.warlock.mastery_2.spell_1.desc">召喚一個靈魂能量漩渦環繞你，對範圍內的敵人造成物理與毒素傷害</string>
 	<string name="skills.warlock.mastery_2.spell_1.up1.name">閃電漩渦</string>
-	<string name="skills.warlock.mastery_2.spell_1.up1.desc">漩渦持續觸發閃電隨機打擊範圍內敵人，造成額外雷電傷害。</string>
+	<string name="skills.warlock.mastery_2.spell_1.up1.desc">漩渦持續觸發閃電隨機打擊範圍內敵人，造成額外雷電傷害</string>
 	<string name="skills.warlock.mastery_2.spell_1.up2.name">漩渦幕障</string>
-	<string name="skills.warlock.mastery_2.spell_1.up2.desc">法術持續期間你獲得閃避加成。</string>
+	<string name="skills.warlock.mastery_2.spell_1.up2.desc">法術持續期間你獲得閃避加成</string>
 	<string name="skills.warlock.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_2.spell_1.up3.desc"></string>
 
 	<string name="skills.warlock.mastery_2.passive_1.name">靈魂塑造者</string>
-	<string name="skills.warlock.mastery_2.passive_1.desc">只要你有 \cb0dfff精華\d 堆疊，主手武器的攻擊將釋放靈魂投射物，攻擊隨機的附近敵人並造成主手武器傷害。</string>
+	<string name="skills.warlock.mastery_2.passive_1.desc">只要你有 \cb0dfff精華\d 堆疊，主手武器的攻擊將釋放靈魂投射物，攻擊隨機的附近敵人並造成主手武器傷害</string>
 	<string name="skills.warlock.mastery_2.passive_1.up1.name">靈魂裂擊</string>
-	<string name="skills.warlock.mastery_2.passive_1.up1.desc">投射物有機會爆炸造成額外傷害，此效果有短暫冷卻時間。</string>
+	<string name="skills.warlock.mastery_2.passive_1.up1.desc">投射物有機會爆炸造成額外傷害，此效果有短暫冷卻時間</string>
 	<string name="skills.warlock.mastery_2.passive_1.up2.name">無情靈魂</string>
-	<string name="skills.warlock.mastery_2.passive_1.up2.desc">投射物在擊中後可跳向額外目標。</string>
+	<string name="skills.warlock.mastery_2.passive_1.up2.desc">投射物在擊中後可跳向額外目標</string>
 	<string name="skills.warlock.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_2.passive_1.up3.desc"></string>
 
@@ -814,20 +814,20 @@
 	<string name="skills.warlock.mastery_3.desc"></string>
 
 	<string name="skills.warlock.mastery_3.spell_1.name">混沌之刃</string>
-	<string name="skills.warlock.mastery_3.spell_1.desc">召喚一把魔法之刃斬擊前方，對敵人造成物理與閃電傷害。</string>
+	<string name="skills.warlock.mastery_3.spell_1.desc">召喚一把魔法之刃斬擊前方，對敵人造成物理與閃電傷害</string>
 	<string name="skills.warlock.mastery_3.spell_1.up1.name">刀鋒弧線</string>
-	<string name="skills.warlock.mastery_3.spell_1.up1.desc">法術現在同時釋放數個投射物，呈弧線飛向前方。</string>
+	<string name="skills.warlock.mastery_3.spell_1.up1.desc">法術現在同時釋放數個投射物，呈弧線飛向前方</string>
 	<string name="skills.warlock.mastery_3.spell_1.up2.name">撕裂</string>
-	<string name="skills.warlock.mastery_3.spell_1.up2.desc">刀刃斬擊對敵人附加 \cb0dfff流血\d 堆疊。</string>
+	<string name="skills.warlock.mastery_3.spell_1.up2.desc">刀刃斬擊對敵人附加 \cb0dfff流血\d 堆疊</string>
 	<string name="skills.warlock.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.warlock.mastery_3.spell_1.up3.desc"></string>
 	
 	<string name="skills.warlock.mastery_3.passive_1.name">混沌裂隙</string>
-	<string name="skills.warlock.mastery_3.passive_1.desc">施放 \cffdfb0法術\d 時生成裂隙，對周圍敵人造成物理與閃電傷害。彼此靠近的裂隙間形成能量流，造成額外傷害。</string>
+	<string name="skills.warlock.mastery_3.passive_1.desc">施放 \cffdfb0法術\d 時生成裂隙，對周圍敵人造成物理與閃電傷害。彼此靠近的裂隙間形成能量流，造成額外傷害</string>
 	<string name="skills.warlock.mastery_3.passive_1.up1.name">混沌收割者</string>
-	<string name="skills.warlock.mastery_3.passive_1.up1.desc">擊殺敵人時有機會生成裂隙，此效果有短暫冷卻時間。</string>
+	<string name="skills.warlock.mastery_3.passive_1.up1.desc">擊殺敵人時有機會生成裂隙，此效果有短暫冷卻時間</string>
 	<string name="skills.warlock.mastery_3.passive_1.up2.name">裂隙之刃 </string>
-	<string name="skills.warlock.mastery_3.passive_1.up2.desc">使用 \cb0dfff混沌之刃\d 擊中時有機會生成裂隙，此效果有短暫冷卻時間。</string>
+	<string name="skills.warlock.mastery_3.passive_1.up2.desc">使用 \cb0dfff混沌之刃\d 擊中時有機會生成裂隙，此效果有短暫冷卻時間</string>
 	<string name="skills.warlock.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.warlock.mastery_3.passive_1.up3.desc"></string>
 
@@ -842,40 +842,40 @@
 
 
 	<string name="skills.warrior.spell_1.name">旋轉飛斧</string>
-	<string name="skills.warrior.spell_1.desc">你投擲兩把旋轉的斧頭，對路徑上的所有敵人造成物理傷害。</string>
+	<string name="skills.warrior.spell_1.desc">你投擲兩把旋轉的斧頭，對路徑上的所有敵人造成物理傷害</string>
 	<string name="skills.warrior.spell_1.up1.name">飛斧迴旋</string>
-	<string name="skills.warrior.spell_1.up1.desc">投擲的飛斧會在一段時間後回到你身邊。</string>
+	<string name="skills.warrior.spell_1.up1.desc">投擲的飛斧會在一段時間後回到你身邊</string>
 	<string name="skills.warrior.spell_1.up2.name">燃燒飛斧</string>
-	<string name="skills.warrior.spell_1.up2.desc">飛斧造成額外的火焰傷害。</string>
+	<string name="skills.warrior.spell_1.up2.desc">飛斧造成額外的火焰傷害</string>
 	<string name="skills.warrior.spell_1.up3.name">斬首飛斧</string>
 	<string name="skills.warrior.spell_1.up3.desc">飛斧有機會斬殺 \cb0dfff低血量\d 的敵人，但對Boss無效</string>
 
 	<string name="skills.warrior.spell_2.name">戰吼</string>
-	<string name="skills.warrior.spell_2.desc">你和範圍內的盟友獲得武器與移動速度的增益效果，持續一段時間。</string>
+	<string name="skills.warrior.spell_2.desc">你和範圍內的盟友獲得武器與移動速度的增益效果，持續一段時間</string>
 	<string name="skills.warrior.spell_2.up1.name">恐嚇戰吼</string>
-	<string name="skills.warrior.spell_2.up1.desc">施放戰吼時，周圍敵人會被施加 \cb0dfff虛弱\d 。</string>
+	<string name="skills.warrior.spell_2.up1.desc">施放戰吼時，周圍敵人會被施加 \cb0dfff虛弱\d </string>
 	<string name="skills.warrior.spell_2.up2.name">第二次呼吸</string>
-	<string name="skills.warrior.spell_2.up2.desc">施放戰吼時回復部分生命。</string>
+	<string name="skills.warrior.spell_2.up2.desc">施放戰吼時回復部分生命</string>
 	<string name="skills.warrior.spell_2.up3.name">戰鬥吶喊</string>
-	<string name="skills.warrior.spell_2.up3.desc">每個範圍內的敵人都會在施放戰吼時為你提供 \cb0dfff殺戮狂歡\d 堆疊。</string>
+	<string name="skills.warrior.spell_2.up3.desc">每個範圍內的敵人都會在施放戰吼時為你提供 \cb0dfff殺戮狂歡\d 堆疊</string>
 
 	<string name="skills.warrior.passive_1.name">戰士體質</string>
-	<string name="skills.warrior.passive_1.desc">增加生命與毒素抗性。</string>
+	<string name="skills.warrior.passive_1.desc">增加生命與毒素抗性</string>
 	<string name="skills.warrior.passive_1.up1.name">戰鬥訓練</string>
-	<string name="skills.warrior.passive_1.up1.desc">你使用 \cffdfb0近戰\d 技能造成的傷害提高。</string>
+	<string name="skills.warrior.passive_1.up1.desc">你使用 \cffdfb0近戰\d 技能造成的傷害提高</string>
 	<string name="skills.warrior.passive_1.up2.name">堅韌</string>
-	<string name="skills.warrior.passive_1.up2.desc">你受到的傷害更少。</string>
+	<string name="skills.warrior.passive_1.up2.desc">你受到的傷害更少</string>
 	<string name="skills.warrior.passive_1.up3.name">強韌力量</string>
-	<string name="skills.warrior.passive_1.up3.desc">提升護甲穿透。</string>
+	<string name="skills.warrior.passive_1.up3.desc">提升護甲穿透</string>
 
 	<string name="skills.warrior.passive_2.name">殺戮狂歡</string>
-	<string name="skills.warrior.passive_2.desc">擊殺敵人後獲得 \cb0dfff殺戮狂歡\d 堆疊，每層堆疊增加傷害。如果持續時間結束將會失去所有堆疊。</string>
+	<string name="skills.warrior.passive_2.desc">擊殺敵人後獲得 \cb0dfff殺戮狂歡\d 堆疊，每層堆疊增加傷害。如果持續時間結束將會失去所有堆疊</string>
 	<string name="skills.warrior.passive_2.up1.name">殘暴</string>
-	<string name="skills.warrior.passive_2.up1.desc">每層堆疊額外增加武器與法術的暴擊率。</string>
+	<string name="skills.warrior.passive_2.up1.desc">每層堆疊額外增加武器與法術的暴擊率</string>
 	<string name="skills.warrior.passive_2.up2.name">殺手體魄</string>
-	<string name="skills.warrior.passive_2.up2.desc">每層堆疊增加生命值回復。</string>
+	<string name="skills.warrior.passive_2.up2.desc">每層堆疊增加生命值回復</string>
 	<string name="skills.warrior.passive_2.up3.name">大膽</string>
-	<string name="skills.warrior.passive_2.up3.desc">\cffdfb0近戰\d 擊中 \cb0dfffBoss\d 與 \cb0dfff精英\d 時，有機會增加 \cb0dfff殺戮狂歡\d 堆疊。</string>
+	<string name="skills.warrior.passive_2.up3.desc">\cffdfb0近戰\d 擊中 \cb0dfffBoss\d 與 \cb0dfff精英\d 時，有機會增加 \cb0dfff殺戮狂歡\d 堆疊</string>
 
 	
 	
@@ -884,20 +884,20 @@
 	<string name="skills.warrior.mastery_1.desc"></string>
 
 	<string name="skills.warrior.mastery_1.spell_1.name">跳躍</string>
-	<string name="skills.warrior.mastery_1.spell_1.desc">跳躍至目標地點，落地時以衝擊波對範圍內敵人造成物理傷害，並附加 \cb0dfff暈眩\d。</string>
+	<string name="skills.warrior.mastery_1.spell_1.desc">跳躍至目標地點，落地時以衝擊波對範圍內敵人造成物理傷害，並附加 \cb0dfff暈眩\d</string>
 	<string name="skills.warrior.mastery_1.spell_1.up1.name">震動衝擊</string>
-	<string name="skills.warrior.mastery_1.spell_1.up1.desc">落地後引發一連串延遲爆發的震動，造成額外的物理傷害。</string>
+	<string name="skills.warrior.mastery_1.spell_1.up1.desc">落地後引發一連串延遲爆發的震動，造成額外的物理傷害</string>
 	<string name="skills.warrior.mastery_1.spell_1.up2.name">火焰跳躍</string>
-	<string name="skills.warrior.mastery_1.spell_1.up2.desc">在跳躍起點與落地地點點燃地面，對範圍內敵人持續造成火焰傷害。</string>
+	<string name="skills.warrior.mastery_1.spell_1.up2.desc">在跳躍起點與落地地點點燃地面，對範圍內敵人持續造成火焰傷害</string>
 	<string name="skills.warrior.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_1.spell_1.up3.desc"></string>
 
 	<string name="skills.warrior.mastery_1.passive_1.name">狂怒</string>
-	<string name="skills.warrior.mastery_1.passive_1.desc">承受傷害時獲得 \cb0dfff狂怒\d 增益，暫時提升 \cffdfb0物理\d 技能的暴擊率與暴擊傷害。</string>
+	<string name="skills.warrior.mastery_1.passive_1.desc">承受傷害時獲得 \cb0dfff狂怒\d 增益，暫時提升 \cffdfb0物理\d 技能的暴擊率與暴擊傷害</string>
 	<string name="skills.warrior.mastery_1.passive_1.up1.name">不屈狂怒</string>
-	<string name="skills.warrior.mastery_1.passive_1.up1.desc">當處於 \cb0dfff低血量\d 時，會自動獲得狂怒，並減少所受傷害。</string>
+	<string name="skills.warrior.mastery_1.passive_1.up1.desc">當處於 \cb0dfff低血量\d 時，會自動獲得狂怒，並減少所受傷害</string>
 	<string name="skills.warrior.mastery_1.passive_1.up2.name">狂怒戰吼</string>
-	<string name="skills.warrior.mastery_1.passive_1.up2.desc">使用 \cb0dfff戰吼\d 時獲得 \cb0dfff狂怒\ ，且 \cb0dfff狂怒\ 期間技能冷卻時間縮短。</string>
+	<string name="skills.warrior.mastery_1.passive_1.up2.desc">使用 \cb0dfff戰吼\d 時獲得 \cb0dfff狂怒\ ，且 \cb0dfff狂怒\ 期間技能冷卻時間縮短</string>
 	<string name="skills.warrior.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_1.passive_1.up3.desc"></string>
 
@@ -905,20 +905,20 @@
 	<string name="skills.warrior.mastery_2.desc"></string>
 
 	<string name="skills.warrior.mastery_2.spell_1.name">古老圖騰</string>
-	<string name="skills.warrior.mastery_2.spell_1.desc">在目標地點放置圖騰，持續對周圍敵人造成物理傷害。</string>
+	<string name="skills.warrior.mastery_2.spell_1.desc">在目標地點放置圖騰，持續對周圍敵人造成物理傷害</string>
 	<string name="skills.warrior.mastery_2.spell_1.up1.name">震擊圖騰</string>
-	<string name="skills.warrior.mastery_2.spell_1.up1.desc">圖騰定期震擊周圍敵人，造成雷電傷害。相鄰圖騰間產生閃電屏障，對穿過的敵人造成額外傷害。</string>
+	<string name="skills.warrior.mastery_2.spell_1.up1.desc">圖騰定期震擊周圍敵人，造成雷電傷害。相鄰圖騰間產生閃電屏障，對穿過的敵人造成額外傷害</string>
 	<string name="skills.warrior.mastery_2.spell_1.up2.name">霜凍圖騰</string>
-	<string name="skills.warrior.mastery_2.spell_1.up2.desc">圖騰的傷害類型轉換為冰冷傷害，並有機會施加 \cb0dfff冰凍\d。</string>
+	<string name="skills.warrior.mastery_2.spell_1.up2.desc">圖騰的傷害類型轉換為冰冷傷害，並有機會施加 \cb0dfff冰凍\d</string>
 	<string name="skills.warrior.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_2.spell_1.up3.desc"></string>
 
 	<string name="skills.warrior.mastery_2.passive_1.name">震動打擊</string>
-	<string name="skills.warrior.mastery_2.passive_1.desc">使用 \cffdfb0近戰武器\d 攻擊時引發震動波，對範圍內敵人造成物理傷害，此效果有短暫冷卻時間。</string>
+	<string name="skills.warrior.mastery_2.passive_1.desc">使用 \cffdfb0近戰武器\d 攻擊時引發震動波，對範圍內敵人造成物理傷害，此效果有短暫冷卻時間</string>
 	<string name="skills.warrior.mastery_2.passive_1.up1.name">暴風打擊</string>
-	<string name="skills.warrior.mastery_2.passive_1.up1.desc">你的 \cffdfb0近戰武器\d 命中時，有機會對目標與周圍另一隨機敵人造成額外雷電傷害。</string>
+	<string name="skills.warrior.mastery_2.passive_1.up1.desc">你的 \cffdfb0近戰武器\d 命中時，有機會對目標與周圍另一隨機敵人造成額外雷電傷害</string>
 	<string name="skills.warrior.mastery_2.passive_1.up2.name">冰霜打擊</string>
-	<string name="skills.warrior.mastery_2.passive_1.up2.desc">你的 \cffdfb0近戰武器\d 命中時，有機會引發小型爆炸，造成額外冰冷傷害，此效果有短暫冷卻時間。</string>
+	<string name="skills.warrior.mastery_2.passive_1.up2.desc">你的 \cffdfb0近戰武器\d 命中時，有機會引發小型爆炸，造成額外冰冷傷害，此效果有短暫冷卻時間</string>
 	<string name="skills.warrior.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_2.passive_1.up3.desc"></string>
 
@@ -926,20 +926,20 @@
 	<string name="skills.warrior.mastery_3.desc"></string>
 
 	<string name="skills.warrior.mastery_3.spell_1.name">鎖鏈</string>
-	<string name="skills.warrior.mastery_3.spell_1.desc">向四周投擲鎖鏈，對敵人造成物理傷害並附加\cb0dfff跛足 \d 。</string>
+	<string name="skills.warrior.mastery_3.spell_1.desc">向四周投擲鎖鏈，對敵人造成物理傷害並附加\cb0dfff跛足 \d </string>
 	<string name="skills.warrior.mastery_3.spell_1.up1.name">荊棘鎖鏈</string>
-	<string name="skills.warrior.mastery_3.spell_1.up1.desc">鎖鏈附加 \cb0dfff流血\d 堆疊。</string>
+	<string name="skills.warrior.mastery_3.spell_1.up1.desc">鎖鏈附加 \cb0dfff流血\d 堆疊</string>
 	<string name="skills.warrior.mastery_3.spell_1.up2.name">尖刺鎖鏈 </string>
-	<string name="skills.warrior.mastery_3.spell_1.up2.desc">鎖鏈末端釋放尖刺投射物。</string>
+	<string name="skills.warrior.mastery_3.spell_1.up2.desc">鎖鏈末端釋放尖刺投射物</string>
 	<string name="skills.warrior.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.warrior.mastery_3.spell_1.up3.desc"></string>
 	
 	<string name="skills.warrior.mastery_3.passive_1.name">無情</string>
-	<string name="skills.warrior.mastery_3.passive_1.desc">你造成的物理傷害增加，並使 \cffdfb0物理\d 技能有機會附加 \cb0dfff流血\d 堆疊。</string>
+	<string name="skills.warrior.mastery_3.passive_1.desc">你造成的物理傷害增加，並使 \cffdfb0物理\d 技能有機會附加 \cb0dfff流血\d 堆疊</string>
 	<string name="skills.warrior.mastery_3.passive_1.up1.name">爆裂殘骸 </string>
-	<string name="skills.warrior.mastery_3.passive_1.up1.desc">使用 \cffdfb0物理\d 技能擊殺敵人時，有機會觸發爆裂效果，對範圍內敵人造成物理傷害。</string>
+	<string name="skills.warrior.mastery_3.passive_1.up1.desc">使用 \cffdfb0物理\d 技能擊殺敵人時，有機會觸發爆裂效果，對範圍內敵人造成物理傷害</string>
 	<string name="skills.warrior.mastery_3.passive_1.up2.name">屠殺者</string>
-	<string name="skills.warrior.mastery_3.passive_1.up2.desc">對敵人造成的傷害隨其損失的生命值增加。</string>
+	<string name="skills.warrior.mastery_3.passive_1.up2.desc">對敵人造成的傷害隨其損失的生命值增加</string>
 	<string name="skills.warrior.mastery_3.passive_1.up3.name"></string>
 	<string name="skills.warrior.mastery_3.passive_1.up3.desc"></string>
 
@@ -965,60 +965,60 @@
 	<!-- Wizard -->
 
 	<string name="skills.wizard.spell_1.name">魔法飛彈</string>
-	<string name="skills.wizard.spell_1.desc">發射多枚魔法飛彈，尋找附近的敵人並在命中時造成物理傷害。</string>
+	<string name="skills.wizard.spell_1.desc">發射多枚魔法飛彈，尋找附近的敵人並在命中時造成物理傷害</string>
 	<string name="skills.wizard.spell_1.up1.name">飛彈齊射</string>
-	<string name="skills.wizard.spell_1.up1.desc">每次施放時發射額外的飛彈。</string>
+	<string name="skills.wizard.spell_1.up1.desc">每次施放時發射額外的飛彈</string>
 	<string name="skills.wizard.spell_1.up2.name">反彈飛彈</string>
-	<string name="skills.wizard.spell_1.up2.desc">飛彈命中後可跳至額外目標。</string>
+	<string name="skills.wizard.spell_1.up2.desc">飛彈命中後可跳至額外目標</string>
 	<string name="skills.wizard.spell_1.up3.name">震盪衝擊</string>
-	<string name="skills.wizard.spell_1.up3.desc">飛彈有機會附加 \cb0dfff暈眩\d。</string>
+	<string name="skills.wizard.spell_1.up3.desc">飛彈有機會附加 \cb0dfff暈眩\d</string>
 
 	<string name="skills.wizard.spell_2.name">火球術</string>
-	<string name="skills.wizard.spell_2.desc">向目標地點發射一顆火球，爆炸後造成火焰傷害。</string>
+	<string name="skills.wizard.spell_2.desc">向目標地點發射一顆火球，爆炸後造成火焰傷害</string>
 	<string name="skills.wizard.spell_2.up1.name">強化火球</string>
-	<string name="skills.wizard.spell_2.up1.desc">增加爆炸的範圍。</string>
+	<string name="skills.wizard.spell_2.up1.desc">增加爆炸的範圍</string>
 	<string name="skills.wizard.spell_2.up2.name">爆裂波</string>
-	<string name="skills.wizard.spell_2.up2.desc">被火球擊中的敵人會被施加 \cb0dfff緩速\d。</string>
+	<string name="skills.wizard.spell_2.up2.desc">被火球擊中的敵人會被施加 \cb0dfff緩速\d</string>
 	<string name="skills.wizard.spell_2.up3.name">彈跳火球</string>
-	<string name="skills.wizard.spell_2.up3.desc">現在火球可彈跳，並於每次彈跳後觸發爆炸。</string>
+	<string name="skills.wizard.spell_2.up3.desc">現在火球可彈跳，並於每次彈跳後觸發爆炸</string>
 
 	<string name="skills.wizard.passive_1.name">奧術智慧</string>
-	<string name="skills.wizard.passive_1.desc">增加魔力與智力。</string>
+	<string name="skills.wizard.passive_1.desc">增加魔力與智力</string>
 	<string name="skills.wizard.passive_1.up1.name">博學</string>
-	<string name="skills.wizard.passive_1.up1.desc">減少法術冷卻時間。</string>
+	<string name="skills.wizard.passive_1.up1.desc">減少法術冷卻時間</string>
 	<string name="skills.wizard.passive_1.up2.name">奧術武器</string>
-	<string name="skills.wizard.passive_1.up2.desc">你使用 \cffdfb0奧術\d 武器造成的傷害增加。</string>
+	<string name="skills.wizard.passive_1.up2.desc">你使用 \cffdfb0奧術\d 武器造成的傷害增加</string>
 	<string name="skills.wizard.passive_1.up3.name">學習</string>
-	<string name="skills.wizard.passive_1.up3.desc">增加經驗獲取量。</string>
+	<string name="skills.wizard.passive_1.up3.desc">增加經驗獲取量</string>
 
 	<string name="skills.wizard.passive_2.name">屏障</string>
-	<string name="skills.wizard.passive_2.desc">隨時間獲得 \cb0dfff屏障\d 堆疊，受到傷害時消耗堆疊來降低受到的傷害。</string>
+	<string name="skills.wizard.passive_2.desc">隨時間獲得 \cb0dfff屏障\d 堆疊，受到傷害時消耗堆疊來降低受到的傷害</string>
 	<string name="skills.wizard.passive_2.up1.name">火焰護盾</string>
-	<string name="skills.wizard.passive_2.up1.desc">在擁有 \cb0dfff屏障\d 堆疊時受到傷害，會引燃自身周圍的空氣，對附近敵人持續造成火焰傷害。</string>
+	<string name="skills.wizard.passive_2.up1.desc">在擁有 \cb0dfff屏障\d 堆疊時受到傷害，會引燃自身周圍的空氣，對附近敵人持續造成火焰傷害</string>
 	<string name="skills.wizard.passive_2.up2.name">冰霜護殼</string>
-	<string name="skills.wizard.passive_2.up2.desc">在擁有 \cb0dfff屏障\d 堆疊時提升護甲與冰冷抗性，並使攻擊者被附加 \cb0dfff冰凍\d 。</string>
+	<string name="skills.wizard.passive_2.up2.desc">在擁有 \cb0dfff屏障\d 堆疊時提升護甲與冰冷抗性，並使攻擊者被附加 \cb0dfff冰凍\d </string>
 	<string name="skills.wizard.passive_2.up3.name">保護結界</string>
-	<string name="skills.wizard.passive_2.up3.desc">施放 \cffdfb0法術\d 時，有機會獲得屏障堆疊，此效果有短暫冷卻時間。</string>
+	<string name="skills.wizard.passive_2.up3.desc">施放 \cffdfb0法術\d 時，有機會獲得屏障堆疊，此效果有短暫冷卻時間</string>
 
 
 	<string name="skills.wizard.mastery_1.name">咒術師</string>
 	<string name="skills.wizard.mastery_1.desc"></string>
 
 	<string name="skills.wizard.mastery_1.spell_1.name">流星雨</string>
-	<string name="skills.wizard.mastery_1.spell_1.desc">召喚流星雨落下指定區域持續一段時間，造成物理與火焰傷害。</string>
+	<string name="skills.wizard.mastery_1.spell_1.desc">召喚流星雨落下指定區域持續一段時間，造成物理與火焰傷害</string>
 	<string name="skills.wizard.mastery_1.spell_1.up1.name">燃燒地面</string>
-	<string name="skills.wizard.mastery_1.spell_1.up1.desc">流星撞擊地面後產生燃燒區域，在一段時間內造成額外的火焰傷害。</string>
+	<string name="skills.wizard.mastery_1.spell_1.up1.desc">流星撞擊地面後產生燃燒區域，在一段時間內造成額外的火焰傷害</string>
 	<string name="skills.wizard.mastery_1.spell_1.up2.name">彗星</string>
-	<string name="skills.wizard.mastery_1.spell_1.up2.desc">將傷害類型轉換為冰冷與物理傷害，並有機會施加 \cb0dfff冰凍\d。</string>
+	<string name="skills.wizard.mastery_1.spell_1.up2.desc">將傷害類型轉換為冰冷與物理傷害，並有機會施加 \cb0dfff冰凍\d</string>
 	<string name="skills.wizard.mastery_1.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_1.spell_1.up3.desc"></string>
 
 	<string name="skills.wizard.mastery_1.passive_1.name">咒術師的節奏</string>
-	<string name="skills.wizard.mastery_1.passive_1.desc">施放 \cffdfb0法術\d 時會生成 \cb0dfff咒術師的節奏\d 堆疊，每層堆疊增加施法速度並降低法術魔力消耗。</string>
+	<string name="skills.wizard.mastery_1.passive_1.desc">施放 \cffdfb0法術\d 時會生成 \cb0dfff咒術師的節奏\d 堆疊，每層堆疊增加施法速度並降低法術魔力消耗</string>
 	<string name="skills.wizard.mastery_1.passive_1.up1.name">漸強</string>
-	<string name="skills.wizard.mastery_1.passive_1.up1.desc">每層 \cb0dfff咒術師的節奏\d 堆疊增加法術暴擊率。</string>
+	<string name="skills.wizard.mastery_1.passive_1.up1.desc">每層 \cb0dfff咒術師的節奏\d 堆疊增加法術暴擊率</string>
 	<string name="skills.wizard.mastery_1.passive_1.up2.name">咒術師的流動</string>
-	<string name="skills.wizard.mastery_1.passive_1.up2.desc">每層咒術師的節奏堆疊提升武器速度。</string>
+	<string name="skills.wizard.mastery_1.passive_1.up2.desc">每層咒術師的節奏堆疊提升武器速度</string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.desc"></string>
 
@@ -1026,20 +1026,20 @@
 	<string name="skills.wizard.mastery_2.desc"></string>
 
 	<string name="skills.wizard.mastery_2.spell_1.name">召喚九頭蛇</string>
-	<string name="skills.wizard.mastery_2.spell_1.desc">召喚多個九頭蛇向附近敵人噴火，造成火焰傷害。</string>
+	<string name="skills.wizard.mastery_2.spell_1.desc">召喚多個九頭蛇向附近敵人噴火，造成火焰傷害</string>
 	<string name="skills.wizard.mastery_2.spell_1.up1.name">強化九頭蛇</string>
-	<string name="skills.wizard.mastery_2.spell_1.up1.desc">每次施放會召喚更多的九頭蛇頭。</string>
+	<string name="skills.wizard.mastery_2.spell_1.up1.desc">每次施放會召喚更多的九頭蛇頭</string>
 	<string name="skills.wizard.mastery_2.spell_1.up2.name">冰霜吐息</string>
-	<string name="skills.wizard.mastery_2.spell_1.up2.desc">將傷害類型轉換為冰冷傷害。</string>
+	<string name="skills.wizard.mastery_2.spell_1.up2.desc">將傷害類型轉換為冰冷傷害</string>
 	<string name="skills.wizard.mastery_2.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_2.spell_1.up3.desc"></string>
 
 	<string name="skills.wizard.mastery_2.passive_1.name">魔劍</string>
-	<string name="skills.wizard.mastery_2.passive_1.desc">召喚一把隨時跟隨你的魔劍，對附近敵人進行斬擊並造成物理傷害。</string>
+	<string name="skills.wizard.mastery_2.passive_1.desc">召喚一把隨時跟隨你的魔劍，對附近敵人進行斬擊並造成物理傷害</string>
 	<string name="skills.wizard.mastery_2.passive_1.up1.name">火焰劍</string>
-	<string name="skills.wizard.mastery_2.passive_1.up1.desc">魔劍被火焰覆蓋，持續對附近敵人造成火焰傷害。</string>
+	<string name="skills.wizard.mastery_2.passive_1.up1.desc">魔劍被火焰覆蓋，持續對附近敵人造成火焰傷害</string>
 	<string name="skills.wizard.mastery_2.passive_1.up2.name">冰霜劍</string>
-	<string name="skills.wizard.mastery_2.passive_1.up2.desc">魔劍改為造成冰冷傷害，並有機會施加 \cb0dfff冰凍\d 。</string>
+	<string name="skills.wizard.mastery_2.passive_1.up2.desc">魔劍改為造成冰冷傷害，並有機會施加 \cb0dfff冰凍\d </string>
 	<string name="skills.wizard.mastery_2.passive_1.up3.name"></string>
 	<string name="skills.wizard.mastery_2.passive_1.up3.desc"></string>
 
@@ -1047,22 +1047,22 @@
 	<string name="skills.wizard.mastery_3.desc"></string>
 
 	<string name="skills.wizard.mastery_3.spell_1.name">加速</string>
-	<string name="skills.wizard.mastery_3.spell_1.desc">獲得一個臨時增益，增加武器、施法與移動速度。</string>
+	<string name="skills.wizard.mastery_3.spell_1.desc">獲得一個臨時增益，增加武器、施法與移動速度</string>
 	<string name="skills.wizard.mastery_3.spell_1.up1.name">模糊</string>
-	<string name="skills.wizard.mastery_3.spell_1.up1.desc">同時在持續時間內提升閃避率。</string>
+	<string name="skills.wizard.mastery_3.spell_1.up1.desc">同時在持續時間內提升閃避率</string>
 	<string name="skills.wizard.mastery_3.spell_1.up2.name">時間轉移</string>
-	<string name="skills.wizard.mastery_3.spell_1.up2.desc">增益期間會對附近敵人施加 \cb0dfff緩速\d。</string>
+	<string name="skills.wizard.mastery_3.spell_1.up2.desc">增益期間會對附近敵人施加 \cb0dfff緩速\d</string>
 	<string name="skills.wizard.mastery_3.spell_1.up3.name"></string>
 	<string name="skills.wizard.mastery_3.spell_1.up3.desc"></string>
 	
 	<string name="skills.wizard.mastery_3.passive_1.name">強化體魄</string>
-	<string name="skills.wizard.mastery_3.passive_1.desc">根據每等角色等級額外提升力量、敏捷與智力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.desc">根據每等角色等級額外提升力量、敏捷與智力</string>
 	<string name="skills.wizard.mastery_3.passive_1.up1.name">強化力量</string>
-	<string name="skills.wizard.mastery_3.passive_1.up1.desc">根據每點力量額外增加法術威力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up1.desc">根據每點力量額外增加法術威力</string>
 	<string name="skills.wizard.mastery_3.passive_1.up2.name">強化敏捷</string>
-	<string name="skills.wizard.mastery_3.passive_1.up2.desc">根據每點敏捷額外增加法術威力。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up2.desc">根據每點敏捷額外增加法術威力</string>
 	<string name="skills.wizard.mastery_3.passive_1.up3.name">自由移動</string>
-	<string name="skills.wizard.mastery_3.passive_1.up3.desc">獲得 \cb0dfff緩速\d  與 \cb0dfff跛足\d 免疫。</string>
+	<string name="skills.wizard.mastery_3.passive_1.up3.desc">獲得 \cb0dfff緩速\d  與 \cb0dfff跛足\d 免疫</string>
 
 
 
@@ -1103,46 +1103,46 @@
 	<string name="menu.crafting.scales.title">鱗甲匠</string>
 
 	<string name="menu.crafting.slot.tier.name">階級</string>
-	<string name="menu.crafting.slot.tier.desc">選擇要製作的物品階級。</string>
+	<string name="menu.crafting.slot.tier.desc">選擇要製作的物品階級</string>
 	<string name="menu.crafting.slot.quality.name">品質</string>
-	<string name="menu.crafting.slot.quality.desc">選擇要製作的物品品質。</string>
+	<string name="menu.crafting.slot.quality.desc">選擇要製作的物品品質</string>
 	<string name="menu.crafting.slot.blueprint.name">藍圖</string>
-	<string name="menu.crafting.slot.blueprint.desc">選擇要製作的物品。</string>
+	<string name="menu.crafting.slot.blueprint.desc">選擇要製作的物品</string>
 	<string name="menu.crafting.slot.meal.name">餐點食譜</string>
-	<string name="menu.crafting.slot.meal.desc">選擇要烹飪的餐點。</string>
+	<string name="menu.crafting.slot.meal.desc">選擇要烹飪的餐點</string>
 	<string name="menu.crafting.slot.potion.name">藥水配方</string>
-	<string name="menu.crafting.slot.potion.desc">選擇要製作的藥水。</string>
+	<string name="menu.crafting.slot.potion.desc">選擇要製作的藥水</string>
 	<string name="menu.crafting.slot.bottle.name">瓶子</string>
-	<string name="menu.crafting.slot.bottle.desc">選擇要用於藥水的瓶子。</string>
+	<string name="menu.crafting.slot.bottle.desc">選擇要用於藥水的瓶子</string>
 
 	<string name="menu.enchanting.title">附魔</string>
 	<string name="menu.enchanting.slot.equipment.name">附魔</string>
-	<string name="menu.enchanting.slot.equipment.desc">升級選定的裝備以新增隨機詞條。</string>
+	<string name="menu.enchanting.slot.equipment.desc">升級選定的裝備以新增隨機詞條</string>
 	<string name="menu.enchanting.slot.component.name">組件</string>
 	<string name="menu.enchanting.slot.component.desc">將組件套用在附魔中，以新增預定義詞條。 </string>
 	<string name="menu.disenchanting.title">解除附魔</string>
 	<string name="menu.disenchanting.slot.equipment.name">解除附魔</string>
-	<string name="menu.disenchanting.slot.equipment.desc">摧毀選定的裝備以獲得精靈符文。</string>
+	<string name="menu.disenchanting.slot.equipment.desc">摧毀選定的裝備以獲得精靈符文</string>
 	<string name="menu.reenchanting.title">重新附魔</string>
 	<string name="menu.reenchanting.slot.equipment.name">重新附魔</string>
-	<string name="menu.reenchanting.slot.equipment.desc">重新擲骰以改變選定裝備的詞條。</string>
+	<string name="menu.reenchanting.slot.equipment.desc">重新擲骰以改變選定裝備的詞條</string>
 
 	<string name="crafting.blueprint.apprentice.name">學徒</string>
-	<string name="crafting.blueprint.apprentice.desc">製作學徒階級物品。</string>
+	<string name="crafting.blueprint.apprentice.desc">製作學徒階級物品</string>
 	<string name="crafting.blueprint.adept.name">熟練</string>
 	<string name="crafting.blueprint.adept.desc">製作熟練階級物品</string>
 	<string name="crafting.blueprint.expert.name">專家</string>
-	<string name="crafting.blueprint.expert.desc">製作專家階級物品。</string>
+	<string name="crafting.blueprint.expert.desc">製作專家階級物品</string>
 	<string name="crafting.blueprint.master.name">大師</string>
-	<string name="crafting.blueprint.master.desc">製作大師階級物品。</string>
+	<string name="crafting.blueprint.master.desc">製作大師階級物品</string>
 	<string name="crafting.blueprint.common.name">普通</string>
-	<string name="crafting.blueprint.common.desc">製作普通品質物品。</string>
+	<string name="crafting.blueprint.common.desc">製作普通品質物品</string>
 	<string name="crafting.blueprint.uncommon.name">罕見</string>
-	<string name="crafting.blueprint.uncommon.desc">製作罕見品質物品。</string>
+	<string name="crafting.blueprint.uncommon.desc">製作罕見品質物品</string>
 	<string name="crafting.blueprint.rare.name">稀有</string>
-	<string name="crafting.blueprint.rare.desc">製作稀有品質物品。</string>
+	<string name="crafting.blueprint.rare.desc">製作稀有品質物品</string>
 	<string name="crafting.blueprint.epic.name">史詩</string>
-	<string name="crafting.blueprint.epic.desc">製作史詩品質物品。</string>
+	<string name="crafting.blueprint.epic.desc">製作史詩品質物品</string>
 
 	<string name="crafting.blueprint.chest_str.name">鎧甲</string>
 	<string name="crafting.blueprint.chest_dex.name">皮甲</string>
@@ -1171,11 +1171,11 @@
 	<string name="crafting.blueprint.wizard.offhand.name">巫師副手</string>
 
 	<string name="crafting.blueprint.potion.health.name">治療藥水</string>
-	<string name="crafting.blueprint.potion.health.desc">恢復生命值。</string>
+	<string name="crafting.blueprint.potion.health.desc">恢復生命值</string>
 	<string name="crafting.blueprint.potion.mana.name">魔力藥水</string>
-	<string name="crafting.blueprint.potion.mana.desc">恢復魔力值。</string>
+	<string name="crafting.blueprint.potion.mana.desc">恢復魔力值</string>
 	<string name="crafting.blueprint.potion.rejuvenation.name">回春藥水</string>
-	<string name="crafting.blueprint.potion.rejuvenation.desc">恢復少量生命值、魔力值與體力。</string>
+	<string name="crafting.blueprint.potion.rejuvenation.desc">恢復少量生命值、魔力值與體力</string>
 
 	<string name="crafting.blueprint.leather.name">皮革 (%type%)</string>
 
@@ -1201,51 +1201,51 @@
 
 	<string name="modifiers.defences.damage.prefix">守護者的</string>
 	<string name="modifiers.defences.damage.suffix">保護</string>
-	<string name="modifiers.defences.damage.desc">%desc%% 減少受到的傷害。</string>
-	<string name="modifiers.defences.damage.stand.desc">%desc%% 減少停止移動時受到的傷害。</string>
+	<string name="modifiers.defences.damage.desc">%desc%% 減少受到的傷害</string>
+	<string name="modifiers.defences.damage.stand.desc">%desc%% 減少停止移動時受到的傷害</string>
 
 	<string name="modifiers.defences.evasion.prefix">滑溜的</string>
 	<string name="modifiers.defences.evasion.suffix">閃避</string>
 	<string name="modifiers.defences.block.physical.prefix">防衛者的</string>
 	<string name="modifiers.defences.block.physical.suffix">防衛者</string>
-	<string name="modifiers.defences.block.physical.desc">格擋 %value% 物理傷害。</string>
-	<string name="modifiers.defences.block.fire.desc">格擋 %value% 火焰傷害。</string>
-	<string name="modifiers.defences.block.ice.desc">格擋 %value% 冰冷傷害。</string>
-	<string name="modifiers.defences.block.lightning.desc">格擋 %value% 閃電傷害。</string>
-	<string name="modifiers.defences.block.poison.desc">格擋 %value% 毒素傷害。</string>
-	<string name="modifiers.defences.block.any.desc">格擋 %value% 傷害。</string>
-	<string name="modifiers.defences.block_chance.physical.desc">%chance%% 的機率格擋 %value% 物理傷害。</string>
-	<string name="modifiers.defences.block_chance.fire.desc">%chance%% 的機率格擋 %value% 火焰傷害。</string>
-	<string name="modifiers.defences.block_chance.ice.desc">%chance%% 的機率格擋 %value% 冰冷傷害。</string>
-	<string name="modifiers.defences.block_chance.lightning.desc">%chance%% 的機率格擋 %value% 閃電傷害。</string>
-	<string name="modifiers.defences.block_chance.poison.desc">%chance%% 的機率格擋 %value% 毒素傷害。</string>
-	<string name="modifiers.defences.block_chance.any.desc">%chance%% 的機率格擋 %value% 傷害。</string>
+	<string name="modifiers.defences.block.physical.desc">格擋 %value% 物理傷害</string>
+	<string name="modifiers.defences.block.fire.desc">格擋 %value% 火焰傷害</string>
+	<string name="modifiers.defences.block.ice.desc">格擋 %value% 冰冷傷害</string>
+	<string name="modifiers.defences.block.lightning.desc">格擋 %value% 閃電傷害</string>
+	<string name="modifiers.defences.block.poison.desc">格擋 %value% 毒素傷害</string>
+	<string name="modifiers.defences.block.any.desc">格擋 %value% 傷害</string>
+	<string name="modifiers.defences.block_chance.physical.desc">%chance%% 的機率格擋 %value% 物理傷害</string>
+	<string name="modifiers.defences.block_chance.fire.desc">%chance%% 的機率格擋 %value% 火焰傷害</string>
+	<string name="modifiers.defences.block_chance.ice.desc">%chance%% 的機率格擋 %value% 冰冷傷害</string>
+	<string name="modifiers.defences.block_chance.lightning.desc">%chance%% 的機率格擋 %value% 閃電傷害</string>
+	<string name="modifiers.defences.block_chance.poison.desc">%chance%% 的機率格擋 %value% 毒素傷害</string>
+	<string name="modifiers.defences.block_chance.any.desc">%chance%% 的機率格擋 %value% 傷害</string>
 
 	<string name="modifiers.damage.all.prefix"></string>
 	<string name="modifiers.damage.all.suffix">殲滅</string>
-	<string name="modifiers.damage.all.desc">%desc%% 增加傷害。</string>
+	<string name="modifiers.damage.all.desc">%desc%% 增加傷害</string>
 	<string name="modifiers.damage.attack.prefix"></string>
 	<string name="modifiers.damage.attack.suffix">屠宰</string>
-	<string name="modifiers.damage.attack.desc">%desc%% 增加攻擊造成的傷害。</string>
+	<string name="modifiers.damage.attack.desc">%desc%% 增加攻擊造成的傷害</string>
 
 	<string name="modifiers.damage.spell.prefix"></string>
 	<string name="modifiers.damage.spell.suffix">英勇</string>
-	<string name="modifiers.damage.spell.desc">%desc%% 增加法術造成的傷害。</string>
+	<string name="modifiers.damage.spell.desc">%desc%% 增加法術造成的傷害</string>
 	<string name="modifiers.damage.beast.prefix">陷阱者的</string>
 	<string name="modifiers.damage.beast.suffix">獵人</string>
-	<string name="modifiers.damage.beast.desc">%desc%% 增加對野獸的傷害。</string>
+	<string name="modifiers.damage.beast.desc">%desc%% 增加對野獸的傷害</string>
 	<string name="modifiers.damage.human.prefix">暴君的</string>
 	<string name="modifiers.damage.human.suffix">暴君</string>
-	<string name="modifiers.damage.human.desc">%desc%% 增加對人類的傷害。</string>
+	<string name="modifiers.damage.human.desc">%desc%% 增加對人類的傷害</string>
 	<string name="modifiers.damage.undead.prefix">聖者的</string>
 	<string name="modifiers.damage.undead.suffix">熾天使</string>
-	<string name="modifiers.damage.undead.desc">%desc%% 增加對不死生物的傷害。</string>
+	<string name="modifiers.damage.undead.desc">%desc%% 增加對不死生物的傷害</string>
 	<string name="modifiers.damage.elites.prefix">挑戰者的</string>
 	<string name="modifiers.damage.elites.suffix">決鬥者</string>
-	<string name="modifiers.damage.elites.desc">%desc%% 增加對精英和高等敵人的傷害。</string>
+	<string name="modifiers.damage.elites.desc">%desc%% 增加對精英和高等敵人的傷害</string>
 	<string name="modifiers.damage.bosses.prefix">英雄的</string>
 	<string name="modifiers.damage.bosses.suffix">冠軍</string>
-	<string name="modifiers.damage.bosses.desc">%desc%% 增加對Boss的傷害。</string>
+	<string name="modifiers.damage.bosses.desc">%desc%% 增加對Boss的傷害</string>
 	<string name="modifiers.damage.physical.prefix">大屠殺的</string>
 	<string name="modifiers.damage.physical.suffix">戰爭</string>
 	<string name="modifiers.damage.fire.prefix">地獄之火的</string>
@@ -1273,27 +1273,27 @@
 	<string name="modifiers.misc.experience.suffix">啟蒙</string>
 	<string name="modifiers.misc.kill_health.prefix">掠食者的</string>
 	<string name="modifiers.misc.kill_health.suffix">捕食者</string>
-	<string name="modifiers.misc.kill_health.desc">擊殺時恢復 %value% 生命。</string>
+	<string name="modifiers.misc.kill_health.desc">擊殺時恢復 %value% 生命</string>
 	<string name="modifiers.misc.kill_stamina.prefix">重裝者的</string>
 	<string name="modifiers.misc.kill_stamina.suffix">重裝戰士</string>
-	<string name="modifiers.misc.kill_stamina.desc">擊殺時恢復 %value% 體力。</string>
+	<string name="modifiers.misc.kill_stamina.desc">擊殺時恢復 %value% 體力</string>
 	<string name="modifiers.misc.kill_mana.prefix">巫師的</string>
 	<string name="modifiers.misc.kill_mana.suffix">巫師</string>
-	<string name="modifiers.misc.kill_mana.desc">擊殺時恢復 %value% 魔力。</string>
-	<string name="modifiers.misc.kill_mana_undead.desc">擊殺不死生物時恢復 %value% 魔力。</string>
-	<string name="modifiers.misc.slow_effect.desc">減少 %value%% 的緩速效果。</string>
-	<string name="modifiers.misc.miss.attack.desc">%value%% 的攻擊失誤機率。</string>
+	<string name="modifiers.misc.kill_mana.desc">擊殺時恢復 %value% 魔力</string>
+	<string name="modifiers.misc.kill_mana_undead.desc">擊殺不死生物時恢復 %value% 魔力</string>
+	<string name="modifiers.misc.slow_effect.desc">減少 %value%% 的緩速效果</string>
+	<string name="modifiers.misc.miss.attack.desc">%value%% 的攻擊失誤機率</string>
 
-	<string name="modifiers.full_health.damage.desc">%value%% 提升滿血時的傷害。</string>
-	<string name="modifiers.full_health.damage.attack.desc">%value%% 提升滿血時攻擊造成的傷害。</string>
-	<string name="modifiers.full_health.damage.spell.desc">%value%% 提升滿血時法術造成的傷害。</string>
-	<string name="modifiers.full_health.damage_taken.desc">%value%% 減少滿血時受到的傷害。</string>
+	<string name="modifiers.full_health.damage.desc">%value%% 提升滿血時的傷害</string>
+	<string name="modifiers.full_health.damage.attack.desc">%value%% 提升滿血時攻擊造成的傷害</string>
+	<string name="modifiers.full_health.damage.spell.desc">%value%% 提升滿血時法術造成的傷害</string>
+	<string name="modifiers.full_health.damage_taken.desc">%value%% 減少滿血時受到的傷害</string>
 
-	<string name="modifiers.low_health.damage.desc">%value%% 提升低生命時的傷害。</string>
-	<string name="modifiers.low_health.damage.attack.desc">%value%% 提升低生命時攻擊造成的傷害。</string>
-	<string name="modifiers.low_health.damage.spell.desc">%value%% 提升低生命時法術造成的傷害。</string>
-	<string name="modifiers.low_health.damage_taken.desc">%value%% 減少低生命時受到的傷害。</string>
-	<string name="modifiers.low_health.health_regen.desc">%value%% 提升低生命時的生命恢復。</string>
+	<string name="modifiers.low_health.damage.desc">%value%% 提升低生命時的傷害</string>
+	<string name="modifiers.low_health.damage.attack.desc">%value%% 提升低生命時攻擊造成的傷害</string>
+	<string name="modifiers.low_health.damage.spell.desc">%value%% 提升低生命時法術造成的傷害</string>
+	<string name="modifiers.low_health.damage_taken.desc">%value%% 減少低生命時受到的傷害</string>
+	<string name="modifiers.low_health.health_regen.desc">%value%% 提升低生命時的生命恢復</string>
 
 	<string name="modifiers.resistances.all.prefix"></string>
 	<string name="modifiers.resistances.all.suffix">抗性</string>
@@ -1332,23 +1332,23 @@
 	<string name="modifiers.skills.spell_crit_dmg.suffix">霸主</string>
 	<string name="modifiers.skills.spell_cost.prefix">咒術師的</string>
 	<string name="modifiers.skills.spell_cost.suffix">高效</string>
-	<string name="modifiers.skills.spell_cost.desc">降低 %desc%% 法術消耗。</string>
+	<string name="modifiers.skills.spell_cost.desc">降低 %desc%% 法術消耗</string>
 	<string name="modifiers.skills.spell_cooldown.prefix">編織法術者的</string>
 	<string name="modifiers.skills.spell_cooldown.suffix">迅捷</string>
-	<string name="modifiers.skills.spell_cooldown.desc">縮短 %cd%% 法術冷卻時間。</string>
+	<string name="modifiers.skills.spell_cooldown.desc">縮短 %cd%% 法術冷卻時間</string>
 
-	<string name="modifiers.skills.leech.health.desc">%value%% 生命吸取。</string>
-	<string name="modifiers.skills.leech.mana.desc">%value%% 魔力吸取。</string>
+	<string name="modifiers.skills.leech.health.desc">%value%% 生命吸取</string>
+	<string name="modifiers.skills.leech.mana.desc">%value%% 魔力吸取</string>
 	<string name="modifiers.skills.leech.stamina.desc">%value%% 體力吸取</string>
-	<string name="modifiers.skills.leech.attack_health.desc">%value%% 攻擊生命吸取。</string>
-	<string name="modifiers.skills.leech.attack_mana.desc">%value%% 攻擊魔力吸取。</string>
-	<string name="modifiers.skills.leech.attack_stamina.desc">%value%% 攻擊體力吸取。</string>
-	<string name="modifiers.skills.leech.spell_health.desc">%value%% 法術生命吸取。</string>
-	<string name="modifiers.skills.leech.spell_mana.desc">%value%% 法術魔力吸取。</string>
-	<string name="modifiers.skills.leech.spell_stamina.desc">%value%% 法術體力吸取。</string>
+	<string name="modifiers.skills.leech.attack_health.desc">%value%% 攻擊生命吸取</string>
+	<string name="modifiers.skills.leech.attack_mana.desc">%value%% 攻擊魔力吸取</string>
+	<string name="modifiers.skills.leech.attack_stamina.desc">%value%% 攻擊體力吸取</string>
+	<string name="modifiers.skills.leech.spell_health.desc">%value%% 法術生命吸取</string>
+	<string name="modifiers.skills.leech.spell_mana.desc">%value%% 法術魔力吸取</string>
+	<string name="modifiers.skills.leech.spell_stamina.desc">%value%% 法術體力吸取</string>
 
-	<string name="modifiers.skills.leech.attack_health.crit.desc">攻擊暴擊時 %value%% 生命吸取。</string>
-	<string name="modifiers.skills.leech.attack_health.bleeding.desc">對已被 %c-highlight%流血\d 影響的目標，%value%% 攻擊生命吸取。</string>
+	<string name="modifiers.skills.leech.attack_health.crit.desc">攻擊暴擊時 %value%% 生命吸取</string>
+	<string name="modifiers.skills.leech.attack_health.bleeding.desc">對已被 %c-highlight%流血\d 影響的目標，%value%% 攻擊生命吸取</string>
 
 	<string name="modifiers.stats.health.prefix">堅韌的</string>
 	<string name="modifiers.stats.health.suffix">耐力</string>
@@ -1394,70 +1394,70 @@
 
 	<string name="modifiers.debuff.armor_break.prefix">破甲的</string>
 	<string name="modifiers.debuff.armor_break.suffix">破甲</string>
-	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%破甲\d。</string>
+	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%破甲\d</string>
 	<string name="modifiers.debuff.bleeding.prefix">流血的</string>
 	<string name="modifiers.debuff.bleeding.suffix">流血</string>
-	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%流血\d。</string>
+	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%流血\d</string>
 	<string name="modifiers.debuff.cripple.prefix">使癱瘓的</string>
 	<string name="modifiers.debuff.cripple.suffix">癱瘓</string>
-	<string name="modifiers.debuff.cripple.desc">%value%% 機率造成 %c-highlight%跛足\d。</string>
+	<string name="modifiers.debuff.cripple.desc">%value%% 機率造成 %c-highlight%跛足\d</string>
 	<string name="modifiers.debuff.disarm.prefix">解除武裝的</string>
 	<string name="modifiers.debuff.disarm.suffix">繳械</string>
-	<string name="modifiers.debuff.disarm.desc">%value%% 機率造成 %c-highlight%繳械\d。</string>
+	<string name="modifiers.debuff.disarm.desc">%value%% 機率造成 %c-highlight%繳械\d</string>
 	<string name="modifiers.debuff.freeze.prefix">冰凍的</string>
 	<string name="modifiers.debuff.freeze.suffix">冰凍</string>
 	<string name="modifiers.debuff.freeze.desc">%value%% 機率造成 %c-highlight%冰凍\d</string>
 	<string name="modifiers.debuff.immobilize.prefix">使無法移動的</string>
 	<string name="modifiers.debuff.immobilize.suffix">禁錮</string>
-	<string name="modifiers.debuff.immobilize.desc">%value%% 機率造成 %c-highlight%禁錮\d。</string>
+	<string name="modifiers.debuff.immobilize.desc">%value%% 機率造成 %c-highlight%禁錮\d</string>
 	<string name="modifiers.debuff.marked.prefix">標記的</string>
 	<string name="modifiers.debuff.marked.suffix">標記</string>
-	<string name="modifiers.debuff.marked.desc">%value%% 機率造成 %c-highlight%標記\d。</string>
+	<string name="modifiers.debuff.marked.desc">%value%% 機率造成 %c-highlight%標記\d</string>
 	<string name="modifiers.debuff.silence.prefix">沉默的</string>
 	<string name="modifiers.debuff.silence.suffix">寂靜</string>
-	<string name="modifiers.debuff.silence.desc">%value%% 機率造成 %c-highlight%沉默\d。</string>
+	<string name="modifiers.debuff.silence.desc">%value%% 機率造成 %c-highlight%沉默\d</string>
 	<string name="modifiers.debuff.slow.prefix">減速的</string>
 	<string name="modifiers.debuff.slow.suffix">減速</string>
-	<string name="modifiers.debuff.slow.desc">%value%% 機率造成 %c-highlight%緩速\d。</string>
+	<string name="modifiers.debuff.slow.desc">%value%% 機率造成 %c-highlight%緩速\d</string>
 	<string name="modifiers.debuff.stun.prefix">眩暈的</string>
 	<string name="modifiers.debuff.stun.suffix">昏迷</string>
-	<string name="modifiers.debuff.stun.desc">%value%% 機率造成 %c-highlight%暈眩\d。</string>
-	<string name="modifiers.debuff.stun_minor.desc">%value%% 機率造成 %c-highlight%輕微暈眩\d。</string>
+	<string name="modifiers.debuff.stun.desc">%value%% 機率造成 %c-highlight%暈眩\d</string>
+	<string name="modifiers.debuff.stun_minor.desc">%value%% 機率造成 %c-highlight%輕微暈眩\d</string>
 	<string name="modifiers.debuff.stun_greater.desc">%value%% 機率造成 %c-highlight%強效暈眩\d</string>
 	<string name="modifiers.debuff.vulnerability.prefix">脆弱的</string>
 	<string name="modifiers.debuff.vulnerability.suffix">脆弱</string>
-	<string name="modifiers.debuff.vulnerability.desc">%value%% 機率造成 %c-highlight%脆弱\d。</string>
+	<string name="modifiers.debuff.vulnerability.desc">%value%% 機率造成 %c-highlight%脆弱\d</string>
 	<string name="modifiers.debuff.weakness.prefix">虛弱的</string>
 	<string name="modifiers.debuff.weakness.suffix">虛弱</string>
-	<string name="modifiers.debuff.weakness.desc">%value%% 機率造成 %c-highlight%虛弱\d。</string>
+	<string name="modifiers.debuff.weakness.desc">%value%% 機率造成 %c-highlight%虛弱\d</string>
 
-	<string name="modifiers.debuff.immune.armor_break.desc">你免疫 %c-highlight%破甲\d。</string>
-	<string name="modifiers.debuff.immune.bleeding.desc">你免疫 %c-highlight%流血\d。</string>
-	<string name="modifiers.debuff.immune.blindness.desc">你免疫 %c-highlight%致盲\d。</string>
-	<string name="modifiers.debuff.immune.cripple.desc">你免疫 %c-highlight%跛足\d。</string>
-	<string name="modifiers.debuff.immune.disarm.desc">你免疫 %c-highlight%繳械\d。</string>
-	<string name="modifiers.debuff.immune.freeze.desc">你免疫 %c-highlight%冰凍\d。</string>
-	<string name="modifiers.debuff.immune.immobilize.desc">你免疫 %c-highlight%禁錮\d。</string>
-	<string name="modifiers.debuff.immune.marked.desc">你免疫 %c-highlight%標記\d。</string>
-	<string name="modifiers.debuff.immune.silence">你免疫 %c-highlight%沉默\d。</string>
-	<string name="modifiers.debuff.immune.slow.desc">你免疫 %c-highlight%緩速\d。</string>
-	<string name="modifiers.debuff.immune.stun.desc">你免疫 %c-highlight%暈眩\d 。</string>
-	<string name="modifiers.debuff.immune.vulnerability.desc">你免疫 %c-highlight%脆弱\d。</string>
-	<string name="modifiers.debuff.immune.weakness.desc">你免疫 %c-highlight%虛弱\d。</string>
+	<string name="modifiers.debuff.immune.armor_break.desc">你免疫 %c-highlight%破甲\d</string>
+	<string name="modifiers.debuff.immune.bleeding.desc">你免疫 %c-highlight%流血\d</string>
+	<string name="modifiers.debuff.immune.blindness.desc">你免疫 %c-highlight%致盲\d</string>
+	<string name="modifiers.debuff.immune.cripple.desc">你免疫 %c-highlight%跛足\d</string>
+	<string name="modifiers.debuff.immune.disarm.desc">你免疫 %c-highlight%繳械\d</string>
+	<string name="modifiers.debuff.immune.freeze.desc">你免疫 %c-highlight%冰凍\d</string>
+	<string name="modifiers.debuff.immune.immobilize.desc">你免疫 %c-highlight%禁錮\d</string>
+	<string name="modifiers.debuff.immune.marked.desc">你免疫 %c-highlight%標記\d</string>
+	<string name="modifiers.debuff.immune.silence">你免疫 %c-highlight%沉默\d</string>
+	<string name="modifiers.debuff.immune.slow.desc">你免疫 %c-highlight%緩速\d</string>
+	<string name="modifiers.debuff.immune.stun.desc">你免疫 %c-highlight%暈眩\d </string>
+	<string name="modifiers.debuff.immune.vulnerability.desc">你免疫 %c-highlight%脆弱\d</string>
+	<string name="modifiers.debuff.immune.weakness.desc">你免疫 %c-highlight%虛弱\d</string>
 
 	<string name="modifiers.projectiles.piercing.prefix">穿透的</string>
 	<string name="modifiers.projectiles.piercing.suffix">穿透</string>
-	<string name="modifiers.projectiles.piercing.desc">%desc% 投射物穿透。</string>
+	<string name="modifiers.projectiles.piercing.desc">%desc% 投射物穿透</string>
 	<string name="modifiers.projectiles.bouncing.prefix">彈跳的</string>
 	<string name="modifiers.projectiles.bouncing.suffix">彈跳</string>
-	<string name="modifiers.projectiles.bouncing.desc">%desc% 投射物彈跳。</string>
+	<string name="modifiers.projectiles.bouncing.desc">%desc% 投射物彈跳</string>
 
-	<string name="modifiers.return.physical.desc">當受到傷害時，反彈 %value% 物理傷害給攻擊者。</string>
-	<string name="modifiers.return.fire.desc">當受到傷害時，反彈 %value% 火焰傷害給攻擊者。</string>
-	<string name="modifiers.return.ice.desc">當受到傷害時，反彈 %value% 冰冷傷害給攻擊者。</string>
-	<string name="modifiers.return.lightning.desc">當受到傷害時，反彈 %value% 閃電傷害給攻擊者。</string>
-	<string name="modifiers.return.poison.desc">當受到傷害時，反彈 %value% 毒素傷害給攻擊者。</string>
-	<string name="modifiers.return.pure.desc">當受到傷害時，反彈 %value% 純粹傷害給攻擊者。</string>
+	<string name="modifiers.return.physical.desc">當受到傷害時，反彈 %value% 物理傷害給攻擊者</string>
+	<string name="modifiers.return.fire.desc">當受到傷害時，反彈 %value% 火焰傷害給攻擊者</string>
+	<string name="modifiers.return.ice.desc">當受到傷害時，反彈 %value% 冰冷傷害給攻擊者</string>
+	<string name="modifiers.return.lightning.desc">當受到傷害時，反彈 %value% 閃電傷害給攻擊者</string>
+	<string name="modifiers.return.poison.desc">當受到傷害時，反彈 %value% 毒素傷害給攻擊者</string>
+	<string name="modifiers.return.pure.desc">當受到傷害時，反彈 %value% 純粹傷害給攻擊者</string>
 
 	<string name="modifiers.enchant.gemstone_blue.prefix">海藍寶的</string>
 	<string name="modifiers.enchant.gemstone_blue.suffix">冰霜保護</string>
@@ -1499,10 +1499,10 @@
 	<string name="modifiers.enchant.thunderbird_feather.prefix">風暴的</string>
 	<string name="modifiers.enchant.thunderbird_feather.suffix">雷鳥</string>
 
-	<string name="modifiers.class.ranger.wolf_add.desc">你可以召喚額外 %value% %c-highlight%狼同伴\d。</string>
-	<string name="modifiers.class.rogue.knives_speed.desc">%c-highlight%投擲小刀\d %value%% 攻擊速度。</string>
+	<string name="modifiers.class.ranger.wolf_add.desc">你可以召喚額外 %value% %c-highlight%狼同伴\d</string>
+	<string name="modifiers.class.rogue.knives_speed.desc">%c-highlight%投擲小刀\d %value%% 攻擊速度</string>
 
-	<string name="modifiers.unique.potion_health.desc">使用藥水時恢復 %amount% 生命。</string>
+	<string name="modifiers.unique.potion_health.desc">使用藥水時恢復 %amount% 生命</string>
 
 
 
@@ -1704,4 +1704,19 @@
 
 
 
+
+
+
+	<string name="stacks.paladin.inner_flame.name">內焰</string>
+	<string name="stacks.paladin.inner_flame.desc">對周圍敵人造成火焰傷害的光環</string>
+	<string name="stacks.ranger.rhythm.name">節奏</string>
+	<string name="stacks.ranger.rhythm.desc">每層節奏增加你的武器暴擊率與暴擊傷害</string>
+	<string name="stacks.warlock.essence.name">精華</string>
+	<string name="stacks.warlock.essence.desc">每層增加你的最大生命值與魔力值</string>
+	<string name="stacks.warrior.killing_spree.name">殺戮狂歡</string>
+	<string name="stacks.warrior.killing_spree.desc">每層增加你的傷害</string>
+	<string name="stacks.wizard.barrier.name">屏障</string>
+	<string name="stacks.wizard.barrier.desc">每層減少受到的傷害</string>
+	<string name="stacks.wizard.incanters_flow.name">咒術師的節奏</string>
+	<string name="stacks.wizard.incanters_flow.desc">每層增加你的施法速度並降低法術魔力消耗</string>
 </lang>

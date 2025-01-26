@@ -6,56 +6,55 @@
 	<string name="item.system.eqipment_pfx_sfx">%prefix% %base% %suffix%</string>
 
 
-	<string name="equipment.mainhand.axe.1a">戰鬥短斧</string>
+	<string name="equipment.mainhand.axe.1a">戰鬥手斧</string>
 	<string name="equipment.mainhand.axe.2a">戰斧</string>
-	<string name="equipment.mainhand.axe.3a">雙刃戰斧</string>
-	<string name="equipment.mainhand.axe.4a">皇家戰斧</string>
+	<string name="equipment.mainhand.axe.3a">雙頭戰斧</string>
+	<string name="equipment.mainhand.axe.4a">皇家巨斧</string>
 
-	<string name="equipment.mainhand.mace.1a">圓頭戰錘</string>
-	<string name="equipment.mainhand.mace.2a">翼刃戰錘</string>
+	<string name="equipment.mainhand.mace.1a">圓頭錘</string>
+	<string name="equipment.mainhand.mace.2a">凸緣錘</string>
 	<string name="equipment.mainhand.mace.3a">戰錘</string>
-	<string name="equipment.mainhand.mace.4a">華麗戰錘</string>
+	<string name="equipment.mainhand.mace.4a">皇家戰錘</string>
 
 	<string name="equipment.mainhand.longsword.1a">長劍</string>
-	<string name="equipment.mainhand.longsword.2a">雙手長劍</string>
+	<string name="equipment.mainhand.longsword.2a">混種劍</string>
 	<string name="equipment.mainhand.longsword.3a">戰劍</string>
 	<string name="equipment.mainhand.longsword.4a">白金劍</string>
 
 	<string name="equipment.mainhand.shortsword.1a">短劍</string>
-	<string name="equipment.mainhand.shortsword.2a">精緻短劍</string>
-	<string name="equipment.mainhand.shortsword.3a">貴族短劍</string>
-	<string name="equipment.mainhand.shortsword.4a">勇士之劍</string>
+	<string name="equipment.mainhand.shortsword.2a">優雅之劍</string>
+	<string name="equipment.mainhand.shortsword.3a">貴族之劍</string>
+	<string name="equipment.mainhand.shortsword.4a">冠軍之劍</string>
 
 	<string name="equipment.mainhand.dagger.1a">鐵匕首</string>
 	<string name="equipment.mainhand.dagger.2a">鋼匕首</string>
 	<string name="equipment.mainhand.dagger.3a">貴族匕首</string>
-	<string name="equipment.mainhand.dagger.4a">華麗匕首</string>
+	<string name="equipment.mainhand.dagger.4a">莊嚴匕首</string>
 
 	<string name="equipment.mainhand.wand.fire.1a">火焰魔杖</string>
-	<string name="equipment.mainhand.wand.fire.2a">熟練火焰魔杖</string>
-	<string name="equipment.mainhand.wand.fire.3a">卓越火焰魔杖</string>
+	<string name="equipment.mainhand.wand.fire.2a">進階火焰魔杖</string>
+	<string name="equipment.mainhand.wand.fire.3a">精良火焰魔杖</string>
 	<string name="equipment.mainhand.wand.fire.4a">大師火焰魔杖</string>
 
 	<string name="equipment.mainhand.wand.ice.1a">冰霜魔杖</string>
-	<string name="equipment.mainhand.wand.ice.2a">熟練冰霜魔杖</string>
-	<string name="equipment.mainhand.wand.ice.3a">卓越冰霜魔杖</string>
+	<string name="equipment.mainhand.wand.ice.2a">進階冰霜魔杖</string>
+	<string name="equipment.mainhand.wand.ice.3a">精良冰霜魔杖</string>
 	<string name="equipment.mainhand.wand.ice.4a">大師冰霜魔杖</string>
 
-	<string name="equipment.mainhand.wand.lightning.1a">雷電魔杖</string>
-	<string name="equipment.mainhand.wand.lightning.2a">熟練雷電魔杖</string>
-	<string name="equipment.mainhand.wand.lightning.3a">卓越雷電魔杖</string>
-	<string name="equipment.mainhand.wand.lightning.4a">大師雷電魔杖</string>
+	<string name="equipment.mainhand.wand.lightning.1a">閃電魔杖</string>
+	<string name="equipment.mainhand.wand.lightning.2a">進階閃電魔杖</string>
+	<string name="equipment.mainhand.wand.lightning.3a">精良閃電魔杖</string>
+	<string name="equipment.mainhand.wand.lightning.4a">大師閃電魔杖</string>
 
-
-	<string name="equipment.offhand.dirk.1a">鐵短刃</string>
-	<string name="equipment.offhand.dirk.2a">鋼短刃</string>
-	<string name="equipment.offhand.dirk.3a">蛇形儀刃</string>
-	<string name="equipment.offhand.dirk.4a">金蛇刃</string>
+	<string name="equipment.offhand.dirk.1a">鐵匕劍</string>
+	<string name="equipment.offhand.dirk.2a">鋼匕劍</string>
+	<string name="equipment.offhand.dirk.3a">儀式波刃劍</string>
+	<string name="equipment.offhand.dirk.4a">黃金波刃劍</string>
 
 	<string name="equipment.offhand.shield.1a">木盾</string>
 	<string name="equipment.offhand.shield.2a">圓盾</string>
-	<string name="equipment.offhand.shield.3a">騎士盾</string>
-	<string name="equipment.offhand.shield.4a">雕紋盾</string>
+	<string name="equipment.offhand.shield.3a">三角盾</string>
+	<string name="equipment.offhand.shield.4a">裝飾盾</string>
 
 	<string name="equipment.offhand.crossbow.1a">手弩</string>
 	<string name="equipment.offhand.crossbow.2a">手弩</string>
@@ -63,19 +62,19 @@
 	<string name="equipment.offhand.crossbow.4a">鍍金手弩</string>
 
 	<string name="equipment.offhand.tome.fire.1a">火焰法典</string>
-	<string name="equipment.offhand.tome.fire.2a">熟練火焰法典</string>
-	<string name="equipment.offhand.tome.fire.3a">卓越火焰法典</string>
+	<string name="equipment.offhand.tome.fire.2a">進階火焰法典</string>
+	<string name="equipment.offhand.tome.fire.3a">精良火焰法典</string>
 	<string name="equipment.offhand.tome.fire.4a">大師火焰法典</string>
 
 	<string name="equipment.offhand.tome.ice.1a">冰霜法典</string>
-	<string name="equipment.offhand.tome.ice.2a">熟練冰霜法典</string>
-	<string name="equipment.offhand.tome.ice.3a">卓越冰霜法典</string>
+	<string name="equipment.offhand.tome.ice.2a">進階冰霜法典</string>
+	<string name="equipment.offhand.tome.ice.3a">精良冰霜法典</string>
 	<string name="equipment.offhand.tome.ice.4a">大師冰霜法典</string>
 
-	<string name="equipment.offhand.tome.lightning.1a">雷電法典</string>
-	<string name="equipment.offhand.tome.lightning.2a">熟練雷電法典</string>
-	<string name="equipment.offhand.tome.lightning.3a">卓越雷電法典</string>
-	<string name="equipment.offhand.tome.lightning.4a">大師雷電法典</string>
+	<string name="equipment.offhand.tome.lightning.1a">閃電法典</string>
+	<string name="equipment.offhand.tome.lightning.2a">進階閃電法典</string>
+	<string name="equipment.offhand.tome.lightning.3a">精良閃電法典</string>
+	<string name="equipment.offhand.tome.lightning.4a">大師閃電法典</string>
 
 
 	<string name="equipment.twohanded.daggers.1a">雙匕首</string>
@@ -110,18 +109,18 @@
 
 
 	<string name="equipment.twohanded.staff.fire.1a">火焰法杖</string>
-	<string name="equipment.twohanded.staff.fire.2a">熟練火焰法杖</string>
-	<string name="equipment.twohanded.staff.fire.3a">卓越火焰法杖</string>
+	<string name="equipment.twohanded.staff.fire.2a">進階火焰法杖</string>
+	<string name="equipment.twohanded.staff.fire.3a">精良火焰法杖</string>
 	<string name="equipment.twohanded.staff.fire.4a">大師火焰法杖</string>
 
 	<string name="equipment.twohanded.staff.ice.1a">冰霜法杖</string>
-	<string name="equipment.twohanded.staff.ice.2a">熟練冰霜法杖</string>
-	<string name="equipment.twohanded.staff.ice.3a">卓越冰霜法杖</string>
+	<string name="equipment.twohanded.staff.ice.2a">進階冰霜法杖</string>
+	<string name="equipment.twohanded.staff.ice.3a">精良冰霜法杖</string>
 	<string name="equipment.twohanded.staff.ice.4a">大師冰霜法杖</string>
 
 	<string name="equipment.twohanded.staff.lightning.1a">雷電法杖</string>
-	<string name="equipment.twohanded.staff.lightning.2a">熟練雷電法杖</string>
-	<string name="equipment.twohanded.staff.lightning.3a">卓越雷電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.2a">進階雷電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.3a">精良雷電法杖</string>
 	<string name="equipment.twohanded.staff.lightning.4a">大師雷電法杖</string>
 
 
@@ -129,15 +128,15 @@
 
 
 	<string name="equipment.chest.str.1a">胸甲</string>
-	<string name="equipment.chest.str.2a">重型護甲</string>
-	<string name="equipment.chest.str.3a">全身鎧甲</string>
+	<string name="equipment.chest.str.2a">重型板甲</string>
+	<string name="equipment.chest.str.3a">全身板甲</string>
 	<string name="equipment.chest.str.4a">十字軍鎧甲</string>
-	<string name="equipment.chest.dex.1a">皮甲</string>
-	<string name="equipment.chest.dex.2a">皮製護甲</string>
-	<string name="equipment.chest.dex.3a">鑲釘皮甲</string>
-	<string name="equipment.chest.dex.4a">鱗甲</string>
+	<string name="equipment.chest.dex.1a">皮背心</string>
+	<string name="equipment.chest.dex.2a">皮甲</string>
+	<string name="equipment.chest.dex.3a">鉚釘皮甲</string>
+	<string name="equipment.chest.dex.4a">鱗片甲</string>
 	<string name="equipment.chest.int.1a">簡單長袍</string>
-	<string name="equipment.chest.int.2a">絲綢服</string>
+	<string name="equipment.chest.int.2a">絲綢長袍</string>
 	<string name="equipment.chest.int.3a">鍍金長袍</string>
 	<string name="equipment.chest.int.4a">宏偉長袍</string>
 
