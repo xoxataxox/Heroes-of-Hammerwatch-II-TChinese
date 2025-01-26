@@ -50,7 +50,7 @@ Heroes of Hammerwatch II 繁體中文翻譯(非精翻)
     </tr>
     <tr>
         <td>menus.lang</td>
-        <td>✔️已完成(遊戲發布時版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>skills.lang</td>
