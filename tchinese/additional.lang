@@ -160,7 +160,7 @@
 	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
 	<string name="item.meal.sizzling_essence_tea.name">熾熱精華茶</string>
-	<string name="item.meal.sizzling_essence_tea.desc">%amount% 魔力消耗與冷卻時間。法力恢復降為 0，持續 %dur% 分鐘</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% 魔力消耗與冷卻時間。魔力恢復降為 0，持續 %dur% 分鐘</string>
 
 	<string name="item.map_bb.name">黑洞峽谷地圖</string>
 	<string name="item.map_bb.desc">黑洞峽谷地區的地圖</string>
@@ -307,7 +307,7 @@
 	<string name="skills.desc.params.projectile.dmg">投射物傷害：</string>
 	<string name="modifiers.misc.attack_hit_health_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 生命</string>
 	<string name="modifiers.misc.attack_hit_stamina_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 耐力</string>
-	<string name="modifiers.misc.attack_hit_mana_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 法力值</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 魔力值</string>
 	<string name="modifiers.enchant.blackheart.prefix">黑心</string>
 	<string name="modifiers.enchant.blackheart.suffix">腐化之</string>
 	<string name="modifiers.damage_taken.desc">額外受到 %desc%% 傷害</string>
