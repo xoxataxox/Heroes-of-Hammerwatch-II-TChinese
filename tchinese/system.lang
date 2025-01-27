@@ -278,7 +278,7 @@
 	<string name="menu.player_stash.rename_tab">為你的標籤輸入新名稱：</string>
 	<string name="menu.player_stash.delete">刪除</string>
 	<string name="menu.player_stash.delete_tab">你確定要刪除標籤「%name%」嗎？</string>
-	<string name="menu.player_stash.delete_tab_empty">標籤必須清空才能刪除。</string>
+	<string name="menu.player_stash.delete_tab_empty">標籤必須清空才能刪除</string>
 
 
 
@@ -357,7 +357,7 @@
 	<string name="building.general_store.desc3">更好的價格，且裝備等級不設限制</string>
 
 	<string name="building.guild_hall.name">公會大廳</string>
-	<string name="building.guild_hall.desc1">升級城鎮，解鎖更多建築。</string>
+	<string name="building.guild_hall.desc1">升級城鎮，解鎖更多建築</string>
 	<string name="building.guild_hall.desc3">升級城鎮，解鎖更多建築\n\n解鎖職業大師</string>
 
 	<string name="building.hunters_cabin.name">獵人小屋</string>
@@ -393,7 +393,7 @@
 	<string name="building.training_grounds.name">訓練場</string>
 	<string name="building.training_grounds.desc1">訓練玩家技能\n\n解鎖體育技能升級</string>
 	<string name="building.training_grounds.desc2">解鎖更多體育技能升級</string>
-	<string name="building.training_grounds.desc3">解鎖更多體育技能升級\n\n解鎖武器大師。</string>
+	<string name="building.training_grounds.desc3">解鎖更多體育技能升級\n\n解鎖武器大師</string>
 
 
 
@@ -744,8 +744,8 @@
 
 	<string name="menu.traveling_cook.givefood">流動廚師給了你一份 %buff%</string>
 	<string name="menu.traveling_monk.giveblessing">流浪僧侶賦予你 %buff% 的力量</string>
-	<string name="menu.shady_trader.get">你獲得了 %amount%</string>
-	<string name="menu.shady_trader.lose">你失去了 %amount%</string>
+	<string name="menu.shady_trader.get">你獲得 %amount%</string>
+	<string name="menu.shady_trader.lose">你失去 %amount%</string>
 	<string name="menu.shady_trader.nothing">什麼也沒發生</string>
 	<string name="menu.shady_trader.option">選項 %num%</string>
 	<string name="menu.shady_trader.trade">=== 交易 ==></string>
@@ -784,7 +784,7 @@
 	<string name="menu.lobby.abort.prompt">你確定要中止大廳嗎？</string>
 	<string name="menu.lobby.leave.prompt">你確定要離開大廳嗎？</string>
 	<string name="menu.lobby.close_lobby">關閉大廳</string>
-	<string name="menu.lobby.close_lobby.confirm">你確定嗎？這將踢出任何連接到你遊戲的玩家。</string>
+	<string name="menu.lobby.close_lobby.confirm">你確定嗎？這將踢出任何連接到你遊戲的玩家</string>
 	<string name="menu.lobby.kick_player.confirm">確定要將玩家「%name%」踢出遊戲嗎？</string>
 
 	<string name="menu.lobby.chat.isjoined">%name% 已加入</string>
@@ -863,7 +863,7 @@
 	<string name="blessing.protection.desc">%amnt% 傷害減免</string>
 	<string name="blessing.speed.name">敏捷的祝福</string>
 	<string name="blessing.speed.desc">%amnt% 移動速度</string>
-	<string name="blessing.speed.shrine.desc">%amnt% 移動速度，並增加衝刺加成</string>
+	<string name="blessing.speed.shrine.desc">%amnt% 移動速度\n衝刺加成</string>
 	<string name="blessing.light.name">光明的祝福</string>
 	<string name="blessing.light.desc">%amnt% 暗影詛咒獲得</string>
 	<string name="blessing.mana.name">技巧的祝福</string>
@@ -1123,7 +1123,7 @@
 	<string name="stat.icon.stun">\cb0dfff暈眩\d</string>
 	<string name="stat.name.stun">無法移動和使用技能，持續1.5秒</string>
 	<string name="stat.icon.slow">\cb0dfff緩速\d</string>
-	<string name="stat.name.slow">移動速度、武器速度和施法速度降低 30%，持續 4 秒</string>
+	<string name="stat.name.slow">移動速度、武器攻速和施法速度降低 30%，持續 4 秒</string>
 	<string name="stat.icon.weakness">\cb0dfff虛弱\d</string>
 	<string name="stat.name.weakness">傷害降低 20%，持續 6 秒</string>
 	<string name="stat.icon.vulnerability">\cb0dfff脆弱\d</string>
@@ -1145,14 +1145,14 @@
 
 
 
-	<string name="stat.custom.goldgain">金幣增益</string>
-	<string name="stat.custom.woodgain">木材增益</string>
-	<string name="stat.custom.stonegain">石材增益</string>
-	<string name="stat.custom.irongain">鐵增益</string>
-	<string name="stat.custom.crysgain">水晶增益</string>
-	<string name="stat.custom.dustgain">塵埃增益</string>
-	<string name="stat.custom.fraggain">碎片增益</string>
-	<string name="stat.custom.scursegain">暗影詛咒增益</string>
+	<string name="stat.custom.goldgain">金幣獲取加成</string>
+	<string name="stat.custom.woodgain">木材獲取加成</string>
+	<string name="stat.custom.stonegain">石材獲取加成</string>
+	<string name="stat.custom.irongain">鐵獲取加成</string>
+	<string name="stat.custom.crysgain">水晶獲取加成</string>
+	<string name="stat.custom.dustgain">塵埃獲取加成</string>
+	<string name="stat.custom.fraggain">碎片獲取加成</string>
+	<string name="stat.custom.scursegain">暗影詛咒獲取加成</string>
 	<string name="stat.custom.damage">傷害</string>
 	<string name="stat.custom.mainhanddamage">主手傷害</string>
 	<string name="stat.custom.offhanddamage">副手傷害</string>
@@ -1229,7 +1229,7 @@
 	<string name="stat.icon.movespeed">\"icn-movespeed"</string>
 	<string name="stat.name.movespeed">移動速度</string>
 	<string name="stat.icon.attackspeed">\"icn-speed-atk"</string>
-	<string name="stat.name.attackspeed">武器速度</string>
+	<string name="stat.name.attackspeed">武器攻速</string>
 	<string name="stat.icon.castspeed">\"icn-speed-cast"</string>
 	<string name="stat.name.castspeed">施法速度</string>
 	<string name="stat.name.evadechance">閃避率</string>

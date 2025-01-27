@@ -20,8 +20,8 @@
 	<string name="text.needpan">我需要一個平底鍋！</string>
 	<string name="text.needaxe">我需要一把斧頭！</string>
 	<string name="text.needshovel">我需要一把鏟子！</string>
-	<string name="text.needpickaxe">我需要一把\n鎬子！</string>
-	<string name="text.needreddye">我需要\n紅色染料！</string>
+	<string name="text.needpickaxe">我需要一把鎬子！</string>
+	<string name="text.needreddye">我需要紅色染料！</string>
 	<string name="text.needrope">我需要一根繩子！</string>
 	<string name="text.needladder">我需要一架梯子！</string>
 
@@ -124,7 +124,7 @@
 	<string name="modifiers.epic.skills.costmana.desc">%c-highlight%%skillname%\d 的魔力消耗減少 %amount%%</string>
 	<string name="modifiers.epic.skills.coststamina.desc">%c-highlight%%skillname%\d 的耐力消耗減少 %amount%%</string>
 	<string name="modifiers.epic.skills.speed.desc">%c-highlight%%skillname%\d 的技能速度提升 %amount%%</string>
-	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%skillname%\d 的最大堆疊數增加至 %amount%</string>
+	<string name="modifiers.epic.skills.stacksmax.desc">%c-highlight%%skillname%\d 的最大層數增加至 %amount%</string>
 	<string name="modifiers.epic.skills.stacksduration.desc">%c-highlight%%skillname%\d 的持續時間延長 %amount%</string>
 	<string name="modifiers.epic.skills.summonmax.desc">%c-highlight%%skillname%\d 的最大召喚數量增加至 %amount%</string>
 
@@ -137,7 +137,7 @@
 	<string name="skills.equipment.cauldron_of_fire.desc">放置一個鍋爐，隨機方向噴射小型火球，造成 %amount% 點火焰傷害。冷卻時間 %cd%</string>
 
 	<string name="equipment.unique.accessory.master_2.name">元素稜鏡</string>
-	<string name="skills.equipment.elemental_prism.desc">召喚一個稜鏡，投射三道旋轉光束，分別代表火焰、冰冷與雷電，每道光束造成對應元素的 %amount% 點傷害。冷卻時間 %cd%</string>
+	<string name="skills.equipment.elemental_prism.desc">召喚一個稜鏡，投射三道旋轉光束，分別代表火焰、冰冷與閃電，每道光束造成對應元素的 %amount% 點傷害。冷卻時間 %cd%</string>
 
 	<string name="equipment.unique.chest.master_1.name">泰坦之壁</string>
 	<string name="equipment.unique.chest.master_2.name">銅幣之衣</string>
@@ -154,13 +154,13 @@
 	<string name="equipment.unique.rogue.offhand.master_1.name">飛翔的大師</string>
 
 	<string name="equipment.unique.warlock.offhand.adept_1.name">連鎖痛苦</string>
-	<string name="equipment.unique.warlock.offhand.adept_1.desc">受傷時獲得 %c-highlight%靈魂精華\d 堆疊</string>
+	<string name="equipment.unique.warlock.offhand.adept_1.desc">受傷時獲得 %c-highlight%靈魂精華\d 層數</string>
 
 	<string name="equipment.unique.wizard.offhand.adept_1.name">岩石發射器</string>
 	<string name="equipment.unique.wizard.offhand.adept_1.desc">發射一枚岩石投射物，碰撞時爆炸並造成副手傷害\n\n可以蓄力提升投射物的速度與距離\n\n魔力消耗：%cost%\n冷卻時間：%cd%</string>
 
 	<string name="item.meal.sizzling_essence_tea.name">熾熱精華茶</string>
-	<string name="item.meal.sizzling_essence_tea.desc">%amount% 魔力消耗與冷卻時間。法力恢復降為 0，持續 %dur% 分鐘</string>
+	<string name="item.meal.sizzling_essence_tea.desc">%amount% 魔力消耗與冷卻時間。魔力恢復降為 0，持續 %dur% 分鐘</string>
 
 	<string name="item.map_bb.name">黑洞峽谷地圖</string>
 	<string name="item.map_bb.desc">黑洞峽谷地區的地圖</string>
@@ -178,7 +178,7 @@
 	<!-- Missing Added 0421 -->
 	
 	
-	<string name="skills.paladin.spell_1.up3.desc">這把錘子在短暫延遲後會回到你的手中。</string>
+	<string name="skills.paladin.spell_1.up3.desc">這把錘子在短暫延遲後會回到你的手中</string>
 	<string name="skills.rogue.master.passive_1.up1.desc">在敵人處於 %c-highlight%低生命\d 時，攻擊暴擊有機率直接擊殺敵人。對Bosses無效</string>
 	<string name="skills.rogue.master.spell_2.desc">你潛入陰影中，短時間內變得無法被發現。造成任何傷害將提前結束此效果</string>
 	<string name="skills.warlock.mainhand.up1.desc">靈魂投射物在命中後會自動追蹤新的目標。每命中一個敵人，傷害會降低</string>
@@ -302,12 +302,12 @@
 	<string name="skills.equipment.thunderbird_lightning.name">召喚閃電</string>
 	<string name="skills.equipment.thunderbird_lightning.desc">召喚一連串閃電攻擊前方，造成 %dmg% 閃電傷害。冷卻時間：%cd%</string>
 	<string name="modifiers.class.warlock.fiends_add.desc">你可以額外召喚 %value% 名 %c-highlight%惡魔\d</string>
-	<string name="modifiers.class.wizard.duplicate_add.desc">你可以額外召喚 %value% 個 %c-highlight%分身\d。</string>
+	<string name="modifiers.class.wizard.duplicate_add.desc">你可以額外召喚 %value% 個 %c-highlight%分身\d</string>
 
 	<string name="skills.desc.params.projectile.dmg">投射物傷害：</string>
 	<string name="modifiers.misc.attack_hit_health_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 生命</string>
 	<string name="modifiers.misc.attack_hit_stamina_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 耐力</string>
-	<string name="modifiers.misc.attack_hit_mana_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 法力值。</string>
+	<string name="modifiers.misc.attack_hit_mana_chance.desc">攻擊命中時有 %chance%% 機率恢復 %value% 魔力值</string>
 	<string name="modifiers.enchant.blackheart.prefix">黑心</string>
 	<string name="modifiers.enchant.blackheart.suffix">腐化之</string>
 	<string name="modifiers.damage_taken.desc">額外受到 %desc%% 傷害</string>

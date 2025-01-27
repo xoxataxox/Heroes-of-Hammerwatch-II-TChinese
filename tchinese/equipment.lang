@@ -118,10 +118,10 @@
 	<string name="equipment.twohanded.staff.ice.3a">精良冰霜法杖</string>
 	<string name="equipment.twohanded.staff.ice.4a">大師冰霜法杖</string>
 
-	<string name="equipment.twohanded.staff.lightning.1a">雷電法杖</string>
-	<string name="equipment.twohanded.staff.lightning.2a">進階雷電法杖</string>
-	<string name="equipment.twohanded.staff.lightning.3a">精良雷電法杖</string>
-	<string name="equipment.twohanded.staff.lightning.4a">大師雷電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.1a">閃電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.2a">進階閃電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.3a">精良閃電法杖</string>
+	<string name="equipment.twohanded.staff.lightning.4a">大師閃電法杖</string>
 
 
 
