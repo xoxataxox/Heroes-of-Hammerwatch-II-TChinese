@@ -1229,7 +1229,7 @@
 	<string name="stat.icon.movespeed">\"icn-movespeed"</string>
 	<string name="stat.name.movespeed">移動速度</string>
 	<string name="stat.icon.attackspeed">\"icn-speed-atk"</string>
-	<string name="stat.name.attackspeed">攻擊速度</string>
+	<string name="stat.name.attackspeed">武器攻速</string>
 	<string name="stat.icon.castspeed">\"icn-speed-cast"</string>
 	<string name="stat.name.castspeed">施法速度</string>
 	<string name="stat.name.evadechance">閃避率</string>
