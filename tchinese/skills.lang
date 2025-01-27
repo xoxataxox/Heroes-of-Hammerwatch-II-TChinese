@@ -117,7 +117,7 @@
 	<string name="skills.desc.params.block">格擋量：</string>
 	<string name="skills.desc.params.block.instances">格擋次數：</string>
 	<string name="skills.desc.params.block.chance.max">最大格擋機率：</string>
-	<string name="skills.desc.params.block.mana_cost">每次格檔損失法力值：</string>
+	<string name="skills.desc.params.block.mana_cost">每次格檔損失魔力值：</string>
 	<string name="skills.desc.params.armor_pen">護甲穿透：</string>
 	<string name="skills.desc.params.armor_pen.str">每力量護甲穿透：</string>
 	<string name="skills.desc.params.fire_pen">火焰穿透：</string>
@@ -336,7 +336,7 @@
 	<string name="skills.paladin.passive_2.up1.name">決心</string>
 	<string name="skills.paladin.passive_2.up1.desc">當你的生命值低於一半時，施法消耗的魔力減少</string>
 	<string name="skills.paladin.passive_2.up2.name">信仰之盾</string>
-	<string name="skills.paladin.passive_2.up2.desc">你的法力高於最大值的一半時，可以消耗魔力來格擋傷害</string>
+	<string name="skills.paladin.passive_2.up2.desc">你的魔力高於最大值的一半時，可以消耗魔力來格擋傷害</string>
 	<string name="skills.paladin.passive_2.up3.name">狂熱</string>
 	<string name="skills.paladin.passive_2.up3.desc">當 \cb0dfff信念\d 觸發時，你會基於當前魔力造成額外的物理傷害</string>
 
