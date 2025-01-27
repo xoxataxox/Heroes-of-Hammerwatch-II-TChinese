@@ -793,7 +793,7 @@
 	<string name="menu.lobby.chat.isready">%name% 現在已準備好</string>
 	<string name="menu.lobby.chat.isunready">%name% 不再準備就緒</string>
 
-	<string name="menu.lobby.chat.died">%name% 斷線了！</string>
+	<string name="menu.lobby.chat.died">%name% 斷氣了！</string>
 	<string name="menu.lobby.chat.revive">%revivee% 被 %reviver% 復活了！</string>
 	<string name="menu.lobby.chat.revive.free">%revivee% 再次復活！</string>
 
