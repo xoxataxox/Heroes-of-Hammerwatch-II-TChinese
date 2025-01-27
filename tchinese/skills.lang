@@ -64,7 +64,7 @@
 	<string name="skills.desc.params.damage.ice">冰冷傷害：</string>
 	<string name="skills.desc.params.damage.lightning">閃電傷害：</string>
 	<string name="skills.desc.params.damage.poison">毒素傷害：</string>
-	<string name="skills.desc.params.damage.pure">真實傷害：</string>
+	<string name="skills.desc.params.damage.pure">純粹傷害：</string>
 
 	<string name="skills.desc.params.damage.lvl">每等傷害：</string>
 	<string name="skills.desc.params.damage.str">每力量傷害：</string>
