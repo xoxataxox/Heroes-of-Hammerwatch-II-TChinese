@@ -1047,7 +1047,7 @@
 
 
 	<!-- Locations -->
-	<string name="location.level">等級 %lvl%</string>
+	<string name="location.level">關卡 %lvl%</string>
 	
 	<string name="location.act.forest">森林</string>
 	<string name="location.act.cave_light">洞穴</string>
