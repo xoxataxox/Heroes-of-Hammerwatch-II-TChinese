@@ -1005,7 +1005,7 @@
 	<string name="skills.wizard.passive_2.up1.name">火焰護盾</string>
 	<string name="skills.wizard.passive_2.up1.desc">當擁有 \cb0dfff屏障\d 層數時受到傷害，會引燃周圍空氣，對附近敵人持續造成火焰傷害</string>
 	<string name="skills.wizard.passive_2.up2.name">冰霜護殼</string>
-	<string name="skills.wizard.passive_2.up2.desc">當擁有 \cb0dfff屏障\d 層數時，提高護甲與冰霜抗性，並使攻擊者被附加 \cb0dfff冰凍\d 效果</string>
+	<string name="skills.wizard.passive_2.up2.desc">當擁有 \cb0dfff屏障\d 層數時，提高護甲與冰冷抗性，並使攻擊者被附加 \cb0dfff冰凍\d 效果</string>
 	<string name="skills.wizard.passive_2.up3.name">保護結界</string>
 	<string name="skills.wizard.passive_2.up3.desc">施放 \cffdfb0法術\d 時，有機會獲得屏障層數，此效果具有短暫冷卻時間</string>
 
@@ -1044,7 +1044,7 @@
 	<string name="skills.wizard.mastery_2.spell_1.up3.desc"></string>
 
 	<string name="skills.wizard.mastery_2.passive_1.name">魔劍</string>
-	<string name="skills.wizard.mastery_2.passive_1.desc">召喚一把跟隨你的魔劍，對附近敵人進行斬擊並造成物理傷害</string>
+	<string name="skills.wizard.mastery_2.passive_1.desc">召喚一把永遠跟隨你的魔劍，對附近敵人進行斬擊並造成物理傷害</string>
 	<string name="skills.wizard.mastery_2.passive_1.up1.name">火焰劍</string>
 	<string name="skills.wizard.mastery_2.passive_1.up1.desc">魔劍被火焰覆蓋，持續對附近敵人造成火焰傷害</string>
 	<string name="skills.wizard.mastery_2.passive_1.up2.name">冰霜劍</string>
