@@ -79,7 +79,7 @@
 	<string name="skills.desc.params.damage.armor">每護甲傷害：</string>
 
 	<string name="skills.desc.params.attack_speed">攻擊速度：</string>
-	<string name="skills.desc.params.weapon_speed">武器攻度：</string>
+	<string name="skills.desc.params.weapon_speed">武器攻速：</string>
 	<string name="skills.desc.params.cast_speed">施法速度：</string>
 	<string name="skills.desc.params.skill_speed">技能速度：</string>
 	<string name="skills.desc.params.spell_cost">魔力消耗：</string>
@@ -533,7 +533,7 @@
 	<string name="skills.rogue.spell_2.up3.desc">造成額外閃電傷害</string>
 
 	<string name="skills.rogue.passive_1.name">切割與剁擊</string>
-	<string name="skills.rogue.passive_1.desc">使用 \cffdfb0近戰\d 技能擊中時會獲得 \cb0dfff切割與剁擊\d 層數，每層提高攻擊速度。若持續時間耗盡，層數將全部消失</string>
+	<string name="skills.rogue.passive_1.desc">使用 \cffdfb0近戰\d 技能擊中時會獲得 \cb0dfff切割與剁擊\d 層數，每層提高武器攻速。若持續時間耗盡，層數將全部消失</string>
 	<string name="skills.rogue.passive_1.up1.name">腎上腺素</string>
 	<string name="skills.rogue.passive_1.up1.desc">每層 \cb0dfff切割與剁擊\d 增加魔力恢復</string>
 	<string name="skills.rogue.passive_1.up2.name">刀刃招架</string>
@@ -859,7 +859,7 @@
 	<string name="skills.warrior.spell_1.up3.desc">飛斧有機會斬殺 \cb0dfff低血量\d 的敵人，但對Boss無效</string>
 
 	<string name="skills.warrior.spell_2.name">戰吼</string>
-	<string name="skills.warrior.spell_2.desc">你和範圍內的盟友獲得持續一段時間的攻擊速度與移動速度增益</string>
+	<string name="skills.warrior.spell_2.desc">你和範圍內的盟友獲得持續一段時間的武器攻速與移動速度增益</string>
 	<string name="skills.warrior.spell_2.up1.name">恐嚇戰吼</string>
 	<string name="skills.warrior.spell_2.up1.desc">施放戰吼時，使周圍敵人陷入 \cb0dfff虛弱\d狀態</string>
 	<string name="skills.warrior.spell_2.up2.name">第二次呼吸</string>
@@ -1027,7 +1027,7 @@
 	<string name="skills.wizard.mastery_1.passive_1.up1.name">漸強</string>
 	<string name="skills.wizard.mastery_1.passive_1.up1.desc">每層 \cb0dfff咒術師的節奏\d 層數增加法術暴擊率</string>
 	<string name="skills.wizard.mastery_1.passive_1.up2.name">咒術師的流動</string>
-	<string name="skills.wizard.mastery_1.passive_1.up2.desc">每層咒術師的節奏層數提升攻擊速度</string>
+	<string name="skills.wizard.mastery_1.passive_1.up2.desc">每層咒術師的節奏層數提升武器攻速</string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.name"></string>
 	<string name="skills.wizard.mastery_1.passive_1.up3.desc"></string>
 
