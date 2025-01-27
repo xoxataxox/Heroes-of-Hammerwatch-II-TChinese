@@ -1123,7 +1123,7 @@
 	<string name="stat.icon.stun">\cb0dfff暈眩\d</string>
 	<string name="stat.name.stun">無法移動和使用技能，持續1.5秒</string>
 	<string name="stat.icon.slow">\cb0dfff緩速\d</string>
-	<string name="stat.name.slow">移動速度、攻擊速度和施法速度降低 30%，持續 4 秒</string>
+	<string name="stat.name.slow">移動速度、武器攻速和施法速度降低 30%，持續 4 秒</string>
 	<string name="stat.icon.weakness">\cb0dfff虛弱\d</string>
 	<string name="stat.name.weakness">傷害降低 20%，持續 6 秒</string>
 	<string name="stat.icon.vulnerability">\cb0dfff脆弱\d</string>
