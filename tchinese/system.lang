@@ -860,7 +860,7 @@
 	<string name="blessing.damage.name">力量的祝福</string>
 	<string name="blessing.damage.desc">%amnt% 傷害</string>
 	<string name="blessing.protection.name">保護的祝福</string>
-	<string name="blessing.protection.desc">%amnt% 傷害減免</string>
+	<string name="blessing.protection.desc">%amnt% 受到的傷害</string>
 	<string name="blessing.speed.name">敏捷的祝福</string>
 	<string name="blessing.speed.desc">%amnt% 移動速度</string>
 	<string name="blessing.speed.shrine.desc">%amnt% 移動速度\n衝刺加成</string>
