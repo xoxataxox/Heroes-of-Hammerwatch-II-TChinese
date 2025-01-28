@@ -18,4 +18,5 @@ freeze：冰凍
 lowlife：低生命
 
 weapon speed：武器攻速
-parry：招架/格擋
+parry：招架
+block：格擋
