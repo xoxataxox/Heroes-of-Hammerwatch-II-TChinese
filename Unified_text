@@ -3,6 +3,7 @@ ice damage：冰冷傷害
 fire damage：火焰傷害
 lightning damage：閃電傷害
 pure damage：純粹傷害
+poison damage：毒素傷害
 
 stun：暈眩
 slow：緩速
@@ -15,3 +16,6 @@ blindness：致盲
 cripple：跛足
 freeze：冰凍
 lowlife：低生命
+
+weapon speed：武器攻速
+parry：招架/格擋
