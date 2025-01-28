@@ -361,8 +361,8 @@
 	<string name="building.guild_hall.desc3">升級城鎮，解鎖更多建築\n\n解鎖職業大師</string>
 
 	<string name="building.hunters_cabin.name">獵人小屋</string>
-	<string name="building.hunters_cabin.desc1">甲蟲、狼和野豬掉落鱗片、皮毛和肉類。野獸會提供珍貴物品和生命</string>
-	<string name="building.hunters_cabin.desc2">更多來自野獸的珍貴物品和生命</string>
+	<string name="building.hunters_cabin.desc1">甲蟲、狼和野豬掉落鱗片、皮毛和肉類。野獸會提供珍貴物品和生命補給品</string>
+	<string name="building.hunters_cabin.desc2">更多來自野獸的珍貴物品和生命補給品</string>
 
 	<string name="building.library.name">圖書館</string>
 	<string name="building.library.desc1">解鎖普通飾品調整。更改你的連擊技能</string>
@@ -1355,9 +1355,9 @@
 	<string name="accomplishment.collected-trinket-cursed.desc">找到 %num% 件詛咒飾品</string>
 	
 	<string name="accomplishment.pickup-health">美食家 %num%</string>
-	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命恢復品</string>
+	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命補給品</string>
 	<string name="accomplishment.pickup-mana">秘法吸收者 %num%</string>
-	<string name="accomplishment.pickup-mana.desc">吸收 %num% 次魔力拾取品</string>
+	<string name="accomplishment.pickup-mana.desc">撿取 %num% 次魔力補給品</string>
 	
 	<string name="accomplishment.buildings-built">建設者 %num%</string>
 	<string name="accomplishment.buildings-built.desc">購買 %num% 次建築升級</string>
@@ -1418,8 +1418,8 @@
 	<string name="statistic.collected-trinket-rare">收集的稀有飾品數</string>
 	<string name="statistic.collected-trinket-epic">收集的史詩飾品數</string>
 	<string name="statistic.collected-trinket-cursed">收集的詛咒飾品數</string>
-	<string name="statistic.pickup-health">收集的生命拾取物數</string>
-	<string name="statistic.pickup-mana">收集的魔力拾取物數</string>
+	<string name="statistic.pickup-health">收集的生命補給物數</string>
+	<string name="statistic.pickup-mana">收集的魔力補給物數</string>
 	<string name="statistic.pickup-exp">收集的經驗卷軸數</string>
 	<string name="statistic.max-level-paladin">聖騎士最高等級</string>
 	<string name="statistic.max-level-ranger">遊俠最高等級</string>
