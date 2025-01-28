@@ -1140,7 +1140,7 @@
 	<string name="stat.name.cripple">移動速度降低 65%，持續 4 秒</string>
 	<string name="stat.icon.freeze">\cb0dfff冰凍\d</string>
 	<string name="stat.name.freeze">無法移動和使用技能，持續 2.5 秒</string>
-	<string name="stat.icon.lowlife">\cb0dfff低生命e\d</string>
+	<string name="stat.icon.lowlife">\cb0dfff低生命\d</string>
 	<string name="stat.name.lowlife">低於最大生命值的 35%</string>
 
 
