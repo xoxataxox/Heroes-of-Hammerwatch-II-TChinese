@@ -199,7 +199,7 @@
 
 	<string name="menu.player.mods.stats.source.weapon_mastery">武器專精</string>
 	<string name="menu.player.mods.stats.source.base">基礎</string>
-	<string name="menu.player.mods.stats.source.picked">選擇</string>
+	<string name="menu.player.mods.stats.source.picked">分配</string>
 	<string name="menu.player.mods.stats.source.ngp">新遊戲+ %num%</string>
 	<string name="menu.player.mods.stats.source.accomplishments">成就</string>
 	<string name="menu.player.mods.stats.source.attributes">屬性</string>
@@ -1108,7 +1108,7 @@
 
 	<!-- Hero Titles -->
 	<string name="htitle.paladin.desc">提供 %num% 護甲，每級增加 %num-per%</string>
-	<string name="htitle.ranger.desc">提供 %num% 攻擊力，每級增加 %num-per%</string>
+	<string name="htitle.ranger.desc">提供 %num% 武器威力，每級增加 %num-per%</string>
 	<string name="htitle.rogue.desc">提供 %num%% 陷阱傷害減少，每級增加 %num-per%%</string>
 	<string name="htitle.sorcerer.desc">提供 %num% 魔力恢復，每級增加 %num-per%</string>
 	<string name="htitle.warlock.desc">提供 %num% 火焰、冰冷、閃電及毒素抗性，每級增加 %num-per%</string>
