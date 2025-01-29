@@ -1,4 +1,4 @@
-<h1>Heroes of Hammerwatch II 繁體中文翻譯(非精翻)</h1>
+<h1>Heroes of Hammerwatch II 繁體中文翻譯</h1>
 
 該文本基於遊戲發售日(2025/01/15)所發布的版本製作
 
