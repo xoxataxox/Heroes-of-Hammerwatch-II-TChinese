@@ -260,15 +260,15 @@
 	<string name="menu.mission_end.materials">材料</string>
 	<string name="menu.mission_end.stats">統計</string>
 	
-	<string name="menu.mission_end.step.sent_back">已送回： </string>
-	<string name="menu.mission_end.step.picked_up">已拾取： </string>
-	<string name="menu.mission_end.step.valuables">貴重物品：</string>
-	<string name="menu.mission_end.step.trinkets.common">普通飾品：</string>
-	<string name="menu.mission_end.step.trinkets.uncommon">罕見飾品： </string>
-	<string name="menu.mission_end.step.trinkets.rare">稀有飾品： </string>
-	<string name="menu.mission_end.step.trinkets.epic">史詩飾品： </string>
-	<string name="menu.mission_end.step.revive">復活 "捐贈" (%rate%%)： </string>
-	<string name="menu.mission_end.step.reward">任務獎勵：</string>
+	<string name="menu.mission_end.step.sent_back">已送回</string>
+	<string name="menu.mission_end.step.picked_up">已拾取</string>
+	<string name="menu.mission_end.step.valuables">貴重物品</string>
+	<string name="menu.mission_end.step.trinkets.common">普通飾品</string>
+	<string name="menu.mission_end.step.trinkets.uncommon">罕見飾品</string>
+	<string name="menu.mission_end.step.trinkets.rare">稀有飾品</string>
+	<string name="menu.mission_end.step.trinkets.epic">史詩飾品</string>
+	<string name="menu.mission_end.step.revive">復活 "捐贈" (%rate%%)</string>
+	<string name="menu.mission_end.step.reward">任務獎勵</string>
 
 
 	<string name="menu.player_stash.withdraw">提取</string>
