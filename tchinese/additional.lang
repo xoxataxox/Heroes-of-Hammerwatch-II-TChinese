@@ -258,7 +258,7 @@
 
 	<string name="misc.dmg.miss">未命中！</string>
 	<string name="misc.dmg.evade">閃避！</string>
-	<string name="misc.dmg.parry">格擋！</string>
+	<string name="misc.dmg.parry">招架！</string>
 
 	<string name="menu.player.stats.currpoints">可分配點數： %points%\"icn-attrpt"</string>
 	<string name="menu.player.stats.mainhand">主手</string>
