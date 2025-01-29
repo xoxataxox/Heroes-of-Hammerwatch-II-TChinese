@@ -162,7 +162,7 @@
 	<string name="trinket.markhams_amulet.name">馬克姆的護符</string>
 	<string name="trinket.markhams_amulet.desc">背包中每件飾品增加 %num% 生命值與魔力</string>
 	<string name="trinket.markhams_mace.name">馬克姆的錘矛</string>
-	<string name="trinket.markhams_mace.desc">背包中每件飾品增加 %num% 攻擊力</string>
+	<string name="trinket.markhams_mace.desc">背包中每件飾品增加 %num% 武器威力</string>
 	<string name="trinket.markhams_wand.name">馬克姆的魔杖</string>
 	<string name="trinket.markhams_wand.desc">背包中每件飾品增加 %num% 法術威力</string>
 	<string name="trinket.scroll_dashing.name">迅捷卷軸</string>
