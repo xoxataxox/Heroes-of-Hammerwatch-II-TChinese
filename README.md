@@ -12,7 +12,7 @@
 
 Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
 
-目前翻譯進度：僅剩skills.lang需要從Third Patch更新至Fifth Patch
+目前翻譯進度：等待Sixth Patch新文本釋出
 
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
@@ -46,7 +46,7 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>✔️已完成(Third Patch版本)</td>
+        <td>✔️已完成(Fifth Patch版本)</td>
     </tr>
     <tr>
         <td>system.lang</td>
