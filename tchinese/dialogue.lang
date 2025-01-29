@@ -16,8 +16,8 @@
 	<string name="building.tailor.name">裁縫店</string>
 
 	<string name="building.tier">等級 %tier%</string>
-	<string name="building.build.new">新建</string>
-	<string name="building.build.upgrade">升級至等級 %num%</string>
+	<string name="building.build.new">新建建築</string>
+	<string name="building.build.upgrade">升級至階級 %num%</string>
 
 
 
@@ -57,8 +57,8 @@
 	<string name="upgrades.armor.desc">+%gain% 護甲值</string>
 	<string name="upgrades.attack_power.name">武器 %num%</string>
 	<string name="upgrades.attack_power.desc">+%gain% 武器威力</string>
-	<string name="upgrades.attack_speed.name">攻擊速度 %num%</string>
-	<string name="upgrades.attack_speed.desc">+%gain%% 攻擊速度</string>
+	<string name="upgrades.attack_speed.name">武器攻速 %num%</string>
+	<string name="upgrades.attack_speed.desc">+%gain%% 武器攻速</string>
 	
 	<string name="npc.shop.apothecary">藥劑師</string>
 	<string name="upgrades.potion_charges.name">藥水次數 %num%</string>
@@ -77,14 +77,14 @@
 	<string name="upgrades.dash_recharge.desc">-%gain%% 衝刺冷卻時間</string>
 	<string name="upgrades.move_speed.name">移動速度 %num%</string>
 	<string name="upgrades.move_speed.desc">+%gain%% 移動速度</string>
-	<string name="upgrades.health_pickups.name">生命恢復增益 %num%</string>
-	<string name="upgrades.health_pickups.desc">+%gain%% 生命恢復效果</string>
+	<string name="upgrades.health_pickups.name">生命補給品恢復增益 %num%</string>
+	<string name="upgrades.health_pickups.desc">+%gain%% 生命補給品恢復效果</string>
 	
 	<string name="npc.shop.mystic">秘法師</string>
 	<string name="upgrades.ele_res.name">元素抗性 %num%</string>
 	<string name="upgrades.ele_res.desc">+%gain% 火焰、冰冷與閃電抗性</string>
-	<string name="upgrades.mana_pickups.name">魔力恢復增益 %num%</string>
-	<string name="upgrades.mana_pickups.desc">+%gain%% 魔力恢復效果</string>
+	<string name="upgrades.mana_pickups.name">魔力補給品恢復增益 %num%</string>
+	<string name="upgrades.mana_pickups.desc">+%gain%% 魔力補給品恢復效果</string>
 	<string name="upgrades.spell_power.name">法術威力 %num%</string>
 	<string name="upgrades.spell_power.desc">+%gain% 法術威力</string>
 
