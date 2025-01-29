@@ -217,7 +217,7 @@
 	<string name="trinket.set.scavengers_tools.name">拾荒者工具</string>
 	<string name="trinket.set.scavengers_tools.2">+%num%% 金幣獲取</string>
 	<string name="trinket.set.tomes_of_power.name">力量典籍</string>
-	<string name="trinket.set.tomes_of_power.2">+%num%% 攻擊與法術威力</string>
+	<string name="trinket.set.tomes_of_power.2">+%num%% 武器與法術威力</string>
 	<string name="trinket.set.crests_of_valor.name">勇氣紋章</string>
 	<string name="trinket.set.crests_of_valor.2">+%num%% 經驗值獲取</string>
 	<string name="trinket.set.crests_of_valor.3">+%num%% 傷害</string>
