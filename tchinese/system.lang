@@ -734,10 +734,10 @@
 	<string name="tooltip.header.attuned">共鳴</string>
 	<string name="tooltip.equipment.ilvl">裝備等級： %ilvl%</string>
 
-	<string name="blueprint.category.drink">酒館飲品</string>
-	<string name="blueprint.category.food">酒館食物</string>
-	<string name="blueprint.category.enchantment">裝備附魔</string>
-	<string name="blueprint.category.trinket">飾品</string>
+	<string name="blueprint.category.drink">酒館飲品藍圖</string>
+	<string name="blueprint.category.food">酒館食物藍圖</string>
+	<string name="blueprint.category.enchantment">裝備附魔藍圖</string>
+	<string name="blueprint.category.trinket">飾品藍圖</string>
 
 
 
