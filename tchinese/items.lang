@@ -290,7 +290,7 @@
 	<string name="tavern.drink.enduring_light.name">不滅之光</string>
 	<string name="tavern.drink.enduring_light.desc">暗影詛咒獲取 -25%\n魔力回復 -25%</string>
 	<string name="tavern.drink.fair_play.name">公平競技</string>
-	<string name="tavern.drink.fair_play.desc">你獲得 \cb0dfff真實一擊\d\n閃避設為 0</string>
+	<string name="tavern.drink.fair_play.desc">你獲得\cb0dfff真實一擊\d\n閃避設為 0</string>
 	<string name="tavern.drink.the_ambitious_adept.name">雄心勃勃的學徒</string>
 	<string name="tavern.drink.the_ambitious_adept.desc">法術暴擊率 +25%\n法術魔力消耗 +20%</string>
 	<string name="tavern.drink.dark_desire.name">黑暗渴望</string>
@@ -305,7 +305,7 @@
 	<string name="tavern.drink.soul_anguish.name">靈魂痛苦</string>
 	<string name="tavern.drink.soul_anguish.desc">1.5% 武器魔力吸取\n魔力回復設為 0</string>
 	<string name="tavern.drink.crimson_feast.name">赤紅盛宴</string>
-	<string name="tavern.drink.crimson_feast.desc">武器和法術有 10% 機率造成 \cb0dfff流血\d 疊加\n受到傷害時有 10% 機率被施加 \cb0dfff流血\d 疊加</string>
+	<string name="tavern.drink.crimson_feast.desc">武器和法術有 10% 機率造成\cb0dfff流血\d疊加\n受到傷害時有 10% 機率被施加\cb0dfff流血\d疊加</string>
 	<string name="tavern.drink.the_happy_hydra.name">快樂九頭蛇</string>
 	<string name="tavern.drink.the_happy_hydra.desc">滿血時魔力回復速度 +100%\n血量未滿時魔力回復速度 -50%</string>
 	<string name="tavern.drink.gulch_burner.name">峽谷燃燒者</string>
