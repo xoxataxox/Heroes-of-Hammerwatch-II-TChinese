@@ -216,11 +216,15 @@
 	<string name="skills.desc.params.health_prc_per_stack">每層生命值百分比：</string>
 	<string name="skills.desc.params.mana_prc_per_stack">每層魔力百分比：</string>
 
-
-
-
-
-
+	<string name="skills.combo.kills.name">連擊：擊殺</string>	
+	<string name="skills.combo.kills.desc">在短時間內擊殺 10 名敵人後觸發連擊</string>	
+	<string name="skills.combo.dash.name">連擊：衝刺</string>	
+	<string name="skills.combo.dash.desc">在短時間內進行 3 次衝刺後觸發連擊</string>	
+	<string name="skills.combo.parry.name">連擊：招架</string>	
+	<string name="skills.combo.parry.desc">在短時間內成功招架 8 次後觸發連擊</string>	
+	<string name="skills.combo.none.name">連擊：無</string>	
+	<string name="skills.combo.none.desc">停用連擊</string>	
+	<string name="skills.combo.selected"> (以選擇)</string>
 
 
 	<!-- Attacks -->
@@ -580,8 +584,6 @@
 	<string name="skills.rogue.mastery_3.passive_1.up2.name">碎片</string>
 	<string name="skills.rogue.mastery_3.passive_1.up2.desc">施放法術時有機會釋放多個碎片，向四周造成物理與火焰傷害</string>
 
-	<!-- Rogue -->
-
 
 
 
@@ -826,7 +828,6 @@
 	<string name="skills.warrior.passive_2.up2.desc">每層\cb0dfff殺戮狂歡\d層數增加生命值回復</string>
 	<string name="skills.warrior.passive_2.up3.name">大膽</string>
 	<string name="skills.warrior.passive_2.up3.desc">\cffdfb0近戰\d擊中\cb0dfffBoss\d與\cb0dfff精英\d時，有機會增加\cb0dfff殺戮狂歡\d層數</string>
-
 
 	
 	
@@ -1255,6 +1256,7 @@
 	<string name="modifiers.skills.attack_crit_dmg.suffix">屠夫</string>
 	<string name="modifiers.skills.spell_speed.prefix">施法者的</string>
 	<string name="modifiers.skills.spell_speed.suffix">敏捷</string>
+	<string name="modifiers.skills.spell_power.prefix">強力的</string>
 	<string name="modifiers.skills.spell_crit.prefix">崇高的</string>
 	<string name="modifiers.skills.spell_crit.suffix">卓越</string>
 	<string name="modifiers.skills.spell_crit_dmg.prefix">致死的</string>
@@ -1320,6 +1322,112 @@
 	<string name="modifiers.weapons.poison.suffix">毒液</string>
 	<string name="modifiers.weapons.pure.prefix">瓦解的</string>
 	<string name="modifiers.weapons.pure.suffix">分解</string>
+
+	<string name="modifiers.equipment.damage.weapon.suffix">戰鬥</string>
+	<string name="modifiers.equipment.damage.weapon.desc">%amnt% 武器攻擊傷害</string>
+	<string name="modifiers.equipment.damage.spell.suffix">英勇</string>
+	<string name="modifiers.equipment.damage.spell.desc">%amnt% 法術傷害</string>
+	<string name="modifiers.equipment.damage.elites.suffix">卓越</string>
+	<string name="modifiers.equipment.damage.elites.desc">對\cb0dfff精英\d造成 %amnt% 傷害</string>
+	<string name="modifiers.equipment.damage.bosses.suffix">至尊</string>
+	<string name="modifiers.equipment.damage.bosses.desc">對\cb0dfffBoss\d造成 %amnt% 傷害</string>
+	<string name="modifiers.equipment.crit_hit.suffix">精準</string>
+	<string name="modifiers.equipment.crit_chance.suffix">毀滅</string>
+	<string name="modifiers.equipment.attack_speed.suffix">敏捷</string>
+	<string name="modifiers.equipment.cast_speed.suffix">迅捷</string>
+	<string name="modifiers.equipment.move_speed.suffix">速度</string>
+	<string name="modifiers.equipment.dash_amount.suffix">衝刺</string>
+	<string name="modifiers.equipment.dash_amount.desc">%amnt% 衝刺充能</string>
+	<string name="modifiers.equipment.dash_recovery.suffix">回復</string>
+	<string name="modifiers.equipment.dash_recovery.desc">%amnt% 衝刺回復時間</string>
+	<string name="modifiers.equipment.evasion.suffix">閃避</string>
+	<string name="modifiers.equipment.parry.suffix">偏斜</string>
+	<string name="modifiers.equipment.damage_reduction.suffix">防護</string>
+	<string name="modifiers.equipment.damage_reduction.desc">%amnt% 承受傷害</string>
+	<string name="modifiers.equipment.spell_cost.suffix">精省</string>
+	<string name="modifiers.equipment.spell_cost.desc">%amnt% 法術魔力消耗</string>
+	<string name="modifiers.equipment.spell_cooldown.suffix">迅速</string>
+	<string name="modifiers.equipment.spell_cooldown.desc">%amnt% 法術冷卻時間</string>
+	<string name="modifiers.equipment.potion_charge.suffix">藥劑</string>
+	<string name="modifiers.equipment.potion_charge.desc">%amnt% 藥水充能</string>
+	<string name="modifiers.equipment.shadow_curse.suffix">熱忱</string>
+	<string name="modifiers.equipment.shadow_curse.desc">%amnt% 暗影詛咒增益</string>
+	<string name="modifiers.equipment.goldgain.suffix">財富</string>
+	<string name="modifiers.equipment.goldgain.desc">%amnt% 金幣獲取</string>
+	<string name="modifiers.equipment.expgain.suffix">學識</string>
+	<string name="modifiers.equipment.expgain.desc">經驗獲取</string>
+	<string name="modifiers.equipment.armor_pen.suffix">破裂</string>
+	<string name="modifiers.equipment.poison_pen.suffix">腐蝕</string>
+	<string name="modifiers.equipment.fire_pen.suffix">烈焰</string>
+	<string name="modifiers.equipment.ice_pen.suffix">霜寒</string>
+	<string name="modifiers.equipment.lightning_pen.suffix">電擊</string>
+	<string name="modifiers.equipment.thorns.suffix">荊棘</string>
+	<string name="modifiers.equipment.thorns.desc">受傷時反彈 %amnt% 物理傷害</string>
+	<string name="modifiers.equipment.kill_health.suffix">收割</string>
+	<string name="modifiers.equipment.kill_health.desc">擊殺時恢復 %amnt% 生命</string>
+	<string name="modifiers.equipment.kill_mana.suffix">汲取</string>
+	<string name="modifiers.equipment.kill_mana.desc">擊殺時恢復 %amnt% 魔力</string>
+	<string name="modifiers.equipment.mainhand.hit_health.suffix">渴求</string>
+	<string name="modifiers.equipment.mainhand.hit_health.desc">擊中時恢復 %amnt% 生命</string>
+	<string name="modifiers.equipment.offhand.hit_health.suffix">渴求</string>
+	<string name="modifiers.equipment.offhand.hit_health.desc">擊中時恢復 %amnt% 生命</string>
+	<string name="modifiers.equipment.twohand.hit_health.suffix">渴求</string>
+	<string name="modifiers.equipment.twohand.hit_health.desc">擊中時恢復 %amnt% 生命</string>
+	<string name="modifiers.equipment.mainhand.hit_mana.suffix">吸魔</string>
+	<string name="modifiers.equipment.mainhand.hit_mana.desc">擊中時恢復 %amnt% 魔力</string>
+	<string name="modifiers.equipment.offhand.hit_mana.suffix">吸魔</string>
+	<string name="modifiers.equipment.offhand.hit_mana.desc">擊中時恢復 %amnt% 魔力</string>
+	<string name="modifiers.equipment.twohand.hit_mana.suffix">吸魔</string>
+	<string name="modifiers.equipment.twohand.hit_mana.desc">擊中時恢復 %amnt% 魔力</string>
+	<string name="modifiers.equipment.mainhand.stun.suffix">震懾</string>
+	<string name="modifiers.equipment.mainhand.stun.desc">%amnt% 機率造成\cb0dfff暈眩\d</string>
+	<string name="modifiers.equipment.offhand.stun.suffix">震懾</string>
+	<string name="modifiers.equipment.offhand.stun.desc">%amnt% 機率造成\cb0dfff暈眩\d</string>
+	<string name="modifiers.equipment.twohand.stun.suffix">震懾</string>
+	<string name="modifiers.equipment.twohand.stun.desc">%amnt% 機率造成\cb0dfff暈眩\d</string>
+	<string name="modifiers.equipment.mainhand.disarm.suffix">繳械</string>
+	<string name="modifiers.equipment.mainhand.disarm.desc">%amnt% 機率造成\cb0dfff繳械\d</string>
+	<string name="modifiers.equipment.offhand.disarm.suffix">繳械</string>
+	<string name="modifiers.equipment.offhand.disarm.desc">%amnt% 機率造成\cb0dfff繳械\d</string>
+	<string name="modifiers.equipment.twohand.disarm.suffix">繳械</string>
+	<string name="modifiers.equipment.twohand.disarm.desc">%amnt% 機率造成\cb0dfff繳械\d</string>
+	<string name="modifiers.equipment.mainhand.slow.suffix">遲緩</string>
+	<string name="modifiers.equipment.mainhand.slow.desc">%amnt% 機率造成\cb0dfff減速\d</string>
+	<string name="modifiers.equipment.offhand.slow.suffix">遲緩</string>
+	<string name="modifiers.equipment.offhand.slow.desc">%amnt% 機率造成\cb0dfff減速\d</string>
+	<string name="modifiers.equipment.twohand.slow.suffix">遲緩</string>
+	<string name="modifiers.equipment.twohand.slow.desc">%amnt% 機率造成\cb0dfff減速\d</string>
+	<string name="modifiers.equipment.mainhand.silence.suffix">沉默</string>
+	<string name="modifiers.equipment.mainhand.silence.desc">%amnt% 機率造成\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.offhand.silence.suffix">沉默</string>
+	<string name="modifiers.equipment.offhand.silence.desc">%%amnt% 機率造成\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.twohand.silence.suffix">沉默</string>
+	<string name="modifiers.equipment.twohand.silence.desc">%%amnt% 機率造成\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.mainhand.blindness.suffix">致盲</string>
+	<string name="modifiers.equipment.mainhand.blindness.desc">%amnt% 機率造成\cb0dfff失明\d</string>
+	<string name="modifiers.equipment.offhand.blindness.suffix">致盲</string>
+	<string name="modifiers.equipment.offhand.blindness.desc">%amnt% 機率造成\cb0dfff失明\d</string>
+	<string name="modifiers.equipment.twohand.blindness.suffix">致盲</string>
+	<string name="modifiers.equipment.twohand.blindness.desc">%amnt% 機率造成\cb0dfff失明\d</string>
+	<string name="modifiers.equipment.mainhand.confusion.suffix">混亂</string>
+	<string name="modifiers.equipment.mainhand.confusion.desc">%amnt% 機率造成\cb0dfff混亂\d</string>
+	<string name="modifiers.equipment.offhand.confusion.suffix">混亂</string>
+	<string name="modifiers.equipment.offhand.confusion.desc">%amnt% 機率造成\cb0dfff混亂\d</string>
+	<string name="modifiers.equipment.twohand.confusion.suffix">混亂</string>
+	<string name="modifiers.equipment.twohand.confusion.desc">%amnt% 機率造成\cb0dfff混亂\d</string>
+	<string name="modifiers.equipment.mainhand.weakness.suffix">虛弱</string>
+	<string name="modifiers.equipment.mainhand.weakness.desc">%amnt% 機率造成\cb0dfff虛弱\d</string>
+	<string name="modifiers.equipment.offhand.weakness.suffix">虛弱</string>
+	<string name="modifiers.equipment.offhand.weakness.desc">%amnt% 機率造成\cb0dfff虛弱\d</string>
+	<string name="modifiers.equipment.twohand.weakness.suffix">虛弱</string>
+	<string name="modifiers.equipment.twohand.weakness.desc">%amnt% 機率造成\cb0dfff虛弱\d</string>
+	<string name="modifiers.equipment.mainhand.vulnerability.suffix">脆弱</string>
+	<string name="modifiers.equipment.mainhand.vulnerability.desc">%amnt% 機率造成\cb0dfff脆弱\d</string>
+	<string name="modifiers.equipment.offhand.vulnerability.suffix">脆弱</string>
+	<string name="modifiers.equipment.offhand.vulnerability.desc">%amnt% 機率造成\cb0dfff脆弱\d</string>
+	<string name="modifiers.equipment.twohand.vulnerability.suffix">脆弱</string>
+	<string name="modifiers.equipment.twohand.vulnerability.desc">%amnt% 機率造成\cb0dfff脆弱\d</string>
+
 
 	<string name="modifiers.debuff.armor_break.prefix">破甲的</string>
 	<string name="modifiers.debuff.armor_break.suffix">破甲</string>
@@ -1648,4 +1756,9 @@
 	<string name="stacks.wizard.barrier.desc">每層減少受到的傷害</string>
 	<string name="stacks.wizard.incanters_flow.name">咒術師的節奏</string>
 	<string name="stacks.wizard.incanters_flow.desc">每層增加你的施法速度並降低法術魔力消耗</string>
+
 </lang>
+
+
+
+
