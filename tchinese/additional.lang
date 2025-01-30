@@ -5,10 +5,12 @@
 
 	<string name="item.info.tooltip.slot.mainhand">主手</string>
 	<string name="item.info.tooltip.slot.offhand">副手</string>
+	<string name="item.info.tooltip.slot.twohand">雙手</string>
 	<string name="item.info.tooltip.slot.head">頭部</string>
 	<string name="item.info.tooltip.slot.chest">胸甲</string>
 	<string name="item.info.tooltip.slot.feet">足部</string>
 	<string name="item.info.tooltip.slot.hands">手部</string>
+	<string name="item.info.tooltip.slot.back">背部</string>
 	<string name="item.info.tooltip.slot.accessory">首飾</string>
 	<string name="item.info.tooltip.slot.potion">藥水</string>
 
@@ -312,7 +314,6 @@
 	<string name="modifiers.enchant.blackheart.suffix">腐化之</string>
 	<string name="modifiers.damage_taken.desc">額外受到 %desc%% 傷害</string>
 
-
 	<string name="menu.player.stats.mainhand">主手</string>
 	<string name="menu.player.stats.offhand">副手</string>
 	<string name="menu.player.stats.damage">傷害</string>
@@ -340,6 +341,12 @@
 	<string name="menu.options.legacy.control.desc">模擬 2013 年發行的《Hammerwatch》中的原版控制方式</string>
 	<string name="menu.controls.hold">HOLD POSITION</string>
 
+	<string name="menu.emotes.come_here">來這裡</string>
+	<string name="menu.emotes.greeting">你好</string>
+	<string name="menu.emotes.oops">哎呀</string>
+	<string name="menu.emotes.sorry">抱歉</string>
+	<string name="menu.emotes.thanks">謝謝</string>
+	<string name="menu.emotes.well_played">打的好</string>
 
 </lang>
 
