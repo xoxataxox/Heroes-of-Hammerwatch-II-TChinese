@@ -224,7 +224,7 @@
 	<string name="skills.combo.parry.desc">在短時間內成功招架 8 次後觸發連擊</string>	
 	<string name="skills.combo.none.name">連擊：無</string>	
 	<string name="skills.combo.none.desc">停用連擊</string>	
-	<string name="skills.combo.selected"> (以選擇)</string>
+	<string name="skills.combo.selected"> (已選擇)</string>
 
 
 	<!-- Attacks -->
