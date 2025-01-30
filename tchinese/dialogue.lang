@@ -101,6 +101,7 @@
 	<string name="npc.shop.builder">建造建築</string>
 	<string name="npc.shop.builder.empty.demo">完整版遊戲有更多建築與升級！</string>
 
+
 	<string name="npc.shop.upgrades.empty">你已經學會了所有內容</string>
 	<string name="npc.shop.upgrades.empty.shoplvl">升級商店以解鎖更多升級選項</string>
 
@@ -110,6 +111,9 @@
 	<string name="npc.shop.trinket.left">可購買數量：%num%</string>
 	<string name="npc.shop.equip.take">選擇一件裝備</string>
 	<string name="npc.shop.trinket.picker">選擇一個飾品</string>
+
+	<string name="npc.shop.buy.gold">以金幣購買</string>
+	<string name="npc.shop.sell.gold">出售為黃金</string>
 
 	<string name="npc.shop.equip.take.prompt">我的貨車已經塞滿了！要不要拿一件裝備？</string>
 
@@ -148,7 +152,8 @@
 
 	<string name="dialogue.grandma.prompt1">真希望我的孫子能快點來看我。我很想他</string>
 
-	<string name="dialogue.guard_exit.prompt1">外面要小心！</string>
+	<string name="dialogue.guard_exit.prompt1">出去要小心！</string>
+
 
 	<string name="dialogue.librarian.found">哦，你好！我找了好一會兒，但這裡什麼都沒有。連一本書都沒有</string>
 	<string name="dialogue.librarian.prompt1.1">書籍真是特別的東西，它們能帶你進入不同的世界，體驗不同的思維</string>
@@ -161,6 +166,8 @@
 	<string name="dialogue.architect.found.2">我從未幫助他們進入主門，但我想他們已經找到通過地穴進入堡壘的方法了</string>
 	<string name="dialogue.architect.prompt1">我會在堡壘外的森林等你</string>
 	<string name="dialogue.architect.prompt2">我來為你打開這個</string>
+
+
 
 	<string name="dialogue.rogue.found.1">你好！你也是來找寶藏的嗎？</string>
 	<string name="dialogue.rogue.found.2">你們有建立營地嗎？如果有空位給我，我可以教你一些技巧</string>
@@ -177,6 +184,8 @@
 	<string name="dialogue.sorcerer.is_same">又一位元素之道的學徒？很好，元素蘊藏著宇宙的奧秘</string>
 	<string name="dialogue.sorcerer.is_other">魔法就在我們周圍，你只需要引導它</string>
 
+
+
 	<string name="dialogue.hunter.intro1">哦，路塌了嗎？</string>
 	<string name="dialogue.hunter.intro2">你可以往西穿過溪流，然後向北深入森林繞過去</string>
 	<string name="dialogue.hunter.intro3">但要小心，這裡的森林很危險，而且道路可能是被人故意阻斷的</string>
@@ -186,18 +195,23 @@
 	<string name="dialogue.hunter.prompt2.2">這些穿著長袍在森林裡亂晃的傢伙是怎麼回事，你知道嗎？</string>
 	<string name="dialogue.hunter.prompt3">外面怎麼樣？</string>
 
+
 	<string name="dialogue.builder.intro.prompt1">大家準備好，這是我們最後的抵抗！</string>
 	<string name="dialogue.builder.intro.prompt2.1">哇，你真是個英雄！非常感謝，沒有你我們肯定撐不下來</string>
 	<string name="dialogue.builder.intro.prompt2.2">那些邪教徒既然找到我們就不會停手了，他們最近變得非常激進</string>
 
+
 	<string name="dialogue.apothecary.intro.prompt1.1">謝謝你的幫助！他們摧毀了我的實驗室，所以我能為你做的有限，但這瓶藥水給你</string>
 	<string name="dialogue.apothecary.intro.prompt1.2">我需要一個正式的藥房才能進一步幫助你，但我可以改良你的藥水</string>
+	
+
 
 	<string name="dialogue.chaplain.intro.prompt1.1">太可怕了，你的到來就像是上天的祝福</string>
 	<string name="dialogue.chaplain.intro.prompt1.2">我可以帶我們到更安全的地方</string>
 	<string name="dialogue.chaplain.prompt1.1">那些邪教徒一直在試圖進入黑暗堡壘，但最近他們變得更加激進。他們可能快要成功了</string>
 	<string name="dialogue.chaplain.prompt1.2">堡壘已經封閉了數個世紀，沒人知道發生了什麼</string>
 	<string name="dialogue.chaplain.prompt1.3">如果你能向北進入森林調查這件事，那將是莫大的幫助</string>
+
 
 	<string name="dialogue.subclass.lowlvl">我還不能幫你，\n等你到達10級再來吧</string>
 
