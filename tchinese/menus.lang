@@ -23,6 +23,8 @@
 	<string name="option.alt.auto_laser">自動準星</string>
 	<string name="option.alt.auto_both">自動兩者</string>
 	<string name="option.alt.auto">自動</string>
+	<string name="option.alt.colored">玩家顏色</string>
+	<string name="option.alt.white">白色</string>
 
 
 	<!-- Game -->
@@ -41,13 +43,13 @@
 	<string name="option.ui_plr_names_alpha.title">玩家名稱透明度</string>
 	<string name="option.g_emotes.title">多人遊戲表情</string>
 
-
 	<string name="option.ui_cursor_fat.title">更大的準心</string>
 	<string name="option.ui_cursor_alpha.title">滑鼠游標透明度</string>
 	<string name="option.ui_overlay_minimap_alpha.title">覆蓋地圖透明度</string>
 	<string name="option.ui_hud_dashbar.title">玩家衝刺條</string>
 	<string name="option.ui_cursor_health.title">游標狀態</string>
 	<string name="option.g_laser_sight.title">瞄準輔助線</string>
+	<string name="option.g_player_markers.title">多人瞄準標記</string>
 	<string name="option.g_quickcast.title">快速施法</string>
 
 	<string name="option.ui_hud_hpbars_enemy.title">敵人血條</string>
@@ -86,7 +88,6 @@
 	<string name="option.g_item_pickup_tooltip_equipment.title">裝備拾取預覽</string>
 
 	<string name="option.ui_load_screen_brightness.title">載入畫面亮度</string>
-
 
 
 
