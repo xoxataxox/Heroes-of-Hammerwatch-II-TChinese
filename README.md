@@ -12,7 +12,7 @@
 
 Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
 
-目前翻譯進度：等待Sixth Patch新文本釋出
+目前翻譯進度：已全數翻譯完畢，等待Seventh Patch新文本釋出
 
 ❌未完成、⏳翻譯中、✔️已完成
 <table>
@@ -22,15 +22,15 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>additional.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>dialogue.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>equipment.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>input.lang</td>
@@ -38,19 +38,19 @@ Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733
     </tr>
     <tr>
         <td>items.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>menus.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>skills.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
     <tr>
         <td>system.lang</td>
-        <td>✔️已完成(Fifth Patch版本)</td>
+        <td>✔️已完成(Sixth Patch版本)</td>
     </tr>
 </table>
 
