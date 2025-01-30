@@ -60,7 +60,7 @@
 	<string name="menu.nav.deposit">Deposit</string>
 	<string name="menu.nav.withdraw">Withdraw</string>
 	<string name="menu.nav.deposit_to">Deposit to '%to%'</string>
-	
+	<string name="menu.nav.rename">Rename</string>
 
 
 
@@ -230,14 +230,15 @@
 
 
 
-
-
-
 	<string name="menu.attributes.respec.title">Respec</string>
 	<string name="menu.attributes.respec">Would you like to respec %points%\"icn-attrpt" for %cost%</string>
 	<string name="menu.attributes.respec_cant_afford">You can't afford to respec %points%\"icn-attrpt" for %cost%</string>
 	<string name="menu.skills.respec">Would you like to respec %points%\"icn-skillpt" for %cost%</string>
 	<string name="menu.skills.respec_cant_afford">You can't afford to respec %points%\"icn-skillpt" for %cost%</string>
+
+
+	<string name="menu.char_custom.title">Customize Character</string>
+	<string name="menu.char_custom.rename">Enter a new name for your character:</string>
 
 
 
@@ -250,6 +251,8 @@
 	<string name="menu.loadout.waiting_num">Waiting for %num% players.</string>
 	<string name="menu.loadout.waiting_plrs">Waiting for %players%.</string>
 	<string name="menu.loadout.ngp">New Game+ %ngp%</string>
+	<string name="menu.loadout.food">Food </string>
+	<string name="menu.loadout.drinks">Drinks </string>
 
 
 	<string name="menu.mission_end.completed">Mission Completed!</string>
@@ -323,7 +326,7 @@
 	<string name="mainmenu.serverlist.title">Lobbies</string>
 	<string name="mainmenu.multiplayer.disabled">Multiplayer is currently unavailable.</string>
 	<string name="mainmenu.multiplayer.connecting">Connecting...</string>
-
+	<string name="mainmenu.lobby.suffix">'s lobby</string>
 
 
 
@@ -732,6 +735,7 @@
 	<string name="tooltip.header.current">Current</string>
 	<string name="tooltip.header.attuned">Attuned</string>
 	<string name="tooltip.equipment.ilvl">ilvl: %ilvl%</string>
+	<string name="tooltip.stats.required">req: </string>
 
 	<string name="blueprint.category.drink">Tavern Drink</string>
 	<string name="blueprint.category.food">Tavern Food</string>
@@ -811,6 +815,8 @@
 	<string name="menu.lobby.title">Hosting Game</string>
 	<string name="menu.lobby.switches">Switches</string>
 	<string name="menu.lobby.resmods">Modifiers</string>
+
+	<string name="menu.lobby.info.town_ngp">Town New Game+ %ngp%</string>
 
 	<string name="menu.mplayer.clobby">Host Game</string>
 	<string name="menu.mplayer.slist">Server List</string>
@@ -1076,16 +1082,102 @@
 	<string name="mission.intro_find_npcs.name">Rescue Townsfolk</string>
 	
 	
-	
+	<!-- Character Voices -->
 	<string name="menu.character.creation.voice.male1.title">Steven</string>
 	<string name="menu.character.creation.voice.male2.title">Tyler</string>
 	<string name="menu.character.creation.voice.male3.title">Cockney</string>
 	<string name="menu.character.creation.voice.female1.title">Clarissa</string>
 	<string name="menu.character.creation.voice.female2.title">Candice</string>
 	<string name="menu.character.creation.voice.female3.title">Diana</string>
+
+	<!-- Hairstyles -->
+	<string name="menu.character.creation.portrait_piece.hair1">Short Messy</string>
+	<string name="menu.character.creation.portrait_piece.hair2">Bun</string>
+	<string name="menu.character.creation.portrait_piece.hair3">Long Bob</string>
+	<string name="menu.character.creation.portrait_piece.hair4">Bowl Cut</string>
+	<string name="menu.character.creation.portrait_piece.hair5">Messy Shag</string>
+	<string name="menu.character.creation.portrait_piece.hair6">Hippie</string>
+	<string name="menu.character.creation.portrait_piece.hair8">Mohawk</string>
+	<string name="menu.character.creation.portrait_piece.hair9">Headband</string>
+	<string name="menu.character.creation.portrait_piece.hair11">Buzz Cut</string>
+	<string name="menu.character.creation.portrait_piece.hair12">Bald</string>
+	<string name="menu.character.creation.portrait_piece.hair13">Afro</string>
+	<string name="menu.character.creation.portrait_piece.hair14">Cornrows</string>
+	<string name="menu.character.creation.portrait_piece.hair15">Long Wavy</string>
+	<string name="menu.character.creation.portrait_piece.hair10">Short Bob</string>
+	<string name="menu.character.creation.portrait_piece.hair17">Crew Cut</string>
+	<string name="menu.character.creation.portrait_piece.hair18">Ponytail</string>
+	<string name="menu.character.creation.portrait_piece.hair19">Braid</string>
+	<string name="menu.character.creation.portrait_piece.hair20">Glamorous</string>
+	<string name="menu.character.creation.portrait_piece.hair22">Fancy Curls</string>
+	<string name="menu.character.creation.portrait_piece.hair23">Long Straight</string>
 	
+	<!-- Eyes -->
+	<string name="menu.character.creation.portrait_piece.eyes1">Eyes 1</string>
+	<string name="menu.character.creation.portrait_piece.eyes2">Eyes 2</string>
+	<string name="menu.character.creation.portrait_piece.eyes3">Eyes 3</string>
+	<string name="menu.character.creation.portrait_piece.eyes4">Eyes 4</string>
+	<string name="menu.character.creation.portrait_piece.eyes5">Eyes 5</string>
+	<string name="menu.character.creation.portrait_piece.eyes6">Eyes 6</string>
+	<string name="menu.character.creation.portrait_piece.eyes7">Eyes 7</string>
+	<string name="menu.character.creation.portrait_piece.eyes8">Eyes 8</string>
+	<string name="menu.character.creation.portrait_piece.eyes9">Eyes 9</string>
+	<string name="menu.character.creation.portrait_piece.eyes10">Eyes 10</string>
+	<string name="menu.character.creation.portrait_piece.eyes15">Eyes 11</string>
+	<string name="menu.character.creation.portrait_piece.eyes17">Eyes 12</string>
+	<string name="menu.character.creation.portrait_piece.eyes18">Eyes 13</string>
 	
+	<!-- Noses -->
+	<string name="menu.character.creation.portrait_piece.nose1">Nose 1</string>
+	<string name="menu.character.creation.portrait_piece.nose2">Nose 2</string>
+	<string name="menu.character.creation.portrait_piece.nose3">Nose 3</string>
+	<string name="menu.character.creation.portrait_piece.nose4">Nose 4</string>
+	<string name="menu.character.creation.portrait_piece.nose5">Nose 5</string>
+	<string name="menu.character.creation.portrait_piece.nose6">Nose 6</string>
+	<string name="menu.character.creation.portrait_piece.nose7">Nose 7</string>
 	
+	<!-- Mouths -->
+	<string name="menu.character.creation.portrait_piece.mouth1">Mouth 1</string>
+	<string name="menu.character.creation.portrait_piece.mouth2">Mouth 2</string>
+	<string name="menu.character.creation.portrait_piece.mouth3">Mouth 3</string>
+	<string name="menu.character.creation.portrait_piece.mouth4">Mouth 4</string>
+	<string name="menu.character.creation.portrait_piece.mouth5">Mouth 5</string>
+	<string name="menu.character.creation.portrait_piece.mouth6">Mouth 6</string>
+	<string name="menu.character.creation.portrait_piece.mouth7">Mouth 7</string>
+	<string name="menu.character.creation.portrait_piece.mouth8">Mouth 8</string>
+	<string name="menu.character.creation.portrait_piece.mouth9">Mouth 9</string>
+	<string name="menu.character.creation.portrait_piece.mouth10">Mouth 10</string>
+	<string name="menu.character.creation.portrait_piece.mouth11">Mouth 11</string>
+	<string name="menu.character.creation.portrait_piece.mouth12">Mouth 12</string>
+	<string name="menu.character.creation.portrait_piece.mouth13">Mouth 13</string>
+	<string name="menu.character.creation.portrait_piece.mouth14">Mouth 14</string>
+	<string name="menu.character.creation.portrait_piece.mouth15">Mouth 15</string>
+	<string name="menu.character.creation.portrait_piece.mouth16">Mouth 16</string>
+	
+	<!-- Hair Colors -->
+	<string name="menu.character.creation.color.platium">Platinum</string>
+	<string name="menu.character.creation.color.blonde">Blonde</string>
+	<string name="menu.character.creation.color.red">Red</string>
+	<string name="menu.character.creation.color.brown">Chestnut</string>
+	<string name="menu.character.creation.color.auburn">Auburn</string>
+	<string name="menu.character.creation.color.black">Black</string>
+	<string name="menu.character.creation.color.dark_gray">Dark Gray</string>
+	<string name="menu.character.creation.color.gray">Gray</string>
+	<string name="menu.character.creation.color.white">White</string>
+	
+	<!-- Skin Colors -->
+	<string name="menu.character.creation.color.light1">Pallid</string>
+	<string name="menu.character.creation.color.light2">Fair</string>
+	<string name="menu.character.creation.color.light3">Rosy</string>
+	<string name="menu.character.creation.color.dark1">Olive</string>
+	<string name="menu.character.creation.color.dark2">Brown</string>
+	<string name="menu.character.creation.color.dark3">Dark Brown</string>
+	<string name="menu.character.creation.color.dark4">Ebony</string>
+	
+
+
+
+
 	<string name="o.as360.pro">Detect as Switch Pro Controller</string>
 	<string name="o.joystick.pro">Pro Controller%slot%</string>
 	<string name="g_laser_sight.help.pro">Show a thin line to assist in aiming. Automatic means only when using a Pro Controller.</string>

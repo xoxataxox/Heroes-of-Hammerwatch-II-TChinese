@@ -112,7 +112,7 @@
 	<string name="trinket.spiked_pauldrons.name">Spiked Pauldrons</string>
 	<string name="trinket.spiked_pauldrons.desc">+%armr% Armor and returns %dmg% Physical Damage when taking damage.</string>
 	<string name="trinket.stone_chisel.name">Masonry Chisel</string>
-	<string name="trinket.stone_chisel.desc">+%num% Stone Gain</string>
+	<string name="trinket.stone_chisel.desc">+%num%% Stone Gain</string>
 	<string name="trinket.talisman_feather.name">Feather Talisman</string>
 	<string name="trinket.talisman_feather.desc">+%num% Dash Charge</string>
 	<string name="trinket.throwing_stars.name">Throwing Stars</string>

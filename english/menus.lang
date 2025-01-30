@@ -23,6 +23,8 @@
 	<string name="option.alt.auto_laser">Auto Laser</string>
 	<string name="option.alt.auto_both">Auto Both</string>
 	<string name="option.alt.auto">Auto</string>
+	<string name="option.alt.colored">Player Color</string>
+	<string name="option.alt.white">White</string>
 
 
 	<!-- Game -->
@@ -47,6 +49,7 @@
 	<string name="option.ui_hud_dashbar.title">Player Dashbar</string>
 	<string name="option.ui_cursor_health.title">Cursor Stats</string>
 	<string name="option.g_laser_sight.title">Aim Guide</string>
+	<string name="option.g_player_markers.title">Multiplayer Aim Marker</string>
 	<string name="option.g_quickcast.title">Quickcast</string>
 
 	<string name="option.ui_hud_hpbars_enemy.title">Enemy Healthbars</string>

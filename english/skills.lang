@@ -216,11 +216,15 @@
 	<string name="skills.desc.params.health_prc_per_stack">Health % per stack:</string>
 	<string name="skills.desc.params.mana_prc_per_stack">Mana % per stack:</string>
 
-
-
-
-
-
+	<string name="skills.combo.kills.name">Combo: Kills</string>	
+	<string name="skills.combo.kills.desc">Triggers combo after 10 kills in quick succession.</string>	
+	<string name="skills.combo.dash.name">Combo: Dash</string>	
+	<string name="skills.combo.dash.desc">Triggers combo after 3 dashes in quick succession.</string>	
+	<string name="skills.combo.parry.name">Combo: Parry</string>	
+	<string name="skills.combo.parry.desc">Triggers combo after 8 parries in quick succession.</string>	
+	<string name="skills.combo.none.name">Combo: None</string>	
+	<string name="skills.combo.none.desc">Disables combo.</string>	
+	<string name="skills.combo.selected"> (selected)</string>
 
 
 	<!-- Attacks -->
@@ -579,8 +583,6 @@
 	<string name="skills.rogue.mastery_3.passive_1.up1.desc">\cffdfb0Weapon\d skills has a chance to trigger a lightning bolt to zap a random nearby enemy, dealing Lightning damage.</string>
 	<string name="skills.rogue.mastery_3.passive_1.up2.name">Shrapnels</string>
 	<string name="skills.rogue.mastery_3.passive_1.up2.desc">Casting spells has a chance of discharging multiple shrapnels in all directions, dealing Physical and Fire damage.</string>
-
-	<!-- Rogue -->
 
 
 
@@ -1254,6 +1256,7 @@
 	<string name="modifiers.skills.attack_crit_dmg.suffix">of the Butcher</string>
 	<string name="modifiers.skills.spell_speed.prefix">Spellslinger's</string>
 	<string name="modifiers.skills.spell_speed.suffix">of Alacrity</string>
+	<string name="modifiers.skills.spell_power.prefix">Mighty</string>
 	<string name="modifiers.skills.spell_crit.prefix">Exalted</string>
 	<string name="modifiers.skills.spell_crit.suffix">of Excellence</string>
 	<string name="modifiers.skills.spell_crit_dmg.prefix">Deadly</string>
@@ -1319,6 +1322,112 @@
 	<string name="modifiers.weapons.poison.suffix">of Venom</string>
 	<string name="modifiers.weapons.pure.prefix">Disintegrating</string>
 	<string name="modifiers.weapons.pure.suffix">of Disintegration</string>
+
+	<string name="modifiers.equipment.damage.weapon.suffix">of Combat</string>
+	<string name="modifiers.equipment.damage.weapon.desc">%amnt% Weapon Attack Damage</string>
+	<string name="modifiers.equipment.damage.spell.suffix">of Prowess</string>
+	<string name="modifiers.equipment.damage.spell.desc">%amnt% Spell Damage</string>
+	<string name="modifiers.equipment.damage.elites.suffix">of Ascendancy</string>
+	<string name="modifiers.equipment.damage.elites.desc">%amnt% Damage against \cb0dfffElites\d</string>
+	<string name="modifiers.equipment.damage.bosses.suffix">of Supremancy</string>
+	<string name="modifiers.equipment.damage.bosses.desc">%amnt% Damage against \cb0dfffBosses\d</string>
+	<string name="modifiers.equipment.crit_hit.suffix">of Precision</string>
+	<string name="modifiers.equipment.crit_chance.suffix">of Destruction</string>
+	<string name="modifiers.equipment.attack_speed.suffix">of Quickness</string>
+	<string name="modifiers.equipment.cast_speed.suffix">of Alacrity</string>
+	<string name="modifiers.equipment.move_speed.suffix">of Speed</string>
+	<string name="modifiers.equipment.dash_amount.suffix">of Dashing</string>
+	<string name="modifiers.equipment.dash_amount.desc">%amnt% Dash Charge</string>
+	<string name="modifiers.equipment.dash_recovery.suffix">of Recovery</string>
+	<string name="modifiers.equipment.dash_recovery.desc">%amnt% Dash Recovery Time</string>
+	<string name="modifiers.equipment.evasion.suffix">of Evasion</string>
+	<string name="modifiers.equipment.parry.suffix">of Deflection</string>
+	<string name="modifiers.equipment.damage_reduction.suffix">of Protection</string>
+	<string name="modifiers.equipment.damage_reduction.desc">%amnt% Damage Taken</string>
+	<string name="modifiers.equipment.spell_cost.suffix">of Efficiency</string>
+	<string name="modifiers.equipment.spell_cost.desc">%amnt% Spell Mana Cost</string>
+	<string name="modifiers.equipment.spell_cooldown.suffix">of Celerity</string>
+	<string name="modifiers.equipment.spell_cooldown.desc">%amnt% Spell Cooldown</string>
+	<string name="modifiers.equipment.potion_charge.suffix">of Tonics</string>
+	<string name="modifiers.equipment.potion_charge.desc">%amnt% Potion Charge</string>
+	<string name="modifiers.equipment.shadow_curse.suffix">of Zeal</string>
+	<string name="modifiers.equipment.shadow_curse.desc">%amnt% Shadow Curse Gain</string>
+	<string name="modifiers.equipment.goldgain.suffix">of Wealth</string>
+	<string name="modifiers.equipment.goldgain.desc">%amnt% Gold Gain</string>
+	<string name="modifiers.equipment.expgain.suffix">of Learning</string>
+	<string name="modifiers.equipment.expgain.desc">Experience Gain</string>
+	<string name="modifiers.equipment.armor_pen.suffix">of Sundering</string>
+	<string name="modifiers.equipment.poison_pen.suffix">of Corrosion</string>
+	<string name="modifiers.equipment.fire_pen.suffix">of Conflagration</string>
+	<string name="modifiers.equipment.ice_pen.suffix">of Frostbite</string>
+	<string name="modifiers.equipment.lightning_pen.suffix">of Electrocution</string>
+	<string name="modifiers.equipment.thorns.suffix">of Thorns</string>
+	<string name="modifiers.equipment.thorns.desc">Returns %amnt% Physical Damage when taking damage</string>
+	<string name="modifiers.equipment.kill_health.suffix">of Reaping</string>
+	<string name="modifiers.equipment.kill_health.desc">Restores %amnt% Health on Kill</string>
+	<string name="modifiers.equipment.kill_mana.suffix">of Siphoning</string>
+	<string name="modifiers.equipment.kill_mana.desc">Restores %amnt% Mana on Kill</string>
+	<string name="modifiers.equipment.mainhand.hit_health.suffix">of Craving</string>
+	<string name="modifiers.equipment.mainhand.hit_health.desc">Restores %amnt% Health on Hit</string>
+	<string name="modifiers.equipment.offhand.hit_health.suffix">of Craving</string>
+	<string name="modifiers.equipment.offhand.hit_health.desc">Restores %amnt% Health on Hit</string>
+	<string name="modifiers.equipment.twohand.hit_health.suffix">of Craving</string>
+	<string name="modifiers.equipment.twohand.hit_health.desc">Restores %amnt% Health on Hit</string>
+	<string name="modifiers.equipment.mainhand.hit_mana.suffix">of Draining</string>
+	<string name="modifiers.equipment.mainhand.hit_mana.desc">Restores %amnt% Mana on Hit</string>
+	<string name="modifiers.equipment.offhand.hit_mana.suffix">of Draining</string>
+	<string name="modifiers.equipment.offhand.hit_mana.desc">Restores %amnt% Mana on Hit</string>
+	<string name="modifiers.equipment.twohand.hit_mana.suffix">of Draining</string>
+	<string name="modifiers.equipment.twohand.hit_mana.desc">Restores %amnt% Mana on Hit</string>
+	<string name="modifiers.equipment.mainhand.stun.suffix">of Stunning</string>
+	<string name="modifiers.equipment.mainhand.stun.desc">%amnt% chance to inflict \cb0dfffStun\d</string>
+	<string name="modifiers.equipment.offhand.stun.suffix">of Stunning</string>
+	<string name="modifiers.equipment.offhand.stun.desc">%amnt% chance to inflict \cb0dfffStun\d</string>
+	<string name="modifiers.equipment.twohand.stun.suffix">of Stunning</string>
+	<string name="modifiers.equipment.twohand.stun.desc">%amnt% chance to inflict \cb0dfffStun\d</string>
+	<string name="modifiers.equipment.mainhand.disarm.suffix">of Disarming</string>
+	<string name="modifiers.equipment.mainhand.disarm.desc">%amnt% chance to inflict \cb0dfffDisarm\d</string>
+	<string name="modifiers.equipment.offhand.disarm.suffix">of Disarming</string>
+	<string name="modifiers.equipment.offhand.disarm.desc">%amnt% chance to inflict \cb0dfffDisarm\d</string>
+	<string name="modifiers.equipment.twohand.disarm.suffix">of Disarming</string>
+	<string name="modifiers.equipment.twohand.disarm.desc">%amnt% chance to inflict \cb0dfffDisarm\d</string>
+	<string name="modifiers.equipment.mainhand.slow.suffix">of Slowing</string>
+	<string name="modifiers.equipment.mainhand.slow.desc">%amnt% chance to inflict \cb0dfffSlow\d</string>
+	<string name="modifiers.equipment.offhand.slow.suffix">of Slowing</string>
+	<string name="modifiers.equipment.offhand.slow.desc">%amnt% chance to inflict \cb0dfffSlow\d</string>
+	<string name="modifiers.equipment.twohand.slow.suffix">of Slowing</string>
+	<string name="modifiers.equipment.twohand.slow.desc">%amnt% chance to inflict \cb0dfffSlow\d</string>
+	<string name="modifiers.equipment.mainhand.silence.suffix">of Silence</string>
+	<string name="modifiers.equipment.mainhand.silence.desc">%amnt% chance to inflict \cb0dfffSilence\d</string>
+	<string name="modifiers.equipment.offhand.silence.suffix">of Silence</string>
+	<string name="modifiers.equipment.offhand.silence.desc">%amnt% chance to inflict \cb0dfffSilence\d</string>
+	<string name="modifiers.equipment.twohand.silence.suffix">of Silence</string>
+	<string name="modifiers.equipment.twohand.silence.desc">%amnt% chance to inflict \cb0dfffSilence\d</string>
+	<string name="modifiers.equipment.mainhand.blindness.suffix">of Blindness</string>
+	<string name="modifiers.equipment.mainhand.blindness.desc">%amnt% chance to inflict \cb0dfffBlindness\d</string>
+	<string name="modifiers.equipment.offhand.blindness.suffix">of Blindness</string>
+	<string name="modifiers.equipment.offhand.blindness.desc">%amnt% chance to inflict \cb0dfffBlindness\d</string>
+	<string name="modifiers.equipment.twohand.blindness.suffix">of Blindness</string>
+	<string name="modifiers.equipment.twohand.blindness.desc">%amnt% chance to inflict \cb0dfffBlindness\d</string>
+	<string name="modifiers.equipment.mainhand.confusion.suffix">of Confusion</string>
+	<string name="modifiers.equipment.mainhand.confusion.desc">%amnt% chance to inflict \cb0dfffConfusion\d</string>
+	<string name="modifiers.equipment.offhand.confusion.suffix">of Confusion</string>
+	<string name="modifiers.equipment.offhand.confusion.desc">%amnt% chance to inflict \cb0dfffConfusion\d</string>
+	<string name="modifiers.equipment.twohand.confusion.suffix">of Confusion</string>
+	<string name="modifiers.equipment.twohand.confusion.desc">%amnt% chance to inflict \cb0dfffConfusion\d</string>
+	<string name="modifiers.equipment.mainhand.weakness.suffix">of Weakness</string>
+	<string name="modifiers.equipment.mainhand.weakness.desc">%amnt% chance to inflict \cb0dfffWeakness\d</string>
+	<string name="modifiers.equipment.offhand.weakness.suffix">of Weakness</string>
+	<string name="modifiers.equipment.offhand.weakness.desc">%amnt% chance to inflict \cb0dfffWeakness\d</string>
+	<string name="modifiers.equipment.twohand.weakness.suffix">of Weakness</string>
+	<string name="modifiers.equipment.twohand.weakness.desc">%amnt% chance to inflict \cb0dfffWeakness\d</string>
+	<string name="modifiers.equipment.mainhand.vulnerability.suffix">of Vulnerability</string>
+	<string name="modifiers.equipment.mainhand.vulnerability.desc">%amnt% chance to inflict \cb0dfffVulnerability\d</string>
+	<string name="modifiers.equipment.offhand.vulnerability.suffix">of Vulnerability</string>
+	<string name="modifiers.equipment.offhand.vulnerability.desc">%amnt% chance to inflict \cb0dfffVulnerability\d</string>
+	<string name="modifiers.equipment.twohand.vulnerability.suffix">of Vulnerability</string>
+	<string name="modifiers.equipment.twohand.vulnerability.desc">%amnt% chance to inflict \cb0dfffVulnerability\d</string>
+
 
 	<string name="modifiers.debuff.armor_break.prefix">Armor Break</string>
 	<string name="modifiers.debuff.armor_break.suffix">of Armor Break</string>

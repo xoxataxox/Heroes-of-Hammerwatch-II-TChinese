@@ -5,10 +5,12 @@
 
 	<string name="item.info.tooltip.slot.mainhand">Main Hand</string>
 	<string name="item.info.tooltip.slot.offhand">Off Hand</string>
+	<string name="item.info.tooltip.slot.twohand">Two Handed</string>
 	<string name="item.info.tooltip.slot.head">Head</string>
 	<string name="item.info.tooltip.slot.chest">Chest</string>
 	<string name="item.info.tooltip.slot.feet">Feet</string>
 	<string name="item.info.tooltip.slot.hands">Hands</string>
+	<string name="item.info.tooltip.slot.back">Back</string>
 	<string name="item.info.tooltip.slot.accessory">Accessory</string>
 	<string name="item.info.tooltip.slot.potion">Potion</string>
 
@@ -312,7 +314,6 @@
 	<string name="modifiers.enchant.blackheart.suffix">of Corruption</string>
 	<string name="modifiers.damage_taken.desc">%desc%% more damage taken.</string>
 
-
 	<string name="menu.player.stats.mainhand">Mainhand</string>
 	<string name="menu.player.stats.offhand">Offhand</string>
 	<string name="menu.player.stats.damage">Damage</string>
@@ -340,6 +341,12 @@
 	<string name="menu.options.legacy.control.desc">Emulates original controls and handling from Hammerwatch, released 2013.</string>
 	<string name="menu.controls.hold">HOLD POSITION</string>
 
+	<string name="menu.emotes.come_here">Come Here</string>
+	<string name="menu.emotes.greeting">Greeting</string>
+	<string name="menu.emotes.oops">Oops</string>
+	<string name="menu.emotes.sorry">Sorry</string>
+	<string name="menu.emotes.thanks">Thanks</string>
+	<string name="menu.emotes.well_played">Well Played</string>
 
 </lang>
 
