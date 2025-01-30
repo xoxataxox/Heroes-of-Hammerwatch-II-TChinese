@@ -113,7 +113,7 @@
 	<string name="npc.shop.trinket.picker">選擇一個飾品</string>
 
 	<string name="npc.shop.buy.gold">以金幣購買</string>
-	<string name="npc.shop.sell.gold">出售為黃金</string>
+	<string name="npc.shop.sell.gold">出售為金幣</string>
 
 	<string name="npc.shop.equip.take.prompt">我的貨車已經塞滿了！要不要拿一件裝備？</string>
 
