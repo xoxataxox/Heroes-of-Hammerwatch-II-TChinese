@@ -253,6 +253,10 @@
 	<string name="trinket.set.rings_resistance.name">抗性戒指</string>
 	<string name="trinket.set.rings_resistance.2">每級增加 %num% 所有抗性</string>
 
+
+
+
+
 	<!-- Tavern Meals -->
 	<string name="tavern.meal.simple_broth.name">簡單肉湯</string>
 	<string name="tavern.meal.simple_broth.desc">生命與魔力回復 +0.5</string>
@@ -276,7 +280,7 @@
 	<string name="tavern.drink.hair_of_the_goblin.name">哥布林之髮</string>
 	<string name="tavern.drink.hair_of_the_goblin.desc">武器暴擊率 +10%\n衝刺恢復時間 +25%</string>
 	<string name="tavern.drink.the_impetuous_apprentice.name">莽撞的學徒</string>
-	<string name="tavern.drink.the_impetuous_apprentice.desc">施法速度 +25%，法術冷卻時間 -25%\n法術魔力消耗 +10%</string>
+	<string name="tavern.drink.the_impetuous_apprentice.desc">施法速度 +25%，法術冷卻時間減少 -25%\n法術魔力消耗 +10%</string>
 	<string name="tavern.drink.slow_and_steady.name">穩重緩行</string>
 	<string name="tavern.drink.slow_and_steady.desc">受到的傷害 -10%\n經驗獲取 -25%</string>
 	<string name="tavern.drink.sawdust.name">鋸木屑</string>
