@@ -60,7 +60,7 @@
 	<string name="menu.nav.deposit">存入</string>
 	<string name="menu.nav.withdraw">取出</string>
 	<string name="menu.nav.deposit_to">存入至'%to%'</string>
-
+	<string name="menu.nav.rename">重新命名</string>
 
 
 
@@ -230,14 +230,15 @@
 
 
 
-
-
-
 	<string name="menu.attributes.respec.title">重置點數</string>
 	<string name="menu.attributes.respec">是否要花費 %cost% 來重置 %points%\"icn-attrpt"？</string>
 	<string name="menu.attributes.respec_cant_afford">你無法負擔重置 %points%\"icn-attrpt" 所需的 %cost%</string>
 	<string name="menu.skills.respec">是否要花費 %cost% 來重置 %points%\"icn-skillpt"？</string>
 	<string name="menu.skills.respec_cant_afford">你無法負擔重置 %points%\"icn-skillpt" 所需的 %cost%</string>
+
+
+	<string name="menu.char_custom.title">自訂角色</string>
+	<string name="menu.char_custom.rename">輸入角色的新名稱：</string>
 
 
 
@@ -250,6 +251,8 @@
 	<string name="menu.loadout.waiting_num">正在等待 %num% 位玩家</string>
 	<string name="menu.loadout.waiting_plrs">等待 %players%</string>
 	<string name="menu.loadout.ngp">New Game+ %ngp%</string>
+	<string name="menu.loadout.food">食物 </string>
+	<string name="menu.loadout.drinks">飲品 </string>
 
 
 	<string name="menu.mission_end.completed">任務完成！</string>
@@ -269,7 +272,6 @@
 	<string name="menu.mission_end.step.trinkets.epic">史詩飾品</string>
 	<string name="menu.mission_end.step.revive">復活 "捐贈" (%rate%%)</string>
 	<string name="menu.mission_end.step.reward">任務獎勵</string>
-
 
 	<string name="menu.player_stash.withdraw">提取</string>
 	<string name="menu.player_stash.deposit">存入</string>
@@ -324,7 +326,7 @@
 	<string name="mainmenu.serverlist.title">大廳</string>
 	<string name="mainmenu.multiplayer.disabled">多人遊戲目前無法使用</string>
 	<string name="mainmenu.multiplayer.connecting">正在連接...</string>
-
+	<string name="mainmenu.lobby.suffix">的大廳</string>
 
 
 
@@ -733,6 +735,7 @@
 	<string name="tooltip.header.current">當前</string>
 	<string name="tooltip.header.attuned">共鳴</string>
 	<string name="tooltip.equipment.ilvl">裝備等級： %ilvl%</string>
+	<string name="tooltip.stats.required">需求： </string>
 
 	<string name="blueprint.category.drink">酒館飲品藍圖</string>
 	<string name="blueprint.category.food">酒館食物藍圖</string>
@@ -812,6 +815,8 @@
 	<string name="menu.lobby.title">主持遊戲</string>
 	<string name="menu.lobby.switches">切換功能</string>
 	<string name="menu.lobby.resmods">調整項目</string>
+
+	<string name="menu.lobby.info.town_ngp">城鎮 New Game+ %ngp%</string>
 
 	<string name="menu.mplayer.clobby">主持遊戲</string>
 	<string name="menu.mplayer.slist">伺服器清單</string>
@@ -1077,7 +1082,7 @@
 	<string name="mission.intro_find_npcs.name">拯救村民</string>
 	
 	
-	
+	<!-- Character Voices -->
 	<string name="menu.character.creation.voice.male1.title">史蒂文</string>
 	<string name="menu.character.creation.voice.male2.title">泰勒</string>
 	<string name="menu.character.creation.voice.male3.title">柯克尼</string>
@@ -1085,7 +1090,93 @@
 	<string name="menu.character.creation.voice.female2.title">坎蒂絲</string>
 	<string name="menu.character.creation.voice.female3.title">黛安娜</string>
 	
+	<!-- Hairstyles -->
+	<string name="menu.character.creation.portrait_piece.hair1">短亂髮</string>
+	<string name="menu.character.creation.portrait_piece.hair2">包頭</string>
+	<string name="menu.character.creation.portrait_piece.hair3">長鮑伯頭</string>
+	<string name="menu.character.creation.portrait_piece.hair4">西瓜皮</string>
+	<string name="menu.character.creation.portrait_piece.hair5">凌亂層次髮</string>
+	<string name="menu.character.creation.portrait_piece.hair6">嬉皮</string>
+	<string name="menu.character.creation.portrait_piece.hair8">莫霍克</string>
+	<string name="menu.character.creation.portrait_piece.hair9">頭帶</string>
+	<string name="menu.character.creation.portrait_piece.hair11">平頭</string>
+	<string name="menu.character.creation.portrait_piece.hair12">禿頭</string>
+	<string name="menu.character.creation.portrait_piece.hair13">爆炸頭</string>
+	<string name="menu.character.creation.portrait_piece.hair14">辮子頭</string>
+	<string name="menu.character.creation.portrait_piece.hair15">長波浪髮</string>
+	<string name="menu.character.creation.portrait_piece.hair10">短鮑伯頭</string>
+	<string name="menu.character.creation.portrait_piece.hair17">板寸頭</string>
+	<string name="menu.character.creation.portrait_piece.hair18">馬尾</string>
+	<string name="menu.character.creation.portrait_piece.hair19">辮子頭</string>
+	<string name="menu.character.creation.portrait_piece.hair20">華麗髮型</string>
+	<string name="menu.character.creation.portrait_piece.hair22">精緻捲髮</string>
+	<string name="menu.character.creation.portrait_piece.hair23">長直髮</string>
 	
+	<!-- Eyes -->
+	<string name="menu.character.creation.portrait_piece.eyes1">眼睛 1</string>
+	<string name="menu.character.creation.portrait_piece.eyes2">眼睛 2</string>
+	<string name="menu.character.creation.portrait_piece.eyes3">眼睛 3</string>
+	<string name="menu.character.creation.portrait_piece.eyes4">眼睛 4</string>
+	<string name="menu.character.creation.portrait_piece.eyes5">眼睛 5</string>
+	<string name="menu.character.creation.portrait_piece.eyes6">眼睛 6</string>
+	<string name="menu.character.creation.portrait_piece.eyes7">眼睛 7</string>
+	<string name="menu.character.creation.portrait_piece.eyes8">眼睛 8</string>
+	<string name="menu.character.creation.portrait_piece.eyes9">眼睛 9</string>
+	<string name="menu.character.creation.portrait_piece.eyes10">眼睛 10</string>
+	<string name="menu.character.creation.portrait_piece.eyes15">眼睛 11</string>
+	<string name="menu.character.creation.portrait_piece.eyes17">眼睛 12</string>
+	<string name="menu.character.creation.portrait_piece.eyes18">眼睛 13</string>
+	
+	<!-- Noses -->
+	<string name="menu.character.creation.portrait_piece.nose1">鼻子 1</string>
+	<string name="menu.character.creation.portrait_piece.nose2">鼻子 2</string>
+	<string name="menu.character.creation.portrait_piece.nose3">鼻子 3</string>
+	<string name="menu.character.creation.portrait_piece.nose4">鼻子 4</string>
+	<string name="menu.character.creation.portrait_piece.nose5">鼻子 5</string>
+	<string name="menu.character.creation.portrait_piece.nose6">鼻子 6</string>
+	<string name="menu.character.creation.portrait_piece.nose7">鼻子 7</string>
+	
+	<!-- Mouths -->
+	<string name="menu.character.creation.portrait_piece.mouth1">嘴巴 1</string>
+	<string name="menu.character.creation.portrait_piece.mouth2">嘴巴 2</string>
+	<string name="menu.character.creation.portrait_piece.mouth3">嘴巴 3</string>
+	<string name="menu.character.creation.portrait_piece.mouth4">嘴巴 4</string>
+	<string name="menu.character.creation.portrait_piece.mouth5">嘴巴 5</string>
+	<string name="menu.character.creation.portrait_piece.mouth6">嘴巴 6</string>
+	<string name="menu.character.creation.portrait_piece.mouth7">嘴巴 7</string>
+	<string name="menu.character.creation.portrait_piece.mouth8">嘴巴 8</string>
+	<string name="menu.character.creation.portrait_piece.mouth9">嘴巴 9</string>
+	<string name="menu.character.creation.portrait_piece.mouth10">嘴巴 10</string>
+	<string name="menu.character.creation.portrait_piece.mouth11">嘴巴 11</string>
+	<string name="menu.character.creation.portrait_piece.mouth12">嘴巴 12</string>
+	<string name="menu.character.creation.portrait_piece.mouth13">嘴巴 13</string>
+	<string name="menu.character.creation.portrait_piece.mouth14">嘴巴 14</string>
+	<string name="menu.character.creation.portrait_piece.mouth15">嘴巴 15</string>
+	<string name="menu.character.creation.portrait_piece.mouth16">嘴巴 16</string>
+	
+	<!-- Hair Colors -->
+	<string name="menu.character.creation.color.platium">鉑金色</string>
+	<string name="menu.character.creation.color.blonde">金色</string>
+	<string name="menu.character.creation.color.red">紅色</string>
+	<string name="menu.character.creation.color.brown">栗色</string>
+	<string name="menu.character.creation.color.auburn">赤褐色</string>
+	<string name="menu.character.creation.color.black">黑色</string>
+	<string name="menu.character.creation.color.dark_gray">深灰色</string>
+	<string name="menu.character.creation.color.gray">灰色</string>
+	<string name="menu.character.creation.color.white">白色</string>
+	
+	<!-- Skin Colors -->
+	<string name="menu.character.creation.color.light1">蒼白</string>
+	<string name="menu.character.creation.color.light2">白皙</string>
+	<string name="menu.character.creation.color.light3">紅潤</string>
+	<string name="menu.character.creation.color.dark1">橄欖色</string>
+	<string name="menu.character.creation.color.dark2">棕色</string>
+	<string name="menu.character.creation.color.dark3">深棕色</string>
+	<string name="menu.character.creation.color.dark4">烏黑</string>
+
+
+
+
 	
 	<string name="o.as360.pro">偵測為 Switch Pro 控制器r</string>
 	<string name="o.joystick.pro">Pro Controller%slot%</string>
