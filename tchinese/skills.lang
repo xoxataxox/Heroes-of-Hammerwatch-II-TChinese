@@ -1400,9 +1400,9 @@
 	<string name="modifiers.equipment.mainhand.silence.suffix">沉默</string>
 	<string name="modifiers.equipment.mainhand.silence.desc">%amnt% 機率造成\cb0dfff沉默\d</string>
 	<string name="modifiers.equipment.offhand.silence.suffix">沉默</string>
-	<string name="modifiers.equipment.offhand.silence.desc">%%amnt% 機率造成\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.offhand.silence.desc">%amnt% 機率造成\cb0dfff沉默\d</string>
 	<string name="modifiers.equipment.twohand.silence.suffix">沉默</string>
-	<string name="modifiers.equipment.twohand.silence.desc">%%amnt% 機率造成\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.twohand.silence.desc">%amnt% 機率造成\cb0dfff沉默\d</string>
 	<string name="modifiers.equipment.mainhand.blindness.suffix">致盲</string>
 	<string name="modifiers.equipment.mainhand.blindness.desc">%amnt% 機率造成\cb0dfff失明\d</string>
 	<string name="modifiers.equipment.offhand.blindness.suffix">致盲</string>
