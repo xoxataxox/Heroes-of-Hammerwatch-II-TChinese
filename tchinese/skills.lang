@@ -1355,7 +1355,7 @@
 	<string name="modifiers.equipment.goldgain.suffix">財富</string>
 	<string name="modifiers.equipment.goldgain.desc">%amnt% 金幣獲取</string>
 	<string name="modifiers.equipment.expgain.suffix">學識</string>
-	<string name="modifiers.equipment.expgain.desc">經驗獲取</string>
+	<string name="modifiers.equipment.expgain.desc">%amnt% 經驗獲取</string>
 	<string name="modifiers.equipment.armor_pen.suffix">破裂</string>
 	<string name="modifiers.equipment.poison_pen.suffix">腐蝕</string>
 	<string name="modifiers.equipment.fire_pen.suffix">烈焰</string>
