@@ -628,7 +628,7 @@
 	<string name="skills.sorcerer.passive_2.up3.desc">法術暴擊時恢復部分魔力</string>
 
 
-	<string name="skills.sorcerer.mastery_1.name">火法</string>
+	<string name="skills.sorcerer.mastery_1.name">烈焰大師</string>
 	<string name="skills.sorcerer.mastery_1.desc"></string>
 
 	<string name="skills.sorcerer.mastery_1.spell_1.name">火焰牆</string>
@@ -647,7 +647,7 @@
 	<string name="skills.sorcerer.mastery_1.passive_1.up2.name">癒火</string>
 	<string name="skills.sorcerer.mastery_1.passive_1.up2.desc">法術暴擊時恢復部分生命</string>
 
-	<string name="skills.sorcerer.mastery_2.name">冰法</string>
+	<string name="skills.sorcerer.mastery_2.name">寒冰大師</string>
 	<string name="skills.sorcerer.mastery_2.desc"></string>
 
 	<string name="skills.sorcerer.mastery_2.spell_1.name">冰霜新星</string>
@@ -664,7 +664,7 @@
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">冰霜格擋</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害</string>
 
-	<string name="skills.sorcerer.mastery_3.name">電法</string>
+	<string name="skills.sorcerer.mastery_3.name">雷霆大師</string>
 	<string name="skills.sorcerer.mastery_3.desc"></string>
 
 	<string name="skills.sorcerer.mastery_3.spell_1.name">閃電球</string>
