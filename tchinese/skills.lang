@@ -559,7 +559,7 @@
 	<string name="skills.rogue.mastery_2.spell_1.up2.desc">進入毒雲的敵人會被附加\cb0dfff破甲\d</string>
 
 	<string name="skills.rogue.mastery_2.passive_1.name">毒素專精</string>
-	<string name="skills.rogue.mastery_2.passive_1.desc">你造成的毒素傷害增加，且你的\cffdfb0毒素\d技能有機會附加\cb0dfff易傷\d</string>
+	<string name="skills.rogue.mastery_2.passive_1.desc">你造成的毒素傷害增加，且你的\cffdfb0毒素\d技能有機會附加\cb0dfff脆弱\d</string>
 	<string name="skills.rogue.mastery_2.passive_1.up1.name">塗毒武器</string>
 	<string name="skills.rogue.mastery_2.passive_1.up1.desc">根據每等角色等級增加武器的毒素傷害</string>
 	<string name="skills.rogue.mastery_2.passive_1.up2.name">致命毒素</string>
@@ -578,7 +578,7 @@
 	<string name="skills.rogue.mastery_3.spell_1.up3.desc">在靠近敵人時衝刺會丟下一顆手榴彈，此效果有短暫冷卻</string>
 	
 	<string name="skills.rogue.mastery_3.passive_1.name">工匠套裝</string>
-	<string name="skills.rogue.mastery_3.passive_1.desc">提升護甲與物理傷害。受到傷害時觸發閃光彈，使附近敵人\cb0dfff失明\d，此效果有短暫冷卻</string>
+	<string name="skills.rogue.mastery_3.passive_1.desc">提升護甲與物理傷害。受到傷害時觸發閃光彈，使附近敵人\cb0dfff致盲\d，此效果有短暫冷卻</string>
 	<string name="skills.rogue.mastery_3.passive_1.up1.name">電擊</string>
 	<string name="skills.rogue.mastery_3.passive_1.up1.desc">\cffdfb武器\d技能有機會釋放一道閃電，對隨機敵人造成閃電傷害</string>
 	<string name="skills.rogue.mastery_3.passive_1.up2.name">碎片</string>
@@ -658,9 +658,9 @@
 	<string name="skills.sorcerer.mastery_2.spell_1.up2.desc">碎片擊殺敵人時，有機會觸發新的小型新星碎片</string>
 
 	<string name="skills.sorcerer.mastery_2.passive_1.name">冰霜專精</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.desc">你造成的冰冷傷害增加，且\cffdfb0冰霜\d技能有機會附加\cb0dfff冰凍\d冰凍</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.desc">你造成的冰冷傷害增加，且\cffdfb0冰霜\d技能有機會附加\cb0dfff冰凍\d</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up1.name">破碎</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用\cffdfb0冰霜\d擊殺敵人時有機會觸發 爆炸，造成冰冷傷害</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用\cffdfb0冰霜\d擊殺敵人時有機會觸發爆炸，造成冰冷傷害</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">冰霜格擋</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害</string>
 
@@ -675,7 +675,7 @@
 	<string name="skills.sorcerer.mastery_3.spell_1.up2.desc">在路徑上留下電場，持續一段時間並造成額外閃電傷害</string>
 	
 	<string name="skills.sorcerer.mastery_3.passive_1.name">閃電專精</string>
-	<string name="skills.sorcerer.mastery_3.passive_1.desc">你造成的閃電傷害增加，且\cffdfb0閃電\d技能有機會附加 \cb0dfff暈眩\d</string>
+	<string name="skills.sorcerer.mastery_3.passive_1.desc">你造成的閃電傷害增加，且\cffdfb0閃電\d技能有機會附加\cb0dfff暈眩\d</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up1.name">弧形閃電</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up1.desc">你的\cffdfb0閃電\d技能有機會觸發在敵人之間鏈接的閃電弧，造成閃電傷害</string>
 	<string name="skills.sorcerer.mastery_3.passive_1.up2.name">無效力場 </string>
@@ -847,7 +847,7 @@
 	<string name="skills.warrior.mastery_1.passive_1.up1.name">不屈狂怒</string>
 	<string name="skills.warrior.mastery_1.passive_1.up1.desc">當處於\cb0dfff低血量\d時，會自動獲得狂怒，並減少所受傷害</string>
 	<string name="skills.warrior.mastery_1.passive_1.up2.name">狂怒戰吼</string>
-	<string name="skills.warrior.mastery_1.passive_1.up2.desc">使用\cb0dfff戰吼\d時獲得\cb0dfff狂怒\ ，且\cb0dfff狂怒\ 期間技能冷卻時間縮短</string>
+	<string name="skills.warrior.mastery_1.passive_1.up2.desc">使用\cb0dfff戰吼\d時獲得\cb0dfff狂怒\d，且\cb0dfff狂怒\d期間技能冷卻時間縮短</string>
 
 	<string name="skills.warrior.mastery_2.name">原始者</string>
 	<string name="skills.warrior.mastery_2.desc"></string>
@@ -992,7 +992,7 @@
 	<string name="skills.wizard.mastery_3.passive_1.up2.name">強化敏捷</string>
 	<string name="skills.wizard.mastery_3.passive_1.up2.desc">根據每點敏捷額外增加法術威力</string>
 	<string name="skills.wizard.mastery_3.passive_1.up3.name">自由移動</string>
-	<string name="skills.wizard.mastery_3.passive_1.up3.desc">獲得\cb0dfff緩速\d 與\cb0dfff跛足\d免疫</string>
+	<string name="skills.wizard.mastery_3.passive_1.up3.desc">獲得\cb0dfff緩速\d與\cb0dfff跛足\d免疫</string>
 
 
 
@@ -1705,9 +1705,9 @@
 	<string name="status_effect.bleeding">流血</string>
 	<string name="status_effect.bleeding_minor">輕微流血</string>
 	<string name="status_effect.bleeding_greater">強效流血</string>
-	<string name="status_effect.blindness">失明</string>
-	<string name="status_effect.blindness_minor">輕微失明</string>
-	<string name="status_effect.blindness_greater">強效失明</string>
+	<string name="status_effect.blindness">致盲</string>
+	<string name="status_effect.blindness_minor">輕微致盲</string>
+	<string name="status_effect.blindness_greater">強效致盲</string>
 	<string name="status_effect.cripple">跛足</string>
 	<string name="status_effect.cripple_minor">輕微跛足</string>
 	<string name="status_effect.cripple_greater">強效跛足</string>
