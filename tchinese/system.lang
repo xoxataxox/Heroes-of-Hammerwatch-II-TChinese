@@ -61,7 +61,7 @@
 	<string name="menu.nav.withdraw">取出</string>
 	<string name="menu.nav.deposit_to">存入至'%to%'</string>
 	<string name="menu.nav.rename">重新命名</string>
-	<string name="menu.nav.link_item">Link Item</string>
+	<string name="menu.nav.link_item">連結物品</string>
 
 
 
