@@ -97,6 +97,7 @@
 	<string name="npc.shop.weapon_mastery">武器精通</string>
 	<string name="npc.shop.trinket_attune">飾品共鳴</string>
 
+	<string name="npc.shop.equipment_upgrade.upgrade">(提升物品等級 %amnt%)</string>
 
 	<string name="npc.shop.builder">建造建築</string>
 	<string name="npc.shop.builder.empty.demo">完整版遊戲有更多建築與升級！</string>
@@ -223,5 +224,8 @@
 	<string name="dialogue.blacksmith.prompt1">這地方不錯啊！如果你能幫我們建造一間鐵匠鋪，我就能幫你升級裝備</string>
 	<string name="dialogue.blacksmith.prompt2.1">我兄弟可以教你如何更有效地使用護甲和武器，如果你能幫我們籌集資源建造一座正式的鍛造爐，我也能為你升級裝備</string>
 	<string name="dialogue.blacksmith.prompt2.2">我們後面還有一些武器可以賣，雖然款式簡單，但品質上乘</string>
+
+
+	<string name="dialogue.shadowface_cultist.laugh">呵呵呵....</string>
 
 </lang>
