@@ -198,7 +198,7 @@
 	<string name="trinket.elemental_prism.name">元素稜鏡</string>
 	<string name="trinket.elemental_prism.desc">在 %prd% 秒內施放 %num% 個法術會生成一個稜鏡，持續向四周發射元素光束。此效果有 %cd% 秒冷卻時間</string>
 	<string name="trinket.hourglass.name">時之沙</string>
-	<string name="trinket.hourglass.desc">法術冷卻時間減少 %cd%%。\n擊殺時有 %chns% 機率重置所有冷卻時間</string>
+	<string name="trinket.hourglass.desc">法術冷卻時間減少 %cd%%。\n擊殺時有 %chns%% 機率重置所有冷卻時間</string>
 	<string name="trinket.orb_of_restoration.name">恢復寶珠</string>
 	<string name="trinket.orb_of_restoration.desc">消耗的魔力的 %heal%% 轉化為治療。\n+%rgn% 魔力回復</string>
 	<string name="trinket.parry_medal.name">冠軍勳章</string>
