@@ -61,13 +61,20 @@
 	<string name="menu.nav.withdraw">取出</string>
 	<string name="menu.nav.deposit_to">存入至'%to%'</string>
 	<string name="menu.nav.rename">重新命名</string>
-
+	<string name="menu.nav.link_item">Link Item</string>
 
 
 
 	<string name="misc.timeletters.hours">時</string>
 	<string name="misc.timeletters.minutes">分</string>
 	<string name="misc.timeletters.seconds">秒</string>
+	<string name="misc.distletters.kilometer">km</string>
+	<string name="misc.distletters.meter">m</string>
+	<string name="misc.amntletters.thousand">k</string>
+	<string name="misc.amntletters.million">m</string>
+	<string name="misc.amntletters.billion">b</string>
+	<string name="misc.amntletters.trillion">t</string>
+
 
 	<string name="misc.unknown">未知</string>
 	<string name="misc.locked">鎖定</string>
@@ -329,7 +336,7 @@
 	<string name="mainmenu.lobby.suffix">的大廳</string>
 
 
-
+	<string name="menu.cost">花費</string>
 
 	<string name="building.apothecary.name">藥劑師</string>
 	<string name="building.apothecary.desc1">解鎖藥水升級</string>
@@ -1065,6 +1072,8 @@
 	<string name="location.act.barracks">兵營</string>
 	<string name="location.act.courts">宮廷</string>
 	<string name="location.act.dark_halls">黑暗大廳</string>
+	<string name="location.shortcut.dark_citadel">黑暗堡壘</string>
+	<string name="location.shortcut.entrance">入口</string>
 	
 	<string name="boss.totems">圖騰柱</string>
 	<string name="boss.totem_ice">冰圖騰</string>
@@ -1195,7 +1204,7 @@
 
 
 
-
+	<string name="htitle.format">等級 %lvl%: %desc%</string>
 
 	<!-- Hero Titles -->
 	<string name="htitle.paladin.desc">提供 %num% 護甲，每級增加 %num-per%</string>
