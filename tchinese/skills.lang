@@ -100,6 +100,7 @@
 
 	<string name="skills.desc.params.heal">治療：</string>
 	<string name="skills.desc.params.restore.health.max">恢復生命值：</string>
+	<string name="skills.desc.params.restore.mana.max">恢復魔力：</string>
 	<string name="skills.desc.params.restore.stamina.max">恢復體力：</string>
 
 	<string name="skills.desc.params.dmg_taken">受到傷害：</string>
@@ -124,6 +125,9 @@
 	<string name="skills.desc.params.ice_pen">冰冷穿透：</string>
 	<string name="skills.desc.params.lightning_pen">閃電穿透：</string>
 	<string name="skills.desc.params.poison_pen">毒素穿透：</string>
+	<string name="skills.desc.params.ele_res.lvl">每等元素抗性：</string>
+	<string name="skills.desc.params.ele_pen">火焰/冰冷/閃電穿透：</string>
+
 
 	<string name="skills.desc.params.evasion">閃避：</string>
 	<string name="skills.desc.params.mspeed">移動速度：</string>
@@ -155,6 +159,7 @@
 	<string name="skills.desc.params.stacks.cast_speed">每層施法速度：</string>
 	<string name="skills.desc.params.stacks.crit.weapon">每層武器暴擊率：</string>
 	<string name="skills.desc.params.stacks.crit.spell">每層法術暴擊率：</string>
+	<string name="skills.desc.params.stacks.crit">每層暴擊率：</string>
 	<string name="skills.desc.params.stacks.healthregen">每層生命回復：</string>
 	<string name="skills.desc.params.stacks.manaregen">每層魔力回復：</string>
 	<string name="skills.desc.params.stacks.mana_cost">每層魔力消耗：</string>
@@ -163,6 +168,8 @@
 	<string name="skills.desc.params.stacks.max.dmg_taken">最大層數時的承受傷害：</string>
 	<string name="skills.desc.params.stacks.gain">獲得的層數：</string>
 	<string name="skills.desc.params.stacks.bleeding">流血層數：</string>
+	<string name="skills.desc.params.stacks.fire_res">每層火焰抗性：</string>
+	<string name="skills.desc.params.stacks.fire_pen">每層火焰穿透：</string>
 
 	<string name="skills.desc.params.status_effect">狀態效果：</string>
 	<string name="skills.desc.params.affliction.mul">異常狀態倍率：</string>
@@ -200,10 +207,11 @@
 	<string name="skills.desc.params.pillars.add">額外柱數：</string>
 	<string name="skills.desc.params.wolf.damage">狼傷害：</string>
 	<string name="skills.desc.params.wolf.health">狼生命：</string>
+	<string name="skills.desc.params.wolf.max">狼的最大召喚數量：</string>
 	<string name="skills.desc.params.lightning_bolts">閃電數量：</string>
 	<string name="skills.desc.params.spirit_wolves">靈狼數量：</string>
 	<string name="skills.desc.params.flurry.strikes">每次打擊命中敵人數量：</string>
-	<string name="skills.desc.params.traps.max">最大放置的陷阱數量：</string>
+	<string name="skills.desc.params.traps.max">陷阱的最大放置數量：</string>
 	<string name="skills.desc.params.traps.add">額外陷阱數量：</string>
 	<string name="skills.desc.params.fiend.health">惡魔生命：</string>
 	<string name="skills.desc.params.fiend.lifetime">惡魔存活時間：</string>
@@ -225,6 +233,12 @@
 	<string name="skills.combo.none.name">連擊：無</string>	
 	<string name="skills.combo.none.desc">停用連擊</string>	
 	<string name="skills.combo.selected"> (已選擇)</string>
+
+	<string name="skills.combo.nova.name">連擊新星</string>
+	<string name="skills.combo.nova.desc">連擊啟動時，每秒發射一輪投射物新星。</string>
+
+
+
 
 
 	<!-- Attacks -->
@@ -251,12 +265,14 @@
 	<string name="skills.attacks.offhand.crossbow.desc">快速射出一支箭矢，造成 75% 物理傷害</string>
 	<string name="skills.attacks.offhand.shield.name">盾擊</string>
 	<string name="skills.attacks.offhand.shield.desc">用盾牌猛擊敵人，施加\cb0dfff暈眩\d</string>
+	<string name="skills.attacks.offhand.shield.block.desc">可在180度範圍內抵擋最多30點來自大多數投射物的傷害</string>
 	<string name="skills.attacks.offhand.tome.fire.name">火焰符文</string>
 	<string name="skills.attacks.offhand.tome.fire.desc">在地面放置一個符文，當敵人接近時啟動，產生一個火焰區域持續 5 秒，造成 75% 武器傷害</string>
 	<string name="skills.attacks.offhand.tome.ice.name">冰霜符文</string>
 	<string name="skills.attacks.offhand.tome.ice.desc">在地面放置一個符文，當敵人接近時啟動觸發冰霜爆炸，範圍內造成 100% 武器傷害</string>
 	<string name="skills.attacks.offhand.tome.lightning.name">閃電符文</string>
 	<string name="skills.attacks.offhand.tome.lightning.desc">在地面放置一個符文，當敵人接近時啟動，釋放三道閃電打擊該區域，每道閃電造成 75% 武器傷害</string>
+
 
 	<string name="skills.attacks.twohanded.shortbow1.name">快速射擊</string>
 	<string name="skills.attacks.twohanded.shortbow1.desc">快速射出一支箭矢，造成 50% 武器傷害</string>
@@ -1122,6 +1138,10 @@
 	<string name="modifiers.attributes.dex.suffix">靈巧</string>
 	<string name="modifiers.attributes.int.prefix">敏銳的</string>
 	<string name="modifiers.attributes.int.suffix">智慧</string>
+	<string name="modifiers.attributes.vit.prefix">健壯的</string>
+	<string name="modifiers.attributes.vit.suffix">活力</string>
+	<string name="modifiers.attributes.foc.prefix">睿智的</string>
+	<string name="modifiers.attributes.foc.suffix">專注</string>
 	<string name="modifiers.attributes.str_pct.prefix"></string>
 	<string name="modifiers.attributes.str_pct.suffix">公牛</string>
 	<string name="modifiers.attributes.dex_pct.prefix"></string>
@@ -1254,9 +1274,12 @@
 	<string name="modifiers.skills.attack_crit.suffix">神射手</string>
 	<string name="modifiers.skills.attack_crit_dmg.prefix">致命的</string>
 	<string name="modifiers.skills.attack_crit_dmg.suffix">屠夫</string>
+	<string name="modifiers.skills.attack_power.prefix">強健</string>
+	<string name="modifiers.skills.attack_power.suffix">力量</string>
 	<string name="modifiers.skills.spell_speed.prefix">施法者的</string>
 	<string name="modifiers.skills.spell_speed.suffix">敏捷</string>
 	<string name="modifiers.skills.spell_power.prefix">強力的</string>
+	<string name="modifiers.skills.spell_power.suffix">威能</string>
 	<string name="modifiers.skills.spell_crit.prefix">崇高的</string>
 	<string name="modifiers.skills.spell_crit.suffix">卓越</string>
 	<string name="modifiers.skills.spell_crit_dmg.prefix">致死的</string>
