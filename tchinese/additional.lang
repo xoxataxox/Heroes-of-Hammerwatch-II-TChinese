@@ -341,6 +341,7 @@
 	<string name="menu.options.legacy.control.desc">模擬 2013 年發行的《Hammerwatch》中的原版控制方式</string>
 	<string name="menu.controls.hold">HOLD POSITION</string>
 
+	<string name="menu.emotes.ping">標記</string>
 	<string name="menu.emotes.come_here">來這裡</string>
 	<string name="menu.emotes.greeting">你好</string>
 	<string name="menu.emotes.oops">哎呀</string>
