@@ -1,4 +1,4 @@
-<lang name="Traditional Chinese" max-bold="0" fonts="unicode">
+<lang name="Traditional Chinese" min-size="11" max-bold="0" fonts="unicode">
 
 	<string name="skill.tag.weapon">\cffdfb0武器\d</string>
 	<string name="skill.tag.spell">\cffdfb0法術\d</string>
