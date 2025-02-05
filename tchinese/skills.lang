@@ -1274,7 +1274,7 @@
 	<string name="modifiers.skills.attack_crit.suffix">神射手</string>
 	<string name="modifiers.skills.attack_crit_dmg.prefix">致命的</string>
 	<string name="modifiers.skills.attack_crit_dmg.suffix">屠夫</string>
-	<string name="modifiers.skills.attack_power.prefix">強健</string>
+	<string name="modifiers.skills.attack_power.prefix">強健的</string>
 	<string name="modifiers.skills.attack_power.suffix">力量</string>
 	<string name="modifiers.skills.spell_speed.prefix">施法者的</string>
 	<string name="modifiers.skills.spell_speed.suffix">敏捷</string>
