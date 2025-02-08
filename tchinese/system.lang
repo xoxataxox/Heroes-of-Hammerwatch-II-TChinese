@@ -434,8 +434,8 @@
 	<string name="architect.far_sight.desc">地圖已探索</string>
 	<string name="architect.way_gates.name">傳送門</string>
 	<string name="architect.way_gates.desc">在重要地點之間快速旅行</string>
-	<string name="architect.toppled_towers.name">倒塌的塔樓</string>
-	<string name="architect.toppled_towers.desc">塔樓被摧毀</string>
+	<string name="architect.toppled_towers.name">倒塌的防禦塔</string>
+	<string name="architect.toppled_towers.desc">防禦塔被摧毀</string>
 	<string name="architect.fewer_enemies.name">防禦薄弱</string>
 	<string name="architect.fewer_enemies.desc">減少關卡中的敵人</string>
 	<string name="architect.safe_corridors.name">安全走廊</string>
