@@ -1419,7 +1419,7 @@
 	<string name="accomplishment.enemy-kills-aberration">驅魔者 %num%</string>
 	<string name="accomplishment.enemy-kills-aberration.desc">擊殺 %num% 名異常生物</string>
 	<string name="accomplishment.enemy-kills-construct">破壞者 %num%</string>
-	<string name="accomplishment.enemy-kills-construct.desc">破壞 %num% 座機關塔</string>
+	<string name="accomplishment.enemy-kills-construct.desc">破壞 %num% 座防禦塔</string>
 	<string name="accomplishment.enemy-kills-elite">精英剋星 %num%</string>
 	<string name="accomplishment.enemy-kills-elite.desc">擊殺 %num% 名精英敵人</string>
 	
