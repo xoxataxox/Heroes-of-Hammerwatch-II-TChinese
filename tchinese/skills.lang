@@ -265,7 +265,7 @@
 	<string name="skills.attacks.offhand.crossbow.desc">快速射出一支箭矢，造成 75% 物理傷害</string>
 	<string name="skills.attacks.offhand.shield.name">盾擊</string>
 	<string name="skills.attacks.offhand.shield.desc">用盾牌猛擊敵人，施加\cb0dfff暈眩\d</string>
-	<string name="skills.attacks.offhand.shield.block.desc">可在180度範圍內抵擋最多30點來自大多數投射物的傷害</string>
+	<string name="skills.attacks.offhand.shield.block.desc">可在180度範圍內抵擋最多 %amnt% 點來自大多數投射物的傷害</string>
 	<string name="skills.attacks.offhand.tome.fire.name">火焰符文</string>
 	<string name="skills.attacks.offhand.tome.fire.desc">在地面放置一個符文，當敵人接近時啟動，產生一個火焰區域持續 5 秒，造成 75% 武器傷害</string>
 	<string name="skills.attacks.offhand.tome.ice.name">冰霜符文</string>
