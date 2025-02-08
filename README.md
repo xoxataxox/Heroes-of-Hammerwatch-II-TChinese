@@ -2,61 +2,32 @@
 
 該文本基於遊戲發售日(2025/01/15)所發布的版本製作
 
-道具及裝備名稱及部分文本不會特別依遊戲內容作潤色，所以物品圖示跟名稱有可能對不上，該遊戲的某些系統可能會翻錯，麻煩再回報給我。
+<h2>當前翻譯對應版本</h2>
+📝Seventh patch📝
 
-如果遊戲中的部分文本有覺得有更好的翻譯的話可以提供給我，我有空的話可以更新上去。
-
-目前我只有在RPG遊戲中常見的物品在翻譯描述時會特別留意，其他文本會在翻譯完畢後邊遊玩邊調整，但也有可能後續就不調整了。
-
-可以在Github上或工作坊上回報。
-
-Steam 工作坊：https://steamcommunity.com/sharedfiles/filedetails/?id=3414733705
-
-目前翻譯進度：已全數翻譯完畢，等待Seventh Patch新文本釋出
-
-❌未完成、⏳翻譯中、✔️已完成
-<table>
-    <tr>
-        <td>檔案名稱</td>
-        <td>狀態</td>
-    </tr>
-    <tr>
-        <td>additional.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>dialogue.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>equipment.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>input.lang</td>
-        <td>✔️看起來無需翻譯</td>
-    </tr>
-    <tr>
-        <td>items.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>menus.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>skills.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-    <tr>
-        <td>system.lang</td>
-        <td>✔️已完成(Sixth Patch版本)</td>
-    </tr>
-</table>
+<h2>說明</h2>
 
 下載教學：點擊右上角的綠色按鈕"Code"，點擊最下面的Download Zip。
 
 使用方式：將Github內tchinese資料夾的"所有"檔案放置於steam\steamapps\common\Heroes of Hammerwatch 2\res\language\tchinese內，若language內無tchinese就自行建立資料夾後放入。開遊戲在選項的語言選擇TChinese後需要重開遊戲才會生效。
 
+遊戲中的部分文本覺得有誤或有更好的翻譯的話可以提供給我
+
+道具及裝備名稱及部分文本沒有特別依遊戲內容作潤色，所以物品圖示跟名稱有可能對不上，該遊戲的某些系統可能會翻錯，麻煩再回報給我。
+
 補充：打開控制台(~鍵)後輸入"save g_multiplayer_limit 99"即可將多人遊戲人數上限設為99
+
+<h2>常見問題</h2>
+
+1.DEMO版適不適用：不適用。
+
+2.裝了中文後多人遊戲會掉幀：有可能是你好友的名稱有未支援的字體，請叫他改正常的名字，不要有特殊符號，他要是不改不要問我有沒有其他方法，你可以選擇不要用中文，或去HOH2的DC上Bug report。
+
+3.有部分英文沒翻譯到：遊戲製作者未提供文本，因此無法翻譯。
+
+4.你會更新到甚麼時候：看我心情，目前打算等作者把剩餘文本放出來翻完就差不多了，之後我要是沒繼續玩這遊戲應該就不更新了，之後如果有DLC，有很多人要求的話可以考慮繼續翻， 但首先要我有買 。
+
+5.怎麼更改字體大小：對system.lang右鍵以記事本編輯，第一行有個min-size="11"，改" "(引號)裡面的數字，最小應該是9，最大無上限，改完後儲存並重開遊戲。如果翻譯有更新的話，每次更新後都自行自行重新修改。
+
+
 
