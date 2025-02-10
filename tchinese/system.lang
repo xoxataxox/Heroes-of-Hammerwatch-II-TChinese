@@ -181,7 +181,7 @@
 	<string name="menu.player.map">地圖</string>
 	<string name="menu.player.char">角色</string>
 	<string name="menu.player.char.experience">經驗值： %exp%/%expmax% (%prog%%)</string>
-	<string name="menu.player.char.level">等級  %lvl%</string>
+	<string name="menu.player.char.level">等級 %lvl%</string>
 	<string name="menu.player.char.level_cap">等級上限： %lvl%</string>
 	<string name="menu.player.char.inventory">背包</string>
 	<string name="menu.player.char.trinkets">飾品</string>
