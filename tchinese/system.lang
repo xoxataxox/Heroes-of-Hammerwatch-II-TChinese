@@ -62,7 +62,8 @@
 	<string name="menu.nav.deposit_to">存入至'%to%'</string>
 	<string name="menu.nav.rename">重新命名</string>
 	<string name="menu.nav.link_item">連結物品</string>
-
+	<string name="menu.nav.amnt+">數量+</string>
+	<string name="menu.nav.amnt-">數量-</string>
 
 
 	<string name="misc.timeletters.hours">時</string>
@@ -355,6 +356,7 @@
 	<string name="building.chapel.desc1">為神所設的房屋，讓你能在一輪遊戲中選擇兩個祝福\n\n-5% 復活費用</string>
 	<string name="building.chapel.desc2">解鎖兩個額外祝福\n\n-5% 復活費用</string>
 	<string name="building.chapel.desc3">解鎖另一個祝福\n\n-5% 復活費用</string>
+	<string name="building.chapel.desc4">讓你自由地向教堂捐贈材料，解鎖另一個祝福\n\n-5% 復活費用</string>
 
 	<string name="building.enchanter.name">附魔師</string>
 	<string name="building.enchanter.desc1">讓你可以神奇地修改裝備\n\n解鎖附魔藍圖</string>
@@ -425,6 +427,17 @@
 	<string name="weapon_mastery.wands">魔杖</string>
 	<string name="weapon_mastery.tomes">法典</string>
 	<string name="weapon_mastery.staffs">法杖</string>
+
+
+	<string name="spell_mastery.bonus.first">增加 %dmg% 傷害和 %mana% 魔力消耗</string>
+	<string name="spell_mastery.bonus.curr">%dmg% 傷害， %mana% 魔力消耗</string>
+
+	<string name="spell_mastery.spells_all">所有法術</string>
+	<string name="spell_mastery.spells_physical">\cffdfb0物理\d 法術</string>
+	<string name="spell_mastery.spells_fire">\cffdfb0火焰\d 法術</string>
+	<string name="spell_mastery.spells_ice">\cffdfb0冰冷\d 法術</string>
+	<string name="spell_mastery.spells_lightning">\cffdfb0閃電\d 法術</string>
+	<string name="spell_mastery.spells_poison">\cffdfb0毒素\d 法術</string>
 
 
 
@@ -933,11 +946,11 @@
 	<string name="item.stat.tooltip.damagelightningmul">\"icn-dmg-lightn"%stat%%</string>
 	<string name="item.stat.tooltip.damagepoisonmul">\"icn-dmg-poison"%stat%%</string>
 	<string name="item.stat.tooltip.damagepuremul">\"icn-dmg-raw"%stat%%</string>
-	<string name="item.stat.tooltip.armorpen">\"icn-respen-phys"%stat%</string>
-	<string name="item.stat.tooltip.resistancefirepen">\"icn-respen-fire"%stat%</string>
-	<string name="item.stat.tooltip.resistanceicepen">\"icn-respen-ice"%stat%</string>
-	<string name="item.stat.tooltip.resistancelightningpen">\"icn-respen-lightn"%stat%</string>
-	<string name="item.stat.tooltip.resistancepoisonpen">\"icn-respen-poison"%stat%</string>
+	<string name="item.stat.tooltip.armorpen">\"icn-respen-phys"%stat%%</string>
+	<string name="item.stat.tooltip.resistancefirepen">\"icn-respen-fire"%stat%%</string>
+	<string name="item.stat.tooltip.resistanceicepen">\"icn-respen-ice"%stat%%</string>
+	<string name="item.stat.tooltip.resistancelightningpen">\"icn-respen-lightn"%stat%%</string>
+	<string name="item.stat.tooltip.resistancepoisonpen">\"icn-respen-poison"%stat%%</string>
 	<string name="item.stat.tooltip.experiencemul">\"icn-expmul"%stat%%</string>
 	<string name="item.stat.tooltip.lightradius">LR%stat%</string>
 	<string name="item.stat.tooltip.spellcritchance">\"icn-crit-spellchance"%stat%%</string>
@@ -1204,9 +1217,9 @@
 
 
 
-	<string name="htitle.format">等級 %lvl%: %desc%</string>
 
 	<!-- Hero Titles -->
+	<string name="htitle.format">等級 %lvl%: %desc%</string>
 	<string name="htitle.paladin.desc">提供 %num% 護甲，每級增加 %num-per%</string>
 	<string name="htitle.ranger.desc">提供 %num% 武器威力，每級增加 %num-per%</string>
 	<string name="htitle.rogue.desc">提供 %num%% 陷阱傷害減少，每級增加 %num-per%%</string>
@@ -1214,6 +1227,18 @@
 	<string name="htitle.warlock.desc">提供 %num% 火焰、冰冷、閃電及毒素抗性，每級增加 %num-per%</string>
 	<string name="htitle.warrior.desc">提供 %num% 生命值，每級增加 %num-per%</string>
 	<string name="htitle.wizard.desc">提供 %num% 法術威力，每級增加 %num-per%</string>
+
+
+	<!-- Donation Titles -->
+	<string name="dtitle.format">捐贈 %amnt%： %desc%</string>
+	<string name="dtitle.gold.name">富豪</string>
+	<string name="dtitle.gold.desc">提供 +%num%% 武器傷害</string>
+	<string name="dtitle.wood.name">伐木工</string>
+	<string name="dtitle.wood.desc">提供 +%num%% 法術傷害</string>
+	<string name="dtitle.stone.name">採石工</string>
+	<string name="dtitle.stone.desc">減少 %num%% 受到的傷害</string>
+	<string name="dtitle.iron.name">鐵匠</string>
+	<string name="dtitle.iron.desc">提升 %num%% 藥水、恢復和生命補給物的效果</string>
 
 
 
