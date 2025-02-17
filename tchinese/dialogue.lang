@@ -95,9 +95,14 @@
 	<string name="npc.shop.equipment_upgrade">裝備升級</string>
 	<string name="npc.shop.equipment_enchant">裝備附魔</string>
 	<string name="npc.shop.weapon_mastery">武器精通</string>
+	<string name="npc.shop.spell_mastery">法術精通</string>
 	<string name="npc.shop.trinket_attune">飾品共鳴</string>
+	<string name="npc.shop.chapel_donation">教堂捐贈</string>
 
+	<string name="npc.shop.spell_mastery.desc">法術專精可使某些法術傷害增加 %dmg%，但同時魔力消耗也會增加 %mana%</string>
 	<string name="npc.shop.equipment_upgrade.upgrade">(提升物品等級 %amnt%)</string>
+	<string name="npc.shop.chapel_donation.donate">捐贈 %mat%</string>
+	<string name="npc.shop.chapel_donation.donate.desc">已捐贈 %curr%，再捐贈 %add%</string>
 
 	<string name="npc.shop.builder">建造建築</string>
 	<string name="npc.shop.builder.empty.demo">完整版遊戲有更多建築與升級！</string>
@@ -112,6 +117,9 @@
 	<string name="npc.shop.trinket.left">可購買數量：%num%</string>
 	<string name="npc.shop.equip.take">選擇一件裝備</string>
 	<string name="npc.shop.trinket.picker">選擇一個飾品</string>
+
+	<string name="npc.shop.material_trader.buy">購買 %amnt% %mat%</string>
+	<string name="npc.shop.material_trader.sell">出售 %amnt% %mat%</string>
 
 	<string name="npc.shop.buy.gold">以金幣購買</string>
 	<string name="npc.shop.sell.gold">出售為金幣</string>
@@ -156,6 +164,8 @@
 	<string name="dialogue.guard_exit.prompt1">出去要小心！</string>
 
 
+
+
 	<string name="dialogue.librarian.found">哦，你好！我找了好一會兒，但這裡什麼都沒有。連一本書都沒有</string>
 	<string name="dialogue.librarian.prompt1.1">書籍真是特別的東西，它們能帶你進入不同的世界，體驗不同的思維</string>
 	<string name="dialogue.librarian.prompt1.2">你應該考慮建一座圖書館，這會讓鎮子更上一層樓</string>
@@ -168,6 +178,7 @@
 	<string name="dialogue.architect.prompt1">我會在堡壘外的森林等你</string>
 	<string name="dialogue.architect.prompt2">我來為你打開這個</string>
 
+	<string name="dialogue.spell_mastery.found">終於看見活人了！你知道出去的路嗎？</string>
 
 
 	<string name="dialogue.rogue.found.1">你好！你也是來找寶藏的嗎？</string>
