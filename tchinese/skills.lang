@@ -262,7 +262,7 @@
 	<string name="skills.attacks.mainhand.wand.lightning.desc">釋放一道閃電箭，可在敵人之間跳躍，每次跳躍造成 40% 武器傷害，但每次跳躍傷害減少 10%</string>
 
 	<string name="skills.attacks.offhand.crossbow.name">快速射擊</string>
-	<string name="skills.attacks.offhand.crossbow.desc">快速射出一支箭矢，造成 75% 物理傷害</string>
+	<string name="skills.attacks.offhand.crossbow.desc">快速射出一支箭矢，造成 75% 物理傷害，並具有 10% 護甲穿透</string>
 	<string name="skills.attacks.offhand.shield.name">盾擊</string>
 	<string name="skills.attacks.offhand.shield.desc">用盾牌猛擊敵人，施加\cb0dfff暈眩\d</string>
 	<string name="skills.attacks.offhand.shield.block.desc">可在180度範圍內抵擋最多 %amnt% 點來自大多數投射物的傷害</string>
@@ -276,16 +276,16 @@
 
 	<string name="skills.attacks.twohanded.shortbow1.name">快速射擊</string>
 	<string name="skills.attacks.twohanded.shortbow1.desc">快速射出一支箭矢，造成 50% 武器傷害</string>
-	<string name="skills.attacks.twohanded.shortbow2.name">強力射擊</string>
-	<string name="skills.attacks.twohanded.shortbow2.desc">按住可蓄力進行強力射擊。投射物會隨著蓄力時間增加範圍、速度與傷害，最高可達 150% 武器傷害</string>
+	<string name="skills.attacks.twohanded.shortbow2.name">箭雨</string>
+	<string name="skills.attacks.twohanded.shortbow2.desc">按住可持續射出箭矢，擊中目標時分裂，每支箭造成 50% 武器傷害。</string>
 
 	<string name="skills.attacks.twohanded.longbow1.name">快速射擊</string>
 	<string name="skills.attacks.twohanded.longbow1.desc">快速射出一支箭矢，造成 60% 武器傷害</string>
 	<string name="skills.attacks.twohanded.longbow2.name">強力射擊</string>
-	<string name="skills.attacks.twohanded.longbow2.desc">按住可蓄力進行強力射擊。投射物會隨著蓄力時間增加範圍、速度與傷害，最高可達 150% 武器傷害</string>
+	<string name="skills.attacks.twohanded.longbow2.desc">按住可蓄力發射 3 隻強力箭矢。箭矢會隨著蓄力時間增加射程、速度與傷害，最多可造成 100% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.crossbow1.name">快速射擊</string>
-	<string name="skills.attacks.twohanded.crossbow1.desc">快速發射一支迅速的箭矢，造成 100% 武器傷害</string>
+	<string name="skills.attacks.twohanded.crossbow1.desc">快速發射一支迅速的箭矢，造成 100% 武器傷害，並具有 10% 護甲穿透</string>
 	<string name="skills.attacks.twohanded.crossbow2.name">爆炸射擊</string>
 	<string name="skills.attacks.twohanded.crossbow2.desc">發射一支裝填的箭矢，撞擊時爆炸，造成 150% 武器傷害</string>
 
@@ -374,7 +374,7 @@
 	<string name="skills.paladin.mastery_1.passive_1.name">執法者</string>
 	<string name="skills.paladin.mastery_1.passive_1.desc">當你格擋或受到傷害時，有機率對攻擊者施加\cb0dfff繳械\d與\cb0dfff沉默\d</string>
 	<string name="skills.paladin.mastery_1.passive_1.up1.name">懲戒惡徒</string>
-	<string name="skills.paladin.mastery_1.passive_1.up1.desc">對被\cb0dfff繳械\d或\cb0dfff沉默\d的敵人造成更多傷害</string>
+	<string name="skills.paladin.mastery_1.passive_1.up1.desc">擊中受\cb0dfff繳械\d或\cb0dfff沉默\d影響的敵人時，會以\cb0dfff審判\d之鎚打擊他們</string>
 	<string name="skills.paladin.mastery_1.passive_1.up2.name">枷鎖</string>
 	<string name="skills.paladin.mastery_1.passive_1.up2.desc">\cffdfb0武器\d與\cffdfb0法術\d攻擊有機率束縛目標及附近另一個敵人，被束縛的敵人移動速度降低並持續受到物理傷害</string>
 
@@ -408,13 +408,13 @@
 	<string name="skills.paladin.mastery_3.passive_1.name">內焰</string>
 	<string name="skills.paladin.mastery_3.passive_1.desc">施放法術時產生\cb0dfff內焰\d層數。當你擁有\cb0dfff內焰\d層數時，獲得一個光環，對附近敵人造成火焰傷害</string>
 	<string name="skills.paladin.mastery_3.passive_1.up1.name">虔誠之焰</string>
-	<string name="skills.paladin.mastery_3.passive_1.up1.desc">每層\cb0dfff內焰\d為你的武器增加火焰傷害</string>
+	<string name="skills.paladin.mastery_3.passive_1.up1.desc">每層\cb0dfff內焰\d都會根據你的每等角色等級為你的武器增加火焰傷害</string>
 	<string name="skills.paladin.mastery_3.passive_1.up2.name">火焰使者</string>
 	<string name="skills.paladin.mastery_3.passive_1.up2.desc">每層\cb0dfff內焰\d提升你的火焰抗性和火焰穿透</string>
 
 
 
-	<!-- Ranger -->
+	<!-- Ranger 	<!-- Ranger -->
 
 	<string name="skills.ranger.spell_1.name">標記射擊</string>
 	<string name="skills.ranger.spell_1.desc">你射出一個投射物，對目標區域內的所有敵人造成物理傷害，並使其被施加\cb0dfff標記\d。你對被\cb0dfff標記\d的敵人造成更多傷害</string>
@@ -678,7 +678,7 @@
 	<string name="skills.sorcerer.mastery_2.passive_1.up1.name">破碎</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up1.desc">使用\cffdfb0冰霜\d擊殺敵人時有機會觸發爆炸，造成冰冷傷害</string>
 	<string name="skills.sorcerer.mastery_2.passive_1.up2.name">冰霜格擋</string>
-	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害</string>
+	<string name="skills.sorcerer.mastery_2.passive_1.up2.desc">有機會格擋物理與冰冷傷害，當成功格擋時，會釋放出一道冰霜新星碎片</string>
 
 	<string name="skills.sorcerer.mastery_3.name">雷霆大師</string>
 	<string name="skills.sorcerer.mastery_3.desc"></string>
@@ -1002,7 +1002,7 @@
 	<string name="skills.wizard.mastery_3.spell_1.up2.desc">增益期間會對附近敵人施加\cb0dfff緩速\d</string>
 	
 	<string name="skills.wizard.mastery_3.passive_1.name">強化體魄</string>
-	<string name="skills.wizard.mastery_3.passive_1.desc">根據每等角色等級額外提升力量、敏捷與智力</string>
+	<string name="skills.wizard.mastery_3.passive_1.desc">根據每等角色等級額外提升力量與敏捷</string>
 	<string name="skills.wizard.mastery_3.passive_1.up1.name">強化力量</string>
 	<string name="skills.wizard.mastery_3.passive_1.up1.desc">根據每點力量額外增加法術威力</string>
 	<string name="skills.wizard.mastery_3.passive_1.up2.name">強化敏捷</string>
