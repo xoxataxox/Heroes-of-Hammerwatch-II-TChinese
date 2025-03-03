@@ -367,21 +367,21 @@
 	<string name="item.elixir_dex_1.name">敏捷靈藥</string>
 	<string name="item.elixir_int_1.name">智力靈藥</string>
 	<string name="item.elixir_foc_1.name">專注靈藥</string>
-	<string name="item.elixir_vit_1.name">體質靈藥</string>
+	<string name="item.elixir_vit_1.name">活力靈藥</string>
 	<string name="item.elixir_str_2.name">大型力量靈藥</string>
 	<string name="item.elixir_dex_2.name">大型敏捷靈藥</string>
 	<string name="item.elixir_int_2.name">大型智力靈藥</string>
 	<string name="item.elixir_foc_2.name">大型專注靈藥</string>
-	<string name="item.elixir_vit_2.name">大型體質靈藥</string>
+	<string name="item.elixir_vit_2.name">大型活力靈藥</string>
 	<string name="item.elixir_str_3.name">巨型力量靈藥</string>
 	<string name="item.elixir_dex_3.name">巨型敏捷靈藥</string>
 	<string name="item.elixir_int_3.name">巨型智力靈藥</string>
 	<string name="item.elixir_foc_3.name">巨型專注靈藥</string>
-	<string name="item.elixir_vit_3.name">巨型體質靈藥</string>
+	<string name="item.elixir_vit_3.name">巨型活力靈藥</string>
 	<string name="item.elixir_str.desc">永久增加 %add% \"icn-str" 力量</string>
 	<string name="item.elixir_dex.desc">永久增加 %add% \"icn-dex" 敏捷</string>
 	<string name="item.elixir_int.desc">永久增加 %add% \"icn-int" 智力</string>
 	<string name="item.elixir_foc.desc">永久增加 %add% \"icn-foc" 專注</string>
-	<string name="item.elixir_vit.desc">永久增加 %add% \"icn-vit" 體質</string>
+	<string name="item.elixir_vit.desc">永久增加 %add% \"icn-vit" 活力</string>
 
 </lang>
