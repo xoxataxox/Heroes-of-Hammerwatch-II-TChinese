@@ -64,6 +64,7 @@
 	<string name="menu.nav.link_item">連結物品</string>
 	<string name="menu.nav.amnt+">數量+</string>
 	<string name="menu.nav.amnt-">數量-</string>
+	<string name="menu.nav.reroll">重骰</string>
 
 
 	<string name="misc.timeletters.hours">時</string>
@@ -208,6 +209,7 @@
 	<string name="menu.player.mods.stats.source.weapon_mastery">武器專精</string>
 	<string name="menu.player.mods.stats.source.base">基礎</string>
 	<string name="menu.player.mods.stats.source.picked">分配</string>
+	<string name="menu.player.mods.stats.source.elixir">靈藥</string>
 	<string name="menu.player.mods.stats.source.ngp">新遊戲+ %num%</string>
 	<string name="menu.player.mods.stats.source.accomplishments">成就</string>
 	<string name="menu.player.mods.stats.source.attributes">屬性</string>
@@ -409,19 +411,21 @@
 
 
 
-
 	<string name="building.tier">階級 %tier%</string>
 	<string name="building.build.new">新建建築</string>
 	<string name="building.build.upgrade">升級至階級 %num%</string>
 
 
-	<string name="weapon_mastery.bonus.first">增加 %add% 傷害</string>
-	<string name="weapon_mastery.bonus.curr">%curr% 傷害。增加 %add%</string>
+	<string name="weapon_mastery.bonus.first">增加 +%add%% 傷害</string>
+	<string name="weapon_mastery.bonus.curr">+%curr%% 傷害。增加 +%add%%</string>
+	<string name="weapon_mastery.bonus.shield.first">增加 +%add%% 盾牌格擋</string>
+	<string name="weapon_mastery.bonus.shield.curr">+%curr%% 盾牌格擋。增加 +%add%%</string>
 
 	<string name="weapon_mastery.maces">錘</string>
 	<string name="weapon_mastery.swords">劍</string>
 	<string name="weapon_mastery.axes">斧</string>
 	<string name="weapon_mastery.daggers">匕首</string>
+	<string name="weapon_mastery.shields">盾牌</string>
 	<string name="weapon_mastery.bows">弓</string>
 	<string name="weapon_mastery.crossbows">弩</string>
 	<string name="weapon_mastery.wands">魔杖</string>
@@ -764,7 +768,7 @@
 
 
 
-
+	<string name="menu.reroll.question">你想要重骰選項並獲得 %cost% 暗影詛咒嗎？\n\n你已使用 %chrg-used%/%chrg-max% 次重骰</string>
 	<string name="menu.traveling_cook.givefood">流動廚師給了你一份 %buff%</string>
 	<string name="menu.traveling_monk.giveblessing">流浪僧侶賦予你 %buff% 的力量</string>
 	<string name="menu.shady_trader.get">你獲得 %amount%</string>
@@ -998,6 +1002,7 @@
 	<string name="tab.overlay.player.dust">\"icn-dust"%amount%</string>
 	<string name="tab.overlay.player.frag">\"icn-frag"%amount%</string>
 	<string name="tab.overlay.player.unknown">%amount%?</string>
+	<string name="tab.overlay.player.shadow">\"icn-shdw"%amount%</string>
 	
 	<string name="item.key.bronze">青銅鑰匙</string>
 	<string name="item.key.silver">白銀鑰匙</string>
@@ -1391,7 +1396,7 @@
 	<string name="stat.icon.skillpt">\"icn-skillpt"</string>
 	<string name="stat.name.skillpt">技能點數</string>
 
-
+	<string name="stat.name.reroll">重骰</string>
 
 
 
@@ -1467,6 +1472,9 @@
 	<string name="accomplishment.pyres-used.desc">用火堆淨化暗影詛咒 %num% 次</string>
 	<string name="accomplishment.thunderbirds-used">雷鳥運送者 %num%</string>
 	<string name="accomplishment.thunderbirds-used.desc">用雷鳥運回材料 %num% 次</string>
+	<string name="accomplishment.highest-ngp">黑暗堡壘 %num%</string>
+	<string name="accomplishment.highest-ngp.desc">到達 New Game+ %num%</string>
+	
 	
 	<string name="accomplishment.collected-trinket-common">普通收藏家 %num%</string>
 	<string name="accomplishment.collected-trinket-common.desc">找到 %num% 件普通飾品</string>
@@ -1479,6 +1487,9 @@
 	<string name="accomplishment.collected-trinket-cursed">詛咒收藏家 %num%</string>
 	<string name="accomplishment.collected-trinket-cursed.desc">找到 %num% 件詛咒飾品</string>
 	
+	<string name="accomplishment.elixirs-collected">靈藥大師 %num%</string>
+	<string name="accomplishment.elixirs-collected.desc">找到 %num% 瓶靈藥</string>
+
 	<string name="accomplishment.pickup-health">美食家 %num%</string>
 	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命補給品</string>
 	<string name="accomplishment.pickup-mana">秘法吸收者 %num%</string>
@@ -1543,6 +1554,7 @@
 	<string name="statistic.collected-trinket-rare">收集的稀有飾品數</string>
 	<string name="statistic.collected-trinket-epic">收集的史詩飾品數</string>
 	<string name="statistic.collected-trinket-cursed">收集的詛咒飾品數</string>
+	<string name="statistic.elixirs-collected">收集的靈藥數</string>
 	<string name="statistic.pickup-health">收集的生命補給物數</string>
 	<string name="statistic.pickup-mana">收集的魔力補給物數</string>
 	<string name="statistic.pickup-exp">收集的經驗卷軸數</string>
@@ -1553,6 +1565,7 @@
 	<string name="statistic.max-level-rogue">盜賊最高等級</string>
 	<string name="statistic.max-level-warlock">術士最高等級</string>
 	<string name="statistic.max-level-sorcerer">巫師最高等級</string>
+	<string name="statistic.highest-ngp">New Game+ 最高到達</string>
 	
 	<string name="statistic.buildings-built">建造的建築數</string>
 	<string name="statistic.valuables-collected">收集的貴重物品數</string>
