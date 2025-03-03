@@ -116,8 +116,8 @@
 	<string name="trinket.talisman_feather.name">羽毛護符</string>
 	<string name="trinket.talisman_feather.desc">+%num% 衝刺充能</string>
 	<string name="trinket.throwing_stars.name">飛刀</string>
-	<string name="trinket.throwing_stars.desc">每4次武器攻擊釋放數把飛刀，每把造成 %dmg% 物理傷害</string>
-	<string name="trinket.throwing_stars.desc2">每2次武器攻擊釋放數把飛刀，每把造成 %dmg% 物理傷害</string>
+	<string name="trinket.throwing_stars.desc">每4次武器攻擊釋放數把飛刀，每把造成 %dmg% 主武器傷害</string>
+	<string name="trinket.throwing_stars.desc2">每2次武器攻擊釋放數把飛刀，每把造成 %dmg% 主武器傷害</string>
 	<string name="trinket.torc_alactiy.name">敏捷項圈</string>
 	<string name="trinket.torc_alactiy.desc">+%num%% 武器攻速</string>
 	<string name="trinket.whetstone.name">精良磨刀石</string>
@@ -128,13 +128,17 @@
 	<string name="trinket.wood_axe.name">伐木斧</string>
 	<string name="trinket.wood_axe.desc">+%num%% 木材獲取</string>
 	<string name="trinket.blackjack.name">小黑傑克</string>
-	<string name="trinket.blackjack.desc">與敵人碰撞時造成 %dmg% 物理傷害並附加暈眩。此效果有 %cd% 秒冷卻時間</string>
+	<string name="trinket.blackjack.desc">與敵人碰撞時造成 %dmg% 主武器傷害並附加暈眩。此效果有 %cd% 秒冷卻時間</string>
 	<string name="trinket.caltrops.name">撒菱</string>
 	<string name="trinket.caltrops.desc">衝刺時丟下撒菱，造成 %dmg% 物理傷害並附加跛足</string>
 	<string name="trinket.sanctified_water.name">聖化之水</string>
 	<string name="trinket.sanctified_water.desc">飲用藥水時使暗影詛咒獲取設為 0% 持續 %dur% 秒</string>
 	<string name="trinket.headhunter_contract.name">獵頭者契約</string>
 	<string name="trinket.headhunter_contract.desc">+%num%% 對\cb0dfff精英\d的傷害，並且擊殺時掉落金幣</string>
+	<string name="trinket.symbol_zeal.name">狂熱符印</string>
+	<string name="trinket.symbol_zeal.desc">暴擊時有 %chnc% 機率掉落一個符印，使你獲得 %amnt% 武器與法術暴擊率。該符印持續 %dur% 秒，冷卻時間為 %cd% 秒</string>
+	<string name="trinket.symbol_deflection.name">偏斜符印</string>
+	<string name="trinket.symbol_deflection.desc">成功招架時有 %chnc% 機率掉落一個符印，使你能夠招架遠程攻擊。該符印持續 %dur% 秒，冷卻時間為 %cd% 秒</string>
 
 	<!-- Rare -->
 	<string name="trinket.apothecarys_sickle.name">藥劑師的鐮刀</string>
@@ -158,7 +162,7 @@
 	<string name="trinket.fiddle.name">不諧小提琴</string>
 	<string name="trinket.fiddle.desc">法術命中時有 %chns%% 機率造成\cb0dfff沉默\d並在小範圍內造成 %dmg% 額外物理傷害。此效果有 %cd% 秒冷卻時間</string>
 	<string name="trinket.kyras_quiver.name">凱拉的箭袋</string>
-	<string name="trinket.kyras_quiver.desc">每秒有 %chns%% 機率向隨機敵人發射一支魔法箭，造成 %dmg% 物理傷害</string>
+	<string name="trinket.kyras_quiver.desc">每秒有 %chns%% 機率向隨機敵人發射一支魔法箭，造成 %dmg% 主武器傷害</string>
 	<string name="trinket.markhams_amulet.name">馬克姆的護符</string>
 	<string name="trinket.markhams_amulet.desc">背包中每件飾品增加 %num% 生命值與魔力</string>
 	<string name="trinket.markhams_mace.name">馬克姆的錘矛</string>
@@ -191,6 +195,8 @@
 	<string name="trinket.sacred_cross.desc">-%crs%% 暗影詛咒獲取\n-%dur%% 減益效果持續時間</string>
 	<string name="trinket.cauldron.name">火焰大鍋</string>
 	<string name="trinket.cauldron.desc">自動向附近敵人發射小火球，造成 %dmg% 火焰傷害</string>
+	<string name="trinket.symbol_rejuvenation.name">回春符印</string>
+	<string name="trinket.symbol_rejuvenation.desc">當生命值低於 %limit% 時受到傷害，會掉落一個符印，每秒恢復 %heal% 生命。該符印持續 %dur% 秒，冷卻時間為 %cd% 秒</string>
 
 	<!-- Epic -->
 	<string name="trinket.dragon_heart.name">龍心</string>
@@ -202,13 +208,15 @@
 	<string name="trinket.orb_of_restoration.name">恢復寶珠</string>
 	<string name="trinket.orb_of_restoration.desc">消耗的魔力的 %heal%% 轉化為治療。\n+%rgn% 魔力回復</string>
 	<string name="trinket.parry_medal.name">冠軍勳章</string>
-	<string name="trinket.parry_medal.desc">+%num%% 招架。\n招架現在可以從所有方向生效</string>
+	<string name="trinket.parry_medal.desc">+%num%% 招架。\n招架現在可以從所有方向生效，並在成功招架後進行反擊，造成 200% 主武器傷害</string>
 	<string name="trinket.phoenix_feather.name">鳳凰之羽</string>
 	<string name="trinket.phoenix_feather.desc">+%num% 藥水充能\n當受到致命傷害時自動使用一次藥水充能</string>
 	<string name="trinket.scroll_hellfire.name">地獄火卷軸</string>
 	<string name="trinket.scroll_hellfire.desc">消耗 %mana% 魔力時在你周圍降下火雨持續 %dur% 秒，造成 %dmg% 火焰傷害</string>
 	<string name="trinket.arctic_step.name">極地步伐</string>
 	<string name="trinket.arctic_step.desc">移動時在地面留下霜凍區域，造成 %dmg% 冰冷傷害</string>
+	<string name="trinket.symbol_piercing.name">穿透符印</string>
+	<string name="trinket.symbol_piercing.desc">飲用藥水時掉落一個符印，提供 %amnt% 護甲與抗性穿透。該符印持續 %dur% 秒，冷卻時間為 %cd% 秒</string>
 
 	<!-- Sets -->
 	<string name="trinket.set.gemstones.name">注能寶石</string>
@@ -232,6 +240,7 @@
 	<string name="trinket.set.soldiers_uniform.3">+%num%% 招架</string>
 	<string name="trinket.set.soldiers_uniform.4">+%num%% 武器暴擊率</string>
 	<string name="trinket.set.soldiers_uniform.5">-%num%% 受到的傷害</string>
+	<string name="trinket.set.soldiers_uniform.5b">%leech%% 武器暴擊生命竊取</string>
 	<string name="trinket.set.dragon_lord.name">龍王</string>
 	<string name="trinket.set.dragon_lord.3">每點活力增加 %num% 法術威力</string>
 	<string name="trinket.set.dragon_lord.4">+%num%% 法術生命吸取</string>
@@ -252,7 +261,8 @@
 	<string name="trinket.set.markhams_mastery.5">背包中每件飾品增加 %num%% 武器攻速和施法速度</string>
 	<string name="trinket.set.rings_resistance.name">抗性戒指</string>
 	<string name="trinket.set.rings_resistance.2">每級增加 %num% 所有抗性</string>
-
+	<string name="trinket.set.symbols_of_fate.name">命運符印</string>
+	<string name="trinket.set.symbols_of_fate.4">每隔 %freq% 秒會掉落一個隨機符印</string>
 
 
 
@@ -349,5 +359,29 @@
 	<string name="item.gold_music_box">金製音樂盒</string>
 	<string name="item.masterpiece_painting">名作畫作</string>
 	<string name="item.adamant_statuette">堅硬雕像</string>
+
+
+	<!-- Elixirs -->
+
+	<string name="item.elixir_str_1.name">力量藥劑</string>
+	<string name="item.elixir_dex_1.name">敏捷藥劑</string>
+	<string name="item.elixir_int_1.name">智力藥劑</string>
+	<string name="item.elixir_foc_1.name">專注藥劑</string>
+	<string name="item.elixir_vit_1.name">體質藥劑</string>
+	<string name="item.elixir_str_2.name">大型力量藥劑</string>
+	<string name="item.elixir_dex_2.name">大型敏捷藥劑</string>
+	<string name="item.elixir_int_2.name">大型智力藥劑</string>
+	<string name="item.elixir_foc_2.name">大型專注藥劑</string>
+	<string name="item.elixir_vit_2.name">大型體質藥劑</string>
+	<string name="item.elixir_str_3.name">巨型力量藥劑</string>
+	<string name="item.elixir_dex_3.name">巨型敏捷藥劑</string>
+	<string name="item.elixir_int_3.name">巨型智力藥劑</string>
+	<string name="item.elixir_foc_3.name">巨型專注藥劑</string>
+	<string name="item.elixir_vit_3.name">巨型體質藥劑</string>
+	<string name="item.elixir_str.desc">永久增加 %add% \"icn-str" 力量</string>
+	<string name="item.elixir_dex.desc">永久增加 %add% \"icn-dex" 敏捷</string>
+	<string name="item.elixir_int.desc">永久增加 %add% \"icn-int" 智力</string>
+	<string name="item.elixir_foc.desc">永久增加 %add% \"icn-foc" 專注</string>
+	<string name="item.elixir_vit.desc">永久增加 %add% \"icn-vit" 體質</string>
 
 </lang>
