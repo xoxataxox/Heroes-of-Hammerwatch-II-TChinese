@@ -1121,8 +1121,8 @@
 	<string name="boss.totem_lightning">閃電圖騰</string>
 	<string name="boss.face">暗影面具</string>
 	<string name="boss.arista">阿里斯塔</string>
-	<string name="boss.harbingers">恐懼的先驅</string>
-	<string name="boss.serpents">滅亡的巨蛇</string>
+	<string name="boss.harbingers">恐懼先驅</string>
+	<string name="boss.serpents">滅亡巨蛇</string>
 	<string name="boss.avatar">化身</string>
 	
 	
