@@ -255,8 +255,21 @@
 
 	<string name="item.error.empty_potion">藥水已空！需要重新補充！!</string>
 
-	<string name="menu.notifier.joinfailed.join">加入大廳失敗</string>
 	<string name="menu.notifier.joinfailed.host">創建大廳失敗</string>
+	<string name="menu.notifier.joinfailed.join">加入大廳失敗</string>
+	<string name="menu.notifier.joinfailed.no_multiplayer">多人遊戲不可用</string>
+	<string name="menu.notifier.joinfailed.mod_unpacked">多人遊戲不可用，因為你啟用了未封裝的模組 '%mod%'</string>
+	<string name="menu.notifier.joinfailed.lobby_version_low">無法加入大廳，該大廳使用的是較舊的遊戲版本</string>
+	<string name="menu.notifier.joinfailed.lobby_version_high">無法加入大廳，該大庭使用的是較新遊戲的版本</string>
+	<string name="menu.notifier.joinfailed.mods">加入失敗，因為模組不匹配。%missing%%hostmissing%</string>
+	<string name="menu.notifier.joinfailed.mods.missing">缺少： %missing%</string>
+	<string name="menu.notifier.joinfailed.mods.hostmissing">主機缺少： %missing%</string>
+	<string name="menu.notifier.joinfailed.modded_mismatch_modded_lobby">無法在無模組的存檔中加入已安裝模組的大廳</string>
+	<string name="menu.notifier.joinfailed.modded_mismatch_modded_self">無法在已安裝模組的存檔中加入無模組的大廳</string>
+	
+	
+	
+
 
 	<string name="misc.dmg.miss">未命中！</string>
 	<string name="misc.dmg.evade">閃避！</string>
