@@ -352,7 +352,7 @@
 
 	<string name="mainmenu.languages.restart-confirm">更改語言後你需要重啟遊戲！</string>
 	<string name="mainmenu.serverlist.title">大廳</string>
-	<string name="mainmenu.serverlist.hide_highngp">隱藏高等級大廳Hide high level lobbies</string>
+	<string name="mainmenu.serverlist.hide_highngp">隱藏高等級大廳</string>
 	<string name="mainmenu.serverlist.join_highngp">確定要加入 New Game+ %lobbyngp% 的大廳嗎？該大廳的進度比你當前的進度更後面，你的預期的遊戲體驗與獎勵可能會受影響。</string>
 	<string name="mainmenu.serverlist.join_veryhighngp">確定要加入 New Game+ %lobbyngp% 大廳嗎？該大廳的進度遠超你當前的進度，挑戰將極為困難，且獎勵可能會永久性地大幅影響你的遊戲節奏。</string>
 	<string name="mainmenu.multiplayer.disabled">多人遊戲目前無法使用</string>
