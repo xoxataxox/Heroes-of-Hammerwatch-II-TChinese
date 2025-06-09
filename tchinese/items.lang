@@ -330,6 +330,14 @@
 	<string name="tavern.drink.shocking_zinger.desc">閃電傷害 +25%\n護甲 -20%</string>
 	<string name="tavern.drink.toxic_twist.name">劇毒扭曲</string>
 	<string name="tavern.drink.toxic_twist.desc">毒素傷害 +25%\n生命值 -10%</string>
+	<string name="tavern.drink.burning_force.name">燃焰之力</string>
+	<string name="tavern.drink.burning_force.desc">物理傷害加成與火焰傷害加成增加 %amnt%\n冰冷傷害與閃電傷害設為 0%</string>
+	<string name="tavern.drink.icy_touch.name">冰冷之觸</string>
+	<string name="tavern.drink.icy_touch.desc">物理傷害加成與冰冷傷害加成增加 %amnt%\n火焰傷害與閃電傷害設為 0%</string>
+	<string name="tavern.drink.electric_sting.name">電光刺擊</string>
+	<string name="tavern.drink.electric_sting.desc">物理傷害加成與閃電傷害加成增加 %amnt%\n火焰傷害與冰冷傷害設為 0%</string>
+
+
 
 	<!-- Valuables -->
 
