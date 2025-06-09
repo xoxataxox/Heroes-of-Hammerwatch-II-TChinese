@@ -224,20 +224,49 @@
 	<string name="skills.desc.params.health_prc_per_stack">每層生命值百分比：</string>
 	<string name="skills.desc.params.mana_prc_per_stack">每層魔力百分比：</string>
 
-	<string name="skills.combo.kills.name">連擊：擊殺</string>	
-	<string name="skills.combo.kills.desc">在短時間內擊殺 10 名敵人後觸發連擊</string>	
-	<string name="skills.combo.dash.name">連擊：衝刺</string>	
-	<string name="skills.combo.dash.desc">在短時間內進行 3 次衝刺後觸發連擊</string>	
-	<string name="skills.combo.parry.name">連擊：招架</string>	
-	<string name="skills.combo.parry.desc">在短時間內成功招架 8 次後觸發連擊</string>	
-	<string name="skills.combo.none.name">連擊：無</string>	
-	<string name="skills.combo.none.desc">停用連擊</string>	
-	<string name="skills.combo.selected"> (已選擇)</string>
+	<string name="skills.desc.params.extra_time">額外時間：</string>
+
+
 
 	<string name="skills.combo.nova.name">連擊新星</string>
-	<string name="skills.combo.nova.desc">連擊啟動時，每秒發射一輪投射物新星。</string>
+	<string name="skills.combo.nova.desc">連擊啟動時每秒釋放一次投射物新星</string>
+	<string name="skills.combo.time.name">連擊時間</string>
+	<string name="skills.combo.time.desc">延長連擊的持續時間</string>
 
+	<string name="skills.combo.kills.name">連擊：擊殺</string>
+	<string name="skills.combo.kills.desc">在 %ttm% 秒內擊殺 %amnt% 名敵人會觸發連擊，持續 %dtm% 秒。連擊可降低技能造成的移動速度懲罰，並解鎖更多加成</string>
+	<string name="skills.combo.dash.name">連擊：衝刺</string>
+	<string name="skills.combo.dash.desc">在 %ttm% 秒內衝刺 %amnt% 次會觸發連擊，持續 %dtm% 秒，需冷卻完畢才能再次觸發。連擊可降低技能造成的移動速度懲罰，並解鎖更多加成</string>
+	<string name="skills.combo.parry.name">連擊：招架與閃避</string>
+	<string name="skills.combo.parry.desc">在 %ttm% 秒內成功招架或閃避 %amnt% 次攻擊會觸發連擊，持續 %dtm% 秒。連擊可降低技能造成的移動速度懲罰，並解鎖更多加成</string>
 
+	<string name="skills.combo.combo_bull_rage.name">連擊之怒</string>
+	<string name="skills.combo.combo_bull_rage.desc">每點活力提供 %amnt% 點連擊投射物物理傷害</string>
+	<string name="skills.combo.combo_clear_mind.name">連擊冥想</string>
+	<string name="skills.combo.combo_clear_mind.desc">每點專注提供 %amnt% 點連擊投射物物理傷害</string>
+
+	<string name="skills.combo.combo_bursting_speed.name">連擊爆發速度</string>
+	<string name="skills.combo.combo_bursting_speed.desc">觸發連擊時獲得 %amnt% 移動速度，持續 %dur% 秒</string>
+	<string name="skills.combo.combo_bursting_dmg.name">連擊爆發傷害</string>
+	<string name="skills.combo.combo_bursting_dmg.desc">觸發連擊時提升 %amnt% 傷害，持續 %dur% 秒</string>
+	<string name="skills.combo.combo_bursting_prot.name">連擊爆發防護</string>
+	<string name="skills.combo.combo_bursting_prot.desc">觸發連擊時降低 %amnt% 受到的傷害，持續 %dur% 秒</string>
+
+	<string name="skills.combo.combo_health.name">連擊生命</string>
+	<string name="skills.combo.combo_health.desc">連擊期間獲得 %amnt% 生命回復</string>
+	<string name="skills.combo.combo_mana.name">連擊魔力</string>
+	<string name="skills.combo.combo_mana.desc">連擊期間獲得 %amnt% 魔力回復</string>
+
+	<string name="skills.combo.combo_speed.name">連擊速度</string>
+	<string name="skills.combo.combo_speed.desc">連擊期間提升 %amnt% 移動速度</string>
+	<string name="skills.combo.combo_hex.name">連擊詛咒</string>
+	<string name="skills.combo.combo_hex.desc">當連擊新星投射物擊中敵人時有 %chnce%% 機率施加負面狀態效果。可出現的效果：\cb0dfff破甲\d/\z\cb0dfff跛足\d/\z\cb0dfff緩速\d/\z\cb0dfff脆弱\d/\z\cb0dfff虛弱\d</string>
+	<string name="skills.combo.combo_gasket.name">連擊爆發</string>
+	<string name="skills.combo.combo_gasket.desc">在連擊狀態下擊殺敵人時有 %chnce%% 機率釋放 12 發投射物的連擊新星。冷卻時間：%cd% 秒</string>
+
+	<string name="skills.combo.none.name">連擊：無</string>
+	<string name="skills.combo.none.desc">停用連擊</string>
+	<string name="skills.combo.selected"> (已選擇)</string>
 
 
 
