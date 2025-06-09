@@ -88,6 +88,7 @@
 	<string name="option.g_item_pickup_tooltip_equipment.title">裝備拾取預覽</string>
 
 	<string name="option.ui_load_screen_brightness.title">載入畫面亮度</string>
+	<string name="option.g_save_backup.title">儲存備份檔案</string>
 
 
 
