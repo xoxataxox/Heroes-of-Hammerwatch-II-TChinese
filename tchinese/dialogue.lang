@@ -98,9 +98,14 @@
 	<string name="npc.shop.spell_mastery">法術精通</string>
 	<string name="npc.shop.trinket_attune">飾品共鳴</string>
 	<string name="npc.shop.chapel_donation">教堂捐贈</string>
+	<string name="npc.shop.dye_equipment">裝備染色</string>
+	<string name="npc.shop.combo_trainer">連擊訓練師</string>
 
 	<string name="npc.shop.spell_mastery.desc">法術專精可使某些法術傷害增加 %dmg%，但同時魔力消耗也會增加 %mana%</string>
 	<string name="npc.shop.equipment_upgrade.upgrade">(提升物品等級 %amnt%)</string>
+	<string name="npc.shop.equipment_upgrade.empty">你沒有裝備任何可升級的裝備</string>
+	<string name="menu.enchanter.no_equipment">你沒有裝備任何可附魔的裝備</string>
+	
 	<string name="npc.shop.chapel_donation.donate">捐贈 %mat%</string>
 	<string name="npc.shop.chapel_donation.donate.desc">已捐贈 %curr%，再捐贈 %add%</string>
 
@@ -112,6 +117,7 @@
 	<string name="npc.shop.upgrades.empty.shoplvl">升級商店以解鎖更多升級選項</string>
 
 	<string name="npc.shop.equip.sell">出售裝備</string>
+	<string name="npc.shop.equip.sell.empty">你沒有裝備可出售</string>
 	<string name="npc.shop.equip.buy">購買裝備</string>
 	<string name="npc.shop.trinket.buy">購買飾品</string>
 	<string name="npc.shop.trinket.left">可購買數量：%num%</string>
@@ -179,6 +185,9 @@
 	<string name="dialogue.architect.prompt2">我來為你打開這個</string>
 
 	<string name="dialogue.spell_mastery.found">終於看見活人了！你知道出去的路嗎？</string>
+
+	<string name="dialogue.dyer.found">謝謝你幫助我！作為回報，我會幫你搭配顏色</string>
+	
 
 
 	<string name="dialogue.rogue.found.1">你好！你也是來找寶藏的嗎？</string>
