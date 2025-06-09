@@ -1235,9 +1235,150 @@
 	<string name="menu.character.creation.color.skin.dark4">烏黑</string>
 
 
+	<string name="menu.character.creation.color.cloth.gray">灰色</string>
+	<string name="menu.character.creation.color.cloth.sand">沙色</string>
+	<string name="menu.character.creation.color.cloth.tan">棕褐色</string>
+	<string name="menu.character.creation.color.cloth.brown">棕色</string>
+	<string name="menu.character.creation.color.cloth.oak">橡木色</string>
+	<string name="menu.character.creation.color.cloth.red">紅色</string>
+	<string name="menu.character.creation.color.cloth.green">綠色</string>
+	<string name="menu.character.creation.color.cloth.blue">藍色</string>
+	<string name="menu.character.creation.color.cloth.cadet">軍服藍</string>
+	<string name="menu.character.creation.color.cloth.light_blue">淺藍色</string>
+	<string name="menu.character.creation.color.cloth.salmon">鮭紅色</string>
+	<string name="menu.character.creation.color.cloth.mauve">紫紅色</string>
+	<string name="menu.character.creation.color.cloth.camoflague">迷彩色</string>
+	<string name="menu.character.creation.color.cloth.ash">岩板灰</string>
+	<string name="menu.character.creation.color.cloth.moss">苔蘚綠</string>
+	<string name="menu.character.creation.color.cloth.turquoise">綠松石色</string>
+	<string name="menu.character.creation.color.cloth.aqua">水藍色</string>
+	<string name="menu.character.creation.color.cloth.forest">森林綠</string>
+	<string name="menu.character.creation.color.cloth.slate">岩板灰</string>
+	<string name="menu.character.creation.color.cloth.scarlet">猩紅色</string>
+	<string name="menu.character.creation.color.cloth.teal">青色</string>
+	<string name="menu.character.creation.color.cloth.pink">粉紅色</string>
+	<string name="menu.character.creation.color.cloth.lemon">檸檬黃</string>
+	<string name="menu.character.creation.color.cloth.elven">精靈綠</string>
+	<string name="menu.character.creation.color.cloth.metallic">金屬色</string>
+	<string name="menu.character.creation.color.cloth.charcoal">炭灰色</string>
+	<string name="menu.character.creation.color.cloth.imperial">帝國紫</string>
+	<string name="menu.character.creation.color.cloth.lime">萊姆綠</string>
+	<string name="menu.character.creation.color.cloth.white">白色</string>
+	<string name="menu.character.creation.color.cloth.violet">紫羅蘭</string>
+	<string name="menu.character.creation.color.cloth.magma">熔岩紅</string>
+	<string name="menu.character.creation.color.cloth.gold">金色</string>
+	<string name="menu.character.creation.color.cloth.midnight">午夜藍</string>
+	<string name="menu.character.creation.color.cloth.ice">冰藍色</string>
+	<string name="menu.character.creation.color.cloth.coral">珊瑚色</string>
+	<string name="menu.character.creation.color.cloth.solaire">太陽金</string>
+	<string name="menu.character.creation.color.cloth.ghost">幽靈白</string>
+	<string name="menu.character.creation.color.cloth.dawn">曙光色</string>
+	<string name="menu.character.creation.color.cloth.dusk">暮光色</string>
+
+	<string name="menu.character.creation.color.metal.aged">舊化色</string>
+	<string name="menu.character.creation.color.metal.leaden">鉛灰色</string>
+	<string name="menu.character.creation.color.metal.cooper">銅色</string>
+	<string name="menu.character.creation.color.metal.iron">鐵色</string>
+	<string name="menu.character.creation.color.metal.bronze">青銅色</string>
+	<string name="menu.character.creation.color.metal.brass">黃銅色</string>
+	<string name="menu.character.creation.color.metal.light_blue">淺藍色</string>
+	<string name="menu.character.creation.color.metal.green">綠色</string>
+	<string name="menu.character.creation.color.metal.blue">藍色</string>
+	<string name="menu.character.creation.color.metal.orange">橙色</string>
+	<string name="menu.character.creation.color.metal.patina">銅綠色</string>
+	<string name="menu.character.creation.color.metal.citrus">柑橘色</string>
+	<string name="menu.character.creation.color.metal.jungle">叢林綠</string>
+	<string name="menu.character.creation.color.metal.steel">鋼鐵色</string>
+	<string name="menu.character.creation.color.metal.jade">翡翠色</string>
+	<string name="menu.character.creation.color.metal.rust">鐵鏽色</string>
+	<string name="menu.character.creation.color.metal.dark_blue">深藍色</string>
+	<string name="menu.character.creation.color.metal.pink">粉紅色</string>
+	<string name="menu.character.creation.color.metal.purple">紫色</string>
+	<string name="menu.character.creation.color.metal.lilac">丁香紫</string>
+	<string name="menu.character.creation.color.metal.silver">銀色</string>
+	<string name="menu.character.creation.color.metal.coagulation">凝結色</string>
+	<string name="menu.character.creation.color.metal.darkness">漆黑色</string>
+	<string name="menu.character.creation.color.metal.majestic">華麗紫</string>
+	<string name="menu.character.creation.color.metal.firefly">螢光綠</string>
+	<string name="menu.character.creation.color.metal.platinum">白金色</string>
+	<string name="menu.character.creation.color.metal.gold">金色</string>
+	<string name="menu.character.creation.color.metal.iridescent">虹彩色</string>
+	<string name="menu.character.creation.color.metal.molten">熔岩色</string>
+	<string name="menu.character.creation.color.metal.ruby">紅寶石色</string>
+	<string name="menu.character.creation.color.metal.hailstone">冰雹灰</string>
+	<string name="menu.character.creation.color.metal.bright">亮金屬色</string>
+	<string name="menu.character.creation.color.metal.resurrected">復甦銀</string>
+	<string name="menu.character.creation.color.metal.shimmer">閃光銀</string>
+
+	<string name="menu.character.creation.color.leather.brown">棕色</string>
+	<string name="menu.character.creation.color.leather.red">紅色</string>
+	<string name="menu.character.creation.color.leather.garnet">石榴紅</string>
+	<string name="menu.character.creation.color.leather.desert">沙漠棕</string>
+	<string name="menu.character.creation.color.leather.scourge">瘟疫綠</string>
+	<string name="menu.character.creation.color.leather.flamingo">火鶴粉</string>
+	<string name="menu.character.creation.color.leather.sunny">晴黃</string>
+	<string name="menu.character.creation.color.leather.black">黑色</string>
+	<string name="menu.character.creation.color.leather.white">白色</string>
+	<string name="menu.character.creation.color.leather.violet">紫羅蘭</string>
+	<string name="menu.character.creation.color.leather.pink">粉紅色</string>
+	<string name="menu.character.creation.color.leather.tar">焦油黑</string>
+	<string name="menu.character.creation.color.leather.sunset">夕陽橘</string>
+	<string name="menu.character.creation.color.leather.liana">藤蔓綠</string>
+	<string name="menu.character.creation.color.leather.gore">血紅</string>
+	<string name="menu.character.creation.color.leather.regal">皇家紫</string>
+	<string name="menu.character.creation.color.leather.frost">霜白</string>
+	<string name="menu.character.creation.color.leather.ghost">幽靈白</string>
+	<string name="menu.character.creation.color.leather.blue">藍色</string>
+	<string name="menu.character.creation.color.leather.green">綠色</string>
+	<string name="menu.character.creation.color.leather.amber">琥珀色</string>
+	<string name="menu.character.creation.color.leather.gilded">鍍金色</string>
+	<string name="menu.character.creation.color.leather.serpent">蛇鱗綠</string>
+	<string name="menu.character.creation.color.leather.sunrise">朝霞紅</string>
+	<string name="menu.character.creation.color.leather.mold">霉綠色</string>
+	<string name="menu.character.creation.color.leather.teal">青色</string>
+	<string name="menu.character.creation.color.leather.parrot">鸚鵡綠</string>
+
+	<string name="menu.character.creation.color.wood.pine">松木色</string>
+	<string name="menu.character.creation.color.wood.spruce">杉木色</string>
+	<string name="menu.character.creation.color.wood.mahogany">桃花心木</string>
+	<string name="menu.character.creation.color.wood.acacia">相思木</string>
+	<string name="menu.character.creation.color.wood.oak">橡木色</string>
+	<string name="menu.character.creation.color.wood.birch">樺木色</string>
+	<string name="menu.character.creation.color.wood.old">老舊木色</string>
+	<string name="menu.character.creation.color.wood.snow">雪白木</string>
+	<string name="menu.character.creation.color.wood.ash">白蠟木</string>
+	<string name="menu.character.creation.color.wood.coal">煤炭黑</string>
+	<string name="menu.character.creation.color.wood.noble">貴族棕</string>
+	<string name="menu.character.creation.color.wood.ocean">海藍木</string>
+	<string name="menu.character.creation.color.wood.shamrock">酢漿草綠</string>
+	<string name="menu.character.creation.color.wood.ripe">熟果紅</string>
+	<string name="menu.character.creation.color.wood.banana">香蕉黃</string>
+	<string name="menu.character.creation.color.wood.cantaloupe">哈密瓜橘</string>
+	<string name="menu.character.creation.color.wood.blood">血紅</string>
+	<string name="menu.character.creation.color.wood.hearth">爐火棕</string>
+	<string name="menu.character.creation.color.wood.daybreak">破曉色</string>
+	<string name="menu.character.creation.color.wood.nightfall">夜暮色</string>
+	<string name="menu.character.creation.color.wood.evening">傍晚色</string>
+	<string name="menu.character.creation.color.wood.cherry_blossom">櫻花粉</string>
+	<string name="menu.character.creation.color.wood.glacier">冰河白</string>
+	<string name="menu.character.creation.color.wood.spectre">幽影灰</string>
+	<string name="menu.character.creation.color.wood.seaweed">海藻綠</string>
+	<string name="menu.character.creation.color.wood.gold">金色</string>
+
+	<string name="menu.character.creation.color.gem.garnet">石榴石紅</string>
+	<string name="menu.character.creation.color.gem.aquamarine">海藍寶</string>
+	<string name="menu.character.creation.color.gem.sapphire">藍寶石</string>
+	<string name="menu.character.creation.color.gem.amber">琥珀色</string>
+	<string name="menu.character.creation.color.gem.citrine">黃水晶</string>
+	<string name="menu.character.creation.color.gem.emerald">翡翠綠</string>
+	<string name="menu.character.creation.color.gem.amethyst">紫水晶</string>
+	<string name="menu.character.creation.color.gem.ruby">紅寶石</string>
+	<string name="menu.character.creation.color.gem.diamond">鑽石白</string>
+	<string name="menu.character.creation.color.gem.obsidian">黑曜石</string>
 
 
-	
+
+
 	<string name="o.as360.pro">偵測為 Switch Pro 控制器r</string>
 	<string name="o.joystick.pro">Pro Controller%slot%</string>
 	<string name="g_laser_sight.help.pro">顯示一條輔助瞄準的細線。 自動模式僅在使用 Pro Controller時啟用</string>
@@ -1305,6 +1446,8 @@
 	<string name="stat.name.freeze">無法移動和使用技能，持續 2.5 秒</string>
 	<string name="stat.icon.lowlife">\cb0dfff低生命\d</string>
 	<string name="stat.name.lowlife">低於最大生命值的 35%</string>
+	<string name="stat.icon.armor_break">\cb0dfff破甲\d</string>
+	<string name="stat.name.armor_break">降低護甲 20%，持續5秒</string>
 
 
 
