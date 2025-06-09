@@ -324,6 +324,7 @@
 	<string name="mainmenu.profiles.title">選擇個人檔案</string>
 	<string name="mainmenu.profiles.desc.delete">刪除個人檔案</string>
 	<string name="mainmenu.profiles.desc.rename">重新命名個人檔案</string>
+	<string name="mainmenu.profiles.desc.rename.prompt">為你的個人檔案輸入一個新名稱：</string>
 	<string name="mainmenu.profiles.desc.mods">啟用模組並在此個人檔案中選擇模組</string>
 	<string name="mainmenu.profiles.desc.copy">複製此個人檔案，可將其移動至雲端或從雲端移回</string>
 	<string name="mainmenu.profiles.desc.select">切換至此個人檔案</string>
@@ -786,7 +787,12 @@
 	<string name="blueprint.category.food">酒館食物藍圖</string>
 	<string name="blueprint.category.enchantment">裝備附魔藍圖</string>
 	<string name="blueprint.category.trinket">飾品藍圖</string>
-
+	<string name="blueprint.category.dye">裝備染色</string>
+	<string name="blueprint.category.dye.cloth">布料染色</string>
+	<string name="blueprint.category.dye.metal">金屬染色</string>
+	<string name="blueprint.category.dye.leather">皮革染色</string>
+	<string name="blueprint.category.dye.wood">木材染色</string>
+	<string name="blueprint.category.dye.gem">寶石染色</string>
 
 
 	<string name="menu.reroll.question">你想要重骰選項並獲得 %cost% 暗影詛咒嗎？\n\n你已使用 %chrg-used%/%chrg-max% 次重骰</string>
@@ -1157,8 +1163,13 @@
 	<string name="menu.character.creation.portrait_piece.hair18">馬尾</string>
 	<string name="menu.character.creation.portrait_piece.hair19">辮子頭</string>
 	<string name="menu.character.creation.portrait_piece.hair20">華麗髮型</string>
-	<string name="menu.character.creation.portrait_piece.hair22">精緻捲髮</string>
-	<string name="menu.character.creation.portrait_piece.hair23">長直髮</string>
+	<string name="menu.character.creation.portrait_piece.hair22">老兄造型</string>
+	<string name="menu.character.creation.portrait_piece.hair23">緊密捲髮</string>
+	<string name="menu.character.creation.portrait_piece.hair24">禿頂</string>
+	<string name="menu.character.creation.portrait_piece.hair25">太空丸子頭</string>
+	<string name="menu.character.creation.portrait_piece.hair26">短雷鬼辮</string>
+	<string name="menu.character.creation.portrait_piece.hair27">精緻捲髮</string>
+	<string name="menu.character.creation.portrait_piece.hair28">長直髮</string>
 	
 	<!-- Eyes -->
 	<string name="menu.character.creation.portrait_piece.eyes1">眼睛 1</string>
@@ -1201,26 +1212,27 @@
 	<string name="menu.character.creation.portrait_piece.mouth14">嘴巴 14</string>
 	<string name="menu.character.creation.portrait_piece.mouth15">嘴巴 15</string>
 	<string name="menu.character.creation.portrait_piece.mouth16">嘴巴 16</string>
+	<string name="menu.character.creation.portrait_piece.mouth17">嘴巴 17</string>
 	
 	<!-- Hair Colors -->
-	<string name="menu.character.creation.color.platium">鉑金色</string>
-	<string name="menu.character.creation.color.blonde">金色</string>
-	<string name="menu.character.creation.color.red">紅色</string>
-	<string name="menu.character.creation.color.brown">栗色</string>
-	<string name="menu.character.creation.color.auburn">赤褐色</string>
-	<string name="menu.character.creation.color.black">黑色</string>
-	<string name="menu.character.creation.color.dark_gray">深灰色</string>
-	<string name="menu.character.creation.color.gray">灰色</string>
-	<string name="menu.character.creation.color.white">白色</string>
+	<string name="menu.character.creation.color.hair.platium">鉑金色</string>
+	<string name="menu.character.creation.color.hair.blonde">金色</string>
+	<string name="menu.character.creation.color.hair.red">紅色</string>
+	<string name="menu.character.creation.color.hair.brown">栗色</string>
+	<string name="menu.character.creation.color.hair.auburn">赤褐色</string>
+	<string name="menu.character.creation.color.hair.black">黑色</string>
+	<string name="menu.character.creation.color.hair.dark_gray">深灰色</string>
+	<string name="menu.character.creation.color.hair.gray">灰色</string>
+	<string name="menu.character.creation.color.hair.white">白色</string>
 	
 	<!-- Skin Colors -->
-	<string name="menu.character.creation.color.light1">蒼白</string>
-	<string name="menu.character.creation.color.light2">白皙</string>
-	<string name="menu.character.creation.color.light3">紅潤</string>
-	<string name="menu.character.creation.color.dark1">橄欖色</string>
-	<string name="menu.character.creation.color.dark2">棕色</string>
-	<string name="menu.character.creation.color.dark3">深棕色</string>
-	<string name="menu.character.creation.color.dark4">烏黑</string>
+	<string name="menu.character.creation.color.skin.light1">蒼白</string>
+	<string name="menu.character.creation.color.skin.light2">白皙</string>
+	<string name="menu.character.creation.color.skin.light3">紅潤</string>
+	<string name="menu.character.creation.color.skin.dark1">橄欖色</string>
+	<string name="menu.character.creation.color.skin.dark2">棕色</string>
+	<string name="menu.character.creation.color.skin.dark3">深棕色</string>
+	<string name="menu.character.creation.color.skin.dark4">烏黑</string>
 
 
 
