@@ -123,6 +123,8 @@
 	<string name="npc.shop.trinket.left">可購買數量：%num%</string>
 	<string name="npc.shop.equip.take">選擇一件裝備</string>
 	<string name="npc.shop.trinket.picker">選擇一個飾品</string>
+	<string name="npc.shop.mission_map">前往任務地點</string>
+	<string name="npc.shop.mission_map.empty">找到地圖來開始任務</string>
 
 	<string name="npc.shop.material_trader.buy">購買 %amnt% %mat%</string>
 	<string name="npc.shop.material_trader.sell">出售 %amnt% %mat%</string>
