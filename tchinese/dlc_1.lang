@@ -2,57 +2,57 @@
 
 	<!-- PRIEST -->
 	<string name="menu.class.priest">牧師</string>
-	<string name="menu.class.priest.description">一位被眾神選中的神聖秘術師，能揮動神聖之光與治癒之力。</string>
+	<string name="menu.class.priest.description">一位被眾神選中，能揮動神聖之光與治癒之力的神聖秘術師</string>
 	
-	<string name="htitle.priest.desc">獲得 %num% 點生命回復，每等級增加 %num-per%。</string>
+	<string name="htitle.priest.desc">獲得 %num% 點生命回復，每等級增加 %num-per%</string>
 
 	<!-- Priest Skills -->
 	<string name="skills.priest.spell_1.name">內在之光</string>
-	<string name="skills.priest.spell_1.desc">發射一道熾熱的光之新星，並施加 \cb0dfff致盲\d。</string>
+	<string name="skills.priest.spell_1.desc">發射一道熾熱的光之新星，並施加\cb0dfff致盲\d</string>
 	
 	<string name="skills.priest.spell_1.up1.name">涵蓋之光</string>
-	<string name="skills.priest.spell_1.up1.desc">增加新星的範圍。</string>
+	<string name="skills.priest.spell_1.up1.desc">增加新星的範圍</string>
 	
 	<string name="skills.priest.spell_1.up2.name">蒼穹之光</string>
-	<string name="skills.priest.spell_1.up2.desc">新星擊中敵人時有機率產生光球，光球會向敵人發射光束。</string>
+	<string name="skills.priest.spell_1.up2.desc">新星擊中敵人時有機率產生光球，光球會向敵人發射光束</string>
 	
 	<string name="skills.priest.spell_1.up3.name">破碎之光</string>
-	<string name="skills.priest.spell_1.up3.desc">新星額外施加 \cb0dfff易傷\d。</string>
+	<string name="skills.priest.spell_1.up3.desc">新星額外施加\cb0dfff脆弱\d</string>
 
 	<string name="skills.priest.spell_2.name">聖潔之地</string>
-	<string name="skills.priest.spell_2.desc">放置一個神聖法陣，吸取敵人的生命並轉移給站在法陣內的自己及盟友。</string>
+	<string name="skills.priest.spell_2.desc">放置一個神聖法陣，吸取敵人的生命並轉移給站在法陣內的自己及盟友</string>
 	
 	<string name="skills.priest.spell_2.up1.name">涵蓋祈禱</string>
-	<string name="skills.priest.spell_2.up1.desc">增加法陣的範圍。</string>
+	<string name="skills.priest.spell_2.up1.desc">增加法陣的範圍</string>
 	
 	<string name="skills.priest.spell_2.up2.name">淨化祈禱</string>
-	<string name="skills.priest.spell_2.up2.desc">站在法陣內現在還會減少所有盟友的減益效果持續時間。</string>
+	<string name="skills.priest.spell_2.up2.desc">現在站在法陣內還會減少所有盟友的減益效果持續時間</string>
 	
 	<string name="skills.priest.spell_2.up3.name">恢復祈禱</string>
-	<string name="skills.priest.spell_2.up3.desc">法陣內的盟友現在會持續治療，數值為其最大生命值的百分比。</string>
+	<string name="skills.priest.spell_2.up3.desc">法陣內的盟友現在會持續治療，數值為其最大生命值的百分比</string>
 
 	<string name="skills.priest.passive_1.name">神聖耐力</string>
-	<string name="skills.priest.passive_1.desc">獲得法力護盾效果，只要法力值高於特定閾值，便會吸收部分受到的傷害至法力值。</string>
+	<string name="skills.priest.passive_1.desc">獲得魔力護盾效果，只要魔力值高於特定閾值，便會吸收部分受到的傷害至魔力值</string>
 	<string name="skills.priest.passive_1.up1.name">神聖維持</string>
-	<string name="skills.priest.passive_1.up1.desc">根據缺失法力值百分比增加法力回復。</string>
+	<string name="skills.priest.passive_1.up1.desc">根據缺失魔力值百分比增加魔力回復</string>
 	
 	<string name="skills.priest.passive_1.up2.name">延伸守護</string>
-	<string name="skills.priest.passive_1.up2.desc">獲得一個光環，減少所有附近盟友受到的傷害。</string>
+	<string name="skills.priest.passive_1.up2.desc">獲得一個光環，減少所有附近盟友受到的傷害</string>
 	
 	<string name="skills.priest.passive_1.up3.name">神聖干預</string>
-	<string name="skills.priest.passive_1.up3.desc">當生命值低於特定閾值時獲得治療。此能力有冷卻時間。</string>
+	<string name="skills.priest.passive_1.up3.desc">當生命值低於特定閾值時獲得治療，此能力有冷卻時間</string>
 
 	<string name="skills.priest.passive_2.name">神聖恩寵</string>
-	<string name="skills.priest.passive_2.desc">消耗或失去法力值會獲得一層 \cb0dfff恩寵\d。每層增加你造成的傷害。</string>
+	<string name="skills.priest.passive_2.desc">消耗或失去魔力值會獲得一層\cb0dfff恩寵\d，每層增加你造成的傷害</string>
 	
 	<string name="skills.priest.passive_2.up1.name">聖火</string>
-	<string name="skills.priest.passive_2.up1.desc">層數達到上限時，你會獲得一個光環，對附近敵人造成火焰傷害。</string>
+	<string name="skills.priest.passive_2.up1.desc">層數達到上限時，你會獲得一個光環，對附近敵人造成火焰傷害</string>
 	
 	<string name="skills.priest.passive_2.up2.name">恢復恩寵</string>
-	<string name="skills.priest.passive_2.up2.desc">每層現在還會增加你的法力回復。</string>
+	<string name="skills.priest.passive_2.up2.desc">每層現在還會增加你的魔力回復</string>
 	
 	<string name="skills.priest.passive_2.up3.name">狂熱</string>
-	<string name="skills.priest.passive_2.up3.desc">你造成的傷害隨缺失法力值百分比而增加。</string>	
+	<string name="skills.priest.passive_2.up3.desc">你造成的傷害隨缺失魔力值百分比而增加</string>	
 	
 	<!-- SUBLCASSES -->
 	<!-- Divine Light -->
@@ -60,84 +60,84 @@
 	<string name="skills.priest.mastery_1.desc"></string>
 	
 	<string name="skills.priest.mastery_1.spell_1.name">聖光衝擊</string>
-	<string name="skills.priest.mastery_1.spell_1.desc">蓄力並發射一道強大的神聖能量光束，造成混合火焰與物理傷害。</string>
+	<string name="skills.priest.mastery_1.spell_1.desc">蓄力並發射一道強大的神聖能量光束，造成混合火焰與物理傷害</string>
 	
 	<string name="skills.priest.mastery_1.spell_1.up1.name">神聖衝擊</string>
-	<string name="skills.priest.mastery_1.spell_1.up1.desc">對站在 \cb0dfff聖潔之地\d 內的敵人造成額外火焰傷害。</string>
+	<string name="skills.priest.mastery_1.spell_1.up1.desc">對站在\cb0dfff聖潔之地\d內的敵人造成額外火焰傷害</string>
 	
 	<string name="skills.priest.mastery_1.spell_1.up2.name">巨型衝擊</string>
-	<string name="skills.priest.mastery_1.spell_1.up2.desc">增加光束的射程。</string>
+	<string name="skills.priest.mastery_1.spell_1.up2.desc">增加光束的射程</string>
 
 	<string name="skills.priest.mastery_1.passive_1.name">蒼穹光球</string>
-	<string name="skills.priest.mastery_1.passive_1.desc">光球環繞身邊並攻擊附近敵人。\cb0dfff聖光衝擊\d 可用於指揮它們集中攻擊。</string>
+	<string name="skills.priest.mastery_1.passive_1.desc">光球環繞身邊並攻擊附近敵人，\cb0dfff聖光衝擊\d可用於指揮它們集中攻擊</string>
 	<string name="skills.priest.mastery_1.passive_1.up1.name">豐富光球</string>
-	<string name="skills.priest.mastery_1.passive_1.up1.desc">\cb0dfff聖光衝擊\d 的擊中現在有機率產生額外光球。</string>
+	<string name="skills.priest.mastery_1.passive_1.up1.desc">來自\cb0dfff聖光衝擊\d的攻擊現在有機率產生額外光球</string>
 	
 	<string name="skills.priest.mastery_1.passive_1.up2.name">毀滅光球</string>
-	<string name="skills.priest.mastery_1.passive_1.up2.desc">被光球擊殺的敵人有機率爆炸，在範圍內造成火焰傷害。</string>
+	<string name="skills.priest.mastery_1.passive_1.up2.desc">被光球擊殺的敵人有機率爆炸，在範圍內造成火焰傷害</string>
 	
 	<!-- Crusader -->	
 	<string name="skills.priest.mastery_2.name">十字軍</string>
 	<string name="skills.priest.mastery_2.desc"></string>
 	
 	<string name="skills.priest.mastery_2.spell_1.name">聖旗</string>
-	<string name="skills.priest.mastery_2.spell_1.desc">插下一面旗幟，賦予範圍內的你和所有盟友 \cb0dfff無敵\d。</string>
+	<string name="skills.priest.mastery_2.spell_1.desc">插下一面旗幟，賦予範圍內的你和所有盟友\cb0dfff無敵\d</string>
 	
 	<string name="skills.priest.mastery_2.spell_1.up1.name">鼓舞聖旗</string>
-	<string name="skills.priest.mastery_2.spell_1.up1.desc">範圍內的盟友現在還會獲得攻擊速度提升。</string>
+	<string name="skills.priest.mastery_2.spell_1.up1.desc">範圍內的盟友現在還會獲得攻擊速度提升</string>
 	
 	<string name="skills.priest.mastery_2.spell_1.up2.name">戰旗</string>
-	<string name="skills.priest.mastery_2.spell_1.up2.desc">旗幟現在還會對範圍內所有敵人施加 \cb0dfff標記\d。</string>
+	<string name="skills.priest.mastery_2.spell_1.up2.desc">旗幟現在還會對範圍內所有敵人施加\cb0dfff標記\d</string>
 
 	<string name="skills.priest.mastery_2.passive_1.name">召喚十字軍</string>
-	<string name="skills.priest.mastery_2.passive_1.desc">被動召喚一支長矛兵軍隊為你並肩作戰，攻擊附近敵人造成物理傷害。</string>
+	<string name="skills.priest.mastery_2.passive_1.desc">被動召喚一支長矛兵軍隊為你並肩作戰，攻擊附近敵人造成物理傷害</string>
 
 	<string name="skills.priest.mastery_2.passive_1.up1.name">召喚弩兵</string>
-	<string name="skills.priest.mastery_2.passive_1.up1.desc">現在還會召喚弩兵，遠距離攻擊敵人造成物理傷害。</string>
+	<string name="skills.priest.mastery_2.passive_1.up1.desc">現在還會召喚弩兵，遠距離攻擊敵人造成物理傷害</string>
 	
 	<string name="skills.priest.mastery_2.passive_1.up2.name">無盡十字軍</string>
-	<string name="skills.priest.mastery_2.passive_1.up2.desc">你的十字軍陣亡時有機率立即重生。</string>
+	<string name="skills.priest.mastery_2.passive_1.up2.desc">你的十字軍陣亡時有機率立即重生</string>
 	
 	<!-- Fllagelant -->
 	<string name="skills.priest.mastery_3.name">苦行僧</string>
 	<string name="skills.priest.mastery_3.desc"></string>
 	
 	<string name="skills.priest.mastery_3.spell_1.name">自我鞭笞</string>
-	<string name="skills.priest.mastery_3.spell_1.desc">大範圍揮動鞭鏈，造成物理傷害，並根據你的荊棘傷害進一步提升。</string>
+	<string name="skills.priest.mastery_3.spell_1.desc">大範圍揮動鞭鏈，造成物理傷害，並根據你的荊棘進一步提升</string>
 	
 	<string name="skills.priest.mastery_3.spell_1.up1.name">鋸齒鞭鏈</string>
-	<string name="skills.priest.mastery_3.spell_1.up1.desc">鞭鏈擊中現在會施加 \cb0dfff流血\d 層數，並有機率對自己施加一層。</string>
+	<string name="skills.priest.mastery_3.spell_1.up1.desc">鞭鏈擊中現在會施加\cb0dfff流血\d層數，並有機率對自己施加一層</string>
 	
 	<string name="skills.priest.mastery_3.spell_1.up2.name">狂喜</string>
-	<string name="skills.priest.mastery_3.spell_1.up2.desc">鞭鏈擊中現在會增加 \cb0dfff狂喜\d 層數。每層增加你的荊棘傷害。</string>
+	<string name="skills.priest.mastery_3.spell_1.up2.desc">鞭鏈擊中現在會施加\cb0dfff狂喜\d層數，Thorns每層增加你的荊棘</string>
 
 	<string name="skills.priest.mastery_3.passive_1.name">報應</string>
-	<string name="skills.priest.mastery_3.passive_1.desc">獲得荊棘傷害，並根據最大生命值獲得額外荊棘傷害。</string>
+	<string name="skills.priest.mastery_3.passive_1.desc">獲得荊棘，並根據最大生命值獲得額外荊棘</string>
 	
 	<string name="skills.priest.mastery_3.passive_1.up1.name">受虐狂</string>
-	<string name="skills.priest.mastery_3.passive_1.up1.desc">受擊時有機率回復一些生命值。</string>
+	<string name="skills.priest.mastery_3.passive_1.up1.desc">受擊時有機率回復一些生命值</string>
 	
 	<string name="skills.priest.mastery_3.passive_1.up2.name">宏偉報應</string>
-	<string name="skills.priest.mastery_3.passive_1.up2.desc">你的荊棘傷害對 \cb0dfff首領\d 和 \cb0dfff精英\d 造成的傷害增加。</string>
+	<string name="skills.priest.mastery_3.passive_1.up2.desc">你的荊棘對\cb0dfffBoss\d和\cb0dfff精英\d敵人造成的傷害增加</string>
 
 	<!-- Skills Details -->	
 	<string name="skills.desc.params.dmg.abs">傷害吸收：</string>
 
-	<string name="skills.desc.params.damage.elitebosses">對首領與精英的傷害：</string>
+	<string name="skills.desc.params.damage.elitebosses">對Boss與精英的傷害：</string>
 
 	<string name="skills.desc.params.threshold.health">生命值閾值：</string>
 	
-	<string name="skills.desc.params.mana.per.dmg">每點傷害的法力值：</string>
+	<string name="skills.desc.params.mana.per.dmg">每點傷害的魔力值：</string>
 	
-	<string name="skills.desc.params.mana.lost">失去法力值：</string>
+	<string name="skills.desc.params.mana.lost">失去魔力值：</string>
 
-	<string name="skills.desc.params.mana.threshold">法力值閾值：</string>
+	<string name="skills.desc.params.mana.threshold">魔力值閾值：</string>
 	
 	<string name="skills.desc.params.dmg.increase">傷害增加：</string>
 	
 	<string name="skills.desc.params.num.orbs">光球數量：</string>
 
-	<string name="skills.desc.params.spellpower.per.orb">每顆光球的法術能量：</string>
+	<string name="skills.desc.params.spellpower.per.orb">每顆光球的法術威力：</string>
 
 	<string name="skills.desc.params.chance.selfbleed">自我流血機率：</string>
 
@@ -149,24 +149,24 @@
 
 	<string name="skills.desc.params.thorns.per.stack">每層荊棘：</string>
 	
-	<string name="skills.desc.params.thorns.maxhp.mul">每點最大生命值的荊棘：</string>
+	<string name="skills.desc.params.thorns.maxhp.mul">每最大生命值的荊棘：</string>
 	
-	<string name="skills.desc.params.damage.missing.mana">每缺失法力值百分比的傷害：</string>
+	<string name="skills.desc.params.damage.missing.mana">每缺失魔力值百分比的傷害：</string>
 
-	<string name="skills.desc.params.manaregen.missing.mana">每缺失法力值百分比的法力回復：</string>
+	<string name="skills.desc.params.manaregen.missing.mana">每缺失魔力值百分比的魔力回復：</string>
 	
 	<string name="skills.desc.params.thorns.add">荊棘：</string>
 
 	<!-- Stacks -->
 	<string name="stacks.priest.ecstasy.name">狂喜</string>
-	<string name="stacks.priest.ecstasy.desc">每層增加你的荊棘傷害。</string>
+	<string name="stacks.priest.ecstasy.desc">每層增加你的荊棘</string>
 	
 	<string name="stacks.priest.divine_favor.name">神聖恩寵</string>
-	<string name="stacks.priest.divine_favor.desc">每層增加你的傷害。</string>
+	<string name="stacks.priest.divine_favor.desc">每層增加你的傷害</string>
 
 	<!-- Accomplishments -->
 	<string name="accomplishment.priest">神聖大公會議 %num%</string>
-	<string name="accomplishment.priest.desc">用牧師達到 %num% 級。</string>
+	<string name="accomplishment.priest.desc">將牧師升至 %num% 級</string>
 
 
 	<!-- WEAPONS -->
@@ -183,16 +183,16 @@
 	
 	<!-- Weapon Attacks -->	
 	<string name="skills.attacks.mainhand.scepter.name">制裁</string>
-	<string name="skills.attacks.mainhand.scepter.desc">一道聖光能量衝擊波，在區域內造成 %dmg%% 武器傷害。</string>
+	<string name="skills.attacks.mainhand.scepter.desc">一道聖光能量衝擊波，在區域內造成 %dmg%% 武器傷害</string>
 	
 	<string name="skills.attacks.mainhand.scepter_epic.name">宏偉制裁</string>
-	<string name="skills.attacks.mainhand.scepter_epic.desc">一道聖光能量衝擊波，在區域內造成 %dmg1%% 武器傷害，隨後的爆炸造成 %dmg2%% 武器傷害。</string>
+	<string name="skills.attacks.mainhand.scepter_epic.desc">一道聖光能量衝擊波，在區域內造成 %dmg1%% 武器傷害，隨後的爆炸造成 %dmg2%% 武器傷害</string>
 
 	<string name="skills.attacks.mainhand.lantern.name">聖光</string>
-	<string name="skills.attacks.mainhand.lantern.desc">引導一道光束，對敵人造成 %dmg%% 武器傷害，並為盟友治療 %heal%% 武器傷害。</string>
+	<string name="skills.attacks.mainhand.lantern.desc">引導一道光束，對敵人造成 %dmg%% 武器傷害，並為盟友治療 %heal%% 武器傷害</string>
 	
 	<string name="skills.attacks.mainhand.lantern_epic.name">神聖之光</string>
-	<string name="skills.attacks.mainhand.lantern_epic.desc">引導一道光束，對敵人造成 %dmg%% 武器傷害，並為盟友治療 %heal%% 武器傷害。會連鎖至一名隨機敵人。</string>
+	<string name="skills.attacks.mainhand.lantern_epic.desc">引導一道光束，對敵人造成 %dmg%% 武器傷害，並為盟友治療 %heal%% 武器傷害會連鎖至一名隨機敵人</string>
 
 	<!-- Weapon Mastery -->	
 	<string name="weapon_mastery.holy_weapons">神聖武器</string>
@@ -201,89 +201,89 @@
 	<!-- TRINKETS -->
 	<!-- Common -->
 	<string name="trinket.spiked_collar.name">尖刺項圈</string>
-	<string name="trinket.spiked_collar.desc">+%num% 反傷</string>
+	<string name="trinket.spiked_collar.desc">+%num% 荊棘</string>
 	
 	<!-- Uncommon -->
 	<string name="trinket.razor_amulet.name">剃刀護符</string>
-	<string name="trinket.razor_amulet.desc">+%num% 反傷與武器能量</string>
+	<string name="trinket.razor_amulet.desc">+%num% 荊棘與武器威力</string>
 	
-	<string name="trinket.rosethorn_wand.name">玫瑰荊棘魔杖</string>
-	<string name="trinket.rosethorn_wand.desc">+%num% 反傷與法術能量</string>
+	<string name="trinket.rosethorn_wand.name">玫瑰刺魔杖</string>
+	<string name="trinket.rosethorn_wand.desc">+%num% 荊棘與法術威力</string>
 	
-	<string name="trinket.vitaerium.name">維塔里烏姆</string>
-	<string name="trinket.vitaerium.desc">法術暴擊施加一層 \cb0dfff流血\d。</string>
-	<string name="trinket.vitaerium.desc2">法術暴擊施加 %num% 層 \cb0dfff流血\d。</string>
+	<string name="trinket.vitaerium.name">維塔瑞姆</string>
+	<string name="trinket.vitaerium.desc">法術暴擊施加一層\cb0dfff流血\d</string>
+	<string name="trinket.vitaerium.desc2">法術暴擊施加 %num% 層\cb0dfff流血\d</string>
 	
 	<string name="trinket.ring_alacrity_greater.name">強效敏捷之戒</string>
 	<string name="trinket.ring_alacrity_greater.desc">+%mov%% 移動速度\n+%num% 施法速度</string>
 	
 	<string name="trinket.ring_of_avarice.name">貪婪之戒</string>
-	<string name="trinket.ring_of_avarice.desc">拾取金幣後，移動速度 +%mov%%，持續 %dur% 秒。</string>
+	<string name="trinket.ring_of_avarice.desc">拾取金幣後，移動速度 +%mov%%，持續 %dur% 秒</string>
 
-	<string name="trinket.spiked_pauldrons_thorns.desc">+%armr% 護甲\n+%num% 反傷</string>
+	<string name="trinket.spiked_pauldrons_thorns.desc">+%armr% 護甲\n+%num% 荊棘</string>
 	
 	<!-- Rare -->
-	<string name="trinket.spellslingers_amulet.name">施法射手護符</string>
-	<string name="trinket.spellslingers_amulet.desc">施放法術後，武器暴擊率 +%num%%，持續 %dur% 秒。</string>
+	<string name="trinket.spellslingers_amulet.name">魔射手護符</string>
+	<string name="trinket.spellslingers_amulet.desc">施放法術後，武器暴擊率 +%num%%，持續 %dur% 秒</string>
 	
-	<string name="trinket.spellswords_circlet.name">法劍師頭環</string>
-	<string name="trinket.spellswords_circlet.desc">以武器擊中敵人後，法術暴擊率 +%num%%，持續 %dur% 秒。</string>
+	<string name="trinket.spellswords_circlet.name">魔劍士頭環</string>
+	<string name="trinket.spellswords_circlet.desc">以武器擊中敵人後，法術暴擊率 +%num%%，持續 %dur% 秒</string>
 	
 	<string name="trinket.goldwrap.name">金纏腰帶</string>
-	<string name="trinket.goldwrap.desc">拾取金幣後，受到傷害 -%num%%，持續 %dur% 秒。</string>	
+	<string name="trinket.goldwrap.desc">拾取金幣後，受到傷害 -%num%%，持續 %dur% 秒</string>	
 	
 	<string name="trinket.bountiful_bracelet.name">豐饒手鐲</string>
-	<string name="trinket.bountiful_bracelet.desc">拾取金幣有 %num%% 機率恢復一點藥水充能。</string>
+	<string name="trinket.bountiful_bracelet.desc">拾取金幣有 %num%% 機率恢復一點藥水充能</string>
 	
 	<string name="trinket.chicken_feet.name">雞腳</string>
-	<string name="trinket.chicken_feet.desc">每有一名附近敵人受到狀態效果影響，你每秒恢復 %num% 法力。</string>
+	<string name="trinket.chicken_feet.desc">每有一名附近敵人受到狀態效果影響，你每秒恢復 %num% 魔力</string>
 	
 	<!-- Epic -->
-	<string name="trinket.necromantic_focus.name">死靈法術焦點</string>
-	<string name="trinket.necromantic_focus.desc">被動召喚一名強大的骷髏守衛為你並肩作戰。</string>
+	<string name="trinket.necromantic_focus.name">死靈法器</string>
+	<string name="trinket.necromantic_focus.desc">被動召喚一名強大的骷髏守衛為你並肩作戰</string>
 	
 	<!-- Sets -->
 	<string name="trinket.set.emblems_of_hermes.name">赫爾墨斯徽章</string>
 	<string name="trinket.set.emblems_of_hermes.2">+%mov%% 移動速度</string>
 	<string name="trinket.set.emblems_of_hermes.3">+%mov%% 移動速度</string>
 	
-	<string name="trinket.set.spellswords_insignia.name">法劍師徽記</string>
+	<string name="trinket.set.spellswords_insignia.name">魔劍士徽記</string>
 	<string name="trinket.set.spellswords_insignia.2">+%num%% 武器與法術暴擊傷害</string>
 	
 	<string name="trinket.set.thorny_carapace.name">荊棘甲殼</string>
-	<string name="trinket.set.thorny_carapace.2">你的反傷提升護甲值的 %num%%。</string>
-	<string name="trinket.set.thorny_carapace.3">你的反傷提升護甲值的 %num%%。</string>
+	<string name="trinket.set.thorny_carapace.2">你的荊棘提升護甲值的 %num%%</string>
+	<string name="trinket.set.thorny_carapace.3">你的荊棘提升護甲值的 %num%%</string>
 	
 	<string name="trinket.set.bloodletters_tools.name">放血者工具</string>
-	<string name="trinket.set.bloodletters_tools.2">每有一名附近敵人受到 \cb0dfff流血\d 影響，你便恢復生命值。</string>
+	<string name="trinket.set.bloodletters_tools.2">每有一名附近敵人受到\cb0dfff流血\d影響，你便恢復生命值</string>
 	
 	<string name="trinket.set.mark_of_avarice.name">貪婪印記</string>
-	<string name="trinket.set.mark_of_avarice.2">獲得的金幣有 %num%% 也會作為經驗值獲得。</string>
-	<string name="trinket.set.mark_of_avarice.3">獲得的金幣有 %num%% 也會作為經驗值獲得。</string>
+	<string name="trinket.set.mark_of_avarice.2">獲得的金幣有 %num%% 也會作為經驗值獲得</string>
+	<string name="trinket.set.mark_of_avarice.3">獲得的金幣有 %num%% 也會作為經驗值獲得</string>
 	
 
 	<!-- STAT AND STATUS DEFINITIONS -->
 	<string name="stat.name.smndmg">召喚傷害</string>
 	<string name="character.stat.tooltip.smndmg.title">召喚傷害</string>
-	<string name="character.stat.tooltip.smndmg.text">提升召喚盟友造成的傷害。</string>
+	<string name="character.stat.tooltip.smndmg.text">提升召喚盟友造成的傷害</string>
 	
 	<string name="stat.name.smnhp">召喚生命值</string>
 	<string name="character.stat.tooltip.smnhp.title">召喚生命值</string>
-	<string name="character.stat.tooltip.smnhp.text">提升召喚盟友的生命值。</string>	
+	<string name="character.stat.tooltip.smnhp.text">提升召喚盟友的生命值</string>	
 
-	<string name="stat.name.thorns.elite.mul">對精英與首領的反傷倍率</string>
+	<string name="stat.name.thorns.elite.mul">對精英與Boss的荊棘倍率</string>
 		
 	<string name="stat.icon.marked">\cb0dfff標記\d</string>
-	<string name="stat.name.marked">5 秒內暴擊率提升 20%。</string>
+	<string name="stat.name.marked">5 秒內暴擊率提升 20%</string>
 
 	<string name="stat.icon.thorns">\"icn-thorns"</string>
-	<string name="stat.name.thorns">反傷</string>	
+	<string name="stat.name.thorns">荊棘</string>	
 
-	<string name="stat.icon.thorns_desc">反傷</string>
-	<string name="stat.name.thorns_desc">對 \cffdfb0近戰\d 攻擊者造成反彈傷害。</string>
+	<string name="stat.icon.thorns_desc">荊棘</string>
+	<string name="stat.name.thorns_desc">對\cffdfb0近戰\d攻擊者造成反彈傷害</string>
 
-	<string name="character.stat.tooltip.thorns.title">\cb0dfff反傷\d</string>
-	<string name="character.stat.tooltip.thorns.text">對 \cffdfb0近戰\d 攻擊者造成反彈傷害。</string>	
+	<string name="character.stat.tooltip.thorns.title">\cb0dfff荊棘\d</string>
+	<string name="character.stat.tooltip.thorns.text">對\cffdfb0近戰\d攻擊者造成反彈傷害</string>	
 
 
 	<!-- BOSS NAMES -->
@@ -300,51 +300,51 @@
 	
 	<!-- Mission Names -->
 	<string name="survival.mission.arcane.name">秘法試煉</string>
-	<string name="survival.mission.arcane.desc">挑戰秘法之靈以獲得其青睞。</string>
+	<string name="survival.mission.arcane.desc">挑戰秘法之靈以獲得其青睞</string>
 
 	<string name="survival.mission.warrior.name">勇武試煉</string>
-	<string name="survival.mission.warrior.desc">挑戰勇武之靈以獲得其青睞。</string>
+	<string name="survival.mission.warrior.desc">挑戰勇武之靈以獲得其青睞</string>
 	
 	<string name="survival.mission.hunt.name">狩獵試煉</string>
-	<string name="survival.mission.hunt.desc">挑戰狩獵之靈以獲得其青睞。</string>
+	<string name="survival.mission.hunt.desc">挑戰狩獵之靈以獲得其青睞</string>
 	
 	<string name="survival.mission.benevolence.name">仁慈試煉</string>
-	<string name="survival.mission.benevolence.desc">挑戰仁慈之靈以獲得其青睞。</string>
+	<string name="survival.mission.benevolence.desc">挑戰仁慈之靈以獲得其青睞</string>
 	
 	<string name="survival.mission.avarice.name">貪婪試煉</string>	
-	<string name="survival.mission.avarice.desc">挑戰貪婪之靈以獲得其青睞。</string>
+	<string name="survival.mission.avarice.desc">挑戰貪婪之靈以獲得其青睞</string>
 	
 
 	<!-- SPIRIT BOONS -->
 	<!-- Boon Definitions -->
 	<string name="chapelboon.arcane.name">施法者戰鬥</string>
-	<string name="chapelboon.arcane.desc">每 %atk% 次武器攻擊或消耗 %mana% 法力，施展巫師的 \cb0dfff魔法飛彈\d。\n\n被動提升法術能量。</string>
+	<string name="chapelboon.arcane.desc">每 %atk% 次武器攻擊或消耗 %mana% 魔力，施展巫師的\cb0dfff魔法飛彈\d\n\n被動提升法術威力</string>
 	
 	<string name="chapelboon.warrior.name">旺盛勇武</string>
-	<string name="chapelboon.warrior.desc">武器能量與法術能量提升護甲值的百分比。\n\n被動提升護甲。</string>
+	<string name="chapelboon.warrior.desc">武器威力與法術威力提升護甲值的百分比\n\n被動提升護甲</string>
 	
 	<string name="chapelboon.hunt.name">獵人獵犬</string>
-	<string name="chapelboon.hunt.desc">如遊俠的 \cb0dfff狼夥伴\d 技能般召喚一隻狼。\n\n每有一個活躍召喚物，被動提升你的武器能量。</string>
+	<string name="chapelboon.hunt.desc">如遊俠的\cb0dfff狼夥伴\d技能般召喚一隻狼\n\n每有一個活躍召喚物，被動提升你的武器威力</string>
 	
-	<string name="chapelboon.benevolence.name">熱切追隨者</string>
-	<string name="chapelboon.benevolence.desc">如牧師的 \cb0dfff召喚十字軍\d 技能般召喚長矛兵。\n\n被動提升召喚傷害與生命值。</string>
+	<string name="chapelboon.benevolence.name">狂熱追隨者</string>
+	<string name="chapelboon.benevolence.desc">如牧師的\cb0dfff召喚十字軍\d技能般召喚長矛兵\n\n被動提升召喚傷害與生命值</string>
 	
 	<string name="chapelboon.avarice.name">血腥金幣</string>
-	<string name="chapelboon.avarice.desc">武器與法術暴擊有機率施加一層 \cb0dfff流血\d，受 \cb0dfff流血\d 影響的敵人會掉落額外金幣。\n\n被動提升暴擊率。</string>
+	<string name="chapelboon.avarice.desc">武器與法術暴擊有機率施加一層\cb0dfff流血\d，受\cb0dfff流血\d影響的敵人會掉落額外金幣\n\n被動提升暴擊率</string>
 	
 	<!-- Boon Details -->	
 	<string name="skills.desc.params.boon.skill.magic_missile">魔法飛彈等級：</string>
 	<string name="skills.desc.params.boon.skill.wolf_companion">狼夥伴等級：</string>
 	<string name="skills.desc.params.boon.skill.call_crusaders">召喚十字軍等級：</string>
 
-	<string name="skills.desc.params.boon.power.armor">護甲轉換為武器與法術能量：</string>
+	<string name="skills.desc.params.boon.power.armor">護甲轉換為武器與法術威力：</string>
 	<string name="skills.desc.params.boon.armor">每級護甲：</string>
 	<string name="skills.desc.params.boon.critchance.all">每級武器與法術暴擊機率：</string>
 	<string name="skills.desc.params.boon.critdamage.all">每級武器與法術暴擊傷害：</string>
-	<string name="skills.desc.params.boon.weaponpower.summon_num">每級每召喚物武器能量：</string>
+	<string name="skills.desc.params.boon.weaponpower.summon_num">每級每召喚物武器威力：</string>
 
-	<string name="skills.desc.params.boon.spellpower">每級法術能量：</string>
-	<string name="skills.desc.params.boon.weaponpower">每級武器能量：</string>
+	<string name="skills.desc.params.boon.spellpower">每級法術威力：</string>
+	<string name="skills.desc.params.boon.weaponpower">每級武器威力：</string>
 
 	<string name="skills.desc.params.boon.summonpower">每級召喚物傷害與生命值：</string>
 	<string name="skills.desc.params.boon.bleed.gold_chance">流血敵人掉落金幣機率：</string>
@@ -353,52 +353,52 @@
 	<!-- Boon Ranks -->
 	<string name="stat.name.valor">勇氣等級</string>
 	<string name="stat.name.hunt">狩獵等級</string>
-	<string name="stat.name.arcane">奧術等級</string>
+	<string name="stat.name.arcane">秘法等級</string>
 	<string name="stat.name.benevolence">仁慈等級</string>
 	<string name="stat.name.avarice">貪婪等級</string>
 
 
 	<!-- PETS -->
-	<string name="pets.dog.name">地城探險者的雜種狗</string>
-	<string name="pets.dog.desc">雖然有點癩皮狗樣，但依然是最棒的好男孩。</string>
+	<string name="pets.dog.name">地城探險者的狗</string>
+	<string name="pets.dog.desc">雖然有點癩皮狗樣，但依然是最棒的好男孩</string>
 
 	<string name="pets.cat.name">好奇貓</string>
-	<string name="pets.cat.desc">已經是它的第六條命了。</string>
+	<string name="pets.cat.desc">已經是它的第六條命了</string>
 
 	<string name="pets.bird.name">危險巨嘴鳥</string>
-	<string name="pets.bird.desc">黑暗中的一抹亮色。</string>
+	<string name="pets.bird.desc">黑暗中的一抹亮色</string>
 
 	<string name="pets.wisp.name">鬼火</string>
-	<string name="pets.wisp.desc">口袋裡的希望信標。</string>
+	<string name="pets.wisp.desc">口袋裡的希望信標</string>
 
 	<string name="pets.beetle.name">紅寶石聖甲蟲</string>
-	<string name="pets.beetle.desc">名副其實的寶石夥伴。</string>
+	<string name="pets.beetle.desc">名副其實的寶石夥伴</string>
 
 	<string name="pets.candle.name">活體蠟燭</string>
-	<string name="pets.candle.desc">一項相當實用的發明。</string>	
+	<string name="pets.candle.desc">一項相當實用的發明</string>	
 
 	<!-- BUILDINGS -->
 	<string name="building.petshop.name">寵物店</string>
-	<string name="building.petshop.desc1">購買寵物。</string>
-	<string name="building.petshop.desc2">選擇你的出戰寵物。</string>
+	<string name="building.petshop.desc1">購買寵物</string>
+	<string name="building.petshop.desc2">選擇你的出戰寵物</string>
 
-	<string name="building.statue.arcane.name">奧術雕像</string>
+	<string name="building.statue.arcane.name">秘法雕像</string>
 	<string name="building.statue.warrior.name">勇氣雕像</string>
 	<string name="building.statue.hunt.name">狩獵雕像</string>	
 	<string name="building.statue.benevolence.name">仁慈雕像</string>
 	<string name="building.statue.avarice.name">貪婪雕像</string>
 
-	<string name="building.chapel.dlc1.desc1">讓你在兩個祝福中選擇一個用於你的冒險，並挑戰靈體以獲得強大的恩惠。\n\n-5% 復活花費</string>
-	<string name="building.chapel.dlc1.desc2">解鎖兩個額外祝福。\n\n-5% 復活花費</string>
-	<string name="building.chapel.dlc1.desc3">解鎖另一個祝福。\n\n-5% 復活花費</string>
-	<string name="building.chapel.dlc1.desc4">讓你自由向小聖堂捐贈材料，解鎖另一個祝福。\n\n-5% 復活花費</string>
+	<string name="building.chapel.dlc1.desc1">讓你在兩個祝福中選擇一個用於你的冒險，並挑戰靈體以獲得強大的恩惠\n\n-5% 復活花費</string>
+	<string name="building.chapel.dlc1.desc2">解鎖兩個額外祝福\n\n-5% 復活花費</string>
+	<string name="building.chapel.dlc1.desc3">解鎖另一個祝福\n\n-5% 復活花費</string>
+	<string name="building.chapel.dlc1.desc4">讓你自由向小聖堂捐贈材料，解鎖另一個祝福\n\n-5% 復活花費</string>
 	<string name="building.chapel.dlc1.trial.start">開始試煉</string>
 	
 
 	<!-- GUI -->
 	<!-- Messages -->
-	<string name="menu.survival.multiplayer_request_sent">已向 %host-name% 發送請求，以等級 %rnk% 開始 %mission%。</string>
-	<string name="menu.survival.multiplayer_request_got">%name% 正請求以等級 %rnk% 開始 %mission%。</string>
+	<string name="menu.survival.multiplayer_request_sent">已向 %host-name% 發送請求，以等級 %rnk% 開始 %mission%</string>
+	<string name="menu.survival.multiplayer_request_got">%name% 正請求以等級 %rnk% 開始 %mission%</string>
 
 	<!-- Survival Announcements -->
 	<string name="hud.announce.survival.boss.fail">靈體不為所動！</string>
@@ -409,11 +409,11 @@
 	<string name="hud.announce.survival.event">墮落者逼近！</string>
 
 	<!-- Tutorials -->
-	<string name="tutorial.intro.chapel">小聖堂讓你能挑戰五大靈體以獲取強大的恩惠。每完成一次靈體的試煉，其對應的恩惠就會變強，但未來試煉的難度也會隨之提高。</string>	
+	<string name="tutorial.intro.chapel">小聖堂讓你能挑戰五大靈體以獲取強大的恩惠每完成一次靈體的試煉，其對應的恩惠就會變強，但未來試煉的難度也會隨之提高</string>	
 
-	<string name="tutorial.intro.pets">選定的寵物將陪伴你踏上冒險旅程，並協助撿拾金幣與其他收集物。它不會死亡，所以請放心。</string>
+	<string name="tutorial.intro.pets">選定的寵物將陪伴你踏上冒險旅程，並協助撿拾金幣與其他收集物，它不會死亡，所以請放心</string>
 
-	<string name="tutorial.intro.survival">要完成試煉並面對靈體，必須在計時器歸零前擊殺足夠敵人以累積靈體青睞。</string>
+	<string name="tutorial.intro.survival">要完成試煉並面對靈體，必須在計時器歸零前擊殺足夠敵人以累積靈體青睞</string>
 
 	<!-- Elements -->
 	<string name="menu.loadout.boons">恩惠 </string>
@@ -425,14 +425,14 @@
    
 
 	<!-- NPC DIALOGUE -->
-	<string name="dialogue.dlc1.priest.intro.prompt1">歡迎來到小聖堂！我們在此供奉靈體，而像你這樣的冒險者則面對他們的試煉以換取力量的祝福。</string>
-	<string name="dialogue.dlc1.priest.prompt1.1">你是來挑戰試煉的嗎？承認自己還沒準備好也無妨。</string>
-	<string name="dialogue.dlc1.priest.prompt1.2">祝福靈體吧，冒險者，以及他們神聖的力量。</string>
-	<string name="dialogue.dlc1.priest.prompt1.3">去追尋靈體賜予的力量吧，英雄。但要小心試煉！</string>
+	<string name="dialogue.dlc1.priest.intro.prompt1">歡迎來到小聖堂！我們在此供奉靈體，而像你這樣的冒險者則面對他們的試煉以換取力量的祝福</string>
+	<string name="dialogue.dlc1.priest.prompt1.1">你是來挑戰試煉的嗎？承認自己還沒準備好也無妨</string>
+	<string name="dialogue.dlc1.priest.prompt1.2">祝福靈體吧，冒險者，以及他們神聖的力量</string>
+	<string name="dialogue.dlc1.priest.prompt1.3">去追尋靈體賜予的力量吧，英雄但要小心試煉！</string>
 
 	<string name="dialogue.dlc1.petstore.intro.prompt1">哈囉！你是來為你的地城探險事業尋找個可靠夥伴的嗎？</string>
 	<string name="dialogue.dlc1.petstore.prompt1.1">你需要個朋友分擔冒險的重擔嗎？</string>
-	<string name="dialogue.dlc1.petstore.prompt1.2">大多數英雄都選那個會飛的蠟燭。但我？我是貓派。</string>
+	<string name="dialogue.dlc1.petstore.prompt1.2">大多數英雄都選那個會飛的蠟燭，但我？我是貓派</string>
 	<string name="dialogue.dlc1.petstore.prompt1.3">記住寵物對你的健康和靈魂都有好處！</string>
 	
 
@@ -440,12 +440,12 @@
 	<string name="statistic.max-level-priest">牧師最高等級</string>
 
 	<string name="pets.raven.name">黑翼烏鴉</string>
-	<string name="pets.raven.desc">雖然漆黑一片，但聰明得很。</string>
+	<string name="pets.raven.desc">雖然漆黑一片，但聰明得很</string>
 
-	<string name="building.petshop.desc3">取消指派寵物。</string>
+	<string name="building.petshop.desc3">取消指派寵物</string>
 
-	<string name="menu.dlc1.required.short">需要 \cffdfb0%nam%\d DLC。</string>
-	<string name="menu.dlc1.required.long">此功能需要 \cffdfb0%nam%\d DLC。</string>
+	<string name="menu.dlc1.required.short">需要 \cffdfb0%nam%\d DLC</string>
+	<string name="menu.dlc1.required.long">此功能需要 \cffdfb0%nam%\d DLC</string>
 
 	<!-- DYES -->
 	<string name="dye.red.name">紅色染劑</string>
