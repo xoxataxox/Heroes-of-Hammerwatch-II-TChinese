@@ -171,7 +171,8 @@
 
 	<string name="dialogue.guard_exit.prompt1">出去要小心！</string>
 
-
+	<string name="dialogue.griffin_rider.prompt1.1">獅鷲能帶你飛去任何地方，只要有目的地的地圖就行了</string>
+	<string name="dialogue.griffin_rider.prompt1.2">在地下城中找到地圖，然後給獅鷲看，牠就會帶你去</string>
 
 
 	<string name="dialogue.librarian.found">哦，你好！我找了好一會兒，但這裡什麼都沒有。連一本書都沒有</string>
@@ -189,7 +190,12 @@
 	<string name="dialogue.spell_mastery.found">終於看見活人了！你知道出去的路嗎？</string>
 
 	<string name="dialogue.dyer.found">謝謝你幫助我！作為回報，我會幫你搭配顏色</string>
-	
+	<string name="dialogue.dyer.found.1">謝謝你的幫忙！我本來在找新的染料，結果卻惹上麻煩</string>
+	<string name="dialogue.dyer.found.2">謝謝！我本來只是在找新的染料，結果反而因為太著迷於時尚而迷了路。稍後鎮上見</string>
+
+	<string name="dialogue.dyer.prompt1.1">幫我打造一座工作台，我來讓你看看時尚才是任何冒險旅程真正的最終之道！</string>
+	<string name="dialogue.dyer.prompt2.1">你的裝備色調應該可以更活靈活現，可惜我就是沒有工作台好大展身手</string>
+
 
 
 	<string name="dialogue.rogue.found.1">你好！你也是來找寶藏的嗎？</string>
