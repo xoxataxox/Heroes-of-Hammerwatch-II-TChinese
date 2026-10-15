@@ -294,7 +294,7 @@
 	<string name="skills.attacks.mainhand.wand.ice_epic.desc">釋放 %num% 枚冰碎片，每片造成 %dmg% 武器傷害</string>
 	<string name="skills.attacks.mainhand.wand.lightning.name">閃電箭</string>
 	<string name="skills.attacks.mainhand.wand.lightning.desc">釋放一道閃電箭，可在敵人之間跳躍，每次跳躍造成 %dmg% 武器傷害，但每次跳躍傷害減少 %red%</string>
-	<string name="skills.attacks.mainhand.wand.lightning_epic.desc">釋放一道閃電箭，分裂一次並可在敵人之間跳躍，每次跳躍造成 %dmg% 武器傷害，但每次跳躍傷害減少 %red%<</string>
+	<string name="skills.attacks.mainhand.wand.lightning_epic.desc">釋放一道閃電箭，分裂一次並可在敵人之間跳躍，每次跳躍造成 %dmg% 武器傷害，但每次跳躍傷害減少 %red%</string>
 
 	<string name="skills.attacks.offhand.crossbow.name">快速射擊</string>
 	<string name="skills.attacks.offhand.crossbow.desc">快速射出一支箭矢，造成 %dmg% 武器傷害，並具有 %pen% 護甲穿透</string>
