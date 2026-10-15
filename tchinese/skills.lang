@@ -940,6 +940,7 @@
 
 	<string name="skills.warrior.mastery_2.passive_1.name">震動打擊</string>
 	<string name="skills.warrior.mastery_2.passive_1.desc">使用\cffdfb0近戰武器\d攻擊時引發震動波，對範圍內敵人造成物理傷害，此效果有短暫冷卻時間</string>
+	<string name="skills.warrior.mastery_2.passive_1.desc.new">使用\cffdfb0近戰武器\d攻擊時引發震動波，對範圍內敵人造成主手傷害，此效果有短暫冷卻時間</string>
 	<string name="skills.warrior.mastery_2.passive_1.up1.name">暴風打擊</string>
 	<string name="skills.warrior.mastery_2.passive_1.up1.desc">你的\cffdfb0近戰武器\d命中時，有機會對目標與周圍另一隨機敵人造成額外閃電傷害</string>
 	<string name="skills.warrior.mastery_2.passive_1.up2.name">冰霜打擊</string>
@@ -958,7 +959,7 @@
 	<string name="skills.warrior.mastery_3.passive_1.name">無情</string>
 	<string name="skills.warrior.mastery_3.passive_1.desc">你造成的物理傷害增加，並使\cffdfb0物理\d技能有機會附加\cb0dfff流血\d層數</string>
 	<string name="skills.warrior.mastery_3.passive_1.up1.name">爆裂殘骸</string>
-	<string name="skills.warrior.mastery_3.passive_1.up1.desc">使用\cffdfb0物理\d技能擊殺敵人時，有機會觸發爆裂效果，對範圍內敵人造成物理傷害</string>
+	<string name="skills.warrior.mastery_3.passive_1.up1.desc">使用\cffdfb0物理\d技能擊殺敵人時，有機會觸發爆裂效果，對範圍內敵人造成物理傷害並施加\cb0dfff流血\d</string>
 	<string name="skills.warrior.mastery_3.passive_1.up2.name">屠殺者</string>
 	<string name="skills.warrior.mastery_3.passive_1.up2.desc">對敵人造成的傷害隨其損失的生命值增加</string>
 
@@ -997,7 +998,7 @@
 	<string name="skills.wizard.spell_2.up1.name">強化火球</string>
 	<string name="skills.wizard.spell_2.up1.desc">增加爆炸的範圍</string>
 	<string name="skills.wizard.spell_2.up2.name">爆裂波</string>
-	<string name="skills.wizard.spell_2.up2.desc">被火球擊中的敵人會被施加\cb0dfff緩速\d</string>
+	<string name="skills.wizard.spell_2.up2.desc">被火球擊中的敵人會被施加\cb0dfff脆弱\d</string>
 	<string name="skills.wizard.spell_2.up3.name">彈跳火球</string>
 	<string name="skills.wizard.spell_2.up3.desc">現在火球可彈跳，並於每次彈跳後觸發爆炸</string>
 
@@ -1028,7 +1029,7 @@
 	<string name="skills.wizard.mastery_1.spell_1.up1.name">燃燒地面</string>
 	<string name="skills.wizard.mastery_1.spell_1.up1.desc">流星撞擊地面後產生燃燒區域，在一段時間內造成額外的火焰傷害</string>
 	<string name="skills.wizard.mastery_1.spell_1.up2.name">彗星</string>
-	<string name="skills.wizard.mastery_1.spell_1.up2.desc">將傷害類型改為冰冷與物理傷害，並有機會施加\cb0dfff冰凍\d</string>
+	<string name="skills.wizard.mastery_1.spell_1.up2.desc">增加傷害，將傷害類型改為冰冷與物理傷害，並有機會施加\cb0dfff冰凍\d</string>
 
 	<string name="skills.wizard.mastery_1.passive_1.name">咒術師的節奏</string>
 	<string name="skills.wizard.mastery_1.passive_1.desc">施放\cffdfb0法術\d時會生成\cb0dfff咒術師的節奏\d層數，每層增加施法速度並降低法術魔力消耗</string>
@@ -1076,117 +1077,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- Crafting -->
-
-
-	<string name="menu.crafting.potion.title">藥水釀造</string>
-	<string name="menu.crafting.food.title">烹飪</string>
-	<string name="menu.crafting.workbench.title">工作台</string>
-	<string name="menu.crafting.cloth.title">裁縫</string>
-	<string name="menu.crafting.leather.title">皮革工匠</string>
-	<string name="menu.crafting.metal.title">鐵匠</string>
-	<string name="menu.crafting.armor.title">護甲匠</string>
-	<string name="menu.crafting.weaponsmith.title">武器工匠</string>
-	<string name="menu.crafting.scales.title">鱗甲匠</string>
-
-	<string name="menu.crafting.slot.tier.name">階級</string>
-	<string name="menu.crafting.slot.tier.desc">選擇要製作的物品階級</string>
-	<string name="menu.crafting.slot.quality.name">品質</string>
-	<string name="menu.crafting.slot.quality.desc">選擇要製作的物品品質</string>
-	<string name="menu.crafting.slot.blueprint.name">藍圖</string>
-	<string name="menu.crafting.slot.blueprint.desc">選擇要製作的物品</string>
-	<string name="menu.crafting.slot.meal.name">餐點食譜</string>
-	<string name="menu.crafting.slot.meal.desc">選擇要烹飪的餐點</string>
-	<string name="menu.crafting.slot.potion.name">藥水配方</string>
-	<string name="menu.crafting.slot.potion.desc">選擇要製作的藥水</string>
-	<string name="menu.crafting.slot.bottle.name">瓶子</string>
-	<string name="menu.crafting.slot.bottle.desc">選擇要用於藥水的瓶子</string>
-
-	<string name="menu.enchanting.title">附魔</string>
-	<string name="menu.enchanting.slot.equipment.name">附魔</string>
-	<string name="menu.enchanting.slot.equipment.desc">升級選定的裝備以新增隨機詞條</string>
-	<string name="menu.enchanting.slot.component.name">組件</string>
-	<string name="menu.enchanting.slot.component.desc">將組件套用在附魔中，以新增預定義詞條。 </string>
-	<string name="menu.disenchanting.title">解除附魔</string>
-	<string name="menu.disenchanting.slot.equipment.name">解除附魔</string>
-	<string name="menu.disenchanting.slot.equipment.desc">摧毀選定的裝備以獲得精靈符文</string>
-	<string name="menu.reenchanting.title">重新附魔</string>
-	<string name="menu.reenchanting.slot.equipment.name">重新附魔</string>
-	<string name="menu.reenchanting.slot.equipment.desc">重新擲骰以改變選定裝備的詞條</string>
-
-	<string name="crafting.blueprint.apprentice.name">學徒</string>
-	<string name="crafting.blueprint.apprentice.desc">製作學徒階級物品</string>
-	<string name="crafting.blueprint.adept.name">熟練</string>
-	<string name="crafting.blueprint.adept.desc">製作熟練階級物品</string>
-	<string name="crafting.blueprint.expert.name">專家</string>
-	<string name="crafting.blueprint.expert.desc">製作專家階級物品</string>
-	<string name="crafting.blueprint.master.name">大師</string>
-	<string name="crafting.blueprint.master.desc">製作大師階級物品</string>
-	<string name="crafting.blueprint.common.name">普通</string>
-	<string name="crafting.blueprint.common.desc">製作普通品質物品</string>
-	<string name="crafting.blueprint.uncommon.name">罕見</string>
-	<string name="crafting.blueprint.uncommon.desc">製作罕見品質物品</string>
-	<string name="crafting.blueprint.rare.name">稀有</string>
-	<string name="crafting.blueprint.rare.desc">製作稀有品質物品</string>
-	<string name="crafting.blueprint.epic.name">史詩</string>
-	<string name="crafting.blueprint.epic.desc">製作史詩品質物品</string>
-
-	<string name="crafting.blueprint.chest_str.name">鎧甲</string>
-	<string name="crafting.blueprint.chest_dex.name">皮甲</string>
-	<string name="crafting.blueprint.chest_int.name">長袍</string>
-	<string name="crafting.blueprint.head_str.name">鎧甲頭盔</string>
-	<string name="crafting.blueprint.head_dex.name">兜帽</string>
-	<string name="crafting.blueprint.head_int.name">頭環</string>
-	<string name="crafting.blueprint.hands_str.name">鎧甲手套</string>
-	<string name="crafting.blueprint.hands_dex.name">皮甲護腕</string>
-	<string name="crafting.blueprint.hands_int.name">手套</string>
-	<string name="crafting.blueprint.feet_str.name">鎧甲護脛</string>
-	<string name="crafting.blueprint.feet_dex.name">皮靴</string>
-	<string name="crafting.blueprint.feet_int.name">拖鞋</string>
-
-	<string name="crafting.blueprint.acc_belt.name">皮帶</string>
-
-	<string name="crafting.blueprint.paladin.mainhand.name">聖騎士主手</string>
-	<string name="crafting.blueprint.paladin.offhand.name">聖騎士副手</string>
-	<string name="crafting.blueprint.ranger.mainhand.name">遊俠主手</string>
-	<string name="crafting.blueprint.ranger.offhand.name">遊俠副手</string>
-	<string name="crafting.blueprint.rogue.mainhand.name">盜賊主手</string>
-	<string name="crafting.blueprint.rogue.offhand.name">盜賊副手</string>
-	<string name="crafting.blueprint.warlock.mainhand.name">術士主手</string>
-	<string name="crafting.blueprint.warlock.offhand.name">術士副手</string>
-	<string name="crafting.blueprint.wizard.mainhand.name">巫師主手</string>
-	<string name="crafting.blueprint.wizard.offhand.name">巫師副手</string>
-
-	<string name="crafting.blueprint.potion.health.name">治療藥水</string>
-	<string name="crafting.blueprint.potion.health.desc">恢復生命值</string>
-	<string name="crafting.blueprint.potion.mana.name">魔力藥水</string>
-	<string name="crafting.blueprint.potion.mana.desc">恢復魔力</string>
-	<string name="crafting.blueprint.potion.rejuvenation.name">回春藥水</string>
-	<string name="crafting.blueprint.potion.rejuvenation.desc">恢復少量生命值、魔力與體力</string>
-
-	<string name="crafting.blueprint.leather.name">皮革 (%type%)</string>
 
 
 
@@ -1317,9 +1207,9 @@
 	<string name="modifiers.resistances.ice.prefix">冰冷的</string>
 	<string name="modifiers.resistances.ice.suffix">冰霜</string>
 	<string name="modifiers.resistances.lightning.prefix">靜電的</string>
-	<string name="modifiers.resistances.lightning.suffix">裂縫</string>
+	<string name="modifiers.resistances.lightning.suffix">電流</string>
 	<string name="modifiers.resistances.poison.prefix">淨化的</string>
-	<string name="modifiers.resistances.poison.suffix">治療y</string>
+	<string name="modifiers.resistances.poison.suffix">治療</string>
 	<string name="modifiers.resistances.armor_pct.prefix"></string>
 	<string name="modifiers.resistances.armor_pct.suffix">烏龜</string>
 	<string name="modifiers.resistances.fire_pct.prefix"></string>
@@ -1353,6 +1243,8 @@
 	<string name="modifiers.skills.spell_cooldown.prefix">編織法術者的</string>
 	<string name="modifiers.skills.spell_cooldown.suffix">迅捷</string>
 	<string name="modifiers.skills.spell_cooldown.desc">縮短 %cd%% 法術冷卻時間</string>
+	<string name="modifiers.skills.summon_power.prefix">召喚師的</string>
+	<string name="modifiers.skills.summon_power.desc">增加 %amnt%% 召喚物的生命值和傷害</string>
 
 	<string name="modifiers.skills.leech.health.desc">%value%% 生命吸取</string>
 	<string name="modifiers.skills.leech.mana.desc">%value%% 魔力吸取</string>
@@ -1515,44 +1407,94 @@
 	<string name="modifiers.equipment.twohand.vulnerability.desc">%amnt% 機率造成\cb0dfff脆弱\d</string>
 
 
+	<string name="modifiers.equipment.epic.mod_epic_thirst.prefix">渴望的</string>
+	<string name="modifiers.equipment.epic.mod_epic_thirst.desc">對\cb0dfff流血\d的敵人造成 %amnt% 生命偷取</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_chance_weapon.prefix">精準的</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_chance_weapon.desc">每層暗影詛咒 %amnt% 武器暴擊率</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_chance_spells.prefix">精確的</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_chance_spells.desc">每層暗影詛咒 %amnt% 法術暴擊率</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_dmg.prefix">致命的</string>
+	<string name="modifiers.equipment.epic.mod_epic_crit_dmg.desc">%amnt% 武器暴擊傷害</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_fire.prefix">燃燒的</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_fire.desc">\cffdfb0火焰\d技能的 %speed% 技能速度和減少 %cd% 技能冷卻時間</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_ice.prefix">冰霜的</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_ice.desc">\cffdfb0冰冷\d技能的 %speed% 技能速度和減少 %cd% 技能冷卻時間</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_lightning.prefix">電擊的</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_lightning.desc">\cffdfb0閃電\d技能的 %speed% 技能速度和減少 %cd% 技能冷卻時間</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_poison.prefix">劇毒的</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_poison.desc">\cffdfb0毒素\d技能的 %speed% 技能速度和減少 %cd% 技能冷卻時間</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_spells.prefix">迅捷的</string>
+	<string name="modifiers.equipment.epic.mod_epic_speed_spells.desc">法術的 %speed% 技能速度和減少 %cd% 技能冷卻時間</string>
+	<string name="modifiers.equipment.epic.mod_epic_move_speed.prefix">急速的</string>
+	<string name="modifiers.equipment.epic.mod_epic_dash_recovery.prefix">恢復的</string>
+	<string name="modifiers.equipment.epic.mod_epic_dash_combo_burst.prefix">爆發的</string>
+	<string name="modifiers.equipment.epic.mod_epic_dash_combo_burst.desc">衝刺時觸發連招新星</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_blindness.prefix">洞察的</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_blindness.desc">免疫\cb0dfff致盲\d</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_disarm.prefix">武裝的</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_disarm.desc">免疫\cb0dfff繳械\d</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_silence.prefix">喧囂的</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_silence.desc">免疫\cb0dfff沉默\d</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_vulnerability.prefix">無敵的</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_vulnerability.desc">免疫\cb0dfff脆弱\d</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_weakness.prefix">堅韌的</string>
+	<string name="modifiers.equipment.epic.mod_epic_immunity_weakness.desc">免疫\cb0dfff虛弱\d</string>
+	<string name="modifiers.equipment.epic.mod_epic_combo_on_dmg.prefix">復仇的</string>
+	<string name="modifiers.equipment.epic.mod_epic_combo_on_dmg.desc">受到傷害時有 %amnt% 機率觸發連擊</string>
+	<string name="modifiers.equipment.epic.mod_epic_block_with_cd.prefix">護盾的</string>
+	<string name="modifiers.equipment.epic.mod_epic_block_with_cd.desc">格擋單次攻擊的 %amnt% 傷害，冷卻時間 %cd% 秒</string>
+	<string name="modifiers.equipment.epic.mod_epic_purging.prefix">淨化的</string>
+	<string name="modifiers.equipment.epic.mod_epic_purging.desc">擊殺敵人時有 %chnc% 機率清除 %amnt% 暗影詛咒 </string>
+	<string name="modifiers.equipment.epic.mod_epic_skill_slow.prefix">加速的</string>
+	<string name="modifiers.equipment.epic.mod_epic_skill_slow.desc">施法時的移動速度懲罰減少 %amnt%</string>
+	
+	<string name="modifiers.equipment.epic.weapon.1.prefix">兇猛的</string>
+	<string name="modifiers.equipment.epic.weapon.2.prefix">野蠻的</string>
+	<string name="modifiers.equipment.epic.weapon.3.prefix">狂野的</string>
+	<string name="modifiers.equipment.epic.weapon.4.prefix">殘酷的</string>
+	<string name="modifiers.equipment.epic.weapon.5.prefix">殘暴的</string>
+
+
+
+
 	<string name="modifiers.debuff.armor_break.prefix">破甲的</string>
 	<string name="modifiers.debuff.armor_break.suffix">破甲</string>
-	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%破甲\d</string>
+	<string name="modifiers.debuff.bleeding.desc">%%% 機率造成 %c-highlight%破甲\d</string>
 	<string name="modifiers.debuff.bleeding.prefix">流血的</string>
 	<string name="modifiers.debuff.bleeding.suffix">流血</string>
-	<string name="modifiers.debuff.bleeding.desc">%value%% 機率造成 %c-highlight%流血\d</string>
+	<string name="modifiers.debuff.bleeding.desc">%%% 機率造成 %c-highlight%流血\d</string>
 	<string name="modifiers.debuff.cripple.prefix">使癱瘓的</string>
 	<string name="modifiers.debuff.cripple.suffix">癱瘓</string>
-	<string name="modifiers.debuff.cripple.desc">%value%% 機率造成 %c-highlight%跛足\d</string>
+	<string name="modifiers.debuff.cripple.desc">%%% 機率造成 %c-highlight%跛足\d</string>
 	<string name="modifiers.debuff.disarm.prefix">解除武裝的</string>
 	<string name="modifiers.debuff.disarm.suffix">繳械</string>
-	<string name="modifiers.debuff.disarm.desc">%value%% 機率造成 %c-highlight%繳械\d</string>
+	<string name="modifiers.debuff.disarm.desc">%%% 機率造成 %c-highlight%繳械\d</string>
 	<string name="modifiers.debuff.freeze.prefix">冰凍的</string>
 	<string name="modifiers.debuff.freeze.suffix">冰凍</string>
-	<string name="modifiers.debuff.freeze.desc">%value%% 機率造成 %c-highlight%冰凍\d</string>
+	<string name="modifiers.debuff.freeze.desc">%%% 機率造成 %c-highlight%冰凍\d</string>
 	<string name="modifiers.debuff.immobilize.prefix">使無法移動的</string>
 	<string name="modifiers.debuff.immobilize.suffix">禁錮</string>
-	<string name="modifiers.debuff.immobilize.desc">%value%% 機率造成 %c-highlight%禁錮\d</string>
+	<string name="modifiers.debuff.immobilize.desc">%%% 機率造成 %c-highlight%禁錮\d</string>
 	<string name="modifiers.debuff.marked.prefix">標記的</string>
 	<string name="modifiers.debuff.marked.suffix">標記</string>
-	<string name="modifiers.debuff.marked.desc">%value%% 機率造成 %c-highlight%標記\d</string>
+	<string name="modifiers.debuff.marked.desc">%%% 機率造成 %c-highlight%標記\d</string>
 	<string name="modifiers.debuff.silence.prefix">沉默的</string>
 	<string name="modifiers.debuff.silence.suffix">寂靜</string>
-	<string name="modifiers.debuff.silence.desc">%value%% 機率造成 %c-highlight%沉默\d</string>
+	<string name="modifiers.debuff.silence.desc">%%% 機率造成 %c-highlight%沉默\d</string>
 	<string name="modifiers.debuff.slow.prefix">減速的</string>
 	<string name="modifiers.debuff.slow.suffix">減速</string>
-	<string name="modifiers.debuff.slow.desc">%value%% 機率造成 %c-highlight%緩速\d</string>
+	<string name="modifiers.debuff.slow.desc">%%% 機率造成 %c-highlight%緩速\d</string>
 	<string name="modifiers.debuff.stun.prefix">眩暈的</string>
 	<string name="modifiers.debuff.stun.suffix">昏迷</string>
-	<string name="modifiers.debuff.stun.desc">%value%% 機率造成 %c-highlight%暈眩\d</string>
-	<string name="modifiers.debuff.stun_minor.desc">%value%% 機率造成 %c-highlight%輕微暈眩\d</string>
-	<string name="modifiers.debuff.stun_greater.desc">%value%% 機率造成 %c-highlight%強效暈眩\d</string>
+	<string name="modifiers.debuff.stun.desc">%%% 機率造成 %c-highlight%暈眩\d</string>
+	<string name="modifiers.debuff.stun_minor.desc">%%% 機率造成 %c-highlight%輕微暈眩\d</string>
+	<string name="modifiers.debuff.stun_greater.desc">%%% 機率造成 %c-highlight%強效暈眩\d</string>
 	<string name="modifiers.debuff.vulnerability.prefix">脆弱的</string>
 	<string name="modifiers.debuff.vulnerability.suffix">脆弱</string>
-	<string name="modifiers.debuff.vulnerability.desc">%value%% 機率造成 %c-highlight%脆弱\d</string>
+	<string name="modifiers.debuff.vulnerability.desc">%%% 機率造成 %c-highlight%脆弱\d</string>
 	<string name="modifiers.debuff.weakness.prefix">虛弱的</string>
 	<string name="modifiers.debuff.weakness.suffix">虛弱</string>
-	<string name="modifiers.debuff.weakness.desc">%value%% 機率造成 %c-highlight%虛弱\d</string>
+	<string name="modifiers.debuff.weakness.desc">%%% 機率造成 %c-highlight%虛弱\d</string>
 
 	<string name="modifiers.debuff.immune.armor_break.desc">你免疫 %c-highlight%破甲\d</string>
 	<string name="modifiers.debuff.immune.bleeding.desc">你免疫 %c-highlight%流血\d</string>
@@ -1575,12 +1517,12 @@
 	<string name="modifiers.projectiles.bouncing.suffix">彈跳</string>
 	<string name="modifiers.projectiles.bouncing.desc">%desc% 投射物彈跳</string>
 
-	<string name="modifiers.return.physical.desc">當受到傷害時，反彈 %value% 物理傷害給攻擊者</string>
-	<string name="modifiers.return.fire.desc">當受到傷害時，反彈 %value% 火焰傷害給攻擊者</string>
-	<string name="modifiers.return.ice.desc">當受到傷害時，反彈 %value% 冰冷傷害給攻擊者</string>
-	<string name="modifiers.return.lightning.desc">當受到傷害時，反彈 %value% 閃電傷害給攻擊者</string>
-	<string name="modifiers.return.poison.desc">當受到傷害時，反彈 %value% 毒素傷害給攻擊者</string>
-	<string name="modifiers.return.pure.desc">當受到傷害時，反彈 %value% 純粹傷害給攻擊者</string>
+	<string name="modifiers.return.physical.desc">當受到傷害時，反彈 %% 物理傷害給攻擊者</string>
+	<string name="modifiers.return.fire.desc">當受到傷害時，反彈 %% 火焰傷害給攻擊者</string>
+	<string name="modifiers.return.ice.desc">當受到傷害時，反彈 %% 冰冷傷害給攻擊者</string>
+	<string name="modifiers.return.lightning.desc">當受到傷害時，反彈 %% 閃電傷害給攻擊者</string>
+	<string name="modifiers.return.poison.desc">當受到傷害時，反彈 %% 毒素傷害給攻擊者</string>
+	<string name="modifiers.return.pure.desc">當受到傷害時，反彈 %% 純粹傷害給攻擊者</string>
 
 	<string name="modifiers.enchant.gemstone_blue.prefix">海藍寶的</string>
 	<string name="modifiers.enchant.gemstone_blue.suffix">冰霜保護</string>
@@ -1622,8 +1564,8 @@
 	<string name="modifiers.enchant.thunderbird_feather.prefix">風暴的</string>
 	<string name="modifiers.enchant.thunderbird_feather.suffix">雷鳥</string>
 
-	<string name="modifiers.class.ranger.wolf_add.desc">你可以召喚額外 %value% %c-highlight%狼同伴\d</string>
-	<string name="modifiers.class.rogue.knives_speed.desc">%c-highlight%投擲小刀\d%value%% 攻擊速度</string>
+	<string name="modifiers.class.ranger.wolf_add.desc">你可以召喚額外 %% %c-highlight%狼同伴\d</string>
+	<string name="modifiers.class.rogue.knives_speed.desc">%c-highlight%投擲小刀\d%%% 攻擊速度</string>
 
 	<string name="modifiers.unique.potion_health.desc">使用藥水時恢復 %amount% 生命</string>
 
