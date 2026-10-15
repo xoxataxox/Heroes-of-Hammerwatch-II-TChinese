@@ -1,0 +1,467 @@
+<lang>
+
+	<!-- PRIEST -->
+	<string name="menu.class.priest">Priest</string>
+	<string name="menu.class.priest.description">A holy mystic chosen by the gods to wield the power of divine light and healing.</string>
+	
+	<string name="htitle.priest.desc">Grants %num% Health Regen, %num-per% per level.</string>
+
+	<!-- Priest Skills -->
+	<string name="skills.priest.spell_1.name">Inner Light</string>
+	<string name="skills.priest.spell_1.desc">Emits a fiery nova of light that also applies \cb0dfffBlindness\d.</string>
+	
+	<string name="skills.priest.spell_1.up1.name">Encompassing Light</string>
+	<string name="skills.priest.spell_1.up1.desc">Increases the size of the nova.</string>
+	
+	<string name="skills.priest.spell_1.up2.name">Celestial Light</string>
+	<string name="skills.priest.spell_1.up2.desc">Nova hits now have a chance to spawn orbs that shoot beams of light at enemies.</string>
+	
+	<string name="skills.priest.spell_1.up3.name">Shattering Light</string>
+	<string name="skills.priest.spell_1.up3.desc">The nova also applies \cb0dfffVulnerability\d.</string>
+
+	<string name="skills.priest.spell_2.name">Consecrated Ground</string>
+	<string name="skills.priest.spell_2.desc">Places a holy circle that saps Health from enemies and transfers it to yourself and any allies standing within.</string>
+	
+	<string name="skills.priest.spell_2.up1.name">Encompassing Prayer</string>
+	<string name="skills.priest.spell_2.up1.desc">Increases the size of the circle.</string>
+	
+	<string name="skills.priest.spell_2.up2.name">Cleansing Prayer</string>
+	<string name="skills.priest.spell_2.up2.desc">Standing in the circle now also reduces debuff duration for all allies.</string>
+	
+	<string name="skills.priest.spell_2.up3.name">Restoration Prayer</string>
+	<string name="skills.priest.spell_2.up3.desc">Allies in the circle are now continuously healed for a percentage of their max Health.</string>
+
+	<string name="skills.priest.passive_1.name">Divine Endurance</string>
+	<string name="skills.priest.passive_1.desc">Grants a Mana Shield effect, absorbing a portion of damage received to Mana as long as it's above a certain threshold.</string>
+	<string name="skills.priest.passive_1.up1.name">Divine Sustain</string>
+	<string name="skills.priest.passive_1.up1.desc">Increases Mana Regen based on your missing Mana percentage.</string>
+	
+	<string name="skills.priest.passive_1.up2.name">Extended Protection</string>
+	<string name="skills.priest.passive_1.up2.desc">Grants an aura that reduces damage received for all nearby allies.</string>
+	
+	<string name="skills.priest.passive_1.up3.name">Divine Intervention</string>
+	<string name="skills.priest.passive_1.up3.desc">Receive Healing when your Health drops below a certain threshold. This ability has some cooldown.</string>
+
+	<string name="skills.priest.passive_2.name">Divine Favor</string>
+	<string name="skills.priest.passive_2.desc">Spending or losing Mana gives a stack of \cb0dfffFavor\d. Each stack increases your damage dealt.</string>
+	
+	<string name="skills.priest.passive_2.up1.name">Holy Flames</string>
+	<string name="skills.priest.passive_2.up1.desc">You gain an aura dealing Fire damage to nearby enemies when at max stacks.</string>
+	
+	<string name="skills.priest.passive_2.up2.name">Restoring Favor</string>
+	<string name="skills.priest.passive_2.up2.desc">Each stack now also increases your Mana Regen.</string>
+	
+	<string name="skills.priest.passive_2.up3.name">Fanaticism</string>
+	<string name="skills.priest.passive_2.up3.desc">Damage you deal is increased by the percentage of your missing Mana.</string>	
+	
+	<!-- SUBLCASSES -->
+	<!-- Divine Light -->
+	<string name="skills.priest.mastery_1.name">Divine Light</string>
+	<string name="skills.priest.mastery_1.desc"></string>
+	
+	<string name="skills.priest.mastery_1.spell_1.name">Holy Blast</string>
+	<string name="skills.priest.mastery_1.spell_1.desc">Charges up and blasts a powerful beam of holy energy that deals mixed Fire and Physical damage.</string>
+	
+	<string name="skills.priest.mastery_1.spell_1.up1.name">Divine Blast</string>
+	<string name="skills.priest.mastery_1.spell_1.up1.desc">Deals additional Fire damage to enemies standing within \cb0dfffConsecrated Ground\d.</string>
+	
+	<string name="skills.priest.mastery_1.spell_1.up2.name">Massive Blast</string>
+	<string name="skills.priest.mastery_1.spell_1.up2.desc">Increases the range of the beam.</string>
+
+	<string name="skills.priest.mastery_1.passive_1.name">Celestial Orbs</string>
+	<string name="skills.priest.mastery_1.passive_1.desc">Orbs of light surround you and attack nearby enemies. \cb0dfffHoly Blast\d can be used to focus their fire.</string>
+	<string name="skills.priest.mastery_1.passive_1.up1.name">Plentiful Orbs</string>
+	<string name="skills.priest.mastery_1.passive_1.up1.desc">Hits from \cb0dfffHoly Blast\d now have a chance to spawn additional orbs.</string>
+	
+	<string name="skills.priest.mastery_1.passive_1.up2.name">Destructive Orbs</string>
+	<string name="skills.priest.mastery_1.passive_1.up2.desc">Enemies killed by orbs have a chance to explode dealing Fire damage in an area.</string>
+	
+	<!-- Crusader -->	
+	<string name="skills.priest.mastery_2.name">Crusader</string>
+	<string name="skills.priest.mastery_2.desc"></string>
+	
+	<string name="skills.priest.mastery_2.spell_1.name">Holy Banner</string>
+	<string name="skills.priest.mastery_2.spell_1.desc">Places a banner that grants \cb0dfffInvulnerability\d to you and all allies within its range.</string>
+	
+	<string name="skills.priest.mastery_2.spell_1.up1.name">Invigorating Banner</string>
+	<string name="skills.priest.mastery_2.spell_1.up1.desc">Allies in range now also have increased Attack Speed.</string>
+	
+	<string name="skills.priest.mastery_2.spell_1.up2.name">War Banner</string>
+	<string name="skills.priest.mastery_2.spell_1.up2.desc">The banner now also applies \cb0dfffMarked\d to all enemies in its range.</string>
+
+	<string name="skills.priest.mastery_2.passive_1.name">Call Crusaders</string>
+	<string name="skills.priest.mastery_2.passive_1.desc">You passively summon an army of pikemen to fight by your side and attack nearby enemies dealing Physical damage.</string>
+
+	<string name="skills.priest.mastery_2.passive_1.up1.name">Call Crossbowmen</string>
+	<string name="skills.priest.mastery_2.passive_1.up1.desc">You now also summon crossbowmen who attack enemies in range dealing Physical damage.</string>
+	
+	<string name="skills.priest.mastery_2.passive_1.up2.name">Endless Crusaders</string>
+	<string name="skills.priest.mastery_2.passive_1.up2.desc">Your crusaders now have a chance to immediately respawn when killed.</string>
+	
+	<!-- Fllagelant -->
+	<string name="skills.priest.mastery_3.name">Flagellant</string>
+	<string name="skills.priest.mastery_3.desc"></string>
+	
+	<string name="skills.priest.mastery_3.spell_1.name">Flagellate</string>
+	<string name="skills.priest.mastery_3.spell_1.desc">A wide flail swing that deals Physical damage that's further increased based on your Thorns.</string>
+	
+	<string name="skills.priest.mastery_3.spell_1.up1.name">Jagged Flail</string>
+	<string name="skills.priest.mastery_3.spell_1.up1.desc">Hits from the flail now inflict stacks of \cb0dfffBleeding\d with a chance to apply a stack to yourself.</string>
+	
+	<string name="skills.priest.mastery_3.spell_1.up2.name">Ecstasy</string>
+	<string name="skills.priest.mastery_3.spell_1.up2.desc">Hits from the flail now add stacks of \cb0dfffEcstasy\d. Each stack increases your Thorns.</string>
+
+	<string name="skills.priest.mastery_3.passive_1.name">Retribution</string>
+	<string name="skills.priest.mastery_3.passive_1.desc">You gain Thorns, plus additional Thorns based on your maximum Health.</string>
+	
+	<string name="skills.priest.mastery_3.passive_1.up1.name">Masochism</string>
+	<string name="skills.priest.mastery_3.passive_1.up1.desc">You gain a chance to regenerate some Health when hit.</string>
+	
+	<string name="skills.priest.mastery_3.passive_1.up2.name">Grand Retribution</string>
+	<string name="skills.priest.mastery_3.passive_1.up2.desc">Your Thorns deal increased damage to \cb0dfffBosses\d and \cb0dfffElites\d.</string>
+
+	<!-- Skills Details -->	
+	<string name="skills.desc.params.dmg.abs">Damage Absorption:</string>
+
+	<string name="skills.desc.params.damage.elitebosses">Damage to Bosses and Elites:</string>
+
+	<string name="skills.desc.params.threshold.health">Health Threshold:</string>
+	
+	<string name="skills.desc.params.mana.per.dmg">Mana per Damage:</string>
+	
+	<string name="skills.desc.params.mana.lost">Mana Lost:</string>
+
+	<string name="skills.desc.params.mana.threshold">Mana Threshold:</string>
+	
+	<string name="skills.desc.params.dmg.increase">Damage Increase:</string>
+	
+	<string name="skills.desc.params.num.orbs">Number of Orbs:</string>
+
+	<string name="skills.desc.params.spellpower.per.orb">Spell Power per Orb:</string>
+
+	<string name="skills.desc.params.chance.selfbleed">Self Bleed Chance:</string>
+
+	<string name="skills.desc.params.crusader.max">Crusader Max Summoned:</string>
+
+	<string name="skills.desc.params.crossbowman.max">Crossbowman Max Summoned:</string>
+	
+	<string name="skills.desc.params.flagellate.thorns.dmg.mult">Thorns Damage Bonus:</string>
+
+	<string name="skills.desc.params.thorns.per.stack">Thorns per Stack:</string>
+	
+	<string name="skills.desc.params.thorns.maxhp.mul">Thorns per Max Health:</string>
+	
+	<string name="skills.desc.params.damage.missing.mana">Damage per missing Mana percent:</string>
+
+	<string name="skills.desc.params.manaregen.missing.mana">Mana Regen per missing Mana percent:</string>
+	
+	<string name="skills.desc.params.thorns.add">Thorns:</string>
+
+	<!-- Stacks -->
+	<string name="stacks.priest.ecstasy.name">Ecstasy</string>
+	<string name="stacks.priest.ecstasy.desc">Each stack increases your Thorns.</string>
+	
+	<string name="stacks.priest.divine_favor.name">Divine Favor</string>
+	<string name="stacks.priest.divine_favor.desc">Each stack increases your Damage.</string>
+
+	<!-- Accomplishments -->
+	<string name="accomplishment.priest">Holy Conclave %num%</string>
+	<string name="accomplishment.priest.desc">Reach level %num% with a Priest.</string>
+
+
+	<!-- WEAPONS -->
+	<!-- Weapon Names -->
+	<string name="equipment.mainhand.scepter.1a">Wooden Scepter</string>
+	<string name="equipment.mainhand.scepter.2a">Apprentice Scepter</string>
+	<string name="equipment.mainhand.scepter.3a">Bishop Scepter</string>
+	<string name="equipment.mainhand.scepter.4a">Monarch Scepter</string>
+	
+	<string name="equipment.offhand.lantern.1a">Dim Lantern</string>
+	<string name="equipment.offhand.lantern.2a">Silver Lantern</string>
+	<string name="equipment.offhand.lantern.3a">Grand Lantern</string>
+	<string name="equipment.offhand.lantern.4a">Radiant Lantern</string>
+	
+	<!-- Weapon Attacks -->	
+	<string name="skills.attacks.mainhand.scepter.name">Smite</string>
+	<string name="skills.attacks.mainhand.scepter.desc">A blast of holy energy that deals %dmg%% Weapon damage in an area.</string>
+	
+	<string name="skills.attacks.mainhand.scepter_epic.name">Grand Smite</string>
+	<string name="skills.attacks.mainhand.scepter_epic.desc">A blast of holy energy that deals %dmg1%% Weapon damage in an area with follow up explosions that deal %dmg2%% Weapon damage.</string>
+
+	<string name="skills.attacks.mainhand.lantern.name">Holy Light</string>
+	<string name="skills.attacks.mainhand.lantern.desc">Channels a beam that hits enemies for %dmg%% Weapon damage and heals allies for %heal%% Weapon damage.</string>
+	
+	<string name="skills.attacks.mainhand.lantern_epic.name">Sacred Light</string>
+	<string name="skills.attacks.mainhand.lantern_epic.desc">Channels a beam that hits enemies for %dmg%% Weapon damage and heals allies for %heal%% Weapon damage. Chains to one random enemy.</string>
+
+	<!-- Weapon Mastery -->	
+	<string name="weapon_mastery.holy_weapons">Holy Weapons</string>
+
+
+	<!-- TRINKETS -->
+	<!-- Common -->
+	<string name="trinket.spiked_collar.name">Spiked Collar</string>
+	<string name="trinket.spiked_collar.desc">+%num% Thorns</string>
+	
+	<!-- Uncommon -->
+	<string name="trinket.razor_amulet.name">Razor Amulet</string>
+	<string name="trinket.razor_amulet.desc">+%num% to Thorns and Weapon Power</string>
+	
+	<string name="trinket.rosethorn_wand.name">Rosethorn Wand</string>
+	<string name="trinket.rosethorn_wand.desc">+%num% to Thorns and Spell Power</string>
+	
+	<string name="trinket.vitaerium.name">Vitaerium</string>
+	<string name="trinket.vitaerium.desc">Spell Crits inflict a stack of \cb0dfffBleeding\d.</string>
+	<string name="trinket.vitaerium.desc2">Spell Crits inflict %num% stacks of \cb0dfffBleeding\d.</string>
+	
+	<string name="trinket.ring_alacrity_greater.name">Greater Ring of Alacrity</string>
+	<string name="trinket.ring_alacrity_greater.desc">+%mov%% Move Speed\n+%num% Casting Speed</string>
+	
+	<string name="trinket.ring_of_avarice.name">Ring of Avarice</string>
+	<string name="trinket.ring_of_avarice.desc">+%mov%% Move Speed for %dur% seconds after picking up gold.</string>
+
+	<string name="trinket.spiked_pauldrons_thorns.desc">+%armr% Armor\n+%num% Thorns</string>
+	
+	<!-- Rare -->
+	<string name="trinket.spellslingers_amulet.name">Spellslinger's Amulet</string>
+	<string name="trinket.spellslingers_amulet.desc">+%num%% Weapon Crit Chance for %dur% seconds after casting a Spell.</string>
+	
+	<string name="trinket.spellswords_circlet.name">Spellsword’s Circlet</string>
+	<string name="trinket.spellswords_circlet.desc">+%num%% Spell Crit Chance for %dur% seconds after hitting enemy with a Weapon.</string>
+	
+	<string name="trinket.goldwrap.name">Goldwrap</string>
+	<string name="trinket.goldwrap.desc">-%num%% Damage Received for %dur% seconds after picking up gold.</string>	
+	
+	<string name="trinket.bountiful_bracelet.name">Bountiful Bracelet</string>
+	<string name="trinket.bountiful_bracelet.desc">Picking up gold has a %num%% chance to restore a Potion charge.</string>
+	
+	<string name="trinket.chicken_feet.name">Chicken Feet</string>
+	<string name="trinket.chicken_feet.desc">You regenerate %num% Mana per second for every nearby foe afflicted with a Status.</string>
+	
+	<!-- Epic -->
+	<string name="trinket.necromantic_focus.name">Necromantic Focus</string>
+	<string name="trinket.necromantic_focus.desc">You passively summon a powerful skeletal guardian to fight by your side.</string>
+	
+	<!-- Sets -->
+	<string name="trinket.set.emblems_of_hermes.name">Emblems of Hermes</string>
+	<string name="trinket.set.emblems_of_hermes.2">+%mov%% Move Speed</string>
+	<string name="trinket.set.emblems_of_hermes.3">+%mov%% Move Speed</string>
+	
+	<string name="trinket.set.spellswords_insignia.name">Spellsword's Insignia</string>
+	<string name="trinket.set.spellswords_insignia.2">+%num%% Weapon and Spell Crit Damage</string>
+	
+	<string name="trinket.set.thorny_carapace.name">Thorny Carapace</string>
+	<string name="trinket.set.thorny_carapace.2">Your Thorns are increased by %num%% of your Armor.</string>
+	<string name="trinket.set.thorny_carapace.3">Your Thorns are increased by %num%% of your Armor.</string>
+	
+	<string name="trinket.set.bloodletters_tools.name">Bloodletter's Tools</string>
+	<string name="trinket.set.bloodletters_tools.2">You restore Health for every nearby foe afflicted with \cb0dfffBleeding\d.</string>
+	
+	<string name="trinket.set.mark_of_avarice.name">Mark of Avarice</string>
+	<string name="trinket.set.mark_of_avarice.2">%num%% of collected gold is also gained as XP.</string>
+	<string name="trinket.set.mark_of_avarice.3">%num%% of collected gold is also gained as XP.</string>
+	
+
+	<!-- STAT AND STATUS DEFINITIONS -->
+	<string name="stat.name.smndmg">Summon Damage</string>
+	<string name="character.stat.tooltip.smndmg.title">Summon Damage</string>
+	<string name="character.stat.tooltip.smndmg.text">Increases the damage dealt by summoned allies.</string>
+	
+	<string name="stat.name.smnhp">Summon Health</string>
+	<string name="character.stat.tooltip.smnhp.title">Summon Health</string>
+	<string name="character.stat.tooltip.smnhp.text">Increases the Health of summoned allies.</string>	
+
+	<string name="stat.name.thorns.elite.mul">Thorns multiplier versus Elites and Bosses</string>
+		
+	<string name="stat.icon.marked">\cb0dfffMarked\d</string>
+	<string name="stat.name.marked">Increases the chance of being critically hit by 20% for 5 seconds.</string>
+
+	<string name="stat.icon.thorns">\"icn-thorns"</string>
+	<string name="stat.name.thorns">Thorns</string>	
+
+	<string name="stat.icon.thorns_desc">Thorns</string>
+	<string name="stat.name.thorns_desc">Deals retribution damage to \cffdfb0Melee\d attackers.</string>
+
+	<string name="character.stat.tooltip.thorns.title">\cb0dfffThorns\d</string>
+	<string name="character.stat.tooltip.thorns.text">Deals retribution damage to \cffdfb0Melee\d attackers.</string>	
+
+
+	<!-- BOSS NAMES -->
+	<string name="boss.arcane">Spirit of the Arcane</string>
+	<string name="boss.warrior">Spirit of Valor</string>
+	<string name="boss.hunt">Spirit of the Hunt</string>	
+	<string name="boss.benevolence">Spirit of Benevolence</string>
+	<string name="boss.avarice">Spirit of Avarice</string>
+	
+
+	<!-- MISSIONS -->
+	<!-- Mission Ranks -->
+	<string name="survival.mission.rank.name">Spirit Rank</string>
+	
+	<!-- Mission Names -->
+	<string name="survival.mission.arcane.name">Trial of the Arcane</string>
+	<string name="survival.mission.arcane.desc">Challenge the Spirit of the Arcane to gain its favor.</string>
+
+	<string name="survival.mission.warrior.name">Trial of Valor</string>
+	<string name="survival.mission.warrior.desc">Challenge the Spirit of Valor to gain its favor.</string>
+	
+	<string name="survival.mission.hunt.name">Trial of the Hunt</string>
+	<string name="survival.mission.hunt.desc">Challenge the Spirit of the Hunt to gain its favor.</string>
+	
+	<string name="survival.mission.benevolence.name">Trial of Benevolence</string>
+	<string name="survival.mission.benevolence.desc">Challenge the Spirit of Benevolence to gain its favor.</string>
+	
+	<string name="survival.mission.avarice.name">Trial of Avarice</string>	
+	<string name="survival.mission.avarice.desc">Challenge the Spirit of Avarice to gain its favor.</string>
+	
+
+	<!-- SPIRIT BOONS -->
+	<!-- Boon Definitions -->
+	<string name="chapelboon.arcane.name">Caster Combat</string>
+	<string name="chapelboon.arcane.desc">Every %atk% hits with a Weapon or spending %mana% Mana casts Wizard's \cb0dfffMagic Missile\d.\n\nPassively increases Spell Power.</string>
+	
+	<string name="chapelboon.warrior.name">Vigorous Valor</string>
+	<string name="chapelboon.warrior.desc">Increases Weapon and Spell Power by a percentage of your Armor.\n\nPassively increases Armor.</string>
+	
+	<string name="chapelboon.hunt.name">Hunter's Hound</string>
+	<string name="chapelboon.hunt.desc">Summons a wolf as per Ranger's \cb0dfffWolf Companion\d skill.\n\nPassively increases your Weapon Power for each active summon.</string>
+	
+	<string name="chapelboon.benevolence.name">Fervent Followers</string>
+	<string name="chapelboon.benevolence.desc">Summons pikemen as per Priest's \cb0dfffCall Crusaders\d skill.\n\nPassively increases Summon Damage and Health.</string>
+	
+	<string name="chapelboon.avarice.name">Bloody Bullion</string>
+	<string name="chapelboon.avarice.desc">Weapon and Spell Crits have a chance to apply a stack of \cb0dfffBleeding\d and \cb0dfffBleeding\d enemies spill extra gold.\n\nPassively increases Crit Chance.</string>
+	
+	<!-- Boon Details -->	
+	<string name="skills.desc.params.boon.skill.magic_missile">Magic Missile Level:</string>
+	<string name="skills.desc.params.boon.skill.wolf_companion">Wolf Companion Level:</string>
+	<string name="skills.desc.params.boon.skill.call_crusaders">Call Crusaders Level:</string>
+
+	<string name="skills.desc.params.boon.power.armor">Armor converted to Weapon and Spell Power:</string>
+	<string name="skills.desc.params.boon.armor">Armor per Rank:</string>
+	<string name="skills.desc.params.boon.critchance.all">Weapon and Spell Crit Chance per Rank:</string>
+	<string name="skills.desc.params.boon.critdamage.all">Weapon and Spell Crit Damage per Rank:</string>
+	<string name="skills.desc.params.boon.weaponpower.summon_num">Weapon Power per Summon per Rank:</string>
+
+	<string name="skills.desc.params.boon.spellpower">Spell Power per Rank:</string>
+	<string name="skills.desc.params.boon.weaponpower">Weapon Power per Rank:</string>
+
+	<string name="skills.desc.params.boon.summonpower">Summon Damage and Health per Rank:</string>
+	<string name="skills.desc.params.boon.bleed.gold_chance">Bleeding Enemies Gold Chance:</string>
+	<string name="skills.desc.params.boon.bleed.crit_chance">Bleeding Chance on Crit per Rank:</string>
+
+	<!-- Boon Ranks -->
+	<string name="stat.name.valor">Valor Rank</string>
+	<string name="stat.name.hunt">Hunt Rank</string>
+	<string name="stat.name.arcane">Arcane Rank</string>
+	<string name="stat.name.benevolence">Benevolence Rank</string>
+	<string name="stat.name.avarice">Avarice Rank</string>
+
+
+	<!-- PETS -->
+	<string name="pets.dog.name">Dungeoneer's Mutt</string>
+	<string name="pets.dog.desc">Bit mangy but still the best boy.</string>
+
+	<string name="pets.cat.name">Curiosity the Cat</string>
+	<string name="pets.cat.desc">Already on her sixth life.</string>
+
+	<string name="pets.bird.name">Toucan Danger</string>
+	<string name="pets.bird.desc">A splash of color in the dark.</string>
+
+	<string name="pets.wisp.name">Will o'Wisp</string>
+	<string name="pets.wisp.desc">A pocket beacon of hope.</string>
+
+	<string name="pets.beetle.name">Ruby Scarab</string>
+	<string name="pets.beetle.desc">A true gem of a companion.</string>
+
+	<string name="pets.candle.name">Animated Candle</string>
+	<string name="pets.candle.desc">A rather handy invention.</string>	
+
+	<!-- BUILDINGS -->
+	<string name="building.petshop.name">Pet Shop</string>
+	<string name="building.petshop.desc1">Purchase pets.</string>
+	<string name="building.petshop.desc2">Select your active pet.</string>
+
+	<string name="building.statue.arcane.name">Arcane Statue</string>
+	<string name="building.statue.warrior.name">Valor Statue</string>
+	<string name="building.statue.hunt.name">Hunt Statue</string>	
+	<string name="building.statue.benevolence.name">Benevolence Statue</string>
+	<string name="building.statue.avarice.name">Avarice Statue</string>
+
+	<string name="building.chapel.dlc1.desc1">Lets you pick between two blessings for your runs and challenge Spirits for their powerful Boons.\n\n-5% Revive Cost</string>
+	<string name="building.chapel.dlc1.desc2">Unlocks two more blessings.\n\n-5% Revive Cost</string>
+	<string name="building.chapel.dlc1.desc3">Unlocks another blessing.\n\n-5% Revive Cost</string>
+	<string name="building.chapel.dlc1.desc4">Lets you freely donate materials to the chapel, unlocks another blessing.\n\n-5% Revive Cost</string>
+	<string name="building.chapel.dlc1.trial.start">Start the Trial</string>
+	
+
+	<!-- GUI -->
+	<!-- Messages -->
+	<string name="menu.survival.multiplayer_request_sent">Sent request to %host-name% to start %mission% at rank %rnk%.</string>
+	<string name="menu.survival.multiplayer_request_got">%name% is asking to start %mission% at rank %rnk%.</string>
+
+	<!-- Survival Announcements -->
+	<string name="hud.announce.survival.boss.fail">The Spirit is not impressed!</string>
+	<string name="hud.announce.survival.boss.win.first">Spirit boon acquired!</string>
+	<string name="hud.announce.survival.boss.win.upgrade">Spirit boon improved!</string>
+	<string name="hud.announce.survival.boss.spawn">The Spirit arrives!</string>
+
+	<string name="hud.announce.survival.event">The Fallen approach!</string>
+
+	<!-- Tutorials -->
+	<string name="tutorial.intro.chapel">The Chapel lets you challenge the five Spirits for their powerful Boons. Each time the Spirit's trial is completed, its respective boon grows in power, but so does the difficulty of its future trials.</string>	
+
+	<string name="tutorial.intro.pets">The selected Pet will accompany you on your adventures and help by picking gold and other collectibles. It can't be killed, so don't worry.</string>
+
+	<string name="tutorial.intro.survival">To complete the trial and face the Spirit, accrue Spirit Favor by killing enough enemies before the timer runs out.</string>
+
+	<!-- Elements -->
+	<string name="menu.loadout.boons">Boons </string>
+	<string name="menu.loadout.boons.rank">Rank</string>
+	<string name="menu.loadout.boons.currank">Current rank</string>
+
+	<string name="menu.spirits.start">Start the trial</string>
+	<string name="menu.spirits.favor">Spirit favor</string>
+   
+
+	<!-- NPC DIALOGUE -->
+	<string name="dialogue.dlc1.priest.intro.prompt1">Welcome to the Chapel! It is here where we revere the Spirits, and adventurers like you face their Trials for blessings of power.</string>
+	<string name="dialogue.dlc1.priest.prompt1.1">Are you here to challenge the Trials? No shame in admitting you're not ready yet.</string>
+	<string name="dialogue.dlc1.priest.prompt1.2">Bless the Spirits, adventurer, and their holy power.</string>
+	<string name="dialogue.dlc1.priest.prompt1.3">Reach for the power the Spirits grant, hero. But beware of the Trials!</string>
+
+	<string name="dialogue.dlc1.petstore.intro.prompt1">Hello! Are you here to get a trusty friend for your dungeoneering enterprises?</string>
+	<string name="dialogue.dlc1.petstore.prompt1.1">Do you need a friend to share the burden of adventuring with you?</string>
+	<string name="dialogue.dlc1.petstore.prompt1.2">Most heroes go for the flying candle thing. But me? I'm a cat person.</string>
+	<string name="dialogue.dlc1.petstore.prompt1.3">Remember that pets are good both for your health and soul!</string>
+	
+
+	<!-- STATISTICS -->
+	<string name="statistic.max-level-priest">Max level with Priest</string>
+
+	<string name="pets.raven.name">Blackwing Raven</string>
+	<string name="pets.raven.desc">Pretty bright for something so dark.</string>
+
+	<string name="building.petshop.desc3">Unassign pet.</string>
+
+	<string name="menu.dlc1.required.short">DLC \cffdfb0%nam%\d required.</string>
+	<string name="menu.dlc1.required.long">This feature requires \cffdfb0%nam%\d DLC.</string>
+
+	<!-- DYES -->
+	<string name="dye.red.name">Red Dye</string>
+	<string name="dye.green.name">Green Dye</string>
+	<string name="dye.blue.name">Blue Dye</string>
+	<string name="dye.yellow.name">Yellow Dye</string>
+	<string name="dye.black.name">Black Dye</string>
+	<string name="dye.white.name">White Dye</string>
+	<string name="dye.white.generic">Dye</string>	
+
+	<!-- MATERIALS -->
+	<string name="material.metal.name">Metal</string>
+	<string name="material.leather.name">Leather</string>
+	<string name="material.cloth.name">Cloth</string>
+	<string name="material.wood.name">Wood</string>
+	<string name="material.gem.name">Gem</string>
+
+	
+</lang>
