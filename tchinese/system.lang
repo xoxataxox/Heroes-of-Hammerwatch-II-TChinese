@@ -1686,7 +1686,7 @@
 	<string name="accomplishment.elixirs-collected.desc">找到 %num% 瓶靈藥</string>
 	
 	<string name="accomplishment.maps-collected">製圖師 %num%</string>
-	<string name="accomplishment.maps-collected.desc">找到 %num% 張地圖。</string>
+	<string name="accomplishment.maps-collected.desc">找到 %num% 張地圖</string>
 
 	<string name="accomplishment.pickup-health">美食家 %num%</string>
 	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命補給品</string>
