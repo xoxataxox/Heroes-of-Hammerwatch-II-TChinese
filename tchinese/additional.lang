@@ -15,6 +15,11 @@
 	<string name="item.info.tooltip.slot.potion">藥水</string>
 
 
+	<string name="item.info.tooltip.map.awards">獎勵物品等級 %ilvl% %quality% %slot% 的裝備。</string>
+
+
+
+
 
 	<string name="text.openselsewhere">需要從其他地方開啟！</string>
 	<string name="text.needakey">我需要一把鑰匙！</string>
