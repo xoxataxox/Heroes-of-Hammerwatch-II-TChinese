@@ -509,8 +509,8 @@
 	<string name="skills.ranger.mastery_2.spell_1.up2.name">不安靈魂</string>
 	<string name="skills.ranger.mastery_2.spell_1.up2.desc">擊殺敵人時有機會釋放靈狼。此效果有短暫冷卻時間</string>
 
-	<string name="skills.ranger.mastery_2.passive_1.name">狼伴侶</string>
-	<string name="skills.ranger.mastery_2.passive_1.desc">你被動召喚一隻狼伴侶，牠會攻擊附近敵人，造成物理傷害</string>
+	<string name="skills.ranger.mastery_2.passive_1.name">狼夥伴</string>
+	<string name="skills.ranger.mastery_2.passive_1.desc">你被動召喚一隻狼夥伴，牠會攻擊附近敵人，造成物理傷害</string>
 	<string name="skills.ranger.mastery_2.passive_1.up1.name">狼群</string>
 	<string name="skills.ranger.mastery_2.passive_1.up1.desc">你召喚額外的狼</string>
 	<string name="skills.ranger.mastery_2.passive_1.up2.name">冰霜狼</string>
