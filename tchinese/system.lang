@@ -1,4 +1,4 @@
-<lang name="Traditional Chinese" min-size="11" max-bold="0" fonts="chinese">
+<lang name="Traditional Chinese(NYAN)" max-bold="0" fonts="chinese">
 
 	<string name="skill.tag.weapon">\cffdfb0武器\d</string>
 	<string name="skill.tag.spell">\cffdfb0法術\d</string>
@@ -256,6 +256,7 @@
 	<string name="menu.loadout.potion_warning">你沒有藥水充能！</string>
 	<string name="menu.loadout.force_start_warning">你確定要在所有人還未準備好之前開始任務嗎？</string>
 	<string name="menu.loadout.starting_mission">開始\n%mission%</string>
+	<string name="menu.loadout.starting_mission_from">從 %name% 開始\n%mission%</string>
 	<string name="menu.loadout.alterations">更改</string>
 	<string name="menu.loadout.numready">%ready%/%total% 已準備好！!</string>
 	<string name="menu.loadout.waiting_num">正在等待 %num% 位玩家</string>
@@ -414,7 +415,8 @@
 	<string name="building.pyre.desc1">-20% 暗影詛咒增益</string>
 
 	<string name="building.tailor.name">裁縫師</string>
-	<string name="building.tailor.desc1">無任何效果</string>
+	<string name="building.tailor.desc1">解鎖武器與護甲重新著色</string>
+	<string name="building.tailor.desc2">武器與護甲重新著色的價格更優惠</string>
 
 	<string name="building.tavern.name">酒館</string>
 	<string name="building.tavern.desc1">開始遊戲時獲得飲料與食物\n\n解鎖飲品藍圖</string>
@@ -491,7 +493,8 @@
 	<string name="architect.material_farmer.desc">將飾品寶箱替換為資源補給箱，經驗卷軸替換為材料</string>
 	<string name="architect.insta_revive.name">快速恢復</string>
 	<string name="architect.insta_revive.desc">將多人遊戲中復活他人的時間縮短為 0</string>
-
+	<string name="architect.more_maps.name">尋圖者</string>
+	<string name="architect.more_maps.desc">發現地圖的機率加倍</string>
 
 
 
@@ -812,6 +815,10 @@
 	<string name="menu.subclass.skill.active">主動技能</string>
 	<string name="menu.subclass.skill.passive">被動技能</string>
 
+	<string name="menu.map.multiplayer_request_sent">已向 %host-name% 發送開始地圖的請求</string>
+	<string name="menu.map.multiplayer_request_got">%name% 正請求開始任務 %mission%。\n獎勵物品等級 %ilvl% %quality% %slot% 裝備</string>
+
+
 
 	<string name="menu.imp.announce.1">咦，那是個小惡魔嗎？</string>
 	<string name="menu.imp.announce.2">一隻小惡魔！它應該就在附近</string>
@@ -924,7 +931,7 @@
 	<string name="blessing.light.desc">%amnt% 暗影詛咒獲得</string>
 	<string name="blessing.mana.name">技巧的祝福</string>
 	<string name="blessing.mana.desc">%amnt% 魔力消耗</string>
-	<string name="blessing.mana.shrine.desc">技能不消耗魔力</string>
+	<string name="blessing.mana.shrine.desc">技能魔力消耗降低 %amnt%</string>
 	<string name="blessing.gold.name">財富的祝福</string>
 	<string name="blessing.gold.desc">%amnt% 金幣獲取</string>
 	<string name="blessing.experience.name">智慧的祝福</string>
@@ -1027,7 +1034,7 @@
 	<string name="tab.overlay.player.iron">\"icn-iron"%amount%</string>
 	<string name="tab.overlay.player.crys">\"icn-crys"%amount%</string>
 	<string name="tab.overlay.player.dust">\"icn-dust"%amount%</string>
-	<string name="tab.overlay.player.frag">\"icn-frag"%amount%</string>
+	<string name="tab.overlay.player.ore">\"icn-ore"%amount%</string>
 	<string name="tab.overlay.player.unknown">%amount%?</string>
 	<string name="tab.overlay.player.shadow">\"icn-shdw"%amount%</string>
 	
@@ -1041,7 +1048,7 @@
 	<string name="material.name.iron">鐵</string>
 	<string name="material.name.crys">水晶</string>
 	<string name="material.name.dust">塵埃</string>
-	<string name="material.name.frag">碎片</string>
+	<string name="material.name.ore">礦石</string>
 	
 	<string name="hud.pickup.gold">\"icn-gold"%amount%</string>
 	<string name="hud.pickup.wood">\"icn-wood"%amount%</string>
@@ -1049,7 +1056,7 @@
 	<string name="hud.pickup.iron">\"icn-iron"%amount%</string>
 	<string name="hud.pickup.crys">\"icn-crys"%amount%</string>
 	<string name="hud.pickup.dust">\"icn-dust"%amount%</string>
-	<string name="hud.pickup.frag">\"icn-frag"%amount%</string>
+	<string name="hud.pickup.ore">\"icn-ore"%amount%</string>
 	<string name="hud.pickup.unknown">%amount%?</string>
 	
 	<string name="hud.lootlog.gold">\"icn-gold"</string>
@@ -1058,7 +1065,7 @@
 	<string name="hud.lootlog.iron">\"icn-iron"</string>
 	<string name="hud.lootlog.crys">\"icn-crys"</string>
 	<string name="hud.lootlog.dust">\"icn-dust"</string>
-	<string name="hud.lootlog.frag">\"icn-frag"</string>
+	<string name="hud.lootlog.ore">\"icn-ore"</string>
 	<string name="hud.lootlog.unknown">?</string>
 	
 	
@@ -1080,6 +1087,8 @@
 	<string name="hud.boxannounce.unlocked">已解鎖：</string>
 	<string name="hud.boxannounce.unlocked.potion">藥水</string>
 	<string name="hud.boxannounce.unlocked.combo">連擊</string>
+		
+	<string name="hud.announce.great_threat">一個巨大的威脅出現了！</string>
 	
 	
 	<string name="tab.overlay.time">%year% %month%/%day% %h%:%m%</string>
@@ -1109,6 +1118,7 @@
 	<string name="location.act.forest">森林</string>
 	<string name="location.act.cave_light">洞穴</string>
 	<string name="location.act.cave_dark">黑暗洞穴</string>
+	<string name="location.act.cave_spider">蜘蛛洞穴</string>
 	<string name="location.act.prison">監獄</string>
 	<string name="location.act.keep">盜賊堡壘</string>
 	<string name="location.act.temple">神殿</string>
@@ -1130,10 +1140,19 @@
 	<string name="boss.harbingers">恐懼先驅</string>
 	<string name="boss.serpents">滅亡巨蛇</string>
 	<string name="boss.avatar">化身</string>
+	<string name="boss.spider_queen">蜘蛛女王</string>
+	<string name="boss.bandit">盜賊領主</string>
+	<string name="boss.wraith">怨靈</string>
 	
 	
 	<string name="mission.dark_citadel.name">黑暗堡壘</string>
 	<string name="mission.intro_find_npcs.name">拯救村民</string>
+	<string name="mission.spider_caves.name">蜘蛛洞穴</string>
+	<string name="mission.spider_caves.desc">深入蜘蛛洞穴，獵殺並消滅蜘蛛女王</string>
+	<string name="mission.bandit_keep.name">盜賊要塞</string>
+	<string name="mission.bandit_keep.desc">攀登盜賊要塞，尋找並擊殺盜賊領主</string>
+	<string name="mission.crypt.name">幽靈墓穴</string>
+	<string name="mission.crypt.desc">搜索古老神廟的墓穴，揭開其秘密</string>
 	
 	
 	<!-- Character Voices -->
@@ -1309,6 +1328,7 @@
 	<string name="menu.character.creation.color.metal.bright">亮金屬色</string>
 	<string name="menu.character.creation.color.metal.resurrected">復甦銀</string>
 	<string name="menu.character.creation.color.metal.shimmer">閃光銀</string>
+	<string name="menu.character.creation.color.metal.salmon">鮭魚色</string>
 
 	<string name="menu.character.creation.color.leather.brown">棕色</string>
 	<string name="menu.character.creation.color.leather.red">紅色</string>
@@ -1437,7 +1457,7 @@
 	<string name="stat.icon.disarm">\cb0dfff繳械\d</string>
 	<string name="stat.name.disarm">無法使用武器，持續攻擊 3 秒</string>
 	<string name="stat.icon.bleeding">\cb0dfff流血\d</string>
-	<string name="stat.name.bleeding">每秒造成 6 點傷害，移動時額外受傷，持續 5 秒</string>
+	<string name="stat.name.bleeding">每秒及移動時，造成基於最大生命值的傷害，持續 5 秒</string>
 	<string name="stat.icon.blindness">\cb0dfff致盲\d</string>
 	<string name="stat.name.blindness">30% 機率攻擊失敗，持續 5 秒</string>
 	<string name="stat.icon.cripple">\cb0dfff跛足\d</string>
@@ -1457,7 +1477,7 @@
 	<string name="stat.custom.irongain">鐵獲取加成</string>
 	<string name="stat.custom.crysgain">水晶獲取加成</string>
 	<string name="stat.custom.dustgain">塵埃獲取加成</string>
-	<string name="stat.custom.fraggain">碎片獲取加成</string>
+	<string name="stat.custom.oregain">礦石獲取加成</string>
 	<string name="stat.custom.scursegain">暗影詛咒獲取加成</string>
 	<string name="stat.custom.damage">傷害</string>
 	<string name="stat.custom.mainhanddamage">主手傷害</string>
@@ -1476,8 +1496,8 @@
 	<string name="stat.name.crys">水晶</string>
 	<string name="stat.icon.dust">\"icn-dust"</string>
 	<string name="stat.name.dust">塵埃</string>
-	<string name="stat.icon.frag">\"icn-frag"</string>
-	<string name="stat.name.frag">碎片</string>
+	<string name="stat.icon.ore">\"icn-ore"</string>
+	<string name="stat.name.ore">礦石</string>
 
 	<string name="stat.icon.strength">\"icn-str"</string>
 	<string name="stat.name.strength">力量</string>
@@ -1579,7 +1599,6 @@
 
 
 
-
 	<string name="accomplishment.paladin">騎士分會 %num%</string>
 	<string name="accomplishment.paladin.desc">將聖騎士升至 %num% 級</string>
 	<string name="accomplishment.ranger">獵人小屋 %num%</string>
@@ -1665,6 +1684,9 @@
 	
 	<string name="accomplishment.elixirs-collected">靈藥大師 %num%</string>
 	<string name="accomplishment.elixirs-collected.desc">找到 %num% 瓶靈藥</string>
+	
+	<string name="accomplishment.maps-collected">製圖師 %num%</string>
+	<string name="accomplishment.maps-collected.desc">找到 %num% 張地圖。</string>
 
 	<string name="accomplishment.pickup-health">美食家 %num%</string>
 	<string name="accomplishment.pickup-health.desc">拾取並食用 %num% 次生命補給品</string>
@@ -1731,6 +1753,7 @@
 	<string name="statistic.collected-trinket-epic">收集的史詩飾品數</string>
 	<string name="statistic.collected-trinket-cursed">收集的詛咒飾品數</string>
 	<string name="statistic.elixirs-collected">收集的靈藥數</string>
+	<string name="statistic.maps-collected">收集的地圖數</string>
 	<string name="statistic.pickup-health">收集的生命補給物數</string>
 	<string name="statistic.pickup-mana">收集的魔力補給物數</string>
 	<string name="statistic.pickup-exp">收集的經驗卷軸數</string>
@@ -1764,8 +1787,8 @@
 	<string name="statistic.collected-dust">收集的塵埃數</string>
 	<string name="statistic.sent-back-dust">送回城鎮的塵埃數</string>
 	<string name="statistic.chapel-revive-dust">捐贈給教堂的塵埃數</string>
-	<string name="statistic.collected-fragments">收集的碎片數</string>
-	<string name="statistic.sent-back-fragments">送回城鎮的碎片數</string>
-	<string name="statistic.chapel-revive-fragments">捐贈給教堂的碎片數</string>
+	<string name="statistic.collected-ore">收集的礦石數</string>
+	<string name="statistic.sent-back-ore">送回城鎮的礦石數</string>
+	<string name="statistic.chapel-revive-ore">捐贈給教堂的礦石數</string>
 
 </lang>
