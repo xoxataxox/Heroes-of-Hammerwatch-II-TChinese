@@ -318,67 +318,67 @@
 
 
 	<string name="skills.attacks.twohanded.shortbow1.name">快速射擊</string>
-	<string name="skills.attacks.twohanded.shortbow1.desc">快速射出一支箭矢，造成 50% 武器傷害</string>
-	<string name="skills.attacks.twohanded.shortbow1_epic.desc">Rapidly fires an arrow with long range that deal %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.shortbow1.desc">快速射出一支箭矢，造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.shortbow1_epic.desc">快速射出一支長距離箭矢，造成 %dmg% 武器傷害</string>
 	<string name="skills.attacks.twohanded.shortbow2.name">箭雨</string>
-	<string name="skills.attacks.twohanded.shortbow2.desc">按住可持續射出箭矢，擊中目標時分裂，每支箭造成 50% 武器傷害。</string>
-	<string name="skills.attacks.twohanded.shortbow2_epic.desc">Hold to continously shoot %num% arrows that split when hitting a target, each arrow dealing %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.shortbow2.desc">按住可持續射出箭矢，擊中目標時分裂，每支箭造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.shortbow2_epic.desc">按住可持續射出 %num% 支箭矢，擊中目標時分裂，每支箭造成 %dmg% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.longbow1.name">快速射擊</string>
-	<string name="skills.attacks.twohanded.longbow1.desc">快速射出一支箭矢，造成 60% 武器傷害</string>
-	<string name="skills.attacks.twohanded.longbow1_epic.desc">Rapidly fires an arrow that deal %dmg% Weapon damage and penetrates enemies %pen% times.</string>
+	<string name="skills.attacks.twohanded.longbow1.desc">快速射出一支箭矢，造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.longbow1_epic.desc">快速射出一支箭矢，造成 %dmg% 武器傷害，並穿透敵人 %pen% 次</string>
 	<string name="skills.attacks.twohanded.longbow2.name">強力射擊</string>
-	<string name="skills.attacks.twohanded.longbow2.desc">按住可蓄力發射 3 隻強力箭矢。箭矢會隨著蓄力時間增加射程、速度與傷害，最多可造成 100% 武器傷害</string>
-	<string name="skills.attacks.twohanded.longbow2_epic.desc">Hold to charge up a powerful shot with %num% arrows. The range, speed and damage of the projectiles are increased by the time charged, dealing up to %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.longbow2.desc">按住可蓄力發射 %num% 隻強力箭矢。箭矢會隨著蓄力時間增加射程、速度與傷害，最多可造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.longbow2_epic.desc">按住可蓄力發射 %num% 隻強力箭矢。箭矢會隨著蓄力時間增加射程、速度與傷害，最多可造成 %dmg% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.crossbow1.name">快速射擊</string>
-	<string name="skills.attacks.twohanded.crossbow1.desc">快速發射一支迅速的箭矢，造成 100% 武器傷害，並具有 10% 護甲穿透</string>
-	<string name="skills.attacks.twohanded.crossbow1_epic.desc">Quickly unleash a fast bolt that deal %dmg% Weapon damage with %pen% Armor Penetration.</string>
+	<string name="skills.attacks.twohanded.crossbow1.desc">快速發射一支迅速的箭矢，造成 %dmg% 武器傷害，並具有 10% 護甲穿透</string>
+	<string name="skills.attacks.twohanded.crossbow1_epic.desc">快速發射一支迅速的箭矢，造成 %dmg% 武器傷害，並具有 10% 護甲穿透</string>
 	<string name="skills.attacks.twohanded.crossbow2.name">爆炸射擊</string>
-	<string name="skills.attacks.twohanded.crossbow2.desc">發射一支裝填的箭矢，撞擊時爆炸，造成 150% 武器傷害</string>
-	<string name="skills.attacks.twohanded.crossbow2_epic.desc">Fires a bouncing armed bolt that explodes upon impact dealing %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.crossbow2.desc">發射一支帶引信的箭矢，撞擊時爆炸，造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.crossbow2_epic.desc">發射一支帶引信的彈射箭矢，撞擊時爆炸，造成 %dmg% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.maul1.name">巨槌揮擊</string>
-	<string name="skills.attacks.twohanded.maul1.desc">以緩慢的重擊造成 175% 武器傷害，並有 20% 的機率施加\cb0dfff暈眩\d</string>
-	<string name="skills.attacks.twohanded.maul1_epic.desc">A slow heavy swing that deal %dmg% Weapon damage and has a %chnc% chance to inflict \cb0dfffStun\d. Killing a stunned enemy has a %explchnc% chance to explode for %expldmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.maul1.desc">以緩慢的重擊造成 %dmg% 武器傷害，並有 %chnc% 的機率施加\cb0dfff暈眩\d</string>
+	<string name="skills.attacks.twohanded.maul1_epic.desc">以緩慢的重擊造成 %dmg% 武器傷害，並有 %chnc% 的機率施加\cb0dfff暈眩\d。擊殺暈眩敵人有 %explchnc% 機率引發爆炸，造成 %expldmg% 武器傷害</string>
 	<string name="skills.attacks.twohanded.maul2.name">大地重擊</string>
-	<string name="skills.attacks.twohanded.maul2.desc">以強力的地面重擊在範圍內造成 250% 武器傷害，並施加\cb0dfff暈眩\d</string>
-	<string name="skills.attacks.twohanded.maul2_epic.desc">A powerful ground slam that deal %dmg% Weapon damage in an area, inflicts \cb0dfffStun\d and shoots a nova dealing %dmg2% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.maul2.desc">以強力的地面重擊，在範圍內造成 %dmg% 武器傷害，並施加\cb0dfff暈眩\d</string>
+	<string name="skills.attacks.twohanded.maul2_epic.desc">以強力的地面重擊，在範圍內造成 %dmg% 武器傷害，施加\cb0dfff暈眩\d並發射新星造成 %dmg2% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.greataxe1.name">巨斧斬擊</string>
-	<string name="skills.attacks.twohanded.greataxe1.desc">以大範圍的撕裂斬擊造成 125% 武器傷害，並有 20% 的機率施加一層\cb0dfff流血\d</string>
-	<string name="skills.attacks.twohanded.greataxe1_epic.desc">A very wide rending slash that deal %dmg% Weapon damage and has a %chnc% chance to inflict a stack of \cb0dfffBleeding\d.</string>
+	<string name="skills.attacks.twohanded.greataxe1.desc">以大範圍的撕裂斬擊造成 %dmg% 武器傷害，並有 %chnc% 的機率施加一層\cb0dfff流血\d</string>
+	<string name="skills.attacks.twohanded.greataxe1_epic.desc">以極大範圍的撕裂斬擊造成 %dmg% 武器傷害，並有 %chnc% 的機率施加一層\cb0dfff流血\d</string>
 	<string name="skills.attacks.twohanded.greataxe2.name">旋風斬</string>
-	<string name="skills.attacks.twohanded.greataxe2.desc">按住以持續旋轉斬擊範圍內的敵人，每次造成 75% 武器傷害</string>
-	<string name="skills.attacks.twohanded.greataxe2_epic.desc">Hold to continously spin around with your axe, dealing %dmg% Weapon damage to any enemies in the area and occasionally shooting out whirlwinds dealing %dmg2% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.greataxe2.desc">按住以持續旋轉斬擊範圍內的敵人，每次造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.greataxe2_epic.desc">按住以持續旋轉斬擊範圍內的敵人，每次造成 %dmg% 武器傷害，並偶爾射出旋風造成 %dmg2% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.daggers1.name">雙刃連擊</string>
-	<string name="skills.attacks.twohanded.daggers1.desc">快速連續攻擊兩次，每次造成 100% 物理傷害</string>
-	<string name="skills.attacks.twohanded.daggers1_epic.desc">Deliver three strikes in quick succession, each dealing %dmg% Physical damage.</string>
+	<string name="skills.attacks.twohanded.daggers1.desc">快速連續攻擊兩次，每擊造成 %dmg% 物理傷害</string>
+	<string name="skills.attacks.twohanded.daggers1_epic.desc">快速連續攻擊三次，每擊造成 %dmg% 物理傷害</string>
 	<string name="skills.attacks.twohanded.daggers2.name">突進打擊</string>
-	<string name="skills.attacks.twohanded.daggers2.desc">向前快速突進，攻擊路徑上的所有敵人，造成 200% 武器傷害</string>
-	<string name="skills.attacks.twohanded.daggers2_epic.desc">A quick lunge forward that gives %parry% parry and strikes all enemies along your path, dealing %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.daggers2.desc">向前快速突進，攻擊路徑上的所有敵人，造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.daggers2_epic.desc">向前快速突進，獲得 %parry% 招架，並攻擊路徑上的所有敵人，造成 %dmg% 武器傷害</string>
 
 	<string name="skills.attacks.twohanded.staff.fire1.name">火焰噴射</string>
-	<string name="skills.attacks.twohanded.staff.fire1.desc">按住以持續噴射火焰，每次造成 25% 武器傷害</string>
-	<string name="skills.attacks.twohanded.staff.fire1_epic.desc">Hold to continously spew flames dealing %dmg% Weapon damage. Fire aura burns enemies while active.</string>
+	<string name="skills.attacks.twohanded.staff.fire1.desc">按住以持續噴射火焰，每次造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.fire1_epic.desc">按住以持續噴射火焰，每次造成 %dmg% 武器傷害，啟動期間火焰光環會灼燒敵人。</string>
 	<string name="skills.attacks.twohanded.staff.fire2.name">火焰爆發</string>
-	<string name="skills.attacks.twohanded.staff.fire2.desc">以法杖擊地釋放火焰爆炸，範圍內造成 100% 武器傷害</string>
-	<string name="skills.attacks.twohanded.staff.fire2_epic.desc">Slam the staff in the ground to unleash a fiery blast dealing %dmg% Weapon damage in an area. Destroys blockable projectiles.</string>
+	<string name="skills.attacks.twohanded.staff.fire2.desc">以法杖擊地釋放火焰爆炸，範圍內造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.fire2_epic.desc">以法杖擊地釋放火焰爆炸，範圍內造成 %dmg% 武器傷害。摧毀可格擋的投射物</string>
 
 	<string name="skills.attacks.twohanded.staff.ice1.name">冰矛</string>
-	<string name="skills.attacks.twohanded.staff.ice1.desc">按住可蓄力發射冰霜投射物，投射物會隨著蓄力時間增加範圍、速度與傷害，最高可造成 75% 武器傷害</string>
-	<string name="skills.attacks.twohanded.staff.ice1_epic.desc">Hold to charge up two icy projectiles. The range, speed and damage of the projectile is increased by the time charged, dealing up to %dmg% Weapon damage.</string>
+	<string name="skills.attacks.twohanded.staff.ice1.desc">按住可蓄力發射冰霜投射物，投射物會隨著蓄力時間增加範圍、速度與傷害，最高可造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.ice1_epic.desc">按住可蓄力發射兩支冰霜投射物，投射物會隨著蓄力時間增加範圍、速度與傷害，最高可造成 %dmg% 武器傷害</string>
 	<string name="skills.attacks.twohanded.staff.ice2.name">冰霜尖刺</string>
-	<string name="skills.attacks.twohanded.staff.ice2.desc">以法杖擊地引發三道冰刺，依序向前爆發，每道造成 150% 武器傷害</string>
-	<string name="skills.attacks.twohanded.staff.ice2_epic.desc">Slam the staff in the ground to cause three consecutive ice spikes to erupt in a forward direction, each dealing %dmg% Weapon damage and shooting a nova of ice shards.</string>
+	<string name="skills.attacks.twohanded.staff.ice2.desc">以法杖擊地引發三道冰刺，依序向前爆發，每道造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.ice2_epic.desc">以法杖擊地引發三道冰刺，依序向前爆發，每道造成 %dmg% 武器傷害並射出冰晶新星</string>
 
 	<string name="skills.attacks.twohanded.staff.lightning1.name">閃電射束</string>
-	<string name="skills.attacks.twohanded.staff.lightning1.desc">按住以持續引導閃電射束，每次造成 40% 武器傷害，穿透每名敵人時傷害減少 10%</string>
-	<string name="skills.attacks.twohanded.staff.lightning1_epic.desc">Hold to channel a beam of electricity that deal %dmg% Weapon damage, periodically shoots out a spark of electricity dealing %dmg2% weapon damage. The beam loses 10% damage with each consecutive enemy pierced.</string>
+	<string name="skills.attacks.twohanded.staff.lightning1.desc">按住以持續引導閃電射束，每次造成 %dmg% 武器傷害，穿透每名敵人時傷害減少 10%</string>
+	<string name="skills.attacks.twohanded.staff.lightning1_epic.desc">按住以持續引導閃電射束，每次造成 %dmg% 武器傷害，並定期射出電火花造成 %dmg2% 武器傷害，穿透每名敵人時傷害減少 10%</string>
 	<string name="skills.attacks.twohanded.staff.lightning2.name">雷霆一擊</string>
-	<string name="skills.attacks.twohanded.staff.lightning2.desc">以法杖擊地在你面前召喚兩道雷擊，範圍內各造成 100% 武器傷害</string>
-	<string name="skills.attacks.twohanded.staff.lightning2_epic.desc">Slam the staff in the ground to conjure %num% thunderbolts to strike the area in front of you, each dealing %dmg% Weapon damage. Shoots sparks of electricity from enemies hit dealing %dmg2% weapon damage.</string>
+	<string name="skills.attacks.twohanded.staff.lightning2.desc">以法杖擊地在你面前召喚 %num% 道雷擊，範圍內各造成 %dmg% 武器傷害</string>
+	<string name="skills.attacks.twohanded.staff.lightning2_epic.desc">以法杖擊地在你面前召喚 %num% 道雷擊，範圍內各造成 %dmg% 武器傷害，擊中敵人後會射出電火花造成 %dmg2% 武器傷害</string>
 
 
 
@@ -435,7 +435,7 @@
 	<string name="skills.paladin.mastery_1.passive_1.name">執法者</string>
 	<string name="skills.paladin.mastery_1.passive_1.desc">當你格擋或受到傷害時，有機率對攻擊者施加\cb0dfff繳械\d與\cb0dfff沉默\d</string>
 	<string name="skills.paladin.mastery_1.passive_1.up1.name">懲戒惡徒</string>
-	<string name="skills.paladin.mastery_1.passive_1.up1.desc">擊中受\cb0dfff繳械\d或\cb0dfff沉默\d影響的敵人時，會以\cb0dfff審判\d之鎚打擊他們</string>
+	<string name="skills.paladin.mastery_1.passive_1.up1.desc">擊中受到狀態影響的敵人時，會以\cb0dfff審判\d之鎚打擊他們</string>
 	<string name="skills.paladin.mastery_1.passive_1.up2.name">枷鎖</string>
 	<string name="skills.paladin.mastery_1.passive_1.up2.desc">\cffdfb0武器\d與\cffdfb0法術\d攻擊有機率束縛目標及附近另一個敵人，被束縛的敵人移動速度降低並持續受到物理傷害</string>
 
@@ -462,7 +462,7 @@
 	<string name="skills.paladin.mastery_3.spell_1.name">焚燒</string>
 	<string name="skills.paladin.mastery_3.spell_1.desc">你蓄力引發一場巨大的爆炸，釋放法術時對周圍所有敵人造成火焰傷害</string>
 	<string name="skills.paladin.mastery_3.spell_1.up1.name">火焰燃料</string>
-	<string name="skills.paladin.mastery_3.spell_1.up1.desc">施放\cb0dfff焚燒\d時，獲得額外的\cb0dfff內焰\d層數</string>
+	<string name="skills.paladin.mastery_3.spell_1.up1.desc">施放\cb0dfff焚燒\d時，會在一段時間內提高你的火焰傷害</string>
 	<string name="skills.paladin.mastery_3.spell_1.up2.name">烈焰之矛</string>
 	<string name="skills.paladin.mastery_3.spell_1.up2.desc">現在釋放一個烈焰矛投射物，對路徑上的所有敵人造成額外的火焰傷害</string>
 
@@ -503,6 +503,7 @@
 	<string name="skills.ranger.passive_1.up2.desc">每層\cb0dfff節奏\d降低你的魔力消耗</string>
 	<string name="skills.ranger.passive_1.up3.name">動能</string>
 	<string name="skills.ranger.passive_1.up3.desc">每次衝刺時獲得一層\cb0dfff節奏\d</string>
+	<string name="skills.ranger.passive_1.up3.desc.new">每次衝刺時獲得一層\cb0dfff節奏\d。增加最大堆疊層數</string>
 
 	<string name="skills.ranger.passive_2.name">生存專家</string>
 	<string name="skills.ranger.passive_2.desc">每次受到傷害時，獲得一個減少所受傷害的短暫增益。此效果有短暫的冷卻時間</string>
@@ -525,11 +526,11 @@
 	<string name="skills.ranger.mastery_1.spell_1.up2.desc">箭雨之後會伴隨一連串閃電打擊，造成閃電傷害</string>
 
 	<string name="skills.ranger.mastery_1.passive_1.name">射術</string>
-	<string name="skills.ranger.mastery_1.passive_1.desc">使用\cffdfb0弓\d技能時的移動速度懲罰減少，並提高\cffdfb0弓\d技能的傷害</string>
+	<string name="skills.ranger.mastery_1.passive_1.desc">使用\cffdfb0弓\d和\cffdfb0弩\d技能時的移動速度懲罰減少，並提高\cffdfb0弓\d和\cffdfb0弩\d技能的傷害</string>
 	<string name="skills.ranger.mastery_1.passive_1.up1.name">迅速射擊</string>
-	<string name="skills.ranger.mastery_1.passive_1.up1.desc">提高\cffdfb0弓\d技能的技能速度</string>
+	<string name="skills.ranger.mastery_1.passive_1.up1.desc">提高\cffdfb0弓\d和\cffdfb0弩\d技能的技能速度</string>
 	<string name="skills.ranger.mastery_1.passive_1.up2.name">冰霜箭</string>
-	<string name="skills.ranger.mastery_1.passive_1.up2.desc">你的\cffdfb0弓\d技能在擊中時有機會觸發冰霜爆炸，造成冰冷傷害。此效果有短暫冷卻時間</string>
+	<string name="skills.ranger.mastery_1.passive_1.up2.desc">你的\cffdfb0弓\d和\cffdfb0弩\d技能在擊中時有機會觸發冰霜爆炸，造成冰冷傷害。此效果有短暫冷卻時間</string>
 
 	<string name="skills.ranger.mastery_2.name">野獸之主</string>
 	<string name="skills.ranger.mastery_2.desc"></string>
@@ -546,7 +547,7 @@
 	<string name="skills.ranger.mastery_2.passive_1.up1.name">狼群</string>
 	<string name="skills.ranger.mastery_2.passive_1.up1.desc">你召喚額外的狼</string>
 	<string name="skills.ranger.mastery_2.passive_1.up2.name">冰霜狼</string>
-	<string name="skills.ranger.mastery_2.passive_1.up2.desc">你的狼造成額外的冰霜傷害</string>
+	<string name="skills.ranger.mastery_2.passive_1.up2.desc">你的狼造成額外的冰冷傷害並施加\cb0dfff緩速\d</string>
 
 	<string name="skills.ranger.mastery_3.name">守衛者</string>
 	<string name="skills.ranger.mastery_3.desc"></string>
@@ -559,7 +560,7 @@
 	<string name="skills.ranger.mastery_3.spell_1.up2.desc">造成額外的毒素傷害</string>
 	
 	<string name="skills.ranger.mastery_3.passive_1.name">風之編織者</string>
-	<string name="skills.ranger.mastery_3.passive_1.desc">\cffdfb0武器\d擊中時會向前釋放一陣風，對路徑上的敵人造成物理傷害。此效果有短暫冷卻時間</string>
+	<string name="skills.ranger.mastery_3.passive_1.desc">\cffdfb0武器\d擊中時會向前釋放一陣風，對路徑上的敵人造成主手武器傷害。此效果有短暫冷卻時間</string>
 	<string name="skills.ranger.mastery_3.passive_1.up1.name">寒冬之風</string>
 	<string name="skills.ranger.mastery_3.passive_1.up1.desc">釋放的風增加冰冷傷害</string>
 	<string name="skills.ranger.mastery_3.passive_1.up2.name">風行者</string>
@@ -581,7 +582,7 @@
 	<string name="skills.rogue.spell_1.up4.desc">投擲更少的飛刀，但朝前方投擲的飛刀傷害更高，且飛行距離更遠</string>
 
 	<string name="skills.rogue.spell_2.name">刀刃亂舞</string>
-	<string name="skills.rogue.spell_2.desc">進行一系列攻擊，對周圍範圍內的所有敵人造成物理傷害</string>
+	<string name="skills.rogue.spell_2.desc">進行一系列攻擊，對周圍範圍內的所有敵人造成主手武器傷害</string>
 	<string name="skills.rogue.spell_2.up1.name">繳械打擊</string>
 	<string name="skills.rogue.spell_2.up1.desc">攻擊有機會使敵人陷入\cb0dfff繳械\d狀態</string>
 	<string name="skills.rogue.spell_2.up2.name">火焰流星索</string>
@@ -612,7 +613,7 @@
 	<string name="skills.rogue.mastery_1.desc"></string>
 
 	<string name="skills.rogue.mastery_1.spell_1.name">致命打擊</string>
-	<string name="skills.rogue.mastery_1.spell_1.desc">你使出一次迅速且致命的攻擊，對敵人造成巨大的物理傷害</string>
+	<string name="skills.rogue.mastery_1.spell_1.desc">你使出一次迅速且致命的攻擊，對敵人造成巨大的主手武器傷害</string>
 	<string name="skills.rogue.mastery_1.spell_1.up1.name">幻影打擊</string>
 	<string name="skills.rogue.mastery_1.spell_1.up1.desc">攻擊會連鎖至目標身後的其他敵人，形成錐形範圍攻擊。對每個連鎖敵人傷害遞減</string>
 	<string name="skills.rogue.mastery_1.spell_1.up2.name">赤紅打擊</string>
@@ -782,7 +783,7 @@
 	<string name="skills.warlock.spell_2.name">黑暗儀式</string>
 	<string name="skills.warlock.spell_2.desc">開始施放一個持續數秒的儀式，區域內的敵人將持續受到物理傷害，且儀式完成時，敵人會受到更高的傷害。如果你離開區域，儀式將會終止</string>
 	<string name="skills.warlock.spell_2.up1.name">血之儀式</string>
-	<string name="skills.warlock.spell_2.up1.desc">區域內的敵人有機會被附加流血層數</string>
+	<string name="skills.warlock.spell_2.up1.desc">區域內的敵人有機會被施加\cb0dfff流血\d層數</string>
 	<string name="skills.warlock.spell_2.up2.name">燃焰儀式</string>
 	<string name="skills.warlock.spell_2.up2.desc">儀式的傷害類型改為火焰傷害，並且儀式完成時，造成的傷害會大幅增加</string>
 	<string name="skills.warlock.spell_2.up3.name">吸血儀式</string>
@@ -798,6 +799,7 @@
 	<string name="skills.warlock.passive_1.up3.desc">當你從目標獲得\cb0dfff精華\d時，也會對其施加\cb0dfff流血\d</string>
 	<string name="skills.warlock.passive_1.up4.name">精華收割者</string>
 	<string name="skills.warlock.passive_1.up4.desc">擊殺敵人時有機會獲得\cb0dfff精華\d層數</string>
+	<string name="skills.warlock.passive_1.up4.desc.new">擊殺敵人時有機會獲得\cb0dfff精華\d層數，增加最大堆疊層數</string>
 
 	<string name="skills.warlock.passive_2.name">衰頹光環</string>
 	<string name="skills.warlock.passive_2.desc">你在你身邊投射出一個光環，使敵人造成的傷害降低</string>
